@@ -1,6 +1,6 @@
-# 🟪 ZipRecruiter + Google — Marketing / Account Mgmt / Coordinator Roles
-*Last updated: 2026-08-25 07:37 UTC*
+# 🟪 ZipRecruiter + Google — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
+*Last updated: 2026-08-25 15:56 UTC*
 
-**0 new role(s)** · 0 total after policy cleanup
+**0 new role(s)** since last run · 0 total in last 24h
 
 No new roles since the last run.
