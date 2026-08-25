@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-discover.py — find biotech/techbio startups and resolve their job boards,
+discover.py — (legacy portfolio modes) find startups and resolve their job boards,
 with no manual homepage entry.
 
 Modes:
@@ -23,15 +23,15 @@ Modes:
       go on a 30-day cooldown (discovered_todo.json) so repeat runs stay fast.
       --limit N   cap how many companies to resolve (default 60; 0 = all).
       --write     append resolved companies to discovered_companies.json, which
-                  scrape_jobs.scrape_curated_biotechs() loads automatically — so
+                  scrape_jobs.scrape_curated_hollywood() loads automatically — so
                   the daily sweep picks them up with no copy/paste at all.
 
   python discover.py <homepage-url> [...]        # resolve specific homepages
   python discover.py --file homepages.txt        # one homepage URL per line
 
-Without --write it prints ready-to-paste CURATED_BIOTECHS lines to stdout;
+Without --write it prints ready-to-paste CURATED_HOLLYWOOD lines to stdout;
 unresolved / non-dispatchable ones print as `# TODO manual`. Already-tracked
-companies (CURATED_BIOTECHS + Genentech + discovered_companies.json) are skipped.
+companies (CURATED_HOLLYWOOD + discovered_companies.json) are skipped.
 
 Stdlib only. Best-effort: it cannot see JS-rendered careers pages (the ATS
 detection still works when a company embeds Greenhouse/Ashby/Lever).
@@ -182,7 +182,10 @@ def _guess_location(html: str) -> str:
         if city in scrape_jobs._BAY_AMBIGUOUS and not _comma_form(low, city, "CA"):
             continue
         return f"{city.title()}, CA"
-    for tok, state in scrape_jobs.US_BIOTECH_HUBS.items():
+    # Metro tokens → state, derived from the scraper's WATCH_METROS table
+    # (the old US_BIOTECH_HUBS map no longer exists).
+    hubs = {tok: state for tokens, _amb, state in scrape_jobs.WATCH_METROS for tok in tokens}
+    for tok, state in hubs.items():
         if tok == "ny office" or tok not in low:
             continue
         if tok in scrape_jobs._HUB_AMBIGUOUS and not _comma_form(low, tok, state):
@@ -302,8 +305,8 @@ def _name_from_url(url: str) -> str:
 
 
 def _tracked_names() -> set:
-    names = {e["name"].strip().lower() for e in scrape_jobs.CURATED_BIOTECHS}
-    names.add("genentech")                       # handled by scrape_jobs.scrape_genentech()
+    names = {e["name"].strip().lower() for e in scrape_jobs.CURATED_HOLLYWOOD}
+    names.add("genentech")                       # legacy: was a standalone Phenom scraper in the parent repo()
     for e in _load_discovered():                 # already-discovered on a prior run
         names.add(e.get("name", "").strip().lower())
     return names
@@ -347,9 +350,9 @@ def _int_flag(argv: list, flag: str, default: int) -> int:
 
 
 def _registry_skip_keys() -> set:
-    """Boards already handled by the biotech scraper must not be probed twice."""
+    """Boards already handled by the entertainment scraper must not be probed twice."""
     return ats_registry.keys_for_entries(
-        list(scrape_jobs.CURATED_BIOTECHS) + _load_discovered()
+        list(scrape_jobs.CURATED_HOLLYWOOD) + _load_discovered()
     )
 
 

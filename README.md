@@ -18,7 +18,10 @@ Uses [`python-jobspy`](https://pypi.org/project/python-jobspy/) (Indeed's public
 
 Scheduled on GitHub's cron thirty minutes after each LinkedIn slot; the slots sit in hours no other scraper uses, because every scraper shares one commit-push concurrency group and GitHub cancels the older pending run when a third queues.
 
-### 3. Broad sources — boards, government, and the ATS registry
+### 3. Entertainment feed — daily at 8pm PT
+A direct-ATS sweep of curated studios, agencies, and labels (`CURATED_HOLLYWOOD` in `scrape_jobs.py`: Disney, Warner Bros. Discovery, Sony Pictures, CAA, WME, UTA, Live Nation, Warner Music, Universal Music, iHeartMedia, A24, RPA — every endpoint probe-verified live), plus LinkedIn's last 24h filtered through an entertainment-employer allowlist (`HOLLYWOOD_COMPANY_NAMES`, exact normalized-name match). Rows carry `feeds: ["hollywood"]` and show as the **Entertainment** source on the dashboard. Output: `hollywood_jobs.{json,md,html}`. Unsupported ATSes (Paramount/Lionsgate on SuccessFactors, NBCU/Mattel on SmartRecruiters, SiriusXM on iCIMS, Netflix/Amazon MGM bespoke) are skipped — the LinkedIn allowlist catches them.
+
+### 4. Broad sources — boards, government, and the ATS registry
 ZipRecruiter + Google (twice daily), USAJOBS, NEOGOV/governmentjobs.com, CalOpps, CalCareers, and a 2,100-board direct-ATS registry (daily shard cycle) — see [Extra sources](#extra-sources--features) and the [registry section](#broad-ats-registry) below.
 
 ## Keywords Matched
@@ -55,6 +58,7 @@ Bare `coordinator` / `associate` / `specialist` / `manager`, `research associate
 
 | File | Source | Description |
 |---|---|---|
+| `hollywood_jobs.json` / `.md` / `.html` | Entertainment feed | Curated studio/agency/label ATS probes + allowlisted LinkedIn roles, last 24h |
 | `linkedin_jobs.json` / `.md` / `.html` | LinkedIn watcher | Roles posted in the last 4h, deduped against the previous run |
 | `indeed_jobs.json` / `.md` / `.html` | Indeed watcher | Indeed-sourced roles posted in the last 24h, deduped against the previous run |
 | `boards_jobs.json` / `.md` / `.html` | ZipRecruiter + Google | JobSpy-backed board results |
@@ -102,7 +106,7 @@ Opening from `file://` won't work — the dashboard needs same-origin HTTP to `f
 
 ## Extra sources & features
 
-Beyond the two core watchers, these sources run on their own workflows (all reuse the existing `KEYWORDS` / `is_target_role` gate, so they follow whatever roles you already target):
+Beyond the two core watchers and the entertainment feed, these sources run on their own workflows (all reuse the existing `KEYWORDS` / `is_target_role` gate, so they follow whatever roles you already target):
 
 | Flag | Source | Notes |
 |---|---|---|
@@ -145,6 +149,7 @@ Or locally:
 python scrape_jobs.py --linkedin-only  # general LinkedIn, last 1h
 python scrape_jobs.py --indeed-only    # Indeed, last 24h (requires python-jobspy)
 python scrape_jobs.py --boards-only    # ZipRecruiter + Google
+python scrape_jobs.py --hollywood-only # curated entertainment employers + LinkedIn allowlist, last 24h
 python scrape_jobs.py --registry-only  # one bounded active-registry shard
 python scrape_jobs.py --refilter-existing          # preview current-output cleanup
 python scrape_jobs.py --refilter-existing --write  # apply cleanup after reviewing preview
@@ -173,6 +178,7 @@ The LinkedIn pipeline uses only the standard library. Indeed/boards require `pip
     ├── linkedin_watch.yml          # 5x/day — general LinkedIn (last 4h, GitHub cron)
     ├── indeed_watch.yml            # 5x/day — Indeed (last 24h, GitHub cron)
     ├── boards_watch.yml            # Twice daily — ZipRecruiter + Google
+    ├── hollywood_watch.yml         # Daily 8pm PT — curated entertainment ATS probes + LinkedIn allowlist
     ├── registry_watch.yml          # Daily ATS registry seed/verify/scrape cycle
     ├── usajobs_watch.yml / localgov_watch.yml / calcareers_watch.yml
     ├── triage.yml                  # Manual-only fit scoring (paused)

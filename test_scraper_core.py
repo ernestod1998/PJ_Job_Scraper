@@ -30,12 +30,12 @@ def role(url="https://example.com/job/1", **overrides):
 
 
 class RoleAndLocationPolicy(unittest.TestCase):
-    def test_biotech_company_matching_is_exact_not_substring_based(self):
-        self.assertFalse(sj._is_biotech_company("Meta"))
-        self.assertFalse(sj._is_biotech_company("Meta Platforms, Inc."))
-        self.assertTrue(sj._is_biotech_company("Cytokinetics"))
-        self.assertTrue(sj._is_biotech_company("Genentech, Inc."))
-        self.assertTrue(sj._is_biotech_company("Buck Institute for Research on Aging"))
+    def test_hollywood_company_matching_is_exact_not_substring_based(self):
+        self.assertFalse(sj._is_hollywood_company("Meta"))
+        self.assertFalse(sj._is_hollywood_company("Disney Cruise Vacations LLC"))
+        self.assertTrue(sj._is_hollywood_company("A24"))
+        self.assertTrue(sj._is_hollywood_company("Warner Bros. Discovery"))
+        self.assertTrue(sj._is_hollywood_company("Creative Artists Agency"))
 
     def test_seniority_veto_is_word_bounded(self):
         for prefix in ("Senior", "Sr", "Sr.", "Staff", "Principal", "Director", "Founding"):
@@ -115,8 +115,8 @@ class RoleAndLocationPolicy(unittest.TestCase):
         self.assertEqual(stats, {"company": 1, "seniority": 1, "role": 0, "location": 1, "stale": 1})
         self.assertEqual({r["reason"] for r in rejected}, {"company", "seniority", "location", "stale"})
         bio, _, _ = sj._filter_job_observations(
-            [role("https://x/bio", location="Burbank, CA")], default_feed="biotech")
-        self.assertEqual(bio[0]["feeds"], ["biotech"])
+            [role("https://x/bio", location="Burbank, CA")], default_feed="hollywood")
+        self.assertEqual(bio[0]["feeds"], ["hollywood"])
 
     def test_stale_policy_at_the_choke_point(self):
         now = datetime.now(timezone.utc)
@@ -157,25 +157,25 @@ class MasterPolicy(unittest.TestCase):
         sj._merge_into_all_jobs([role("https://example.com/job/1?source=a", feeds=["general"])])
         first = self.read_master()[0]["first_seen"]
         sj._merge_into_all_jobs([role(
-            "https://example.com/job/1?source=b", feeds=["biotech"],
+            "https://example.com/job/1?source=b", feeds=["hollywood"],
             title="Marketing Coordinator", salary="$100k",
         )])
         jobs = self.read_master()
         self.assertEqual(len(jobs), 1)
         self.assertEqual(jobs[0]["first_seen"], first)
         self.assertEqual(jobs[0]["title"], "Marketing Coordinator")
-        self.assertEqual(jobs[0]["feeds"], ["biotech", "general"])
+        self.assertEqual(jobs[0]["feeds"], ["general", "hollywood"])
 
     def test_rejection_removes_only_one_feed(self):
-        sj._merge_into_all_jobs([role(feeds=["general", "biotech"])])
+        sj._merge_into_all_jobs([role(feeds=["general", "hollywood"])])
         sj._merge_into_all_jobs([], [{
             "identity": sj._job_identity("https://example.com/job/1"),
             "feed": "general", "reason": "location",
         }])
-        self.assertEqual(self.read_master()[0]["feeds"], ["biotech"])
+        self.assertEqual(self.read_master()[0]["feeds"], ["hollywood"])
         sj._merge_into_all_jobs([], [{
             "identity": sj._job_identity("https://example.com/job/1"),
-            "feed": "biotech", "reason": "seniority",
+            "feed": "hollywood", "reason": "seniority",
         }])
         self.assertEqual(self.read_master(), [])
 
@@ -244,29 +244,6 @@ class RetrievalPolicy(unittest.TestCase):
 
 
 class RefilterCommand(unittest.TestCase):
-    def test_biotech_repair_removes_meta_but_keeps_its_general_provenance(self):
-        meta = role("https://x/meta", company="Meta", feeds=["biotech"])
-        metagenomi = role(
-            "https://x/metagenomi", company="Metagenomi", feeds=["biotech"])
-        with tempfile.TemporaryDirectory() as tmp:
-            with open(os.path.join(tmp, "discovered_companies.json"), "w") as f:
-                json.dump([{"name": "Metagenomi"}], f)
-            with open(os.path.join(tmp, "jobs.json"), "w") as f:
-                json.dump({"jobs": [meta, metagenomi], "new_jobs": [meta, metagenomi]}, f)
-            with open(os.path.join(tmp, "all_jobs.json"), "w") as f:
-                master_meta = dict(meta, feeds=["general", "biotech"])
-                json.dump({"jobs": [master_meta, metagenomi]}, f)
-            with patch.object(sj, "SCRIPT_DIR", tmp):
-                sj._BIOTECH_UNION_CACHE.clear()
-                sj.repair_biotech_company_provenance(write=True)
-            with open(os.path.join(tmp, "jobs.json")) as f:
-                biotech = json.load(f)["jobs"]
-            with open(os.path.join(tmp, "all_jobs.json")) as f:
-                master = json.load(f)["jobs"]
-        self.assertEqual([j["company"] for j in biotech], ["Metagenomi"])
-        self.assertEqual([j["company"] for j in master], ["Meta", "Metagenomi"])
-        self.assertEqual(master[0]["feeds"], ["general"])
-
     def test_preview_is_read_only_and_write_preserves_first_seen(self):
         with tempfile.TemporaryDirectory() as tmp:
             path = os.path.join(tmp, "all_jobs.json")
@@ -289,19 +266,19 @@ class RefilterCommand(unittest.TestCase):
             self.assertEqual(len(jobs), 1)
             self.assertEqual(jobs[0]["first_seen"], "2026-08-01T00:00:00Z")
 
-    def test_master_migration_uses_biotech_source_url_provenance(self):
-        job = role("https://unknown-biotech.example/job/1", location="Culver City, CA")
+    def test_master_migration_uses_hollywood_source_url_provenance(self):
+        job = role("https://unknown-studio.example/job/1", location="Culver City, CA")
         kept, stats = sj._refilter_master_jobs(
             [job], {sj._job_identity(job["url"])})
         self.assertEqual(stats["location"], 0)
-        self.assertEqual(kept[0]["feeds"], ["biotech"])
+        self.assertEqual(kept[0]["feeds"], ["hollywood"])
 
 
 class RegistrySaveIntegration(unittest.TestCase):
     def test_mixed_feeds_and_per_board_baseline_marker(self):
         rows = [
             role("https://registry/quiet", location="Irvine, CA", ats="Greenhouse",
-                 feeds=["biotech"], registry_notify_eligible=False),
+                 feeds=["hollywood"], registry_notify_eligible=False),
             role("https://registry/loud", location="Long Beach, CA", ats="Lever",
                  feeds=["general"], registry_notify_eligible=True),
         ]
@@ -315,7 +292,7 @@ class RegistrySaveIntegration(unittest.TestCase):
             )
             with open(os.path.join(tmp, "registry_jobs.json")) as f:
                 saved = json.load(f)["jobs"]
-        self.assertEqual([j["feeds"] for j in saved], [["biotech"], ["general"]])
+        self.assertEqual([j["feeds"] for j in saved], [["hollywood"], ["general"]])
         self.assertTrue(all("registry_notify_eligible" not in j for j in saved))
         notified = mocked_notify.call_args.args[0]
         self.assertEqual([j["url"] for j in notified], ["https://registry/loud"])

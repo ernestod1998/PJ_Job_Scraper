@@ -30,8 +30,8 @@ function check(name, condition) {
 const sourceFns = ['jobFeeds', 'classifySource'].map(n => extractFunction(html, n)).join('\n');
 const { classifySource } = new Function(`${sourceFns}; return { classifySource };`)();
 
-check('biotech provenance overrides ATS vendor',
-  classifySource({ ats: 'LinkedIn', feeds: ['general', 'biotech'], url: 'https://example.test' }) === 'Biotech');
+check('entertainment provenance overrides ATS vendor',
+  classifySource({ ats: 'LinkedIn', feeds: ['general', 'hollywood'], url: 'https://example.test' }) === 'Entertainment');
 for (const ats of ['Greenhouse', 'Lever', 'Ashby', 'Gem', 'Workday']) {
   check(`${ats} general posting is Direct ATS`,
     classifySource({ ats, feeds: ['general'], url: 'https://example.test' }) === 'Direct ATS');
@@ -41,7 +41,7 @@ check('normalized lowercase ATS is supported',
 check('government source retains its own label',
   classifySource({ ats: 'USAJOBS', feeds: ['general'], url: 'https://usajobs.gov/job/1' }) === 'USAJOBS');
 check('legacy feed string is accepted',
-  classifySource({ ats: 'Custom', feed: 'biotech', url: 'https://example.test' }) === 'Biotech');
+  classifySource({ ats: 'Custom', feed: 'hollywood', url: 'https://example.test' }) === 'Entertainment');
 
 const vetoMatch = html.match(/const EXCLUDED_TITLE_RE = (\/.*\/[a-z]*);/);
 if (!vetoMatch) throw new Error('EXCLUDED_TITLE_RE not found');
@@ -71,19 +71,8 @@ check('short-lived v2 cache remains readable during recovery',
 check('decision storage version unchanged', /pjTriage:v2/.test(html));
 check('feeds and ats refresh cached records',
   /const REFRESHABLE = \[[^\]]*'feeds'[^\]]*'ats'[^\]]*\]/.test(html));
-check('Direct ATS source facet is present', /\['LinkedIn', 'Biotech', 'Direct ATS'/.test(html));
+check('Direct ATS source facet is present', /\['LinkedIn', 'Entertainment', 'Direct ATS'/.test(html));
 
-const repairBiotechSourceCollision = new Function(
-  'jobFeeds',
-  `${extractFunction(html, 'repairBiotechSourceCollision')}; return repairBiotechSourceCollision;`,
-)(j => Array.isArray(j.feeds) ? j.feeds : []);
-const staleMeta = repairBiotechSourceCollision({ company: 'Meta', feeds: ['general', 'biotech'] });
-const staleOura = repairBiotechSourceCollision({ company: 'ŌURA', feeds: ['biotech'] });
-const realBiotech = repairBiotechSourceCollision({ company: 'Metagenomi', feeds: ['biotech'] });
-check('cached Meta loses only false biotech provenance',
-  staleMeta.feeds.length === 1 && staleMeta.feeds[0] === 'general');
-check('cached short-name collision loses false biotech provenance', !staleOura.feeds);
-check('real biotech provenance survives cache repair', realBiotech.feeds[0] === 'biotech');
 
 const { mergeJobCaches } = new Function(
   `${extractFunction(html, 'mergeJobCaches')}; return { mergeJobCaches };`

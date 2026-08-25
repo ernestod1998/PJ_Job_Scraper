@@ -97,7 +97,7 @@ KEYWORDS = [
 # Seconds to wait between API probes — keeps us polite
 REQUEST_DELAY = 0.3
 
-# Biotech digest should only contain reliably fresh roles.
+# Entertainment digest should only contain reliably fresh roles.
 FRESH_JOB_LOOKBACK = timedelta(hours=24)
 
 # Hard ceiling on posting age for EVERY persisted source (2026-08-19): the
@@ -589,7 +589,7 @@ def is_stale_posting(date_value, *, now: datetime | None = None) -> bool:
 
 
 # ---------------------------------------------------------------------------
-# Curated Bay Area biotechs — direct ATS probes (Greenhouse / Workday)
+# Curated entertainment employers — direct ATS probes (Greenhouse / Workday / Ashby)
 # ---------------------------------------------------------------------------
 
 # Each entry must include: name, ats, fallback_location, and the ATS-specific id
@@ -597,68 +597,44 @@ def is_stale_posting(date_value, *, now: datetime | None = None) -> bool:
 # - ashby:      "slug" (used in api.ashbyhq.com/posting-api/job-board/{slug})
 # - lever:      "slug" (used in api.lever.co/v0/postings/{slug}?mode=json)
 # - workday:    "url"  (full /wday/cxs/{tenant}/{site}/jobs endpoint)
-CURATED_BIOTECHS = [
-    # ---- Greenhouse (confirmed via probes) ----
-    {"name": "10x Genomics",         "ats": "greenhouse", "slug": "10xgenomics",       "fallback_location": "Pleasanton, CA"},
-    {"name": "Twist Bioscience",     "ats": "greenhouse", "slug": "twistbioscience",   "fallback_location": "South San Francisco, CA"},
-    {"name": "Maze Therapeutics",    "ats": "greenhouse", "slug": "mazetherapeutics",  "fallback_location": "South San Francisco, CA"},
-    {"name": "Freenome",             "ats": "greenhouse", "slug": "freenome",          "fallback_location": "South San Francisco, CA"},
-    {"name": "Cytokinetics",         "ats": "greenhouse", "slug": "cytokinetics",      "fallback_location": "South San Francisco, CA"},
-    {"name": "Natera",               "ats": "greenhouse", "slug": "natera",            "fallback_location": "San Carlos, CA"},
-    {"name": "Inceptive",            "ats": "greenhouse", "slug": "inceptive",         "fallback_location": "Palo Alto, CA"},
-    {"name": "Atomwise",             "ats": "greenhouse", "slug": "atomwise",          "fallback_location": "San Francisco, CA"},
-    {"name": "Profluent",            "ats": "greenhouse", "slug": "profluent",         "fallback_location": "Berkeley, CA"},
-    {"name": "Eikon Therapeutics",   "ats": "greenhouse", "slug": "eikontherapeutics", "fallback_location": "South San Francisco, CA"},
-    {"name": "Altos Labs",           "ats": "greenhouse", "slug": "altoslabs",         "fallback_location": "Redwood City, CA"},
-    {"name": "Arc Institute",        "ats": "greenhouse", "slug": "arcinstitute",      "fallback_location": "Palo Alto, CA"},
-    {"name": "Caribou Biosciences",  "ats": "greenhouse", "slug": "caribou",           "fallback_location": "Berkeley, CA"},
-    {"name": "Octant Bio",           "ats": "greenhouse", "slug": "octantbio",         "fallback_location": "Emeryville, CA"},
-    {"name": "Chan Zuckerberg Biohub", "ats": "greenhouse", "slug": "biohub",          "fallback_location": "San Francisco, CA"},
-    {"name": "Xaira Therapeutics",   "ats": "greenhouse", "slug": "xairatherapeutics", "fallback_location": "South San Francisco, CA"},
-    {"name": "Isomorphic Labs",      "ats": "greenhouse", "slug": "isomorphiclabs",    "fallback_location": "South San Francisco, CA"},
-    {"name": "Formation Bio",        "ats": "greenhouse", "slug": "formationbio",      "fallback_location": "New York, NY"},
-    {"name": "Septerna",             "ats": "greenhouse", "slug": "septerna",          "fallback_location": "South San Francisco, CA"},
-    {"name": "Calico Life Sciences", "ats": "greenhouse", "slug": "calicolabs",        "fallback_location": "South San Francisco, CA"},
-    {"name": "Ultima Genomics",      "ats": "greenhouse", "slug": "ultimagenomics",    "fallback_location": "Newark, CA"},
-    {"name": "Element Biosciences",  "ats": "greenhouse", "slug": "elementbiosciences", "fallback_location": "San Diego, CA"},
-    # ---- Ashby (confirmed) ----
-    {"name": "Chai Discovery",       "ats": "ashby",      "slug": "chaidiscovery",     "fallback_location": "San Francisco, CA"},
-    # ---- Lever (confirmed) ----
-    {"name": "Karius",               "ats": "lever",      "slug": "kariusdx",          "fallback_location": "Redwood City, CA"},
-    # ---- Workday (confirmed) ----
-    {"name": "Gilead Sciences",      "ats": "workday",
-     "url": "https://gilead.wd1.myworkdayjobs.com/wday/cxs/gilead/gileadcareers/jobs",
-     "fallback_location": "Foster City, CA"},
-    # ---- Big-name biotechs (endpoints verified live 2026-07-16) ----
-    {"name": "Ginkgo Bioworks",      "ats": "greenhouse", "slug": "ginkgobioworks",   "fallback_location": "Boston, MA"},
-    {"name": "Flatiron Health",      "ats": "greenhouse", "slug": "flatironhealth",   "fallback_location": "New York, NY"},
-    {"name": "Benchling",            "ats": "ashby",      "slug": "benchling",        "fallback_location": "San Francisco, CA"},
-    {"name": "Vertex Pharmaceuticals", "ats": "workday",
-     "url": "https://vrtx.wd501.myworkdayjobs.com/wday/cxs/vrtx/Vertex_Careers/jobs",
-     "fallback_location": "Boston, MA"},
-    {"name": "Amgen",                "ats": "workday",
-     "url": "https://amgen.wd1.myworkdayjobs.com/wday/cxs/amgen/careers/jobs",
-     "fallback_location": "Thousand Oaks, CA"},
-    {"name": "Regeneron",            "ats": "workday",
-     "url": "https://regeneron.wd1.myworkdayjobs.com/wday/cxs/regeneron/careers/jobs",
-     "fallback_location": "Tarrytown, NY"},
-    {"name": "Moderna",              "ats": "workday",
-     "url": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/jobs",
-     "fallback_location": "Cambridge, MA"},
-    {"name": "Bristol Myers Squibb", "ats": "workday",
-     "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/wday/cxs/bristolmyerssquibb/BMS/jobs",
-     "fallback_location": "Princeton, NJ"},
-    # ---- Startups added via careers-page sweep (2026-07) ----
-    {"name": "Insitro",              "ats": "ashby",      "slug": "insitro",             "fallback_location": "South San Francisco, CA"},
-    {"name": "Manifold Bio",         "ats": "greenhouse", "slug": "manifoldbio",         "fallback_location": "San Francisco, CA"},
-    {"name": "Relay Therapeutics",   "ats": "greenhouse", "slug": "relaytherapeutics",   "fallback_location": "Cambridge, MA"},
-    {"name": "Nimbus Therapeutics",  "ats": "greenhouse", "slug": "nimbustherapeutics",  "fallback_location": "Boston, MA"},
-    {"name": "Generate Biomedicines", "ats": "greenhouse", "slug": "generatebiomedicines", "fallback_location": "Somerville, MA"},
-    {"name": "Kernal Bio",           "ats": "greenhouse", "slug": "kernalbio",           "fallback_location": "Boston, MA"},
-    {"name": "Dyno Therapeutics",    "ats": "greenhouse", "slug": "dynotherapeutics",    "fallback_location": "Watertown, MA"},
-    # ---- Comp chem/Sci lane (endpoints verified live 2026-07-24) ----
-    {"name": "Aralez Bio",           "ats": "greenhouse", "slug": "aralezbio",           "fallback_location": "Berkeley, CA"},
-    {"name": "Axiom Bio",            "ats": "ashby",      "slug": "axiombio",            "fallback_location": "San Francisco, CA"},
+CURATED_HOLLYWOOD = [
+    # ---- Greenhouse (verified live 2026-08-25) ----
+    {"name": "A24",  "ats": "greenhouse", "slug": "a24", "fallback_location": "New York, NY"},
+    {"name": "RPA",  "ats": "greenhouse", "slug": "rpa", "fallback_location": "Santa Monica, CA"},
+    # ---- Workday (CXS endpoints verified live 2026-08-25; site names found
+    # by probing — Workday returns 422 for a wrong site, 401 for a wrong tenant) ----
+    {"name": "The Walt Disney Company", "ats": "workday",
+     "url": "https://disney.wd5.myworkdayjobs.com/wday/cxs/disney/disneycareer/jobs",
+     "fallback_location": "Burbank, CA"},
+    {"name": "Warner Bros. Discovery", "ats": "workday",
+     "url": "https://warnerbros.wd5.myworkdayjobs.com/wday/cxs/warnerbros/global/jobs",
+     "fallback_location": "Burbank, CA"},
+    {"name": "Sony Pictures Entertainment", "ats": "workday",
+     "url": "https://spe.wd1.myworkdayjobs.com/wday/cxs/spe/SonyPicturesEntertainment/jobs",
+     "fallback_location": "Culver City, CA"},
+    {"name": "Creative Artists Agency", "ats": "workday",
+     "url": "https://caa.wd1.myworkdayjobs.com/wday/cxs/caa/Careers/jobs",
+     "fallback_location": "Los Angeles, CA"},
+    {"name": "Warner Music Group", "ats": "workday",
+     "url": "https://wmg.wd1.myworkdayjobs.com/wday/cxs/wmg/WMGUS/jobs",
+     "fallback_location": "Los Angeles, CA"},
+    {"name": "Universal Music Group", "ats": "workday",
+     "url": "https://umusic.wd5.myworkdayjobs.com/wday/cxs/umusic/UMGUS/jobs",
+     "fallback_location": "Santa Monica, CA"},
+    {"name": "Live Nation Entertainment", "ats": "workday",
+     "url": "https://livenation.wd503.myworkdayjobs.com/wday/cxs/livenation/LNExternalSite/jobs",
+     "fallback_location": "Beverly Hills, CA"},
+    {"name": "WME", "ats": "workday",
+     "url": "https://wmeimg.wd1.myworkdayjobs.com/wday/cxs/wmeimg/WMEGRP/jobs",
+     "fallback_location": "Beverly Hills, CA"},
+    {"name": "iHeartMedia", "ats": "workday",
+     "url": "https://iheartmedia.wd5.myworkdayjobs.com/wday/cxs/iheartmedia/External_iHM/jobs",
+     "fallback_location": "New York, NY"},
+    # ---- Ashby (verified live 2026-08-25) ----
+    {"name": "United Talent Agency", "ats": "ashby", "slug": "united-talent-agency", "fallback_location": "Beverly Hills, CA"},
+    # Skipped (unsupported ATS): Paramount + Lionsgate (SuccessFactors), Mattel +
+    # NBCUniversal (SmartRecruiters), SiriusXM (iCIMS), Netflix/Amazon MGM/Snap/
+    # Riot/AEG/MSG (bespoke). LinkedIn coverage catches them via the allowlist.
 ]
 
 
@@ -1013,7 +989,7 @@ def probe_curated_custom(entry: dict) -> list:
 
 def _load_discovered_companies() -> list:
     """Companies found by discover.py --write, auto-merged into the sweep so no
-    manual paste into CURATED_BIOTECHS is needed. Missing/corrupt file → []."""
+    manual paste into CURATED_HOLLYWOOD is needed. Missing/corrupt file → []."""
     path = os.path.join(SCRIPT_DIR, "discovered_companies.json")
     try:
         with open(path) as f:
@@ -1023,17 +999,17 @@ def _load_discovered_companies() -> list:
     return data if isinstance(data, list) else data.get("companies", [])
 
 
-def scrape_curated_biotechs() -> list:
-    companies = list(CURATED_BIOTECHS)
+def scrape_curated_hollywood() -> list:
+    companies = list(CURATED_HOLLYWOOD)
     known = {e["name"].strip().lower() for e in companies}
     for e in _load_discovered_companies():
         name = (e.get("name") or "").strip()
         if name and e.get("ats") and name.lower() not in known:
             companies.append(e)
             known.add(name.lower())
-    n_disc = len(companies) - len(CURATED_BIOTECHS)
-    print(f"🔬 Scraping {len(companies)} biotechs "
-          f"({len(CURATED_BIOTECHS)} curated + {n_disc} discovered)...")
+    n_disc = len(companies) - len(CURATED_HOLLYWOOD)
+    print(f"🎬 Scraping {len(companies)} entertainment employers "
+          f"({len(CURATED_HOLLYWOOD)} curated + {n_disc} discovered)...")
     all_jobs: list = []
     for entry in companies:
         if entry["ats"] == "greenhouse":
@@ -1056,59 +1032,6 @@ def scrape_curated_biotechs() -> list:
 
 
 # ---------------------------------------------------------------------------
-# Genentech — custom Phenom ATS, kept as standalone
-# ---------------------------------------------------------------------------
-
-def scrape_genentech():
-    print("🔍 Scraping Genentech...")
-    url = (
-        "https://careers.gene.com/us/en/search-results"
-        "?keywords=machine+learning+engineer&category=Data+Science+%26+AI%2FML"
-    )
-    html = fetch(url)
-    jobs = []
-
-    matches = re.findall(r'<script type="application/ld\+json">(.*?)</script>', html, re.DOTALL)
-    for match in matches:
-        try:
-            data = json.loads(match)
-            items = (
-                data if isinstance(data, list)
-                else data.get("itemListElement", []) if data.get("@type") == "ItemList"
-                else [data]
-            )
-            for item in items:
-                job = item.get("item", item)
-                title = job.get("title", job.get("name", ""))
-                if title and is_target_role(title):
-                    jobs.append({
-                        "company": "Genentech",
-                        "title": title,
-                        "location": extract_location(job),
-                        "url": job.get("url", "https://careers.gene.com/us/en/c/data-science-ai-ml-jobs"),
-                        "date_posted": job.get("datePosted", ""),
-                        "ats": "Phenom",
-                    })
-        except json.JSONDecodeError:
-            continue
-
-    if not jobs:
-        title_matches = re.findall(r'data-ph-at-job-title-text="([^"]+)"', html)
-        link_matches = re.findall(r'href="(/us/en/job/[^"]+)"', html)
-        for i, title in enumerate(title_matches):
-            if is_target_role(title):
-                link = link_matches[i] if i < len(link_matches) else ""
-                jobs.append({
-                    "company": "Genentech",
-                    "title": title,
-                    "location": "South San Francisco, CA",
-                    "url": f"https://careers.gene.com{link}" if link else "https://careers.gene.com/us/en/c/data-science-ai-ml-jobs",
-                    "date_posted": "",
-                    "ats": "Phenom",
-                })
-
-    print(f"  ✅ Found {len(jobs)} MLE role(s) at Genentech")
-    return jobs
 
 
 # ---------------------------------------------------------------------------
@@ -1142,7 +1065,7 @@ LINKEDIN_SEARCH_TERMS = [
 ]
 
 LINKEDIN_LOOKBACK_SECONDS = 14400         # 4h — watcher runs 5x/day (~3h apart); overlap is deduped
-LINKEDIN_BIOTECH_LOOKBACK_SECONDS = 86400 # 24h — biotech is a daily 8pm PT digest
+LINKEDIN_HOLLYWOOD_LOOKBACK_SECONDS = 86400 # 24h — entertainment is a daily 8pm PT digest
 
 # Guest-endpoint geo scopes as (display name, LinkedIn geoId) pairs.
 # 90000049 verified live 2026-08-24 (LA metro incl. Orange County);
@@ -1157,41 +1080,34 @@ LINKEDIN_LOCATIONS = [
     ("Greater Chicago Area", "90000014"),
 ]
 
-# Biotech allowlist used by the LinkedIn-side filter. Broader than CURATED_BIOTECHS
+# Entertainment allowlist used by the LinkedIn-side filter. Broader than CURATED_HOLLYWOOD
 # (which only covers the companies with direct Greenhouse/Ashby/Workday probes) because
-# the public LinkedIn endpoint surfaces a wider universe of biotech employers.
+# the public LinkedIn endpoint surfaces a wider universe of entertainment employers.
 # Match is case-insensitive on alphanum-stripped names with bidirectional substring
-# matching, so "Genentech" matches "Genentech, Inc." and vice versa. Avoid names
+# matching, so "A24" matches "A24, Inc." and vice versa. Avoid names
 # shorter than ~6 chars to limit incidental substring collisions.
-BIOTECH_COMPANY_NAMES = [
-    # Direct-scrape biotechs (kept aligned with CURATED_BIOTECHS)
-    "10x Genomics", "Twist Bioscience", "Maze Therapeutics", "Freenome",
-    "Cytokinetics", "Natera", "Inceptive", "Atomwise", "Profluent",
-    "Eikon Therapeutics", "Altos Labs", "Arc Institute", "Caribou Biosciences",
-    "Octant Bio", "Gilead Sciences", "Xaira Therapeutics", "Formation Bio",
-    "Septerna", "Chai Discovery", "Aralez Bio", "Axiom Bio",
-    # Big pharma / biotech with Bay Area / NYC MLE hiring
-    "Genentech", "AbbVie", "Amgen", "BioMarin", "Vertex Pharmaceuticals",
-    "Bristol Myers Squibb", "Regeneron", "Pfizer",
-    # Sequencing / genomics platforms
-    "Illumina", "Pacific Biosciences", "PacBio", "Element Biosciences",
-    "Ultima Genomics", "Singular Genomics",
-    # Clinical genomics / diagnostics
-    "GRAIL", "Guardant Health", "Invitae", "Color Health", "Tempus AI",
-    "Foundation Medicine", "Veracyte", "Personalis", "Karius",
-    "Adaptive Biotechnologies",
-    # ML-driven drug discovery
-    "Recursion Pharmaceuticals", "Insitro", "Schrodinger", "Schrödinger",
-    "Relay Therapeutics", "Generate Biomedicines", "Isomorphic Labs",
-    "AbCellera", "Iambic Therapeutics", "Lila Sciences",
-    # Cell / gene therapy
-    "Sana Biotechnology", "Allogene Therapeutics", "Cellares",
-    "Beam Therapeutics", "Editas Medicine", "Intellia Therapeutics",
-    "CRISPR Therapeutics",
-    # Bay Area biotech & life-sci research
-    "Verily Life Sciences", "Calico Life Sciences", "Synthego",
-    "Buck Institute", "Buck Institute for Research on Aging",
-    "Chan Zuckerberg Biohub", "Chan Zuckerberg Initiative",
+HOLLYWOOD_COMPANY_NAMES = [
+    # Matching is an exact normalized-name comparison (_normalize_company_name),
+    # so spell names the way LinkedIn renders them.
+    # Studios / networks / streamers
+    "The Walt Disney Company", "Walt Disney Company", "Disney", "Warner Bros. Discovery",
+    "Warner Bros. Entertainment", "Sony Pictures Entertainment", "Paramount",
+    "Paramount Pictures", "Paramount Global", "NBCUniversal", "Universal Pictures",
+    "Netflix", "Amazon MGM Studios", "Lionsgate", "Skydance", "Legendary Entertainment",
+    "Blumhouse Productions", "Lucasfilm", "Marvel Studios", "Pixar Animation Studios",
+    "Hulu", "Peacock", "Fox Corporation", "FOX Entertainment", "AMC Networks",
+    "Tyler Perry Studios", "Trilith Studios", "A24", "IMAX", "Fandango", "Dolby",
+    # Agencies / management / live
+    "Creative Artists Agency", "CAA", "WME", "Endeavor", "United Talent Agency", "UTA",
+    "Live Nation Entertainment", "Live Nation", "Ticketmaster", "AEG",
+    "Madison Square Garden Entertainment", "MSG Entertainment",
+    # Music / audio
+    "Warner Music Group", "Universal Music Group", "Sony Music Entertainment",
+    "iHeartMedia", "SiriusXM", "Spotify",
+    # Games / social / brands with studio-style teams
+    "Riot Games", "Snap Inc.", "Snap", "TikTok", "Mattel",
+    # Trailer houses / creative agencies
+    "Trailer Park Group", "MOCEAN", "Buddha Jones", "72andSunny", "RPA", "Innocean USA",
 ]
 
 _COMPANY_LEGAL_SUFFIXES = frozenset({
@@ -1205,7 +1121,7 @@ def _normalize_company_name(name: str) -> str:
 
     Matching must stay exact after normalization. Bidirectional substring
     matching made short names unsafe: ``Meta`` matched ``Metagenomi`` and
-    ``Metabolic Psychiatry Labs`` and was consequently labeled biotech.
+    ``Metabolic Psychiatry Labs`` and was consequently labeled entertainment.
     """
     words = re.findall(r'[a-z0-9]+', (name or "").lower())
     while words and words[-1] in _COMPANY_LEGAL_SUFFIXES:
@@ -1213,30 +1129,30 @@ def _normalize_company_name(name: str) -> str:
     return "".join(words)
 
 
-BIOTECH_COMPANY_ALLOWLIST = frozenset(
-    _normalize_company_name(n) for n in BIOTECH_COMPANY_NAMES
+HOLLYWOOD_COMPANY_ALLOWLIST = frozenset(
+    _normalize_company_name(n) for n in HOLLYWOOD_COMPANY_NAMES
 )
-_BIOTECH_UNION_CACHE: dict[str, frozenset[str]] = {}
+_HOLLYWOOD_UNION_CACHE: dict[str, frozenset[str]] = {}
 
 
-def _biotech_company_union() -> frozenset[str]:
-    """Complete curated + discovered + LinkedIn biotech company universe."""
-    cached = _BIOTECH_UNION_CACHE.get(SCRIPT_DIR)
+def _hollywood_company_union() -> frozenset[str]:
+    """Complete curated + discovered + LinkedIn entertainment company universe."""
+    cached = _HOLLYWOOD_UNION_CACHE.get(SCRIPT_DIR)
     if cached is not None:
         return cached
-    names = set(BIOTECH_COMPANY_ALLOWLIST)
-    for entry in list(CURATED_BIOTECHS) + _load_discovered_companies():
+    names = set(HOLLYWOOD_COMPANY_ALLOWLIST)
+    for entry in list(CURATED_HOLLYWOOD) + _load_discovered_companies():
         norm = _normalize_company_name(str(entry.get("name", "")))
         if norm:
             names.add(norm)
     result = frozenset(names)
-    _BIOTECH_UNION_CACHE[SCRIPT_DIR] = result
+    _HOLLYWOOD_UNION_CACHE[SCRIPT_DIR] = result
     return result
 
 
-def _is_biotech_company(name: str) -> bool:
+def _is_hollywood_company(name: str) -> bool:
     norm = _normalize_company_name(name)
-    return bool(norm) and norm in _biotech_company_union()
+    return bool(norm) and norm in _hollywood_company_union()
 
 
 def _parse_linkedin_cards(html: str) -> tuple[list[dict], list[str]]:
@@ -1287,7 +1203,7 @@ def _parse_linkedin_cards(html: str) -> tuple[list[dict], list[str]]:
 def _linkedin_search(terms: list[str], lookback_seconds: int) -> tuple[list[dict], int]:
     """
     Per-term, paginated LinkedIn guest-endpoint search. Dedupes by job ID and
-    sorts by recency. Used by both the general MLE/DS watcher and the biotech
+    sorts by recency. Used by both the general MLE/DS watcher and the entertainment
     allowlist-filtered scrape.
 
     Returns (jobs, total_raw_cards). total_raw_cards == 0 across every term
@@ -1356,22 +1272,22 @@ def scrape_linkedin_recent() -> list:
     return jobs
 
 
-def scrape_linkedin_biotech() -> list:
+def scrape_linkedin_hollywood() -> list:
     """
-    Last 24h on LinkedIn, filtered to companies on the biotech allowlist.
+    Last 24h on LinkedIn, filtered to companies on the entertainment allowlist.
     LinkedIn's f_I industry filter is silently ignored on the public guest
     endpoint, so we use general MLE/DS keywords + a company allowlist.
     """
-    print(f"🧬 Scraping LinkedIn biotech allowlist (last {LINKEDIN_BIOTECH_LOOKBACK_SECONDS // 3600}h)...")
-    raw, raw_cards = _linkedin_search(LINKEDIN_SEARCH_TERMS, LINKEDIN_BIOTECH_LOOKBACK_SECONDS)
+    print(f"🎬 Scraping LinkedIn entertainment allowlist (last {LINKEDIN_HOLLYWOOD_LOOKBACK_SECONDS // 3600}h)...")
+    raw, raw_cards = _linkedin_search(LINKEDIN_SEARCH_TERMS, LINKEDIN_HOLLYWOOD_LOOKBACK_SECONDS)
     if raw_cards == 0:
         # Blocked run: contribute nothing rather than nuke the digest baseline;
-        # the direct ATS probes in --biotech-only still supply fresh roles.
+        # the direct ATS probes in --hollywood-only still supply fresh roles.
         print("  ⛔ LinkedIn returned 0 cards across all terms (likely blocked); "
               "skipping LinkedIn for this digest")
         return []
-    jobs = [j for j in raw if _is_biotech_company(j["company"])]
-    print(f"  ✅ Biotech LinkedIn: {len(jobs)} role(s) (from {len(raw)} total)")
+    jobs = [j for j in raw if _is_hollywood_company(j["company"])]
+    print(f"  ✅ Entertainment LinkedIn: {len(jobs)} role(s) (from {len(raw)} total)")
     return jobs
 
 
@@ -1665,11 +1581,11 @@ FILTER_STAT_KEYS = ("company", "seniority", "role", "location", "stale")
 def _observation_feed(job: dict, default_feed: str) -> str:
     """Resolve one observation's lane; registry-style rows may override it."""
     feed = str(job.get("feed", "") or "").lower()
-    if feed not in {"general", "biotech"}:
-        persisted = [f for f in job.get("feeds", []) if f in {"general", "biotech"}]
+    if feed not in {"general", "hollywood"}:
+        persisted = [f for f in job.get("feeds", []) if f in {"general", "hollywood"}]
         if len(persisted) == 1:
             feed = persisted[0]
-    return feed if feed in {"general", "biotech"} else default_feed
+    return feed if feed in {"general", "hollywood"} else default_feed
 
 
 def _filter_job_observations(jobs: list[dict], *, default_feed: str):
@@ -1678,7 +1594,7 @@ def _filter_job_observations(jobs: list[dict], *, default_feed: str):
     Returns ``(accepted, rejected, stats)``. Rejections retain canonical job
     identity plus their feed so the master can remove only that provenance.
     """
-    if default_feed not in {"general", "biotech"}:
+    if default_feed not in {"general", "hollywood"}:
         raise ValueError(f"unknown feed: {default_feed}")
     accepted: list[dict] = []
     rejected: list[dict] = []
@@ -1696,7 +1612,7 @@ def _filter_job_observations(jobs: list[dict], *, default_feed: str):
             reason = "role"
         else:
             location = str(job.get("location", "") or "")
-            location_ok = is_target_location(location) if feed == "biotech" else is_watch_location(location)
+            location_ok = is_target_location(location) if feed == "hollywood" else is_watch_location(location)
             if not location_ok:
                 reason = "location"
             elif is_stale_posting(job.get("date_posted", "")):
@@ -1712,7 +1628,7 @@ def _filter_job_observations(jobs: list[dict], *, default_feed: str):
                 "reason": reason,
             })
             continue
-        feeds = {f for f in job.get("feeds", []) if f in {"general", "biotech"}}
+        feeds = {f for f in job.get("feeds", []) if f in {"general", "hollywood"}}
         feeds.add(feed)
         job["feeds"] = sorted(feeds)
         job.pop("feed", None)
@@ -1767,7 +1683,7 @@ def _merge_into_all_jobs(observed_jobs: list, rejected_observations: list | None
         (_job_identity(str(job.get("url", "") or "")), feed)
         for job in observed_jobs
         for feed in (job.get("feeds") or [])
-        if feed in {"general", "biotech"}
+        if feed in {"general", "hollywood"}
     }
     for rejection in rejected_observations or []:
         ident = rejection.get("identity", "")
@@ -1780,7 +1696,7 @@ def _merge_into_all_jobs(observed_jobs: list, rejected_observations: list | None
         if not existing:
             continue
         feeds = set(existing.get("feeds") or [
-            "biotech" if _is_biotech_company(existing.get("company", "")) else "general"
+            "hollywood" if _is_hollywood_company(existing.get("company", "")) else "general"
         ])
         feeds.discard(rejection.get("feed"))
         if feeds:
@@ -1811,7 +1727,7 @@ def _merge_into_all_jobs(observed_jobs: list, rejected_observations: list | None
                 entry[field] = j[field]
         entry["feeds"] = sorted(
             set(entry.get("feeds") or [
-                "biotech" if _is_biotech_company(entry.get("company", "")) else "general"
+                "hollywood" if _is_hollywood_company(entry.get("company", "")) else "general"
             ]) | set(j.get("feeds") or [])
         )
 
@@ -1969,16 +1885,16 @@ def save_boards_results(jobs: list):
     )
 
 
-def save_biotech_linkedin_results(jobs: list):
+def save_hollywood_results(jobs: list):
     save_jobs_output(
         jobs,
-        basename="jobs",
-        title="🧬 Biotech LinkedIn — MLE / DS Roles",
-        subtitle=f"US biotech allowlist · last {LINKEDIN_BIOTECH_LOOKBACK_SECONDS // 3600}h",
-        accent="#2ea04f",
-        empty_message="No new biotech roles since the last run.",
-        window_label=f"last {LINKEDIN_BIOTECH_LOOKBACK_SECONDS // 3600}h",
-        default_feed="biotech",
+        basename="hollywood_jobs",
+        title="🎬 Entertainment — Studios / Agencies / Labels (direct ATS + LinkedIn allowlist)",
+        subtitle=f"Curated entertainment employers · last {LINKEDIN_HOLLYWOOD_LOOKBACK_SECONDS // 3600}h",
+        accent="#e879f9",
+        empty_message="No new entertainment roles since the last run.",
+        window_label=f"last {LINKEDIN_HOLLYWOOD_LOOKBACK_SECONDS // 3600}h",
+        default_feed="hollywood",
     )
 
 
@@ -2055,9 +1971,9 @@ h1 {{ font-size: 22px; margin: 0 0 4px 0; }}
 # ---------------------------------------------------------------------------
 
 def save_results(jobs: list):
-    # Legacy path shares the same biotech policy/master semantics.
+    # Legacy path shares the same entertainment policy/master semantics.
     jobs, rejected, filter_stats = _filter_job_observations(
-        jobs, default_feed="biotech")
+        jobs, default_feed="hollywood")
     _normalize_dates(jobs)
     try:
         _merge_into_all_jobs(jobs, rejected)
@@ -2073,7 +1989,7 @@ def save_results(jobs: list):
         json.dump(output, f, indent=2)
 
     lines = [
-        "# 🧬 Fresh Biotech MLE Job Listings (SF Bay Area + NYC)",
+        "# 🎬 Fresh Entertainment MLE Job Listings (SF Bay Area + NYC)",
         f"*Last updated: {timestamp}*\n",
         f"**{len(jobs)} role(s) posted in the last 24 hours**\n",
     ]
@@ -2093,11 +2009,11 @@ def save_results(jobs: list):
 
     with open(os.path.join(SCRIPT_DIR, "jobs.html"), "w") as f:
         f.write(_render_jobs_html(
-            title="🧬 Fresh Biotech MLE Job Listings",
+            title="🎬 Fresh Entertainment MLE Job Listings",
             subtitle="SF Bay Area + NYC · posted in the last 24 hours",
             timestamp=timestamp,
             jobs=jobs,
-            empty_message="No biotech roles posted in the last 24 hours.",
+            empty_message="No entertainment roles posted in the last 24 hours.",
             accent="#2ea04f",
         ))
 
@@ -2546,7 +2462,7 @@ def scrape_registry_recent() -> dict:
         client,
         role_filter=is_target_role,
         location_filter=lambda location, feed: (
-            is_target_location(location) if feed == "biotech"
+            is_target_location(location) if feed == "hollywood"
             else is_watch_location(location)
         ),
         date_filter=lambda date_posted: not is_stale_posting(date_posted),
@@ -2580,7 +2496,7 @@ def save_registry_results(result: dict) -> None:
 # ---- Existing-output policy migration ------------------------------------
 
 REFILTER_OUTPUTS = {
-    "jobs": "biotech",
+    "hollywood_jobs": "hollywood",
     "linkedin_jobs": "general",
     "indeed_jobs": "general",
     "boards_jobs": "general",
@@ -2592,7 +2508,7 @@ REFILTER_OUTPUTS = {
 }
 
 REFILTER_RENDER_CONFIG = {
-    "jobs": ("🧬 Biotech LinkedIn — MLE / DS Roles", "US biotech allowlist", "#2ea04f", "No new biotech roles since the last run."),
+    "hollywood_jobs": ("🎬 Entertainment — Studios / Agencies / Labels", "Curated entertainment employers", "#e879f9", "No new entertainment roles since the last run."),
     "linkedin_jobs": ("🔥 LinkedIn — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)", "LA · SF Bay Area · NYC · Atlanta · Chicago", "#3b82f6", "No new roles since the last run."),
     "indeed_jobs": ("🟦 Indeed — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)", "LA · SF Bay Area · NYC · Atlanta · Chicago", "#2557a7", "No new roles since the last run."),
     "boards_jobs": ("🟪 ZipRecruiter + Google — Marketing / Account Mgmt / Coordinator Roles", "LA · SF Bay Area · NYC · Atlanta · Chicago", "#7c5cff", "No new roles since the last run."),
@@ -2639,24 +2555,24 @@ def _rewrite_refilter_companions(basename: str, payload: dict) -> None:
             ))
 
 
-def _refilter_master_jobs(jobs: list[dict], biotech_identities: set[str] | None = None):
+def _refilter_master_jobs(jobs: list[dict], entertainment_identities: set[str] | None = None):
     accepted: list[dict] = []
     totals = {key: 0 for key in FILTER_STAT_KEYS}
     for job in jobs:
         ident = _job_identity(str(job.get("url", "") or ""))
-        feeds = [f for f in job.get("feeds", []) if f in {"general", "biotech"}]
+        feeds = [f for f in job.get("feeds", []) if f in {"general", "hollywood"}]
         if not feeds:
-            is_biotech = (
-                ident in (biotech_identities or set())
-                or _is_biotech_company(job.get("company", ""))
+            is_entertainment = (
+                ident in (entertainment_identities or set())
+                or _is_hollywood_company(job.get("company", ""))
             )
-            feeds = ["biotech" if is_biotech else "general"]
+            feeds = ["hollywood" if is_entertainment else "general"]
         surviving: set[str] = set()
         reasons: list[str] = []
         for feed in feeds:
-            if (feed == "biotech"
-                    and ident not in (biotech_identities or set())
-                    and not _is_biotech_company(job.get("company", ""))):
+            if (feed == "hollywood"
+                    and ident not in (entertainment_identities or set())
+                    and not _is_hollywood_company(job.get("company", ""))):
                 reasons.append("company")
                 continue
             candidate = dict(job)
@@ -2676,71 +2592,6 @@ def _refilter_master_jobs(jobs: list[dict], biotech_identities: set[str] | None 
     return accepted, totals
 
 
-def repair_biotech_company_provenance(*, write: bool = False) -> dict:
-    """Remove non-biotech companies from the biotech digest/provenance only.
-
-    General-feed observations are preserved. This deliberately does not run
-    the broader seniority, role, or location migration.
-    """
-    jobs_path = os.path.join(SCRIPT_DIR, "jobs.json")
-    master_path = os.path.join(SCRIPT_DIR, "all_jobs.json")
-    with open(jobs_path) as f:
-        payload = json.load(f)
-
-    before_jobs = payload.get("jobs", [])
-    biotech_jobs = [
-        j for j in before_jobs if _is_biotech_company(j.get("company", ""))
-    ]
-    payload["jobs"] = biotech_jobs
-    payload["total"] = len(biotech_jobs)
-    if isinstance(payload.get("new_jobs"), list):
-        payload["new_jobs"] = [
-            j for j in payload["new_jobs"]
-            if _is_biotech_company(j.get("company", ""))
-        ]
-        payload["new_count"] = len(payload["new_jobs"])
-
-    valid_biotech_ids = {
-        _job_identity(str(j.get("url", "") or "")) for j in biotech_jobs
-    }
-    valid_biotech_ids.discard("")
-    with open(master_path) as f:
-        master = json.load(f)
-    repaired_master: list[dict] = []
-    provenance_removed = master_rows_removed = 0
-    for original in master.get("jobs", []):
-        job = dict(original)
-        feeds = [f for f in job.get("feeds", []) if f in {"general", "biotech"}]
-        if "biotech" in feeds:
-            ident = _job_identity(str(job.get("url", "") or ""))
-            if ident not in valid_biotech_ids and not _is_biotech_company(job.get("company", "")):
-                feeds.remove("biotech")
-                provenance_removed += 1
-        if original.get("feeds") and not feeds:
-            master_rows_removed += 1
-            continue
-        if feeds:
-            job["feeds"] = sorted(set(feeds))
-        repaired_master.append(job)
-    master["jobs"] = repaired_master
-
-    result = {
-        "biotech_jobs_before": len(before_jobs),
-        "biotech_jobs_after": len(biotech_jobs),
-        "biotech_jobs_removed": len(before_jobs) - len(biotech_jobs),
-        "master_biotech_tags_removed": provenance_removed,
-        "master_rows_removed": master_rows_removed,
-    }
-    print(("✍️" if write else "🔎"), "Biotech company provenance:", result)
-    if write:
-        with open(jobs_path, "w") as f:
-            json.dump(payload, f, indent=2)
-        _rewrite_refilter_companions("jobs", payload)
-        with open(master_path, "w") as f:
-            json.dump(master, f, separators=(",", ":"))
-    return result
-
-
 def refilter_existing_outputs(*, write: bool = False) -> dict:
     """Preview or rewrite generated JSON files using the current policy.
 
@@ -2749,7 +2600,7 @@ def refilter_existing_outputs(*, write: bool = False) -> dict:
     files that already have companions.
     """
     summary: dict[str, dict] = {}
-    biotech_identities: set[str] = set()
+    entertainment_identities: set[str] = set()
     for basename, default_feed in REFILTER_OUTPUTS.items():
         path = os.path.join(SCRIPT_DIR, f"{basename}.json")
         try:
@@ -2763,22 +2614,22 @@ def refilter_existing_outputs(*, write: bool = False) -> dict:
         original_jobs = payload.get("jobs", [])
         jobs, _rejected, stats = _filter_job_observations(
             original_jobs, default_feed=default_feed)
-        if default_feed == "biotech":
+        if default_feed == "hollywood":
             company_count = len(jobs)
-            jobs = [j for j in jobs if _is_biotech_company(j.get("company", ""))]
+            jobs = [j for j in jobs if _is_hollywood_company(j.get("company", ""))]
             stats["company"] += company_count - len(jobs)
-            biotech_identities.update(
+            entertainment_identities.update(
                 _job_identity(str(j.get("url", "") or "")) for j in jobs
             )
-            biotech_identities.discard("")
+            entertainment_identities.discard("")
         original_new = payload.get("new_jobs")
         if isinstance(original_new, list):
             new_jobs, _r, _s = _filter_job_observations(
                 original_new, default_feed=default_feed)
-            if default_feed == "biotech":
+            if default_feed == "hollywood":
                 new_jobs = [
                     j for j in new_jobs
-                    if _is_biotech_company(j.get("company", ""))
+                    if _is_hollywood_company(j.get("company", ""))
                 ]
             payload["new_jobs"] = new_jobs
             payload["new_count"] = len(new_jobs)
@@ -2805,7 +2656,7 @@ def refilter_existing_outputs(*, write: bool = False) -> dict:
         master_payload = None
     if master_payload is not None:
         original = master_payload.get("jobs", [])
-        jobs, stats = _refilter_master_jobs(original, biotech_identities)
+        jobs, stats = _refilter_master_jobs(original, entertainment_identities)
         master_payload["jobs"] = jobs
         master_payload["filter_stats"] = stats
         summary["all_jobs"] = {"before": len(original), "after": len(jobs), **stats}
@@ -2823,10 +2674,6 @@ def refilter_existing_outputs(*, write: bool = False) -> dict:
 # ---------------------------------------------------------------------------
 
 if __name__ == "__main__":
-    if "--repair-biotech-company-provenance" in sys.argv:
-        repair_biotech_company_provenance(write="--write" in sys.argv)
-        sys.exit(0)
-
     if "--refilter-existing" in sys.argv:
         refilter_existing_outputs(write="--write" in sys.argv)
         sys.exit(0)
@@ -2863,19 +2710,18 @@ if __name__ == "__main__":
         save_calcareers_results(scrape_calcareers_recent())
         sys.exit(0)
 
-    if "--biotech-only" in sys.argv:
+    if "--hollywood-only" in sys.argv:
         # Direct ATS gives a stable baseline (LinkedIn's 24h endpoint has been
         # flaky on GH Actions runners — see workflow_runs.jsonl). LinkedIn is
-        # kept as a supplemental source for biotechs not in CURATED_BIOTECHS.
-        # Cross-run dedupe via _load_prev_ids → save_biotech_linkedin_results
+        # kept as a supplemental source for entertainment employers not in CURATED_HOLLYWOOD.
+        # Cross-run dedupe via _load_prev_ids → save_hollywood_results
         # provides "new since last digest" semantics, so we skip the 24h
         # freshness filter (ATS updated_at is unreliable for that anyway).
-        jobs = list(scrape_genentech())
-        jobs.extend(scrape_curated_biotechs())
-        # Dead biotech machinery (Phase 2 repurposes it as the hollywood
+        jobs = list(scrape_curated_hollywood())
+        # Dead entertainment machinery (Phase 2 repurposes it as the hollywood
         # feed); the geo gate is the same watch gate as everything else now.
         jobs = [j for j in jobs if is_target_location(j.get("location", ""))]
-        jobs.extend(scrape_linkedin_biotech())
+        jobs.extend(scrape_linkedin_hollywood())
 
         seen: set[tuple[str, str]] = set()
         deduped: list[dict] = []
@@ -2885,17 +2731,16 @@ if __name__ == "__main__":
                 continue
             seen.add(key)
             deduped.append(j)
-        print(f"\n🧬 Combined biotech total: {len(deduped)} unique role(s) "
+        print(f"\n🎬 Combined entertainment total: {len(deduped)} unique role(s) "
               f"(from {len(jobs)} across sources)")
 
-        save_biotech_linkedin_results(deduped)
+        save_hollywood_results(deduped)
         sys.exit(0)
 
     # Legacy default: curated Greenhouse/Workday/Phenom sweep. Returned 0 roles
     # consistently because ATS updated_at dates rarely fall inside the 24h window.
-    # CI now uses --biotech-only; this branch is kept for ad-hoc local runs.
-    all_jobs = list(scrape_genentech())
-    all_jobs.extend(scrape_curated_biotechs())
+    # CI now uses --hollywood-only; this branch is kept for ad-hoc local runs.
+    all_jobs = list(scrape_curated_hollywood())
 
     before = len(all_jobs)
     all_jobs = [j for j in all_jobs if is_watch_location(j.get("location", ""))]

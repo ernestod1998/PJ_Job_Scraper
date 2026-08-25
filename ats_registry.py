@@ -2,7 +2,7 @@
 """Bounded discovery, verification, and scraping for public ATS job boards.
 
 The registry is deliberately separate from ``discovered_companies.json``.
-That file remains the curated biotech expansion list; this module manages the
+That file remains the curated entertainment-employer list; this module manages the
 much larger, lower-trust set of boards found from public indexes.
 
 Only documented public job-board interfaces are supported:
@@ -197,7 +197,7 @@ def board_key(ats: str, locator: str) -> str:
 
 
 def keys_for_entries(entries: Iterable[dict]) -> set[str]:
-    """Build skip keys from CURATED_BIOTECHS/discovered_companies entries."""
+    """Build skip keys from CURATED_HOLLYWOOD/discovered_companies entries."""
     keys: set[str] = set()
     for entry in entries:
         ats = str(entry.get("ats") or "").lower()
@@ -221,7 +221,7 @@ def add_candidate(
 ) -> bool:
     """Add/merge one candidate. Return True only for a newly-created board."""
     ats = ats.lower().strip()
-    if ats not in {*_SLUG_RE, "workday"} or feed not in {"general", "biotech"}:
+    if ats not in {*_SLUG_RE, "workday"} or feed not in {"general", "hollywood"}:
         return False
     locator_field = "url" if ats == "workday" else "slug"
     if ats == "workday":
@@ -759,7 +759,7 @@ def scrape_registry(
             job = row.copy() if normalized_jobs is not None else _job_from_row(board, row)
             if not job or not role_filter(str(job.get("title") or "")):
                 continue
-            feed = board.get("feed") if board.get("feed") in {"general", "biotech"} else "general"
+            feed = board.get("feed") if board.get("feed") in {"general", "hollywood"} else "general"
             if location_filter and not location_filter(str(job.get("location") or ""), feed):
                 continue
             if date_filter and not date_filter(str(job.get("date_posted") or "")):

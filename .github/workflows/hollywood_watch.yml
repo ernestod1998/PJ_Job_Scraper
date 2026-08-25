@@ -1,0 +1,68 @@
+name: Entertainment Feed
+
+on:
+  schedule:
+    # 03:13 UTC ≈ 8 PM PDT (UTC-7); in PST (UTC-8) ~7 PM PT.
+    # Off-hour minute (:13) avoids GitHub Actions throttling at :00.
+    - cron: "13 3 * * *"
+
+  workflow_dispatch:
+
+concurrency:
+  group: job-scraper-commit-push
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    name: Scrape entertainment employers
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run scraper (curated entertainment ATS probes + LinkedIn allowlist, last 24h)
+        run: python scrape_jobs.py --hollywood-only
+        env:
+          PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
+          PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
+          NOTIFY_TERMS: ${{ vars.NOTIFY_TERMS }}
+
+      - name: Record workflow run
+        run: |
+          python - <<'EOF'
+          import json
+          import os
+          from datetime import datetime, timezone
+
+          with open("hollywood_jobs.json", encoding="utf-8") as f:
+              data = json.load(f)
+
+          entry = {
+              "workflow": "hollywood",
+              "timestamp": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+              "job_count": int(data.get("total", 0)),
+              "run_id": os.environ.get("GITHUB_RUN_ID", ""),
+              "run_attempt": os.environ.get("GITHUB_RUN_ATTEMPT", ""),
+          }
+
+          with open("workflow_runs.jsonl", "a", encoding="utf-8") as f:
+              f.write(json.dumps(entry, sort_keys=True) + "\n")
+          EOF
+
+      - name: Commit results to repo
+        run: |
+          git config user.name  "ernestod1998"
+          git config user.email "61074783+ernestod1998@users.noreply.github.com"
+          python ci_commit_push.py \
+            --message "chore: update entertainment listings [$(date -u '+%Y-%m-%d')]" \
+            hollywood_jobs.json hollywood_jobs.md hollywood_jobs.html \
+            workflow_runs.jsonl all_jobs.json notified.json

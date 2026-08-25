@@ -19,7 +19,7 @@
     --muted: #9a9a9a;
     --line: #2a2424;
     --linkedin: #60a5fa;
-    --biotech: #34d399;
+    --entertainment: #e879f9;
     --indeed: #a78bfa;
     --direct-ats: #f59e0b;
     --accent: #ef4444;
@@ -131,7 +131,7 @@
     font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em;
     vertical-align: middle; margin-left: 6px; }
   .src.linkedin { background: rgba(96,165,250,0.14); color: var(--linkedin); }
-  .src.biotech { background: rgba(52,211,153,0.14); color: var(--biotech); }
+  .src.entertainment { background: rgba(232,121,249,0.14); color: var(--entertainment); }
   .src.indeed { background: rgba(167,139,250,0.14); color: var(--indeed); }
   .src.direct-ats { background: rgba(245,158,11,0.16); color: var(--direct-ats); }
   .src.usajobs { background: rgba(29,78,216,0.18); color: #93c5fd; }
@@ -390,6 +390,7 @@
 <script>
   // ---------- Sources ----------
   const SOURCES = [
+    { name: 'hollywood_jobs.json', src: 'Entertainment' },
     { name: 'linkedin_jobs.json', src: 'LinkedIn' },
     { name: 'indeed_jobs.json',   src: 'Indeed'   },
     { name: 'usajobs_jobs.json',  src: 'USAJOBS'  },
@@ -569,8 +570,8 @@
   }
   function classifySource(j) {
     // Feed provenance wins over ATS vendor: an ATS host is infrastructure, not
-    // proof that the company belongs to the biotech lane.
-    if (jobFeeds(j).includes('biotech')) return 'Biotech';
+    // proof that the company belongs to the entertainment lane.
+    if (jobFeeds(j).includes('hollywood')) return 'Entertainment';
     const ats = String(j.ats || '').toLowerCase();
     if (ats === 'usajobs' || (j.url || '').includes('usajobs.gov')) return 'USAJOBS';
     if (ats === 'neogov' || (j.url || '').includes('governmentjobs.com')) return 'NEOGOV';
@@ -1385,7 +1386,7 @@
   function renderAll() {
     VIEW = dedupe(state.jobs);   // collapse cross-posted (LinkedIn↔Indeed↔…) dupes
     renderFilterGroup('filter-source', 'source',
-      ['LinkedIn', 'Biotech', 'Direct ATS', 'Indeed', 'USAJOBS', 'NEOGOV', 'CalOpps', 'CalCareers']);
+      ['LinkedIn', 'Entertainment', 'Direct ATS', 'Indeed', 'USAJOBS', 'NEOGOV', 'CalOpps', 'CalCareers']);
     renderFilterGroup('filter-role', 'role',
       ['Entertainment', 'Accounts/CS', 'Sales/BizDev', 'Marketing/Comms',
        'Project/Ops', 'Research/Insights', 'Admin/People', 'Other']);
@@ -1599,22 +1600,10 @@
   // deliberately ALLOWED — Account Manager, Community Manager are core PJ
   // titles. Anything saved/applied/dismissed is kept — triage history.
   const EXCLUDED_TITLE_RE = /\b(senior|sr|staff|principal|distinguished|founding|director|vice president|vp|svp|evp|chief|head\s+of|executive director)\b|\b(general|group|regional|national|district)\s+manager\b/i;
-  function repairBiotechSourceCollision(j) {
-    const company = String(j.company || '').normalize('NFKD')
-      .replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]/gi, '').toLowerCase();
-    // These were admitted by the retired bidirectional substring matcher
-    // (Meta→Metagenomi/Metabolic, ŌURA/Compass→longer biotech names).
-    if (!['meta', 'oura', 'compass'].includes(company)) return j;
-    const feeds = jobFeeds(j).filter(f => f !== 'biotech');
-    if (feeds.length) j.feeds = feeds;
-    else delete j.feeds;
-    return j;
-  }
   function pruneState() {
     const cutoff = Date.now() - 30 * 86400000;
     const before = state.jobs.length;
     state.jobs = state.jobs.filter(j => {
-      repairBiotechSourceCollision(j);
       if (tri(j.url)) return true;   // tri(), not truthiness — a tombstone is an object
       if (EXCLUDED_TITLE_RE.test(j.title || '')) return false;
       const t = jobFreshMs(j);
