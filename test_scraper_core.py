@@ -57,6 +57,7 @@ class RoleAndLocationPolicy(unittest.TestCase):
         accepted = (
             "Los Angeles, CA", "Long Beach, CA", "Burbank, CA", "Culver City, CA",
             "Santa Monica, CA", "Irvine, CA", "Anaheim, CA", "Orange, CA",
+            "Lakewood, CA", "Carson, CA", "Cypress, CA", "Brea, CA",
             "Greater Los Angeles Area", "Los Angeles Metropolitan Area",
         )
         for location in accepted:
@@ -66,6 +67,8 @@ class RoleAndLocationPolicy(unittest.TestCase):
         rejected = (
             "Orange, NJ", "Glendale, AZ", "Long Beach, NY", "Norwalk, CT",
             "Pasadena, TX", "Hollywood, FL", "Westminster, CO",
+            "Pierce County – Lakewood", "Lakewood, WA", "Carson City, NV",
+            "Cypress, TX", "Hawthorne, NY", "Breaux Bridge, LA",
             "San Francisco, CA", "New York, NY", "Riverside, CA", "San Diego, CA",
             "Remote", "Remote - USA",
         )

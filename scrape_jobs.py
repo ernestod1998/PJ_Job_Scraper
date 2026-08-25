@@ -220,7 +220,14 @@ _STATE_CONFIRM = {
 _SOCAL_AMBIGUOUS = {"hollywood", "glendale", "long beach", "pasadena",
                     "orange", "orange county", "norwalk", "westminster",
                     "lake forest", "venice", "irvine", "paramount", "burbank",
-                    "pomona", "compton", "whittier", "el monte"}
+                    "pomona", "compton", "whittier", "el monte",
+                    # Added 2026-08-25 after "Pierce County – Lakewood" (WA)
+                    # leaked through NEOGOV: Lakewood WA/CO/NJ/OH, Carson City
+                    # NV, Cypress TX, Hawthorne NY/NV, Monrovia MD/Liberia,
+                    # Inglewood AU/NZ, Santa Ana (El Salvador), and "brea" as
+                    # a bare substring (Breaux…).
+                    "lakewood", "carson", "cypress", "hawthorne", "monrovia",
+                    "inglewood", "santa ana", "brea"}
 
 
 def _socal_confirmed(location: str) -> bool:

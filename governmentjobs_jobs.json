@@ -1,32 +1,8 @@
 {
   "scraped_at": "2026-08-25 07:39 UTC",
-  "total": 5,
-  "new_count": 5,
+  "total": 3,
+  "new_count": 3,
   "jobs": [
-    {
-      "company": "State of Washington",
-      "title": "Construction Project Coordinator 3",
-      "location": "Pierce County \u2013 Lakewood, WA",
-      "url": "https://www.governmentjobs.com/jobs/5446827-0/construction-project-coordinator-3",
-      "date_posted": "",
-      "salary": "$7,044.00 - $9,478.00 Monthly",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "City of Lakewood (WA)",
-      "title": "Program Coordinator - CDBG/HOME",
-      "location": "Lakewood City Hall, WA",
-      "url": "https://www.governmentjobs.com/jobs/5451485-0/program-coordinator-cdbg-home",
-      "date_posted": "",
-      "salary": "$7,188.00 - $8,981.00 Monthly",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    },
     {
       "company": "City of Pasadena",
       "title": "Program Coordinator II (Rental Registry)",
@@ -65,30 +41,6 @@
     }
   ],
   "new_jobs": [
-    {
-      "company": "State of Washington",
-      "title": "Construction Project Coordinator 3",
-      "location": "Pierce County \u2013 Lakewood, WA",
-      "url": "https://www.governmentjobs.com/jobs/5446827-0/construction-project-coordinator-3",
-      "date_posted": "",
-      "salary": "$7,044.00 - $9,478.00 Monthly",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "City of Lakewood (WA)",
-      "title": "Program Coordinator - CDBG/HOME",
-      "location": "Lakewood City Hall, WA",
-      "url": "https://www.governmentjobs.com/jobs/5451485-0/program-coordinator-cdbg-home",
-      "date_posted": "",
-      "salary": "$7,188.00 - $8,981.00 Monthly",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    },
     {
       "company": "City of Pasadena",
       "title": "Program Coordinator II (Rental Registry)",
@@ -130,7 +82,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 0,
+    "location": 2,
     "stale": 0
   }
 }
