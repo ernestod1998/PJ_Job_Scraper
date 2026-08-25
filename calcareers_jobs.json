@@ -1,14 +1,64 @@
 {
-  "scraped_at": "2026-08-25 07:40 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": [],
+  "scraped_at": "2026-08-25 17:18 UTC",
+  "total": 2,
+  "new_count": 2,
+  "jobs": [
+    {
+      "company": "Department of Transportation",
+      "title": "Project Coordinator for Emergency Projects",
+      "location": "Alameda County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524638",
+      "date_posted": "2026-08-19",
+      "salary": "$11437.00 - $14315.00",
+      "ats": "CalCareers",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Judicial Council of California",
+      "title": "Administrative Coordinator JO#6738",
+      "location": "San Francisco County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529833",
+      "date_posted": "2026-08-25",
+      "salary": "$5933.00 - $8305.00",
+      "ats": "CalCareers",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Department of Transportation",
+      "title": "Project Coordinator for Emergency Projects",
+      "location": "Alameda County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524638",
+      "date_posted": "2026-08-19",
+      "salary": "$11437.00 - $14315.00",
+      "ats": "CalCareers",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Judicial Council of California",
+      "title": "Administrative Coordinator JO#6738",
+      "location": "San Francisco County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529833",
+      "date_posted": "2026-08-25",
+      "salary": "$5933.00 - $8305.00",
+      "ats": "CalCareers",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 0,
+    "location": 6,
     "stale": 0
   }
 }
