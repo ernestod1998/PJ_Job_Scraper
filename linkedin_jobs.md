@@ -1,4 +1,4 @@
-# 🔥 LinkedIn — Marketing / Account Mgmt / Coordinator Roles (LA / OC / Long Beach)
+# 🔥 LinkedIn — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
 *Last updated: 2026-08-25 07:34 UTC*
 
 **2 new role(s)** · 2 total after policy cleanup

@@ -1,22 +1,22 @@
-# PJ Job Scraper — LA / Orange County / Long Beach
+# PJ Job Scraper — LA · SF Bay Area · NYC · Atlanta · Chicago
 
-Automated watchers that scrape **account-management / client & customer success, marketing / communications, project & operations coordination, sales / business development, and entertainment roles**, commit the results to the repo, and surface them in the [`triage.html`](#interactive-triage-dashboard--triagehtml) dashboard. Sources are limited to LA / Orange County / Long Beach; US-remote roles are off by default (`INCLUDE_REMOTE_US` flag in `scrape_jobs.py` — a one-line flip to widen the net).
+Automated watchers that scrape **account-management / client & customer success, marketing / communications, project & operations coordination, sales / business development, and entertainment roles**, commit the results to the repo, and surface them in the [`triage.html`](#interactive-triage-dashboard--triagehtml) dashboard. Sources cover five metros — LA / Orange County / Long Beach, the SF Bay Area, NYC (+ close North Jersey), Atlanta, and Chicago; US-remote roles are off by default (`INCLUDE_REMOTE_US` flag in `scrape_jobs.py` — a one-line flip to widen the net).
 
 This is a fork of [`Job_Scraper`](https://github.com/ernestod1998/Job_Scraper), operated by Ernesto for PJ.
 
 ## What It Does
 
-### 1. LinkedIn watcher — hourly, last 1h
-Hits LinkedIn's public guest endpoint for LA-metro roles posted in **the last hour** across multiple search terms, dedupes by job ID, and sorts by recency. Output goes to `linkedin_jobs.json`, `linkedin_jobs.md`, and `linkedin_jobs.html`.
+### 1. LinkedIn watcher — 5×/day, last 4h
+Hits LinkedIn's public guest endpoint for roles in all five metros posted in **the last four hours** across multiple search terms, dedupes by job ID, and sorts by recency. Output goes to `linkedin_jobs.json`, `linkedin_jobs.md`, and `linkedin_jobs.html`.
 
-Runs hourly, driven externally by cron-job.org with the in-GH watchdog as backup. A block guard preserves the previous results when LinkedIn returns zero cards across every term (rate-limited run), so the dedupe baseline and dashboard column survive.
+Runs five times a day (7am, 10am, 1pm, 3pm, 6pm Pacific) on GitHub's own cron — no external scheduler. A block guard preserves the previous results when LinkedIn returns zero cards across every term (rate-limited run), so the dedupe baseline and dashboard column survive.
 
 > ⚠️ Uses the unauthenticated public guest endpoint only — **never** signs in with a user account and does not use LinkedIn cookies, tokens, or credentials.
 
-### 2. Indeed watcher — every 1h, last 24h
+### 2. Indeed watcher — 5×/day, last 24h
 Uses [`python-jobspy`](https://pypi.org/project/python-jobspy/) (Indeed's public RSS and Publisher API were both deprecated in 2026; the site sits behind Cloudflare's top-tier bot product, so stdlib `urllib` is blocked at the edge). JobSpy uses Indeed's mobile-app API internally — no proxies required, no documented rate limit. Output goes to `indeed_jobs.json`, `indeed_jobs.md`, and `indeed_jobs.html`, deduped against the previous run.
 
-Scheduled externally by cron-job.org, offset from the LinkedIn slot to reduce contention on the shared commit-push concurrency group.
+Scheduled on GitHub's cron thirty minutes after each LinkedIn slot; the slots sit in hours no other scraper uses, because every scraper shares one commit-push concurrency group and GitHub cancels the older pending run when a third queues.
 
 ### 3. Broad sources — boards, government, and the ATS registry
 ZipRecruiter + Google (twice daily), USAJOBS, NEOGOV/governmentjobs.com, CalOpps, CalCareers, and a 2,100-board direct-ATS registry (daily shard cycle) — see [Extra sources](#extra-sources--features) and the [registry section](#broad-ats-registry) below.
@@ -47,15 +47,15 @@ Bare `coordinator` / `associate` / `specialist` / `manager`, `research associate
 
 ## Location policies
 
-- The SoCal city-token list (`SOCAL_LOCATIONS`): greater LA, the westside/beach cities, the Valley/studios corridor (Burbank, Glendale, Universal City, Studio City…), Long Beach and the gateway cities, and all of Orange County. Inland Empire is deliberately excluded (one-line add to widen).
-- City names with well-known out-of-state namesakes (Glendale AZ, Long Beach NY, Pasadena TX, Orange NJ, Norwalk CT, Hollywood FL, …) require a CA confirmation in the location string (`_SOCAL_AMBIGUOUS`).
+- Four substring-gated metros in `WATCH_METROS` — `SOCAL_LOCATIONS` (greater LA, westside/beach cities, the Valley/studios corridor, Long Beach + gateway cities, all of Orange County; Inland Empire deliberately excluded), `BAY_AREA_LOCATIONS`, `ATLANTA_LOCATIONS`, and `CHICAGO_LOCATIONS` — each with an ambiguous-token set (`_*_AMBIGUOUS`) for city names with out-of-state namesakes (Glendale AZ, Long Beach NY, Roswell NM, Aurora CO, Decatur IL…), which require the right state in the location string.
+- NYC uses its own structural gate (`is_nyc`): the city, its boroughs, a short approved list of close North-Jersey cities, and LinkedIn's "New York City Metropolitan Area" label; broad "NYC metro"/Long Island/Westchester/Connecticut labels are rejected.
 - US-remote roles are rejected while `INCLUDE_REMOTE_US = False` (the default).
 
 ## Output Files
 
 | File | Source | Description |
 |---|---|---|
-| `linkedin_jobs.json` / `.md` / `.html` | LinkedIn watcher | Roles posted in the last 1h, deduped against the previous run |
+| `linkedin_jobs.json` / `.md` / `.html` | LinkedIn watcher | Roles posted in the last 4h, deduped against the previous run |
 | `indeed_jobs.json` / `.md` / `.html` | Indeed watcher | Indeed-sourced roles posted in the last 24h, deduped against the previous run |
 | `boards_jobs.json` / `.md` / `.html` | ZipRecruiter + Google | JobSpy-backed board results |
 | `usajobs_jobs.json` / `.md` / `.html` | USAJOBS | Current federal results |
@@ -106,8 +106,8 @@ Beyond the two core watchers, these sources run on their own workflows (all reus
 
 | Flag | Source | Notes |
 |---|---|---|
-| `--usajobs-only` | [usajobs.gov](https://www.usajobs.gov) | Federal jobs **with salary**, no API key (public search endpoint). Nationwide query, filtered to LA / OC / Long Beach. |
-| `--governmentjobs-only` | [governmentjobs.com](https://www.governmentjobs.com) (NEOGOV) | State & local government; filtered to LA / OC / Long Beach via `is_watch_location()`. |
+| `--usajobs-only` | [usajobs.gov](https://www.usajobs.gov) | Federal jobs **with salary**, no API key (public search endpoint). Nationwide query, filtered to the five metros. |
+| `--governmentjobs-only` | [governmentjobs.com](https://www.governmentjobs.com) (NEOGOV) | State & local government; filtered to the five metros via `is_watch_location()`. |
 | `--calopps-only` | [calopps.org](https://www.calopps.org) | California local agencies (cities/counties/special districts). |
 | `--calcareers-only` | [calcareers.ca.gov](https://calcareers.ca.gov) | California state civil service (ASP.NET postback). |
 | `--boards-only` | ZipRecruiter + Google Jobs | Via `python-jobspy` (same library as Indeed); runs twice daily via `boards_watch.yml`. |
@@ -117,7 +117,7 @@ Heavier per-term sources share `GOV_SEARCH_TERMS` (the first 8 entries of `LINKE
 **Salary backfill:** the LinkedIn watcher backfills pay from each posting's public guest page (search cards omit it). The dashboard harmonizes every format (hourly / monthly / yearly / `$k` ranges / title-embedded) to an annual figure.
 
 **Dashboard additions:**
-- **🗺 Map view** — Leaflet map of roles by city (client-side geocoding, no API key), centered on the LA basin.
+- **🗺 Map view** — Leaflet map of roles by city (client-side geocoding, no API key), auto-fitting across the five metros.
 - **Salary distribution** chart + a salary-floor slider (filters by minimum annual pay; excludes unlisted-salary roles by default).
 - **Cross-source de-duplication** — the same role cross-posted to multiple boards collapses into one card (matched on title + location + compatible company), showing all source badges; triage applies to every copy.
 - **Explicit source** shown on each card (`🔗 LinkedIn`, etc.).
@@ -170,9 +170,8 @@ The LinkedIn pipeline uses only the standard library. Indeed/boards require `pip
 ├── workflow_runs.jsonl             # Per-run job counts (scheduler observability)
 ├── triage.html                     # Interactive dashboard (fetches the JSONs at view time)
 └── .github/workflows/
-    ├── linkedin_watch.yml          # Hourly — general LinkedIn (last 1h, cron-job.org-driven)
-    ├── indeed_watch.yml            # Hourly — Indeed (last 24h, cron-job.org-driven)
-    ├── linkedin_watch_backup.yml   # In-GH watchdog — re-dispatches missed runs
+    ├── linkedin_watch.yml          # 5x/day — general LinkedIn (last 4h, GitHub cron)
+    ├── indeed_watch.yml            # 5x/day — Indeed (last 24h, GitHub cron)
     ├── boards_watch.yml            # Twice daily — ZipRecruiter + Google
     ├── registry_watch.yml          # Daily ATS registry seed/verify/scrape cycle
     ├── usajobs_watch.yml / localgov_watch.yml / calcareers_watch.yml

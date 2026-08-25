@@ -1,4 +1,4 @@
-# 🟦 Indeed — Marketing / Account Mgmt / Coordinator Roles (LA / OC / Long Beach)
+# 🟦 Indeed — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
 *Last updated: 2026-08-25 07:37 UTC*
 
 **80 new role(s)** · 80 total after policy cleanup

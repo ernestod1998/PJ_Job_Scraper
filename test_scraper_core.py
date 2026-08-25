@@ -53,24 +53,44 @@ class RoleAndLocationPolicy(unittest.TestCase):
         ):
             self.assertFalse(sj.is_target_role(title), title)
 
-    def test_watch_location_accepts_la_oc_long_beach(self):
+    def test_watch_location_accepts_all_five_metros(self):
         accepted = (
+            # LA / OC / Long Beach
             "Los Angeles, CA", "Long Beach, CA", "Burbank, CA", "Culver City, CA",
             "Santa Monica, CA", "Irvine, CA", "Anaheim, CA", "Orange, CA",
             "Lakewood, CA", "Carson, CA", "Cypress, CA", "Brea, CA",
             "Greater Los Angeles Area", "Los Angeles Metropolitan Area",
+            # SF Bay Area
+            "San Francisco, CA", "Oakland, CA", "SF", "Palo Alto, CA", "Newark, CA",
+            # NYC + close NJ
+            "New York, NY", "Brooklyn, NY", "Jersey City, NJ", "Newark, NJ",
+            "Hoboken", "New York City Metropolitan Area",
+            # Atlanta
+            "Atlanta, GA", "Alpharetta, GA", "Roswell, GA", "Decatur, Georgia",
+            # Chicago
+            "Chicago, IL", "Evanston, IL", "Naperville, IL", "Aurora, Illinois",
         )
         for location in accepted:
             self.assertTrue(sj.is_watch_location(location), location)
 
     def test_watch_location_rejects_namesakes_and_out_of_region(self):
         rejected = (
+            # SoCal namesakes
             "Orange, NJ", "Glendale, AZ", "Long Beach, NY", "Norwalk, CT",
             "Pasadena, TX", "Hollywood, FL", "Westminster, CO",
             "Pierce County – Lakewood", "Lakewood, WA", "Carson City, NV",
             "Cypress, TX", "Hawthorne, NY", "Breaux Bridge, LA",
-            "San Francisco, CA", "New York, NY", "Riverside, CA", "San Diego, CA",
-            "Remote", "Remote - USA",
+            # Bay namesakes
+            "Dublin, Ireland", "Newark, DE", "Richmond, VA", "Concord, NH",
+            # NYC: broad/distant labels (parent fixtures, restored)
+            "New York metro", "New York, United States", "New Jersey",
+            "Long Island, NY", "White Plains, NY", "Tarrytown, NY",
+            "Princeton, NJ", "Fort Lee, VA", "Stamford, CT", "Greater NYC metro",
+            # Atlanta / Chicago namesakes
+            "Roswell, NM", "Decatur, IL", "Smyrna, TN", "Duluth, MN",
+            "Aurora, CO", "Oak Park, CA", "Evanston, WY", "Cicero, NY",
+            # Out of region entirely / remote off
+            "Riverside, CA", "San Diego, CA", "Denver, CO", "Remote", "Remote - USA",
         )
         for location in rejected:
             self.assertFalse(sj.is_watch_location(location), location)
@@ -79,7 +99,7 @@ class RoleAndLocationPolicy(unittest.TestCase):
         with patch.object(sj, "INCLUDE_REMOTE_US", True):
             self.assertTrue(sj.is_watch_location("Remote - USA"))
             self.assertTrue(sj.is_watch_location("Remote"))
-            self.assertFalse(sj.is_watch_location("New York, NY"))
+            self.assertFalse(sj.is_watch_location("Denver, CO"))
 
     def test_filter_is_feed_aware_and_reports_stats(self):
         rows = [
@@ -216,7 +236,11 @@ class RetrievalPolicy(unittest.TestCase):
         self.assertEqual(calls, [50])
 
     def test_jobspy_metro_radii(self):
-        self.assertEqual(sj.JOBSPY_LOCATIONS, [("Los Angeles, CA", 30), ("Irvine, CA", 25)])
+        self.assertEqual(sj.JOBSPY_LOCATIONS, [
+            ("Los Angeles, CA", 30), ("Irvine, CA", 25),
+            ("San Francisco, CA", 40), ("New York, NY", 25),
+            ("Atlanta, GA", 30), ("Chicago, IL", 30),
+        ])
 
 
 class RefilterCommand(unittest.TestCase):

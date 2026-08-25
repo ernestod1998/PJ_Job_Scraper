@@ -1,6 +1,6 @@
 # 🤖 Job Triage Agent
 
-> This is the **PJ_Job_Scraper** fork (LA / OC / Long Beach; account-management,
+> This is the **PJ_Job_Scraper** fork (LA · SF Bay Area · NYC · Atlanta · Chicago; account-management,
 > marketing, project/ops, sales, and entertainment lanes), operated by Ernesto for PJ.
 > Scoring is paused — this document describes dormant machinery.
 

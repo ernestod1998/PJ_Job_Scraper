@@ -1,5 +1,5 @@
 """
-LA / OC / Long Beach Job Scraper (PJ)
+LA · SF Bay Area · NYC · Atlanta · Chicago Job Scraper (PJ)
 Three pipelines (see __main__): LinkedIn guest-endpoint watcher, Indeed via
 python-jobspy, and a curated sweep (direct Greenhouse/Workday probes +
 allowlist-filtered LinkedIn). Each writes {basename}.{json,md,html} digests and
@@ -202,9 +202,12 @@ def is_socal(location: str) -> bool:
     return any(city in loc for city in SOCAL_LOCATIONS)
 
 
-# State confirm for ambiguous city names (used by _socal_confirmed).
+# State confirm for ambiguous city names (used by _metro_confirmed / is_nyc).
 _STATE_CONFIRM = {
     "CA": re.compile(r'\b(ca|calif|california)\b', re.IGNORECASE),
+    "NY": re.compile(r'\b(ny|new york)\b', re.IGNORECASE),
+    "GA": re.compile(r'\b(ga|georgia)\b', re.IGNORECASE),
+    "IL": re.compile(r'\b(il|ill|illinois)\b', re.IGNORECASE),
 }
 
 
@@ -229,18 +232,129 @@ _SOCAL_AMBIGUOUS = {"hollywood", "glendale", "long beach", "pasadena",
                     "lakewood", "carson", "cypress", "hawthorne", "monrovia",
                     "inglewood", "santa ana", "brea"}
 
+# ---- SF Bay Area (restored from the parent repo, 2026-08-25) ----
+BAY_AREA_LOCATIONS = [
+    "bay area",
+    "san francisco", "south san francisco", "daly city",
+    "oakland", "berkeley", "alameda", "emeryville", "richmond",
+    "palo alto", "mountain view", "menlo park", "sunnyvale",
+    "santa clara", "san jose", "cupertino", "los altos", "los gatos",
+    "san mateo", "foster city", "redwood city", "san carlos", "brisbane", "millbrae",
+    "san bruno", "burlingame", "belmont",
+    "fremont", "hayward", "union city", "newark", "milpitas",
+    "concord", "walnut creek", "pleasanton", "dublin", "san ramon",
+    "danville", "livermore",
+    "novato", "san rafael", "mill valley", "sausalito",
+    "vacaville",
+]
+# Dublin IE, Brisbane AU, Newark NJ/DE, Richmond VA/UK, Concord NH, Union City
+# NJ, Danville VA — require a CA confirm.
+_BAY_AMBIGUOUS = {"dublin", "brisbane", "newark", "richmond", "concord",
+                  "union city", "danville"}
 
-def _socal_confirmed(location: str) -> bool:
-    # No metro shortcut on purpose: "la" collides with Louisiana; the
-    # unambiguous "los angeles"/"greater los angeles" tokens cover metro
-    # strings already.
-    loc = (location or "").lower()
-    for city in SOCAL_LOCATIONS:
-        if city not in loc:
-            continue
-        if city in _SOCAL_AMBIGUOUS and not _STATE_CONFIRM["CA"].search(loc):
-            continue
+# ---- Atlanta metro (added 2026-08-25) ----
+ATLANTA_LOCATIONS = [
+    "atlanta", "metro atlanta", "atlanta metropolitan",
+    "sandy springs", "alpharetta", "marietta", "decatur", "roswell",
+    "dunwoody", "buckhead", "smyrna", "kennesaw", "norcross", "duluth",
+    "johns creek", "peachtree corners", "peachtree city", "lawrenceville",
+    "suwanee", "brookhaven", "chamblee", "doraville", "college park",
+    "east point", "vinings", "woodstock",
+]
+# Decatur IL/AL, Roswell NM, Smyrna TN/DE, Duluth MN, Lawrenceville NJ,
+# College Park MD, Woodstock NY/IL, Brookhaven NY, Marietta OH, East Pointe MI.
+_ATLANTA_AMBIGUOUS = {"decatur", "roswell", "smyrna", "duluth", "lawrenceville",
+                      "college park", "woodstock", "brookhaven", "marietta",
+                      "east point"}
+
+# ---- Chicago metro (added 2026-08-25) ----
+CHICAGO_LOCATIONS = [
+    "chicago", "chicagoland", "greater chicago", "chicago metropolitan",
+    "evanston", "oak park", "schaumburg", "naperville", "oak brook",
+    "oakbrook terrace", "skokie", "rosemont", "des plaines",
+    "arlington heights", "deerfield", "northbrook", "lombard",
+    "downers grove", "elk grove village", "hoffman estates", "itasca",
+    "lincolnshire", "glenview", "wilmette", "cicero", "aurora", "joliet",
+    "bolingbrook", "lisle",
+]
+# Oak Park CA/MI, Deerfield MA/FL, Aurora CO, Lincolnshire UK, Cicero NY,
+# Evanston WY, Rosemont PA/MN, Arlington Heights WA/OH.
+_CHICAGO_AMBIGUOUS = {"oak park", "deerfield", "aurora", "lincolnshire",
+                      "cicero", "evanston", "rosemont", "arlington heights"}
+
+# One entry per substring-gated metro: (tokens, ambiguous tokens, state key).
+# NYC is handled separately by is_nyc() because its rules are structural
+# (boroughs, a short approved-NJ list, metro-label rejection), not token-based.
+WATCH_METROS = [
+    (SOCAL_LOCATIONS, _SOCAL_AMBIGUOUS, "CA"),
+    (BAY_AREA_LOCATIONS, _BAY_AMBIGUOUS, "CA"),
+    (ATLANTA_LOCATIONS, _ATLANTA_AMBIGUOUS, "GA"),
+    (CHICAGO_LOCATIONS, _CHICAGO_AMBIGUOUS, "IL"),
+]
+
+# ---- NYC (restored from the parent repo, 2026-08-25) ----
+# "new york" counted only in city position (or an explicit NYC form) — the
+# bare token would otherwise match upstate strings like "Albany, New York"
+# on the state name alone.
+_NYC_CITY_RE = re.compile(
+    r'\bnew york\s*,\s*(ny|new york)\b'
+    r'|\bnew york city\b'
+    r'|\bnyc\b', re.IGNORECASE)
+# LinkedIn's own geo label for the NYC scope. Accepted explicitly, and checked
+# BEFORE the generic "metro" rejection below, so the ~10% of cards carrying
+# the label aren't thrown away while "New York metro"/"Greater NYC" still are.
+_NYC_METRO_LABEL_RE = re.compile(r'\bnew york city metropolitan area\b', re.IGNORECASE)
+_NYC_BOROUGHS = {"manhattan", "brooklyn", "queens", "bronx", "staten island"}
+_CLOSE_NJ_CITIES = {
+    "jersey city", "hoboken", "newark", "secaucus", "weehawken",
+    "north bergen", "fort lee",
+}
+_NJ_AMBIGUOUS = {"newark", "fort lee"}
+_NJ_CONFIRM_RE = re.compile(r'\b(nj|new jersey)\b', re.IGNORECASE)
+
+
+def is_nyc(location: str) -> bool:
+    """Strict general-feed NYC/nearby-NJ gate.
+
+    This intentionally excludes broad metro/state labels, Long Island,
+    Westchester/Connecticut, and NJ cities beyond the small approved set.
+    """
+    low = (location or "").lower()
+    if not low:
+        return False
+    if _NYC_METRO_LABEL_RE.search(low):
         return True
+    if "metro" in low:
+        return False
+    if _NYC_CITY_RE.search(low):
+        return True
+    if any(re.search(rf'\b{re.escape(city)}\b', low) for city in _NYC_BOROUGHS):
+        return bool(_STATE_CONFIRM["NY"].search(low) or "new york city" in low)
+    for city in _CLOSE_NJ_CITIES:
+        if not re.search(rf'\b{re.escape(city)}\b', low):
+            continue
+        # Newark and Fort Lee have common out-of-state namesakes. The other
+        # approved city names are specific enough to accept when an upstream
+        # board omits the state (a common ATS formatting choice).
+        if city not in _NJ_AMBIGUOUS or _NJ_CONFIRM_RE.search(low):
+            return True
+    return False
+
+
+def _metro_confirmed(location: str) -> bool:
+    """Substring gate across WATCH_METROS with a state confirm for tokens that
+    have out-of-state namesakes. No "la" shortcut (collides with Louisiana);
+    the "sf" token shortcut is kept from the parent repo."""
+    loc = (location or "").lower()
+    if re.search(r'(^|\W)sf(\W|$)', loc):
+        return True
+    for tokens, ambiguous, state in WATCH_METROS:
+        for city in tokens:
+            if city not in loc:
+                continue
+            if city in ambiguous and not _STATE_CONFIRM[state].search(loc):
+                continue
+            return True
     return False
 
 
@@ -249,11 +363,16 @@ INCLUDE_REMOTE_US = False
 
 
 def is_watch_location(location: str) -> bool:
-    """Geo gate for the location-scoped watchers: LA / OC / Long Beach.
-    Uses _socal_confirmed, not is_socal — its callers see nationwide
-    location strings, where bare "glendale"/"long beach"/"orange" substrings
-    would otherwise pass for out-of-state cities."""
-    return _socal_confirmed(location) or (INCLUDE_REMOTE_US and is_remote_us(location))
+    """Geo gate for the location-scoped watchers: LA · SF Bay Area · NYC · Atlanta · Chicago, the SF
+    Bay Area, NYC (+ close NJ), Atlanta, and Chicago. Uses the confirmed
+    metro gate, not is_socal — its callers see nationwide location strings,
+    where bare "glendale"/"long beach"/"aurora" substrings would otherwise
+    pass for out-of-state cities."""
+    return (
+        _metro_confirmed(location)
+        or is_nyc(location)
+        or (INCLUDE_REMOTE_US and is_remote_us(location))
+    )
 
 
 # Remote roles count as US only on an affirmative US signal, or when the
@@ -1022,14 +1141,20 @@ LINKEDIN_SEARCH_TERMS = [
     "development assistant",
 ]
 
-LINKEDIN_LOOKBACK_SECONDS = 3600          # 1h — hourly watcher surfaces the freshest hour
+LINKEDIN_LOOKBACK_SECONDS = 14400         # 4h — watcher runs 5x/day (~3h apart); overlap is deduped
 LINKEDIN_BIOTECH_LOOKBACK_SECONDS = 86400 # 24h — biotech is a daily 8pm PT digest
 
 # Guest-endpoint geo scopes as (display name, LinkedIn geoId) pairs.
-# geoId 90000049 verified live against the guest endpoint 2026-08-24
-# (returns LA/OC cards; the LA metro area includes Orange County).
+# 90000049 verified live 2026-08-24 (LA metro incl. Orange County);
+# 90000052 (Atlanta) and 90000014 (Chicago) verified live 2026-08-25;
+# 90000084 (SF Bay Area) and 90000070 (NYC) carried over from the parent repo
+# (NYC verified 2026-07-21).
 LINKEDIN_LOCATIONS = [
     ("Los Angeles Metropolitan Area", "90000049"),
+    ("San Francisco Bay Area", "90000084"),
+    ("New York City Metropolitan Area", "90000070"),
+    ("Atlanta Metropolitan Area", "90000052"),
+    ("Greater Chicago Area", "90000014"),
 ]
 
 # Biotech allowlist used by the LinkedIn-side filter. Broader than CURATED_BIOTECHS
@@ -1268,8 +1393,13 @@ INDEED_JD_MAX_CHARS = 6000
 
 # Metro scopes for the jobspy-backed sources (Indeed, ZipRecruiter + Google).
 # 30mi from LA covers Burbank → Long Beach → Santa Monica; 25mi from Irvine
-# covers OC. The central post-fetch policy is authoritative.
-JOBSPY_LOCATIONS = [("Los Angeles, CA", 30), ("Irvine, CA", 25)]
+# covers OC; 40mi from SF covers the Peninsula + East Bay; NYC stays tight.
+# The central post-fetch policy is authoritative.
+JOBSPY_LOCATIONS = [
+    ("Los Angeles, CA", 30), ("Irvine, CA", 25),
+    ("San Francisco, CA", 40), ("New York, NY", 25),
+    ("Atlanta, GA", 30), ("Chicago, IL", 30),
+]
 
 
 def _jobspy_fetch_with_retry(jobspy_scrape, **kwargs):
@@ -1290,7 +1420,7 @@ def _jobspy_fetch_with_retry(jobspy_scrape, **kwargs):
 
 
 def scrape_indeed_recent() -> list:
-    """Indeed roles posted in the last INDEED_LOOKBACK_HOURS, LA / OC / Long Beach."""
+    """Indeed roles posted in the last INDEED_LOOKBACK_HOURS, LA · SF Bay Area · NYC · Atlanta · Chicago."""
     print(f"🟦 Scraping Indeed (last {INDEED_LOOKBACK_HOURS}h)...")
     try:
         from jobspy import scrape_jobs as jobspy_scrape
@@ -1807,8 +1937,8 @@ def save_linkedin_results(jobs: list):
     save_jobs_output(
         jobs,
         basename="linkedin_jobs",
-        title="🔥 LinkedIn — Marketing / Account Mgmt / Coordinator Roles (LA / OC / Long Beach)",
-        subtitle=f"LA / OC / Long Beach · last {LINKEDIN_LOOKBACK_SECONDS // 3600}h",
+        title="🔥 LinkedIn — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)",
+        subtitle=f"LA · SF Bay Area · NYC · Atlanta · Chicago · last {LINKEDIN_LOOKBACK_SECONDS // 3600}h",
         accent="#3b82f6",
         empty_message="No new roles since the last run.",
         window_label=f"last {LINKEDIN_LOOKBACK_SECONDS // 3600}h",
@@ -1819,8 +1949,8 @@ def save_indeed_results(jobs: list):
     save_jobs_output(
         jobs,
         basename="indeed_jobs",
-        title="🟦 Indeed — Marketing / Account Mgmt / Coordinator Roles (LA / OC / Long Beach)",
-        subtitle=f"LA / OC / Long Beach · last {INDEED_LOOKBACK_HOURS}h",
+        title="🟦 Indeed — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)",
+        subtitle=f"LA · SF Bay Area · NYC · Atlanta · Chicago · last {INDEED_LOOKBACK_HOURS}h",
         accent="#2557a7",
         empty_message="No new roles since the last run.",
         window_label=f"last {INDEED_LOOKBACK_HOURS}h",
@@ -1831,8 +1961,8 @@ def save_boards_results(jobs: list):
     save_jobs_output(
         jobs,
         basename="boards_jobs",
-        title="🟪 ZipRecruiter + Google — Marketing / Account Mgmt / Coordinator Roles (LA / OC / Long Beach)",
-        subtitle=f"LA / OC / Long Beach · last {BOARDS_LOOKBACK_HOURS}h",
+        title="🟪 ZipRecruiter + Google — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)",
+        subtitle=f"LA · SF Bay Area · NYC · Atlanta · Chicago · last {BOARDS_LOOKBACK_HOURS}h",
         accent="#7c5cff",
         empty_message="No new roles since the last run.",
         window_label=f"last {BOARDS_LOOKBACK_HOURS}h",
@@ -1977,7 +2107,7 @@ def save_results(jobs: list):
 # ===========================================================================
 # Salary backfill + extra sources (USAJOBS / GovernmentJobs / CalCareers /
 # CalOpps). These reuse the repo's existing keyword gate (is_target_role) and
-# location predicate (is_watch_location — LA / OC / Long Beach), so they
+# location predicate (is_watch_location — LA · SF Bay Area · NYC · Atlanta · Chicago), so they
 # follow whatever KEYWORDS / SOCAL_LOCATIONS the maintainer sets — no
 # domain-specific terms are hardcoded here. Heavier per-term sources share GOV_SEARCH_TERMS (a slice of
 # the LinkedIn list) to keep request counts sane; widen it if you like.
@@ -2136,7 +2266,7 @@ GOVERNMENTJOBS_PAGES = 2
 
 def scrape_governmentjobs_recent() -> list:
     """State/local-government roles via governmentjobs.com, filtered to the
-    repo's watch locations (LA / OC / Long Beach) with is_watch_location()."""
+    repo's watch locations (LA · SF Bay Area · NYC · Atlanta · Chicago) with is_watch_location()."""
     print("🏛  Scraping GovernmentJobs/NEOGOV (state & local gov)...")
     import html as html_mod
     item_re = re.compile(r'<li[^>]*class=["\'][^"\']*\bjob-item\b[^"\']*["\'][^>]*>([\s\S]*?)</li>', re.I)
@@ -2463,9 +2593,9 @@ REFILTER_OUTPUTS = {
 
 REFILTER_RENDER_CONFIG = {
     "jobs": ("🧬 Biotech LinkedIn — MLE / DS Roles", "US biotech allowlist", "#2ea04f", "No new biotech roles since the last run."),
-    "linkedin_jobs": ("🔥 LinkedIn — Marketing / Account Mgmt / Coordinator Roles (LA / OC / Long Beach)", "LA / OC / Long Beach", "#3b82f6", "No new roles since the last run."),
-    "indeed_jobs": ("🟦 Indeed — Marketing / Account Mgmt / Coordinator Roles (LA / OC / Long Beach)", "LA / OC / Long Beach", "#2557a7", "No new roles since the last run."),
-    "boards_jobs": ("🟪 ZipRecruiter + Google — Marketing / Account Mgmt / Coordinator Roles", "LA / OC / Long Beach", "#7c5cff", "No new roles since the last run."),
+    "linkedin_jobs": ("🔥 LinkedIn — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)", "LA · SF Bay Area · NYC · Atlanta · Chicago", "#3b82f6", "No new roles since the last run."),
+    "indeed_jobs": ("🟦 Indeed — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)", "LA · SF Bay Area · NYC · Atlanta · Chicago", "#2557a7", "No new roles since the last run."),
+    "boards_jobs": ("🟪 ZipRecruiter + Google — Marketing / Account Mgmt / Coordinator Roles", "LA · SF Bay Area · NYC · Atlanta · Chicago", "#7c5cff", "No new roles since the last run."),
     "usajobs_jobs": ("🇺🇸 USAJOBS — Federal Roles", "usajobs.gov · federal agencies", "#1d4ed8", "No new federal roles since the last run."),
     "governmentjobs_jobs": ("🏛 NEOGOV — State & Local Government Roles", "governmentjobs.com", "#0e7490", "No new state/local-gov roles since the last run."),
     "calopps_jobs": ("🏛 CalOpps — California Local-Agency Roles", "calopps.org · CA cities, counties, special districts", "#15803d", "No new CalOpps roles since the last run."),
@@ -2769,7 +2899,7 @@ if __name__ == "__main__":
 
     before = len(all_jobs)
     all_jobs = [j for j in all_jobs if is_watch_location(j.get("location", ""))]
-    print(f"\n📍 LA / OC / Long Beach filter: {before} → {len(all_jobs)} roles")
+    print(f"\n📍 LA · SF Bay Area · NYC · Atlanta · Chicago filter: {before} → {len(all_jobs)} roles")
 
     before = len(all_jobs)
     all_jobs = [j for j in all_jobs if is_recent_posting(j)]

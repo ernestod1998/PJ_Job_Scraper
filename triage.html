@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>Job Triage — PJ · LA/OC</title>
+<title>Job Triage — PJ · LA · SF · NYC · ATL · CHI</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
@@ -264,7 +264,7 @@
 
 <header>
   <h1>Job Triage</h1>
-  <span class="sub" id="snapshot-line" aria-live="polite" aria-atomic="true">LA / Orange County · loading…</span>
+  <span class="sub" id="snapshot-line" aria-live="polite" aria-atomic="true">LA · SF · NYC · Atlanta · Chicago · loading…</span>
   <span class="grow"></span>
   <button type="button" class="iconbtn" id="refresh-btn" title="Re-fetch all sources">↻ Refresh</button>
   <button type="button" class="iconbtn" id="paste-btn">Paste fresh JSON</button>
@@ -1279,6 +1279,24 @@
     'garden grove': [33.7743, -117.938], 'buena park': [33.8675, -117.9981],
     'brea': [33.9167, -117.9001], 'mission viejo': [33.6, -117.6719],
     'lake forest': [33.6469, -117.6861], 'aliso viejo': [33.5686, -117.7267],
+    // ---- Atlanta / Chicago / NYC-area (added 2026-08-25) ----
+    'alpharetta': [34.0754, -84.2941], 'marietta': [33.9526, -84.5499],
+    'decatur': [33.7748, -84.2963], 'sandy springs': [33.9304, -84.3733],
+    'dunwoody': [33.9462, -84.3346], 'roswell': [34.0232, -84.3616],
+    'kennesaw': [34.0234, -84.6155], 'norcross': [33.9412, -84.2135],
+    'duluth': [34.0029, -84.1446], 'johns creek': [34.0289, -84.1986],
+    'smyrna': [33.8839, -84.5144], 'buckhead': [33.8387, -84.3797],
+    'evanston': [42.0451, -87.6877], 'naperville': [41.7508, -88.1535],
+    'schaumburg': [42.0334, -88.0834], 'oak brook': [41.8328, -87.9289],
+    'skokie': [42.0324, -87.7416], 'rosemont': [41.9953, -87.8845],
+    'des plaines': [42.0334, -87.8834], 'arlington heights': [42.0884, -87.9806],
+    'northbrook': [42.1275, -87.8290], 'downers grove': [41.8089, -88.0112],
+    'brooklyn': [40.6782, -73.9442], 'queens': [40.7282, -73.7949],
+    'jersey city': [40.7178, -74.0431], 'hoboken': [40.7440, -74.0324],
+    'secaucus': [40.7895, -74.0565],
+    // Newark is the one city two in-scope metros both accept (NJ via the NYC
+    // gate, CA via the Bay gate) — state-suffixed keys, never a bare 'newark'.
+    'newark, nj': [40.7357, -74.1724], 'newark, ca': [37.5297, -121.9999],
   };
   const CA_CENTER = [33.95, -118.15];
   const US_CENTROID = [39.5, -98.0];
@@ -1632,7 +1650,7 @@
     const mins = Math.floor((Date.now() - (state._lastLoaded||0)) / 60000);
     const ago = mins < 1 ? 'just now' : `${mins}m ago`;
     $('snapshot-line').textContent =
-      `LA / Orange County · scrape ${SEED.scraped_at || 'unknown'} · loaded ${ago} · ${state.jobs.length} jobs`;
+      `LA · SF · NYC · Atlanta · Chicago · scrape ${SEED.scraped_at || 'unknown'} · loaded ${ago} · ${state.jobs.length} jobs`;
   }
   setInterval(() => {
     if (!document.hidden && state._lastLoaded) updateSnapshotLine();
