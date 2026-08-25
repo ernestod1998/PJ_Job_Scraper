@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-25 08:38 UTC",
+  "scraped_at": "2026-08-25 08:47 UTC",
   "total": 12,
-  "new_count": 12,
+  "new_count": 0,
   "jobs": [
     {
       "company": "The Walt Disney Company",
@@ -136,140 +136,7 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "The Walt Disney Company",
-      "title": "Executive Assistant",
-      "location": "Burbank, CA, USA",
-      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Executive-Assistant_10158209",
-      "date_posted": "Posted 5 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "hollywood"
-      ]
-    },
-    {
-      "company": "The Walt Disney Company",
-      "title": "Manager, Digital Marketing (YouTube)",
-      "location": "New York, NY, USA",
-      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Manager--Digital-Marketing--YouTube-_10157321",
-      "date_posted": "Posted 5 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "hollywood"
-      ]
-    },
-    {
-      "company": "The Walt Disney Company",
-      "title": "Specialist, Client Services",
-      "location": "New York, NY, USA",
-      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Specialist--Client-Services_10155624",
-      "date_posted": "Posted Yesterday",
-      "ats": "Workday",
-      "feeds": [
-        "hollywood"
-      ]
-    },
-    {
-      "company": "The Walt Disney Company",
-      "title": "Associate Project Manager (Facility Asset Management)",
-      "location": "Anaheim, CA, USA",
-      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Associate-Project-Manager--Facility-Asset-Management-_10158806",
-      "date_posted": "Posted 6 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "hollywood"
-      ]
-    },
-    {
-      "company": "The Walt Disney Company",
-      "title": "Media Coordinator",
-      "location": "New York, NY, USA",
-      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Media-Coordinator_10158005",
-      "date_posted": "Posted 7 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "hollywood"
-      ]
-    },
-    {
-      "company": "Live Nation Entertainment",
-      "title": "LN Concerts, Tour Marketing Coordinator",
-      "location": "Beverly Hills, CA, USA",
-      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/LN-Concerts--Tour-Marketing-Coordinator_JR-92498-2",
-      "date_posted": "Posted 6 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "hollywood"
-      ]
-    },
-    {
-      "company": "Live Nation Entertainment",
-      "title": "Insomniac - Creative Project Coordinator",
-      "location": "Calabasas, CA, USA",
-      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Creative-Project-Coordinator_JR-92256-1",
-      "date_posted": "Posted 13 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "hollywood"
-      ]
-    },
-    {
-      "company": "Live Nation Entertainment",
-      "title": "Insomniac - Paid Fall Public Relations Intern",
-      "location": "Calabasas, CA, USA",
-      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Paid-Fall-Public-Relations-Intern_JR-92533-1",
-      "date_posted": "Posted 8 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "hollywood"
-      ]
-    },
-    {
-      "company": "iHeartMedia",
-      "title": "Executive Assistant",
-      "location": "Chicago, IL",
-      "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Chicago-IL/Executive-Assistant_Req39123-2",
-      "date_posted": "Posted 6 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "hollywood"
-      ]
-    },
-    {
-      "company": "United Talent Agency",
-      "title": "Executive Assistant - Technology ",
-      "location": "Los Angeles, CA",
-      "url": "https://jobs.ashbyhq.com/united-talent-agency/f1f09a00-c315-4432-803b-64b12bf9bc46",
-      "date_posted": "2026-08-12",
-      "ats": "Ashby",
-      "feeds": [
-        "hollywood"
-      ]
-    },
-    {
-      "company": "United Talent Agency",
-      "title": "Executive Assistant, People",
-      "location": "Los Angeles, CA",
-      "url": "https://jobs.ashbyhq.com/united-talent-agency/d0212fa0-1038-46d7-8a71-d8eea5740f89",
-      "date_posted": "2026-08-13",
-      "ats": "Ashby",
-      "feeds": [
-        "hollywood"
-      ]
-    },
-    {
-      "company": "Live Nation Entertainment",
-      "title": "Insomniac - Merchandise & Content Marketing Manager",
-      "location": "Calabasas, CA",
-      "url": "https://www.linkedin.com/jobs/view/4343015428/",
-      "date_posted": "2026-08-24",
-      "ats": "LinkedIn",
-      "feeds": [
-        "hollywood"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
