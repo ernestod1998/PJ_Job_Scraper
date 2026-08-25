@@ -1,4 +1,4 @@
-name: Indeed MLE/DS Watcher
+name: Indeed Watcher
 
 on:
   # Scheduling is driven externally by cron-job.org (hourly at :47 PT, 8am-8pm).

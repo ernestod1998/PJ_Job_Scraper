@@ -1,4 +1,4 @@
-name: LinkedIn MLE/DS Watcher
+name: LinkedIn Watcher
 
 on:
   # Scheduling is driven externally by cron-job.org (hourly at :17 PT, 8am-8pm).
