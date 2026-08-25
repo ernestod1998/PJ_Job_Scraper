@@ -1,197 +1,192 @@
 # 🟦 Indeed — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-08-25 15:26 UTC*
+*Last updated: 2026-08-25 18:02 UTC*
 
-**40 new role(s)** since last run · 280 total in last 24h
+**39 new role(s)** since last run · 253 total in last 24h
 
-### [Logistics Coordinator](https://www.indeed.com/viewjob?jk=a8de225417fabddd) — Aebi Schmidt Group
-- 📍 **Location:** Carson, CA, US
-- 💰 **Salary:** $26–$29/hr
+### [Program Coordinator (Interim Housing) 80th](https://www.indeed.com/viewjob?jk=536fce4c390736c1) — A Step to Freedom Inc.
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $23–$26/hr
 - 🕒 **Posted:** 2026-08-25
 
-### [Marketing Coordinator](https://www.indeed.com/viewjob?jk=450f1b4e5d846f8e) — Cambro Manufacturing Company
-- 📍 **Location:** Huntington Beach, CA, US
-- 💰 **Salary:** $22–$26/hr
+### [Community Coordinator and PR](https://www.indeed.com/viewjob?jk=f4e9532f036891bf) — Cold Cloud Mechanical
+- 📍 **Location:** Glendale, CA, US
+- 💰 **Salary:** $19–$20/hr
 - 🕒 **Posted:** 2026-08-25
 
-### [Sales Operations Specialist](https://www.indeed.com/viewjob?jk=abcfc7a38b142c89) — Yusen Logistics
+### [Operations Coordinator — Entry-Level, Career Growth Track](https://www.indeed.com/viewjob?jk=cf5ca8508c1f7dff) — Storage Etc
+- 📍 **Location:** Los Angeles, CA, US
+- 🕒 **Posted:** 2026-08-25
+
+### [Research Coordinator I](https://www.indeed.com/viewjob?jk=caf3360da6f3a58b) — University of Southern California
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $32–$42/hr
+- 🕒 **Posted:** 2026-08-24
+
+### [Research Coordinator II](https://www.indeed.com/viewjob?jk=dac33a1086d6a097) — University of Southern California
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $35–$46/hr
+- 🕒 **Posted:** 2026-08-24
+
+### [Account Manager, Manufacturing](https://www.indeed.com/viewjob?jk=55871e7c38ed2429) — Grainger
+- 📍 **Location:** Inglewood, CA, US
+- 💰 **Salary:** $72k–$120k/yr
+- 🕒 **Posted:** 2026-08-25
+
+### [Assistant National Account Manager - Security](https://www.indeed.com/viewjob?jk=4823878e3777c858) — GardaWorld Security Services US
+- 📍 **Location:** Los Angeles, CA, US
+- 🕒 **Posted:** 2026-08-24
+
+### [Management - Account Manager](https://www.indeed.com/viewjob?jk=6d1c502823c00c6c) — Dnata Catering
+- 📍 **Location:** El Segundo, CA, US
+- 💰 **Salary:** $75k–$90k/yr
+- 🕒 **Posted:** 2026-08-24
+
+### [National Account Manager](https://www.indeed.com/viewjob?jk=b56498e47f875875) — Cogent Communications
+- 📍 **Location:** Pasadena, CA, US
+- 💰 **Salary:** $19–$48/hr
+- 🕒 **Posted:** 2026-08-24
+
+### [National Account Manager](https://www.indeed.com/viewjob?jk=5743bea9f0218525) — Cogent Communications
+- 📍 **Location:** Pasadena, CA, US
+- 💰 **Salary:** $19–$48/hr
+- 🕒 **Posted:** 2026-08-24
+
+### [Manager, Customer Success](https://www.indeed.com/viewjob?jk=96ac25e1524be6d7) — SimplePractice
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $76k–$95k/yr
+- 🕒 **Posted:** 2026-08-25
+
+### [Internal Sales Representative | GlobalNow Tech](https://www.indeed.com/viewjob?jk=1f993c9013a9aa9f) — Westlake Financial
+- 📍 **Location:** Los Angeles, CA, US
+- 🕒 **Posted:** 2026-08-25
+
+### [Construction Technology Sales Representative](https://www.indeed.com/viewjob?jk=a27423cc80ffe229) — Coastline Equipment
 - 📍 **Location:** Long Beach, CA, US
-- 🕒 **Posted:** 2026-08-24
-
-### [Account Manager - Grocery Retail Merchandising](https://www.indeed.com/viewjob?jk=62f9087adbb3dc83) — Dirty Hands
-- 📍 **Location:** Fountain Valley, CA, US
-- 💰 **Salary:** $21–$34/hr
+- 💰 **Salary:** $85k–$125k/yr
 - 🕒 **Posted:** 2026-08-25
 
-### [Account Manager - Grocery Retail Merchandising](https://www.indeed.com/viewjob?jk=2ba655b083e09bcc) — Dirty Hands
-- 📍 **Location:** Huntington Beach, CA, US
-- 💰 **Salary:** $21–$34/hr
+### [Service Sales Representative - First Aid and Safety](https://www.indeed.com/viewjob?jk=059e5a2af5c32412) — Cintas
+- 📍 **Location:** Burbank, CA, US
+- 💰 **Salary:** $45k–$90k/yr
 - 🕒 **Posted:** 2026-08-25
 
-### [Dual Sales Coordinator](https://www.indeed.com/viewjob?jk=2f3289e73b965b67) — Unknown
-- 📍 **Location:** Novato, CA, US
-- 🕒 **Posted:** 2026-08-24
-
-### [Regional Operations Coordinator – Commercial Foodservice](https://www.indeed.com/viewjob?jk=5aa40a43ba13487b) — Unknown
-- 📍 **Location:** San Francisco Bay Area, CA, US
-- 💰 **Salary:** $75k–$150k/yr
-- 🕒 **Posted:** 2026-08-25
-
-### [Regional Operations Coordinator – Commercial Foodservice](https://www.indeed.com/viewjob?jk=5fdf1e5f935ecb8d) — Unknown
-- 📍 **Location:** San Francisco Bay Area, CA, US
-- 💰 **Salary:** $75k–$150k/yr
-- 🕒 **Posted:** 2026-08-25
-
-### [Technical Account Manager, AWS Enterprise Support, Strategic Industries](https://www.indeed.com/viewjob?jk=7adf3db2688a3f35) — Amazon Web Services
+### [Program Coordinator (Nonprofit)](https://www.indeed.com/viewjob?jk=823f92e569297ea8) — Moms Against Poverty
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $131k–$204k/yr
-- 🕒 **Posted:** 2026-08-24
-
-### [Technical Account Manager, AWS Enterprise Support, Strategic Industries](https://www.indeed.com/viewjob?jk=d76b39c577dfbdfa) — Amazon Web Services
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $131k–$204k/yr
-- 🕒 **Posted:** 2026-08-24
-
-### [Technical Account Manager, AWS Enterprise Support, Strategic Industries](https://www.indeed.com/viewjob?jk=743d14465139a232) — Amazon Web Services
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $131k–$204k/yr
-- 🕒 **Posted:** 2026-08-24
-
-### [Technical Account Manager, AWS Enterprise Support, Strategic Industries](https://www.indeed.com/viewjob?jk=9bbc097d8517900f) — Amazon Web Services
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $131k–$204k/yr
-- 🕒 **Posted:** 2026-08-24
-
-### [Client Services Associate](https://www.indeed.com/viewjob?jk=6dd65cf1b827fe55) — Alumni Ventures
-- 📍 **Location:** Menlo Park, CA, US
-- 💰 **Salary:** $60k–$70k/yr
 - 🕒 **Posted:** 2026-08-25
 
-### [Field Sales Operations Lead, US Specialist Org, NAMER Specialist Operations](https://www.indeed.com/viewjob?jk=b64dc18265258c2a) — Amazon Web Services
-- 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $88k–$170k/yr
-- 🕒 **Posted:** 2026-08-20
-
-### [Field Sales Representative](https://www.indeed.com/viewjob?jk=b25568ae07e69bec) — YupUp
+### [Assistant Project Manager – Industrial Construction (Mandarin/English)](https://www.indeed.com/viewjob?jk=5f63bdca29ee4bb0) — LCC3 SOLUTION INC
 - 📍 **Location:** Fremont, CA, US
-- 💰 **Salary:** $18–$22/hr
+- 💰 **Salary:** $67k–$81k/yr
 - 🕒 **Posted:** 2026-08-25
 
-### [Assistant Community Manager - Naya R0198986 Naya Sunnyvale, California Full time](https://www.indeed.com/viewjob?jk=4f05359cf97aa19a) — Greystar
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $22–$25/hr
+### [Operations Coordinator - Fine Jewelry Retail (3+ years of experience required)](https://www.indeed.com/viewjob?jk=c6fc7bd387d787a9) — Verigold
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $67k–$70k/yr
 - 🕒 **Posted:** 2026-08-25
 
-### [Community Coordinator](https://www.indeed.com/viewjob?jk=2c2034ef8c4876c1) — NYC Housing Authority
+### [Operations Coordinator, NPS Special Education Consultation Unit, SEO](https://www.indeed.com/viewjob?jk=7c1ec9738cecf1e9) — New York City Department of Education
 - 📍 **Location:** Manhattan, NY, US
-- 💰 **Salary:** $63k–$98k/yr
+- 💰 **Salary:** $72k–$81k/yr
 - 🕒 **Posted:** 2026-08-25
 
-### [Inter-Agency Coordinator](https://www.indeed.com/viewjob?jk=7b3f71c87f220383) — NYC Department of Design and Construction
-- 📍 **Location:** Queens, NY, US
-- 💰 **Salary:** $87k–$100k/yr
-- 🕒 **Posted:** 2026-08-25
-
-### [EMR Implementation Specialist, Manhattan, Operations- Hybrid](https://www.indeed.com/viewjob?jk=1f8b69e54676f771) — NYU Langone Health
+### [Business Development Coordinator](https://www.indeed.com/viewjob?jk=bd91ca0e89157df5) — Davis + Gilbert LLP
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $85k–$146k/yr
+- 💰 **Salary:** $65k–$85k/yr
 - 🕒 **Posted:** 2026-08-25
 
-### [Marketing coordinator](https://www.indeed.com/viewjob?jk=dd26682122bdc22d) — Burgerville
+### [People Coordinator & Office Operations Associate (part-time)](https://www.indeed.com/viewjob?jk=5d912b728cad2d36) — Bluevine
 - 📍 **Location:** Jersey City, NJ, US
-- 💰 **Salary:** $65k–$100k/yr
-- 🕒 **Posted:** 2026-08-24
-
-### [Event Coordinator](https://www.indeed.com/viewjob?jk=395e8fec0ec8d068) — Burgerville
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $65k–$100k/yr
-- 🕒 **Posted:** 2026-08-24
-
-### [Marketing coordinator](https://www.indeed.com/viewjob?jk=183796a35d584925) — Burgerville
-- 📍 **Location:** Newark, NJ, US
-- 💰 **Salary:** $65k–$100k/yr
-- 🕒 **Posted:** 2026-08-24
-
-### [Sales Account Manager](https://www.indeed.com/viewjob?jk=7dd773302926a2c1) — Masas USA Inc
-- 📍 **Location:** Bronx, NY, US
+- 💰 **Salary:** $25–$31/hr
 - 🕒 **Posted:** 2026-08-25
 
-### [Technical Account Manager, AWS Enterprise Support, Strategic Industries](https://www.indeed.com/viewjob?jk=0931e2b2222b59aa) — Amazon Web Services
+### [Rolling Stone: Account Manager](https://www.indeed.com/viewjob?jk=8e54357902e0d3a9) — Penske Media
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $131k–$204k/yr
-- 🕒 **Posted:** 2026-08-24
+- 💰 **Salary:** $68k–$78k/yr
+- 🕒 **Posted:** 2026-08-25
 
-### [Technical Account Manager, AWS Enterprise Support, Strategic Industries](https://www.indeed.com/viewjob?jk=c4728c32196086dc) — Amazon Web Services
+### [Customer Success Mgmt Assoc](https://www.indeed.com/viewjob?jk=1803d73e38494e91) — Moody's
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $131k–$204k/yr
-- 🕒 **Posted:** 2026-08-24
+- 💰 **Salary:** $68k–$98k/yr
+- 🕒 **Posted:** 2026-08-25
 
-### [Executive Assistant II, AWS WWCO Partner Management](https://www.indeed.com/viewjob?jk=70267b00fa732bc6) — Amazon Web Services
+### [Field Sales Operations Lead, US Specialist Org, NAMER Specialist Operations](https://www.indeed.com/viewjob?jk=6613cefce9cc7fd8) — Amazon Web Services
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $82k–$143k/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Field Sales Operations Lead, US Specialist Org, NAMER Specialist Operations](https://www.indeed.com/viewjob?jk=a82d06f5c15c9e46) — Amazon Web Services
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $88k–$170k/yr
+- 💰 **Salary:** $134k–$199k/yr
 - 🕒 **Posted:** 2026-08-20
 
-### [Sales Representative](https://www.indeed.com/viewjob?jk=3d5a4c6871de531f) — Surface Materials
+### [Field Sales Operations Lead, US Specialist Org, NAMER Specialist Operations](https://www.indeed.com/viewjob?jk=e5aa327205bf6ae9) — Amazon Web Services
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $134k–$199k/yr
+- 🕒 **Posted:** 2026-08-20
+
+### [PL Underwriting Sales Representative](https://www.indeed.com/viewjob?jk=90bf4bf80f403c52) — Verisk
+- 📍 **Location:** Jersey City, NJ, US
+- 🕒 **Posted:** 2026-08-25
+
+### [Construction Assistant Project Manager with specialization in Cost Estimating](https://www.indeed.com/viewjob?jk=9594ad0e9fbe2de6) — M TO-PROS Development Inc
 - 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $75k–$95k/yr
 - 🕒 **Posted:** 2026-08-25
 
-### [RN PROGRAM COORDINATOR – CNA TRAINING PROGRAM](https://www.indeed.com/viewjob?jk=58e282a86f371268) — Unknown
-- 📍 **Location:** College Park, GA, US
-- 💰 **Salary:** $750–$2000/mo
+### [Electrical Project Coordinator](https://www.indeed.com/viewjob?jk=db180f4085b3c1c4) — Owen Electric Company, Inc.
+- 📍 **Location:** Marietta, GA, US
+- 💰 **Salary:** $58k–$70k/yr
 - 🕒 **Posted:** 2026-08-25
 
-### [Clinical Research Coordinator](https://www.indeed.com/viewjob?jk=a3ab7c0e20edab84) — Fides Clinical Research
-- 📍 **Location:** Sandy Springs, GA, US
+### [Videographer & Social Media Coordinator](https://www.indeed.com/viewjob?jk=65323633475e2d75) — GROW STACK DRIVE
+- 📍 **Location:** Alpharetta, GA, US
+- 💰 **Salary:** $60k–$65k/yr
 - 🕒 **Posted:** 2026-08-25
 
-### [Sales Operations & Administrative Coordinator](https://www.indeed.com/viewjob?jk=52161efc9c7b0a0c) — Unknown
-- 📍 **Location:** Norcross, GA, US
-- 💰 **Salary:** $48k–$55k/yr
-- 🕒 **Posted:** 2026-08-25
+### [Social Media Specialist II](https://www.indeed.com/viewjob?jk=75aeb46334ff5a26) — Yamaha Motor
+- 📍 **Location:** Kennesaw, GA, US
+- 🕒 **Posted:** 2026-08-24
 
-### [Event Coordinator](https://www.indeed.com/viewjob?jk=9f2cb1ba996d1a40) — Burgerville
+### [Sales Development Representative (EST Time Zone)](https://www.indeed.com/viewjob?jk=7b9623e2a4aaed95) — RR Donnelley
 - 📍 **Location:** Atlanta, GA, US
-- 💰 **Salary:** $65k–$100k/yr
-- 🕒 **Posted:** 2026-08-24
-
-### [Technical Account Manager, AWS Enterprise Support, Strategic Industries](https://www.indeed.com/viewjob?jk=3f0d27f3b03977e4) — Amazon Web Services
-- 📍 **Location:** Atlanta, GA, US
-- 💰 **Salary:** $131k–$204k/yr
-- 🕒 **Posted:** 2026-08-24
-
-### [Technical Account Manager, AWS Enterprise Support, Strategic Industries](https://www.indeed.com/viewjob?jk=b927c5092a4f57d8) — Amazon Web Services
-- 📍 **Location:** Atlanta, GA, US
-- 💰 **Salary:** $131k–$204k/yr
-- 🕒 **Posted:** 2026-08-24
-
-### [Program Coordinator, Pulmonary Hypertension, Part-Time, Day Shift](https://www.indeed.com/viewjob?jk=8b590d5dd331e35a) — UChicago Medicine
-- 📍 **Location:** Chicago, IL, US
-- 🕒 **Posted:** 2026-08-25
-
-### [Registered Nurse RN - SANE Program Coordinator - Emergency Department](https://www.indeed.com/viewjob?jk=a3901088e6f20c60) — SAINT MARY OF NAZARETH HOSPITAL
-- 📍 **Location:** Chicago, IL, US
-- 💰 **Salary:** $36–$55/hr
-- 🕒 **Posted:** 2026-08-24
-
-### [Administrative Coordinator](https://www.indeed.com/viewjob?jk=17acec7c63322d1b) — J.S. Held
-- 📍 **Location:** Chicago, IL, US
-- 🕒 **Posted:** 2026-08-25
-
-### [Event Coordinator](https://www.indeed.com/viewjob?jk=4f2e29c63c9f3b6b) — Burgerville
-- 📍 **Location:** Chicago, IL, US
-- 💰 **Salary:** $65k–$100k/yr
-- 🕒 **Posted:** 2026-08-24
-
-### [Sales Development Representative (CST Time Zone)](https://www.indeed.com/viewjob?jk=24137d0ccf6d7416) — RR Donnelley
-- 📍 **Location:** Chicago, IL, US
 - 💰 **Salary:** $45k–$65k/yr
 - 🕒 **Posted:** 2026-08-25
 
-### [Fleet Mechanical Sales Representative](https://www.indeed.com/viewjob?jk=e388a19c762be0ff) — Pomp's Tire Service
+### [Program Specialist (EXECUTIVE I)](https://www.indeed.com/viewjob?jk=37e43d082c7110b5) — State of Illinois
 - 📍 **Location:** Chicago, IL, US
-- 💰 **Salary:** $70k–$100k/yr
+- 💰 **Salary:** $6135–$8790/mo
+- 🕒 **Posted:** 2026-08-25
+
+### [Recruiting Coordinator](https://www.indeed.com/viewjob?jk=c5561c8e133c88b8) — Chicago Trading Company
+- 📍 **Location:** Chicago, IL, US
+- 🕒 **Posted:** 2026-08-25
+
+### [Workforce Development Coordinator](https://www.indeed.com/viewjob?jk=b3eb9086759c4e72) — Associated Equipment Distributors
+- 📍 **Location:** Schaumburg, IL, US
+- 💰 **Salary:** $55k–$60k/yr
+- 🕒 **Posted:** 2026-08-25
+
+### [Inside Sales Agent - Chicago, Illinois](https://www.indeed.com/viewjob?jk=9d7380b96cbfc6b9) — Momentum Textiles, LLC
+- 📍 **Location:** Chicago, IL, US
+- 💰 **Salary:** $26–$30/hr
+- 🕒 **Posted:** 2026-08-25
+
+### [Field Sales Operations Lead, US Specialist Org, NAMER Specialist Operations](https://www.indeed.com/viewjob?jk=f74eda590f412dc4) — Amazon Web Services
+- 📍 **Location:** Chicago, IL, US
+- 💰 **Salary:** $134k–$199k/yr
+- 🕒 **Posted:** 2026-08-20
+
+### [Social Media Manager](https://www.indeed.com/viewjob?jk=a7d0dcd60f16700b) — Adler University
+- 📍 **Location:** Chicago, IL, US
+- 💰 **Salary:** $75k–$85k/yr
+- 🕒 **Posted:** 2026-08-24
+
+### [Associate Social & Community Manager (MadeGood)](https://www.indeed.com/viewjob?jk=ac4c960e1920520a) — Riverside Natural Foods
+- 📍 **Location:** Chicago, IL, US
+- 💰 **Salary:** $75k–$90k/yr
+- 🕒 **Posted:** 2026-08-24
+
+### [Community Manager](https://www.indeed.com/viewjob?jk=1205d449b2052801) — Jerry.AI
+- 📍 **Location:** Chicago, IL, US
+- 💰 **Salary:** $75k–$110k/yr
+- 🕒 **Posted:** 2026-08-24
+
+### [Customer and Sales Representative](https://www.indeed.com/viewjob?jk=0e9cc599402098b9) — Clear View Consultants
+- 📍 **Location:** Cicero, IL, US
+- 💰 **Salary:** $48k–$65k/yr
 - 🕒 **Posted:** 2026-08-25
