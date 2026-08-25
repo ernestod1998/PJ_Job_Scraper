@@ -1,0 +1,60 @@
+{
+  "scraped_at": "2026-08-25 07:34 UTC",
+  "total": 2,
+  "new_count": 2,
+  "jobs": [
+    {
+      "company": "WPP Media",
+      "title": "Media Planner",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4450857027/",
+      "date_posted": "2026-08-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "myKaarma",
+      "title": "People Operations Specialist",
+      "location": "Long Beach, CA",
+      "url": "https://www.linkedin.com/jobs/view/4440430099/",
+      "date_posted": "2026-08-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "WPP Media",
+      "title": "Media Planner",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4450857027/",
+      "date_posted": "2026-08-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "myKaarma",
+      "title": "People Operations Specialist",
+      "location": "Long Beach, CA",
+      "url": "https://www.linkedin.com/jobs/view/4440430099/",
+      "date_posted": "2026-08-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
+  "filter_stats": {
+    "company": 0,
+    "seniority": 0,
+    "role": 0,
+    "location": 1,
+    "stale": 0
+  }
+}
