@@ -1,14 +1,136 @@
 {
-  "scraped_at": "2026-08-25 07:39 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": [],
+  "scraped_at": "2026-08-25 17:02 UTC",
+  "total": 5,
+  "new_count": 5,
+  "jobs": [
+    {
+      "company": "Marin Municipal Water District",
+      "title": "Project Coordinator",
+      "location": "Northern Bay Area",
+      "url": "https://www.calopps.org/marin-municipal-water-district/job-20770272",
+      "date_posted": "",
+      "salary": "$8,348.00-$10,252.00 Monthly",
+      "ats": "CalOpps",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Menlo Park",
+      "title": "Teen Programs and Community Outreach Internship (Library and Community Services Department)",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/menlo-park/job-20767677",
+      "date_posted": "",
+      "salary": "$20.24-$24.74 Hourly",
+      "ats": "CalOpps",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Half Moon Bay",
+      "title": "Executive Assistant to the City Manager",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/half-moon-bay/job-20762796",
+      "date_posted": "",
+      "salary": "$7,437.00-$9,039.00 Monthly",
+      "ats": "CalOpps",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "San Mateo",
+      "title": "Per Diem Preschool Program Specialist",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/san-mateo/job-20759927",
+      "date_posted": "",
+      "salary": "$28.26-$33.71 Hourly",
+      "ats": "CalOpps",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Daly City",
+      "title": "Support Dog Program Coordinator",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/daly-city/job-20749975",
+      "date_posted": "",
+      "salary": "$7,808.00-$9,492.00 Monthly",
+      "ats": "CalOpps",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Marin Municipal Water District",
+      "title": "Project Coordinator",
+      "location": "Northern Bay Area",
+      "url": "https://www.calopps.org/marin-municipal-water-district/job-20770272",
+      "date_posted": "",
+      "salary": "$8,348.00-$10,252.00 Monthly",
+      "ats": "CalOpps",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Menlo Park",
+      "title": "Teen Programs and Community Outreach Internship (Library and Community Services Department)",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/menlo-park/job-20767677",
+      "date_posted": "",
+      "salary": "$20.24-$24.74 Hourly",
+      "ats": "CalOpps",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Half Moon Bay",
+      "title": "Executive Assistant to the City Manager",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/half-moon-bay/job-20762796",
+      "date_posted": "",
+      "salary": "$7,437.00-$9,039.00 Monthly",
+      "ats": "CalOpps",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "San Mateo",
+      "title": "Per Diem Preschool Program Specialist",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/san-mateo/job-20759927",
+      "date_posted": "",
+      "salary": "$28.26-$33.71 Hourly",
+      "ats": "CalOpps",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Daly City",
+      "title": "Support Dog Program Coordinator",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/daly-city/job-20749975",
+      "date_posted": "",
+      "salary": "$7,808.00-$9,492.00 Monthly",
+      "ats": "CalOpps",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 0,
+    "location": 1,
     "stale": 0
   }
 }
