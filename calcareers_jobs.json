@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-25 17:18 UTC",
+  "scraped_at": "2026-08-26 18:28 UTC",
   "total": 2,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Department of Transportation",
@@ -28,32 +28,7 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Department of Transportation",
-      "title": "Project Coordinator for Emergency Projects",
-      "location": "Alameda County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524638",
-      "date_posted": "2026-08-19",
-      "salary": "$11437.00 - $14315.00",
-      "ats": "CalCareers",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Judicial Council of California",
-      "title": "Administrative Coordinator JO#6738",
-      "location": "San Francisco County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529833",
-      "date_posted": "2026-08-25",
-      "salary": "$5933.00 - $8305.00",
-      "ats": "CalCareers",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
