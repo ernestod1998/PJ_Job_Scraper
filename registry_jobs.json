@@ -1,8 +1,74 @@
 {
-  "scraped_at": "2026-08-25 14:48 UTC",
-  "total": 63,
-  "new_count": 63,
+  "scraped_at": "2026-08-26 14:44 UTC",
+  "total": 101,
+  "new_count": 44,
   "jobs": [
+    {
+      "company": "Cogent Security",
+      "title": "Business Operations & Strategy ",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/cogent-security/174aa234-b539-440f-b7ce-0931563dd62e",
+      "date_posted": "2026-08-24",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cogent Security",
+      "title": "Sales Operations Analyst",
+      "location": "New York, NY",
+      "url": "https://jobs.ashbyhq.com/cogent-security/758ab0ce-b262-49b4-a079-95c976a36cee",
+      "date_posted": "2026-08-21",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cogent Security",
+      "title": "Field Marketing Manager",
+      "location": "New York, NY",
+      "url": "https://jobs.ashbyhq.com/cogent-security/f6f9dfd7-64f8-4aed-8b37-61a903c412cf",
+      "date_posted": "2026-08-21",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Exa",
+      "title": "Executive Assistant to Founders",
+      "location": "San Francisco, California",
+      "url": "https://jobs.ashbyhq.com/exa/b5665525-c2a3-4c6a-a3dd-d0d1f1df01f8",
+      "date_posted": "2026-08-13",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Exa",
+      "title": "Sales Development Representative",
+      "location": "New York City",
+      "url": "https://jobs.ashbyhq.com/exa/7975f948-6c90-4c49-9cf4-54645a3f343f",
+      "date_posted": "2026-08-13",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FluidStack",
+      "title": "Product Manager, Business Operations",
+      "location": "New York, NY",
+      "url": "https://jobs.ashbyhq.com/fluidstack/b39b0ccf-97bd-4813-bbf1-23f2b4bcaaac",
+      "date_posted": "2026-08-22",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
     {
       "company": "Handshake",
       "title": "Sales Development Representative",
@@ -37,6 +103,39 @@
       ]
     },
     {
+      "company": "Jerry",
+      "title": "Community Manager ",
+      "location": "Palo Alto, California",
+      "url": "https://jobs.ashbyhq.com/jerry.ai/34a7f95e-827c-456d-bc36-74ae504c9bef",
+      "date_posted": "2026-08-24",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mercor",
+      "title": "Enterprise Marketing Associate",
+      "location": "Mercor HQ, 181 Fremont Street",
+      "url": "https://jobs.ashbyhq.com/mercor/74a31ec8-6b98-45fc-819e-ca482347fc24",
+      "date_posted": "2026-08-21",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mudflap",
+      "title": "Executive Assistant",
+      "location": "Palo Alto, CA",
+      "url": "https://jobs.ashbyhq.com/mudflap/ec82935f-c9a2-4531-8c0f-17c22c9fd8e9",
+      "date_posted": "2026-08-13",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Cybernetic Labs",
       "title": "Executive Assistant to the CEO",
       "location": "San Francisco",
@@ -48,10 +147,98 @@
       ]
     },
     {
+      "company": "Northwood Space",
+      "title": "Finance & Business Operations Analyst",
+      "location": "Torrance, CA",
+      "url": "https://jobs.ashbyhq.com/NorthwoodSpace/0a4748c7-79b2-4233-8b62-e716b2bf457e",
+      "date_posted": "2026-08-17",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Northwood Space",
+      "title": "Finance & Business Operations Associate",
+      "location": "Torrance, CA",
+      "url": "https://jobs.ashbyhq.com/NorthwoodSpace/7ebd9c25-0fe7-49b0-9292-94a9440a7e17",
+      "date_posted": "2026-08-14",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Northwood Space",
+      "title": "Executive Assistant",
+      "location": "Torrance, CA",
+      "url": "https://jobs.ashbyhq.com/NorthwoodSpace/9a61b2d6-446d-4f1f-91f4-e7b91a5fe087",
+      "date_posted": "2026-08-17",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Northwood Space",
+      "title": "People Operations Specialist",
+      "location": "Torrance, CA",
+      "url": "https://jobs.ashbyhq.com/NorthwoodSpace/fdd3d055-bf75-43e4-b2bd-bc2bb8c7bd01",
+      "date_posted": "2026-08-20",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Notion",
+      "title": "Business Operations & Strategy Lead",
+      "location": "San Francisco, California",
+      "url": "https://jobs.ashbyhq.com/notion/ef4d9a34-153f-47a7-ba9f-f9a9de821066",
+      "date_posted": "2026-08-21",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Notion",
+      "title": "Executive Operations Partner - EPD (Executive Assistant)",
+      "location": "New York, New York",
+      "url": "https://jobs.ashbyhq.com/notion/8ee34d10-ba59-44bb-b12c-0130e908810d",
+      "date_posted": "2026-08-19",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Parallel Web Systems",
+      "title": "Executive Assistant",
+      "location": "San Francisco or Palo Alto",
+      "url": "https://jobs.ashbyhq.com/parallel/a1972321-cdfa-4915-9cdc-5e284c3a821f",
+      "date_posted": "2026-08-14",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Skydio",
       "title": "Recruiting Coordinator",
       "location": "San Mateo, California, United States",
       "url": "https://jobs.ashbyhq.com/skydio/f15c20f8-de23-48b4-8dda-f9e9525ea1b0",
+      "date_posted": "2026-08-24",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Vanta",
+      "title": "Sales Development Representative, Early Stage",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/vanta/c4652ceb-a50d-4dad-ab08-a386617a53f5",
       "date_posted": "2026-08-24",
       "ats": "Ashby",
       "feeds": [
@@ -139,7 +326,7 @@
       "company": "Anduril",
       "title": "Business Operations, Air Dominance & Strike",
       "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5155193007?gh_jid=5155193007",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4790841007?gh_jid=4790841007",
       "date_posted": "2026-08-24",
       "ats": "Greenhouse",
       "feeds": [
@@ -150,7 +337,7 @@
       "company": "Anduril",
       "title": "Business Operations, Air Dominance & Strike",
       "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4790841007?gh_jid=4790841007",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5155193007?gh_jid=5155193007",
       "date_posted": "2026-08-24",
       "ats": "Greenhouse",
       "feeds": [
@@ -162,7 +349,7 @@
       "title": "Business Operations, Anduril",
       "location": "Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5219004007?gh_jid=5219004007",
-      "date_posted": "2026-08-24",
+      "date_posted": "2026-08-25",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -173,7 +360,7 @@
       "title": "Business Operations Associate",
       "location": "Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/4951316007?gh_jid=4951316007",
-      "date_posted": "2026-08-24",
+      "date_posted": "2026-08-25",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -217,7 +404,7 @@
       "title": "Business Operations Lead",
       "location": "Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/4951325007?gh_jid=4951325007",
-      "date_posted": "2026-08-24",
+      "date_posted": "2026-08-25",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -305,7 +492,7 @@
       "title": "Operations Coordinator, Test Sites",
       "location": "Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211580007?gh_jid=5211580007",
-      "date_posted": "2026-08-24",
+      "date_posted": "2026-08-25",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -378,11 +565,33 @@
       ]
     },
     {
-      "company": "Axon",
-      "title": "Field Inside Sales Representative, Southeast Region ",
-      "location": "Atlanta, Georgia, United States",
-      "url": "https://job-boards.greenhouse.io/axon/jobs/7737700003",
-      "date_posted": "2026-08-12",
+      "company": "Asset Living",
+      "title": "TOPS - Community Manager Specialist",
+      "location": "Alameda, CA; Berkeley, CA; Fremont, CA; Napa, CA; Sacramento, CA",
+      "url": "https://job-boards.greenhouse.io/assetliving/jobs/6012317004",
+      "date_posted": "2026-08-20",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Asset Living",
+      "title": "TOPS - Community Manager Specialist",
+      "location": "Fremont, CA; Oakland, CA; San Jose, CA",
+      "url": "https://job-boards.greenhouse.io/assetliving/jobs/6012334004",
+      "date_posted": "2026-08-20",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Axsome Therapeutics Inc",
+      "title": "Key Account Manager, Long Term Care (Great Lakes Region)",
+      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/axsometherapeutics/jobs/6145386004",
+      "date_posted": "2026-08-17",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -456,10 +665,32 @@
     },
     {
       "company": "Eulerity",
+      "title": "Digital Marketing Intern - Technical AI & Automation",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/eulerity/jobs/4708258006",
+      "date_posted": "2026-08-25",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Eulerity",
       "title": "Website Developer & Technical Content Marketing Intern - AI & Automation",
       "location": "New York, NY",
       "url": "https://job-boards.greenhouse.io/eulerity/jobs/4706780006",
       "date_posted": "2026-08-19",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Garner Health",
+      "title": "Growth Marketing Manager",
+      "location": "New York City, New York",
+      "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6141172004",
+      "date_posted": "2026-08-17",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -477,11 +708,33 @@
       ]
     },
     {
+      "company": "InstaLILY",
+      "title": "Business Development Representative ",
+      "location": "New York, New York, United States",
+      "url": "https://job-boards.greenhouse.io/instalilyai/jobs/4356210009",
+      "date_posted": "2026-08-12",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Neros Technologies",
       "title": "Media Relations Manager",
       "location": "Torrance, California, United States",
       "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5197722007",
       "date_posted": "2026-08-13",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Otter",
+      "title": "Enterprise Customer Success Manager",
+      "location": "Los Angeles, CA",
+      "url": "https://job-boards.greenhouse.io/otter/jobs/8637474002",
+      "date_posted": "2026-08-20",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -510,11 +763,110 @@
       ]
     },
     {
+      "company": "Phoenix Contact",
+      "title": "Marketing Specialist | B2B Technology | Industrial Networking",
+      "location": "Irvine, California ",
+      "url": "https://job-boards.greenhouse.io/phoenixcontact/jobs/7866501003",
+      "date_posted": "2026-08-13",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Phoenix Contact",
+      "title": "Marketing Specialist - Critical Infrastructure & Networking Solutions",
+      "location": "Irvine, California ",
+      "url": "https://job-boards.greenhouse.io/phoenixcontact/jobs/7762443003",
+      "date_posted": "2026-08-13",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Scopely",
       "title": "Executive Talent Acquisition and Operations Coordinator",
       "location": "US - Culver City, United States",
       "url": "https://job-boards.greenhouse.io/scopely/jobs/5289461008?gh_jid=5289461008",
       "date_posted": "2026-08-12",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Sigma Computing",
+      "title": "Commercial Customer Success Manager - SF",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7819122003",
+      "date_posted": "2026-08-21",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Sigma Computing",
+      "title": "Enterprise Customer Success Manager \u2014 East (Bilingual: English/Spanish)",
+      "location": "New York City, NY",
+      "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7815449003",
+      "date_posted": "2026-08-25",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Sigma Computing",
+      "title": "Enterprise Customer Success Manager - NY",
+      "location": "New York City, NY",
+      "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7815448003",
+      "date_posted": "2026-08-25",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Tax Relief Advocates",
+      "title": "Junior Client Success Specialist ",
+      "location": "Irvine, CA ",
+      "url": "https://job-boards.greenhouse.io/taxreliefadvocates/jobs/5209881008",
+      "date_posted": "2026-08-18",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Workstream",
+      "title": "Personal and Executive Assistant to the CEO",
+      "location": "Menlo Park, CA",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6163306004",
+      "date_posted": "2026-08-25",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Workstream",
+      "title": "Revenue Operations Manager",
+      "location": "Menlo Park, California",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6141655004",
+      "date_posted": "2026-08-17",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Workstream",
+      "title": "Revenue Operations Manager",
+      "location": "San Francisco, California",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6141656004",
+      "date_posted": "2026-08-17",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -532,11 +884,44 @@
       ]
     },
     {
+      "company": "Pigment",
+      "title": "Partner Marketing Specialist",
+      "location": "New York City or Chicago",
+      "url": "https://jobs.lever.co/pigment/54821204-de7b-4887-840f-ffdbbc5a0831",
+      "date_posted": "2026-08-25",
+      "ats": "Lever",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Abbott",
+      "title": "Global Social Media Manager",
+      "location": "United States - California - Alameda",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Alameda/Global-Social-Media-Manager_31158372",
+      "date_posted": "Posted 12 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Abbott",
+      "title": "Account Manager, Vessel Closure - Chicago South",
+      "location": "United States - Illinois - Chicago",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Illinois---Chicago/Account-Manager--Vessel-Closure---Chicago-South_31159510",
+      "date_posted": "Posted 7 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Aggreko",
       "title": "Inside Sales Representative",
       "location": "Los Angeles, CA",
       "url": "https://aggreko.wd3.myworkdayjobs.com/aggreko_careers_1/job/Los-Angeles-CA/Inside-Sales-Representative_JR21287",
-      "date_posted": "Posted 11 Days Ago",
+      "date_posted": "Posted 12 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -547,7 +932,51 @@
       "title": "Inside Sales Representative",
       "location": "Chicago, IL",
       "url": "https://aggreko.wd3.myworkdayjobs.com/aggreko_careers_1/job/Chicago-IL/Inside-Sales-Representative_JR21288",
-      "date_posted": "Posted 11 Days Ago",
+      "date_posted": "Posted 12 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Airgas",
+      "title": "Account Manager",
+      "location": "Oakland, NJ (Plant) - Retail shop",
+      "url": "https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/Oakland-NJ-Plant---Retail-shop/Account-Manager_R10092770",
+      "date_posted": "Posted 8 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Airgas",
+      "title": "Outside Sales Account Manager",
+      "location": "South Chicago Heights, IL",
+      "url": "https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/South-Chicago-Heights-IL/Outside-Sales-Account-Manager_R10090689",
+      "date_posted": "Posted 13 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Airgas",
+      "title": "Counter Sales Representative",
+      "location": "Redwood City, CA - Retail shop",
+      "url": "https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/Redwood-City-CA---Retail-shop/Counter-Sales-Representative_R10097704",
+      "date_posted": "Posted 12 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Airgas",
+      "title": "New Business Development Representative",
+      "location": "Atlanta, GA (Cham)",
+      "url": "https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/Atlanta-GA-Cham/New-Business-Development-Representative_R10085102",
+      "date_posted": "Posted 12 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -558,18 +987,7 @@
       "title": "Regional Marketing Communications Manager- Infiniti",
       "location": "Irvine, California - United States of America",
       "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Irvine-California---United-States-of-America/Regional-Marketing-Communications-Manager--Infiniti_R00212935-1",
-      "date_posted": "Posted 4 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "AVEVA",
-      "title": "Growth & Territory Account Manager",
-      "location": "Lake Forest, California, United States of America",
-      "url": "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Scottsdale-Arizona-United-States-of-America/Growth---Territory-Account-Manager_R014787",
-      "date_posted": "Posted 13 Days Ago",
+      "date_posted": "Posted 5 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -580,7 +998,18 @@
       "title": "Account Manager",
       "location": "Chicago, IL",
       "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---IL---Remote/Account-Manager_4555",
-      "date_posted": "Posted 5 Days Ago",
+      "date_posted": "Posted 6 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Baird",
+      "title": "Project Coordinator",
+      "location": "IL-Chicago",
+      "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Project-Coordinator_R2026926",
+      "date_posted": "Posted Yesterday",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -591,7 +1020,7 @@
       "title": "Operations Associate (Hybrid)",
       "location": "Newark, NJ",
       "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Newark-NJ/Operations-Associate--Hybrid-_JR1085284",
-      "date_posted": "Posted Yesterday",
+      "date_posted": "Posted 2 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -609,11 +1038,22 @@
       ]
     },
     {
+      "company": "Solar Turbines",
+      "title": "Sales Account Manager-Power Generation",
+      "location": "Naperville, Illinois",
+      "url": "https://cat.wd5.myworkdayjobs.com/solarturbines/job/Parsippany-New-Jersey/Sales-Account-Manager-Power-Generation_R0000389019",
+      "date_posted": "Posted 7 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Collectors",
       "title": "Event Marketing Manager",
       "location": "Santa Ana, CA",
       "url": "https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Plano-TX/Event-Marketing-Manager_JR105168",
-      "date_posted": "Posted 5 Days Ago",
+      "date_posted": "Posted 6 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -624,7 +1064,7 @@
       "title": "Events Coordinator, Beckett",
       "location": "Santa Ana, CA",
       "url": "https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Plano-TX/Events-Coordinator--Beckett_JR105727-1",
-      "date_posted": "Posted 5 Days Ago",
+      "date_posted": "Posted 6 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -635,7 +1075,7 @@
       "title": "Lead Administrative Coordinator: SC Johnson College of Business \u2013 New York, New York",
       "location": "New York City (Other)",
       "url": "https://cornell.wd1.myworkdayjobs.com/cornellpositions/job/New-York-City-Other/Lead-Administrative-Coordinator--SC-Johnson-College-of-Business---New-York--New-York_WDR-00060508-2",
-      "date_posted": "Posted 12 Days Ago",
+      "date_posted": "Posted 13 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -646,6 +1086,17 @@
       "title": "Project Coordinator",
       "location": "Marietta, GA 30062",
       "url": "https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Marietta-GA-30062/Project-Coordinator_R003706-1",
+      "date_posted": "Posted 2 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Dave & Busters",
+      "title": "Event Coordinator",
+      "location": "Lombard (Yorktown), IL",
+      "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Lombard-Yorktown-IL/Event-Coordinator_R-1012907",
       "date_posted": "Posted Yesterday",
       "ats": "Workday",
       "feeds": [
@@ -653,44 +1104,11 @@
       ]
     },
     {
-      "company": "Extra Space Storage",
-      "title": "Remote Bilingual Inbound Sales Representative - $17.00 Hourly + Commission",
-      "location": "Oakland City, IN, United States 47660",
-      "url": "https://extraspace.wd5.myworkdayjobs.com/ESS_External/job/El-Paso-TX-United-States-79934/Remote-Bilingual-Inbound-Sales-Representative----1700-Hourly---Commission_R-80856-1",
-      "date_posted": "Posted 13 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Extra Space Storage",
-      "title": "Remote Inbound Sales Representative - $16.00 Hourly + Commission",
-      "location": "Oakland City, IN, United States 47660",
-      "url": "https://extraspace.wd5.myworkdayjobs.com/ESS_External/job/El-Paso-TX-United-States-79934/Remote-Inbound-Sales-Representative----1600-Hourly---Commission_R-80855-1",
-      "date_posted": "Posted 13 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Teledyne",
-      "title": "Inside Sales Representative- Part Time",
-      "location": "US - Hawthorne, CA (TDY)",
-      "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Hawthorne-CA-TDY/Inside-Sales-Representative--Part-Time_REQ36055",
-      "date_posted": "Posted 5 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hewlett Packard (HP)",
-      "title": "Growth Marketing Manager",
-      "location": "Palo Alto, California, United States of America",
-      "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Palo-Alto-California-United-States-of-America/Demand-Generation-Marketing-Manager_3162803",
-      "date_posted": "Posted 4 Days Ago",
+      "company": "Expedia Group",
+      "title": "Associate Account Manager",
+      "location": "USA - Illinois - Chicago",
+      "url": "https://expedia.wd108.myworkdayjobs.com/search/job/USA---Illinois---Chicago/Associate-Account-Manager_R-108759",
+      "date_posted": "Posted 7 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -699,32 +1117,21 @@
   ],
   "new_jobs": [
     {
-      "company": "Handshake",
-      "title": "Sales Development Representative",
+      "company": "Cogent Security",
+      "title": "Business Operations & Strategy ",
       "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/handshake/5a93adbb-0502-4574-985a-8692cdde45b1",
-      "date_posted": "2026-08-21",
+      "url": "https://jobs.ashbyhq.com/cogent-security/174aa234-b539-440f-b7ce-0931563dd62e",
+      "date_posted": "2026-08-24",
       "ats": "Ashby",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Handshake",
-      "title": "Mid-Market Account Manager",
-      "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/handshake/99956455-d4f7-4044-9ebd-d7f0d469d165",
-      "date_posted": "2026-08-12",
-      "ats": "Ashby",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Handshake",
-      "title": "Strategic Customer Success Manager, Federal",
+      "company": "Cogent Security",
+      "title": "Sales Operations Analyst",
       "location": "New York, NY",
-      "url": "https://jobs.ashbyhq.com/handshake/45b712a7-9b9b-4c4d-bc63-99cfb12d65ba",
+      "url": "https://jobs.ashbyhq.com/cogent-security/758ab0ce-b262-49b4-a079-95c976a36cee",
       "date_posted": "2026-08-21",
       "ats": "Ashby",
       "feeds": [
@@ -732,418 +1139,198 @@
       ]
     },
     {
-      "company": "Cybernetic Labs",
-      "title": "Executive Assistant to the CEO",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/netic/8f443e10-6f12-44cb-9402-11653daf6754",
-      "date_posted": "2026-08-24",
-      "ats": "Ashby",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Skydio",
-      "title": "Recruiting Coordinator",
-      "location": "San Mateo, California, United States",
-      "url": "https://jobs.ashbyhq.com/skydio/f15c20f8-de23-48b4-8dda-f9e9525ea1b0",
-      "date_posted": "2026-08-24",
-      "ats": "Ashby",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Zip",
-      "title": "Commercial Account Manager",
-      "location": "New York City",
-      "url": "https://jobs.ashbyhq.com/zip/a680403b-9f1d-4cad-8861-4e4ff81681e2",
-      "date_posted": "2026-08-18",
-      "ats": "Ashby",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "84.51 Degrees",
-      "title": "Lead Client Success Manager (P3880)",
-      "location": "Cincinnati, OH; Chicago, IL",
-      "url": "https://job-boards.greenhouse.io/8451/jobs/8721064002",
-      "date_posted": "2026-08-17",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "84.51 Degrees",
-      "title": "Manager, Client Success (P4142)",
-      "location": "Cincinnati, OH; Chicago, IL; New York, NY",
-      "url": "https://job-boards.greenhouse.io/8451/jobs/8720998002",
-      "date_posted": "2026-08-17",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "American Institutes for Research",
-      "title": "Test Development Assistant, National Assessment of Educational Progress",
-      "location": "US-Remote | US-VA-Arlington | US-NC-Chapel Hill | US-IL-Chicago | US-CA-Sacramento | US-TX-Austin",
-      "url": "https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5380713008",
-      "date_posted": "2026-08-19",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amplitude",
-      "title": "Executive Assistant",
-      "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/amplitude/jobs/8649332002",
-      "date_posted": "2026-08-21",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anduril",
-      "title": "2026 Total Rewards/People Operations Specialist - Early Career Rotation Program",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5159933007?gh_jid=5159933007",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anduril",
-      "title": "Associate, Business & Revenue Operations, Air Defense",
-      "location": "Irvine, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5214320007?gh_jid=5214320007",
-      "date_posted": "2026-08-25",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anduril",
-      "title": "Business Operations, Air Dominance & Strike",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5155193007?gh_jid=5155193007",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anduril",
-      "title": "Business Operations, Air Dominance & Strike",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4790841007?gh_jid=4790841007",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anduril",
-      "title": "Business Operations, Anduril",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5219004007?gh_jid=5219004007",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anduril",
-      "title": "Business Operations Associate",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4951316007?gh_jid=4951316007",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anduril",
-      "title": "Business Operations Associate, Production",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4619191007?gh_jid=4619191007",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anduril",
-      "title": "Business Operations Associate - Technical Projects",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4951318007?gh_jid=4951318007",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anduril",
-      "title": "Business Operations Engineer, Air Dominance & Strike ",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5111193007?gh_jid=5111193007",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anduril",
-      "title": "Business Operations Lead",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4951325007?gh_jid=4951325007",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anduril",
-      "title": "Business Operations Lead - Technical Projects",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5117374007?gh_jid=5117374007",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anduril",
-      "title": "Business Operations, Production",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5195711007?gh_jid=5195711007",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anduril",
-      "title": "Business Operations, Strategic Supply Chain",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5165934007?gh_jid=5165934007",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anduril",
-      "title": "Legal Operations Coordinator/ Paralegal",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176316007?gh_jid=5176316007",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anduril",
-      "title": "Logistics Program Associate",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5159263007?gh_jid=5159263007",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anduril",
-      "title": "Manager, Business Operations, Air Defense",
-      "location": "Irvine, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5195990007?gh_jid=5195990007",
-      "date_posted": "2026-08-25",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anduril",
-      "title": "Operations Coordinator, Technical Publications ",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211457007?gh_jid=5211457007",
-      "date_posted": "2026-08-25",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anduril",
-      "title": "Operations Coordinator, Test Sites",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211580007?gh_jid=5211580007",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anduril",
-      "title": "Production Coordinator, Electromagnetic Warfare",
-      "location": "Irvine, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5124708007?gh_jid=5124708007",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anduril",
-      "title": "Production Coordinator, Missiles",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5009005007?gh_jid=5009005007",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anduril",
-      "title": "Production Coordinator, Sentry",
-      "location": "Irvine, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5109204007?gh_jid=5109204007",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anduril",
-      "title": "Product Operations Associate, Tier 1",
-      "location": "Santa Ana, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007?gh_jid=5081383007",
-      "date_posted": "2026-08-25",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anduril",
-      "title": "Product Operations Specialist - SkillBridge",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5195719007?gh_jid=5195719007",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Anduril",
-      "title": "Recruiting Coordinator (Contractor)",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4190079007?gh_jid=4190079007",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Axon",
-      "title": "Field Inside Sales Representative, Southeast Region ",
-      "location": "Atlanta, Georgia, United States",
-      "url": "https://job-boards.greenhouse.io/axon/jobs/7737700003",
-      "date_posted": "2026-08-12",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "BillionToOne",
-      "title": "Client Services Associate I, Prenatal",
-      "location": "Union City, CA",
-      "url": "https://job-boards.greenhouse.io/billiontoone/jobs/4727178005",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Charles River Associates (CRA)",
-      "title": "Client Relations Coordinator (Forensic Services practice)",
-      "location": "Boston, MA, United States; Chicago, IL, United States; Dallas, Texas, United States; Houston, Texas, United States; New York, NY, United States; Washington, DC, United States",
-      "url": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/8156369",
-      "date_posted": "2026-08-25",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Chicago Trading Company",
-      "title": "Recruiting Coordinator",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://job-boards.greenhouse.io/chicagotrading/jobs/4726246005",
-      "date_posted": "2026-08-25",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "DH Pace",
-      "title": "Outside Automatic Door Commercial Sales Representative-Must Have Door Experience!",
-      "location": "Atlanta GA",
-      "url": "https://job-boards.greenhouse.io/dhpace/jobs/5399669008",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "DH Pace",
-      "title": " Outside Entry Door Commercial Sales Representative-Construction & Building Materials Industry!",
-      "location": "Atlanta GA",
-      "url": "https://job-boards.greenhouse.io/dhpace/jobs/5399810008",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Eudia",
+      "company": "Cogent Security",
       "title": "Field Marketing Manager",
-      "location": "Palo Alto, CA",
-      "url": "https://job-boards.greenhouse.io/eudia/jobs/4379529009",
+      "location": "New York, NY",
+      "url": "https://jobs.ashbyhq.com/cogent-security/f6f9dfd7-64f8-4aed-8b37-61a903c412cf",
       "date_posted": "2026-08-21",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Exa",
+      "title": "Executive Assistant to Founders",
+      "location": "San Francisco, California",
+      "url": "https://jobs.ashbyhq.com/exa/b5665525-c2a3-4c6a-a3dd-d0d1f1df01f8",
+      "date_posted": "2026-08-13",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Exa",
+      "title": "Sales Development Representative",
+      "location": "New York City",
+      "url": "https://jobs.ashbyhq.com/exa/7975f948-6c90-4c49-9cf4-54645a3f343f",
+      "date_posted": "2026-08-13",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FluidStack",
+      "title": "Product Manager, Business Operations",
+      "location": "New York, NY",
+      "url": "https://jobs.ashbyhq.com/fluidstack/b39b0ccf-97bd-4813-bbf1-23f2b4bcaaac",
+      "date_posted": "2026-08-22",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jerry",
+      "title": "Community Manager ",
+      "location": "Palo Alto, California",
+      "url": "https://jobs.ashbyhq.com/jerry.ai/34a7f95e-827c-456d-bc36-74ae504c9bef",
+      "date_posted": "2026-08-24",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mercor",
+      "title": "Enterprise Marketing Associate",
+      "location": "Mercor HQ, 181 Fremont Street",
+      "url": "https://jobs.ashbyhq.com/mercor/74a31ec8-6b98-45fc-819e-ca482347fc24",
+      "date_posted": "2026-08-21",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mudflap",
+      "title": "Executive Assistant",
+      "location": "Palo Alto, CA",
+      "url": "https://jobs.ashbyhq.com/mudflap/ec82935f-c9a2-4531-8c0f-17c22c9fd8e9",
+      "date_posted": "2026-08-13",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Northwood Space",
+      "title": "Finance & Business Operations Analyst",
+      "location": "Torrance, CA",
+      "url": "https://jobs.ashbyhq.com/NorthwoodSpace/0a4748c7-79b2-4233-8b62-e716b2bf457e",
+      "date_posted": "2026-08-17",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Northwood Space",
+      "title": "Finance & Business Operations Associate",
+      "location": "Torrance, CA",
+      "url": "https://jobs.ashbyhq.com/NorthwoodSpace/7ebd9c25-0fe7-49b0-9292-94a9440a7e17",
+      "date_posted": "2026-08-14",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Northwood Space",
+      "title": "Executive Assistant",
+      "location": "Torrance, CA",
+      "url": "https://jobs.ashbyhq.com/NorthwoodSpace/9a61b2d6-446d-4f1f-91f4-e7b91a5fe087",
+      "date_posted": "2026-08-17",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Northwood Space",
+      "title": "People Operations Specialist",
+      "location": "Torrance, CA",
+      "url": "https://jobs.ashbyhq.com/NorthwoodSpace/fdd3d055-bf75-43e4-b2bd-bc2bb8c7bd01",
+      "date_posted": "2026-08-20",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Notion",
+      "title": "Business Operations & Strategy Lead",
+      "location": "San Francisco, California",
+      "url": "https://jobs.ashbyhq.com/notion/ef4d9a34-153f-47a7-ba9f-f9a9de821066",
+      "date_posted": "2026-08-21",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Notion",
+      "title": "Executive Operations Partner - EPD (Executive Assistant)",
+      "location": "New York, New York",
+      "url": "https://jobs.ashbyhq.com/notion/8ee34d10-ba59-44bb-b12c-0130e908810d",
+      "date_posted": "2026-08-19",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Parallel Web Systems",
+      "title": "Executive Assistant",
+      "location": "San Francisco or Palo Alto",
+      "url": "https://jobs.ashbyhq.com/parallel/a1972321-cdfa-4915-9cdc-5e284c3a821f",
+      "date_posted": "2026-08-14",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Vanta",
+      "title": "Sales Development Representative, Early Stage",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/vanta/c4652ceb-a50d-4dad-ab08-a386617a53f5",
+      "date_posted": "2026-08-24",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Asset Living",
+      "title": "TOPS - Community Manager Specialist",
+      "location": "Alameda, CA; Berkeley, CA; Fremont, CA; Napa, CA; Sacramento, CA",
+      "url": "https://job-boards.greenhouse.io/assetliving/jobs/6012317004",
+      "date_posted": "2026-08-20",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Asset Living",
+      "title": "TOPS - Community Manager Specialist",
+      "location": "Fremont, CA; Oakland, CA; San Jose, CA",
+      "url": "https://job-boards.greenhouse.io/assetliving/jobs/6012334004",
+      "date_posted": "2026-08-20",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Axsome Therapeutics Inc",
+      "title": "Key Account Manager, Long Term Care (Great Lakes Region)",
+      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/axsometherapeutics/jobs/6145386004",
+      "date_posted": "2026-08-17",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -1151,64 +1338,31 @@
     },
     {
       "company": "Eulerity",
-      "title": "Website Developer & Technical Content Marketing Intern - AI & Automation",
+      "title": "Digital Marketing Intern - Technical AI & Automation",
       "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/eulerity/jobs/4706780006",
-      "date_posted": "2026-08-19",
+      "url": "https://job-boards.greenhouse.io/eulerity/jobs/4708258006",
+      "date_posted": "2026-08-25",
       "ats": "Greenhouse",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Gotion",
-      "title": "Sales Operations Manager",
-      "location": "Fremont, California",
-      "url": "https://job-boards.greenhouse.io/gotion/jobs/8163096002",
-      "date_posted": "2026-08-21",
+      "company": "Garner Health",
+      "title": "Growth Marketing Manager",
+      "location": "New York City, New York",
+      "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6141172004",
+      "date_posted": "2026-08-17",
       "ats": "Greenhouse",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Neros Technologies",
-      "title": "Media Relations Manager",
-      "location": "Torrance, California, United States",
-      "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5197722007",
-      "date_posted": "2026-08-13",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Peregrine",
-      "title": "Recruiting Coordinator",
-      "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/peregrinetechnologies/jobs/4718273005",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Peregrine",
-      "title": "Social Media Manager",
-      "location": "San Francisco, CA ",
-      "url": "https://job-boards.greenhouse.io/peregrinetechnologies/jobs/4722962005",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Scopely",
-      "title": "Executive Talent Acquisition and Operations Coordinator",
-      "location": "US - Culver City, United States",
-      "url": "https://job-boards.greenhouse.io/scopely/jobs/5289461008?gh_jid=5289461008",
+      "company": "InstaLILY",
+      "title": "Business Development Representative ",
+      "location": "New York, New York, United States",
+      "url": "https://job-boards.greenhouse.io/instalilyai/jobs/4356210009",
       "date_posted": "2026-08-12",
       "ats": "Greenhouse",
       "feeds": [
@@ -1216,10 +1370,21 @@
       ]
     },
     {
-      "company": "WPP Media",
-      "title": "Media Planner",
-      "location": "Atlanta, United States; Chicago, United States; Los Angeles, United States; New York, United States; San Francisco, United States",
-      "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5212355008",
+      "company": "Otter",
+      "title": "Enterprise Customer Success Manager",
+      "location": "Los Angeles, CA",
+      "url": "https://job-boards.greenhouse.io/otter/jobs/8637474002",
+      "date_posted": "2026-08-20",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Phoenix Contact",
+      "title": "Marketing Specialist | B2B Technology | Industrial Networking",
+      "location": "Irvine, California ",
+      "url": "https://job-boards.greenhouse.io/phoenixcontact/jobs/7866501003",
       "date_posted": "2026-08-13",
       "ats": "Greenhouse",
       "feeds": [
@@ -1227,109 +1392,109 @@
       ]
     },
     {
-      "company": "Aggreko",
-      "title": "Inside Sales Representative",
-      "location": "Los Angeles, CA",
-      "url": "https://aggreko.wd3.myworkdayjobs.com/aggreko_careers_1/job/Los-Angeles-CA/Inside-Sales-Representative_JR21287",
-      "date_posted": "Posted 11 Days Ago",
-      "ats": "Workday",
+      "company": "Phoenix Contact",
+      "title": "Marketing Specialist - Critical Infrastructure & Networking Solutions",
+      "location": "Irvine, California ",
+      "url": "https://job-boards.greenhouse.io/phoenixcontact/jobs/7762443003",
+      "date_posted": "2026-08-13",
+      "ats": "Greenhouse",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Aggreko",
-      "title": "Inside Sales Representative",
-      "location": "Chicago, IL",
-      "url": "https://aggreko.wd3.myworkdayjobs.com/aggreko_careers_1/job/Chicago-IL/Inside-Sales-Representative_JR21288",
-      "date_posted": "Posted 11 Days Ago",
-      "ats": "Workday",
+      "company": "Sigma Computing",
+      "title": "Commercial Customer Success Manager - SF",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7819122003",
+      "date_posted": "2026-08-21",
+      "ats": "Greenhouse",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Nissan",
-      "title": "Regional Marketing Communications Manager- Infiniti",
-      "location": "Irvine, California - United States of America",
-      "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Irvine-California---United-States-of-America/Regional-Marketing-Communications-Manager--Infiniti_R00212935-1",
-      "date_posted": "Posted 4 Days Ago",
-      "ats": "Workday",
+      "company": "Sigma Computing",
+      "title": "Enterprise Customer Success Manager \u2014 East (Bilingual: English/Spanish)",
+      "location": "New York City, NY",
+      "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7815449003",
+      "date_posted": "2026-08-25",
+      "ats": "Greenhouse",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "AVEVA",
-      "title": "Growth & Territory Account Manager",
-      "location": "Lake Forest, California, United States of America",
-      "url": "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Scottsdale-Arizona-United-States-of-America/Growth---Territory-Account-Manager_R014787",
-      "date_posted": "Posted 13 Days Ago",
-      "ats": "Workday",
+      "company": "Sigma Computing",
+      "title": "Enterprise Customer Success Manager - NY",
+      "location": "New York City, NY",
+      "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7815448003",
+      "date_posted": "2026-08-25",
+      "ats": "Greenhouse",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Badger Meter",
-      "title": "Account Manager",
-      "location": "Chicago, IL",
-      "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---IL---Remote/Account-Manager_4555",
-      "date_posted": "Posted 5 Days Ago",
-      "ats": "Workday",
+      "company": "Tax Relief Advocates",
+      "title": "Junior Client Success Specialist ",
+      "location": "Irvine, CA ",
+      "url": "https://job-boards.greenhouse.io/taxreliefadvocates/jobs/5209881008",
+      "date_posted": "2026-08-18",
+      "ats": "Greenhouse",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Broadridge",
-      "title": "Operations Associate (Hybrid)",
-      "location": "Newark, NJ",
-      "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Newark-NJ/Operations-Associate--Hybrid-_JR1085284",
-      "date_posted": "Posted Yesterday",
-      "ats": "Workday",
+      "company": "Workstream",
+      "title": "Personal and Executive Assistant to the CEO",
+      "location": "Menlo Park, CA",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6163306004",
+      "date_posted": "2026-08-25",
+      "ats": "Greenhouse",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Argo Group",
-      "title": "Account Manager, Construction Owners",
-      "location": "US NY - New York City",
-      "url": "https://brookfield.wd5.myworkdayjobs.com/bpandc/job/US-VA---Richmond/Account-Manager--Construction-Owners_R2052060",
-      "date_posted": "",
-      "ats": "Workday",
+      "company": "Workstream",
+      "title": "Revenue Operations Manager",
+      "location": "Menlo Park, California",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6141655004",
+      "date_posted": "2026-08-17",
+      "ats": "Greenhouse",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Collectors",
-      "title": "Event Marketing Manager",
-      "location": "Santa Ana, CA",
-      "url": "https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Plano-TX/Event-Marketing-Manager_JR105168",
-      "date_posted": "Posted 5 Days Ago",
-      "ats": "Workday",
+      "company": "Workstream",
+      "title": "Revenue Operations Manager",
+      "location": "San Francisco, California",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6141656004",
+      "date_posted": "2026-08-17",
+      "ats": "Greenhouse",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Collectors",
-      "title": "Events Coordinator, Beckett",
-      "location": "Santa Ana, CA",
-      "url": "https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Plano-TX/Events-Coordinator--Beckett_JR105727-1",
-      "date_posted": "Posted 5 Days Ago",
-      "ats": "Workday",
+      "company": "Pigment",
+      "title": "Partner Marketing Specialist",
+      "location": "New York City or Chicago",
+      "url": "https://jobs.lever.co/pigment/54821204-de7b-4887-840f-ffdbbc5a0831",
+      "date_posted": "2026-08-25",
+      "ats": "Lever",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Cornell University",
-      "title": "Lead Administrative Coordinator: SC Johnson College of Business \u2013 New York, New York",
-      "location": "New York City (Other)",
-      "url": "https://cornell.wd1.myworkdayjobs.com/cornellpositions/job/New-York-City-Other/Lead-Administrative-Coordinator--SC-Johnson-College-of-Business---New-York--New-York_WDR-00060508-2",
+      "company": "Abbott",
+      "title": "Global Social Media Manager",
+      "location": "United States - California - Alameda",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Alameda/Global-Social-Media-Manager_31158372",
       "date_posted": "Posted 12 Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -1337,10 +1502,65 @@
       ]
     },
     {
-      "company": "Daikin Applied",
+      "company": "Abbott",
+      "title": "Account Manager, Vessel Closure - Chicago South",
+      "location": "United States - Illinois - Chicago",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Illinois---Chicago/Account-Manager--Vessel-Closure---Chicago-South_31159510",
+      "date_posted": "Posted 7 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Airgas",
+      "title": "Account Manager",
+      "location": "Oakland, NJ (Plant) - Retail shop",
+      "url": "https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/Oakland-NJ-Plant---Retail-shop/Account-Manager_R10092770",
+      "date_posted": "Posted 8 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Airgas",
+      "title": "Outside Sales Account Manager",
+      "location": "South Chicago Heights, IL",
+      "url": "https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/South-Chicago-Heights-IL/Outside-Sales-Account-Manager_R10090689",
+      "date_posted": "Posted 13 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Airgas",
+      "title": "Counter Sales Representative",
+      "location": "Redwood City, CA - Retail shop",
+      "url": "https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/Redwood-City-CA---Retail-shop/Counter-Sales-Representative_R10097704",
+      "date_posted": "Posted 12 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Airgas",
+      "title": "New Business Development Representative",
+      "location": "Atlanta, GA (Cham)",
+      "url": "https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/Atlanta-GA-Cham/New-Business-Development-Representative_R10085102",
+      "date_posted": "Posted 12 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Baird",
       "title": "Project Coordinator",
-      "location": "Marietta, GA 30062",
-      "url": "https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Marietta-GA-30062/Project-Coordinator_R003706-1",
+      "location": "IL-Chicago",
+      "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Project-Coordinator_R2026926",
       "date_posted": "Posted Yesterday",
       "ats": "Workday",
       "feeds": [
@@ -1348,44 +1568,33 @@
       ]
     },
     {
-      "company": "Extra Space Storage",
-      "title": "Remote Bilingual Inbound Sales Representative - $17.00 Hourly + Commission",
-      "location": "Oakland City, IN, United States 47660",
-      "url": "https://extraspace.wd5.myworkdayjobs.com/ESS_External/job/El-Paso-TX-United-States-79934/Remote-Bilingual-Inbound-Sales-Representative----1700-Hourly---Commission_R-80856-1",
-      "date_posted": "Posted 13 Days Ago",
+      "company": "Solar Turbines",
+      "title": "Sales Account Manager-Power Generation",
+      "location": "Naperville, Illinois",
+      "url": "https://cat.wd5.myworkdayjobs.com/solarturbines/job/Parsippany-New-Jersey/Sales-Account-Manager-Power-Generation_R0000389019",
+      "date_posted": "Posted 7 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Extra Space Storage",
-      "title": "Remote Inbound Sales Representative - $16.00 Hourly + Commission",
-      "location": "Oakland City, IN, United States 47660",
-      "url": "https://extraspace.wd5.myworkdayjobs.com/ESS_External/job/El-Paso-TX-United-States-79934/Remote-Inbound-Sales-Representative----1600-Hourly---Commission_R-80855-1",
-      "date_posted": "Posted 13 Days Ago",
+      "company": "Dave & Busters",
+      "title": "Event Coordinator",
+      "location": "Lombard (Yorktown), IL",
+      "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Lombard-Yorktown-IL/Event-Coordinator_R-1012907",
+      "date_posted": "Posted Yesterday",
       "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Teledyne",
-      "title": "Inside Sales Representative- Part Time",
-      "location": "US - Hawthorne, CA (TDY)",
-      "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Hawthorne-CA-TDY/Inside-Sales-Representative--Part-Time_REQ36055",
-      "date_posted": "Posted 5 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hewlett Packard (HP)",
-      "title": "Growth Marketing Manager",
-      "location": "Palo Alto, California, United States of America",
-      "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Palo-Alto-California-United-States-of-America/Demand-Generation-Marketing-Manager_3162803",
-      "date_posted": "Posted 4 Days Ago",
+      "company": "Expedia Group",
+      "title": "Associate Account Manager",
+      "location": "USA - Illinois - Chicago",
+      "url": "https://expedia.wd108.myworkdayjobs.com/search/job/USA---Illinois---Chicago/Associate-Account-Manager_R-108759",
+      "date_posted": "Posted 7 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
