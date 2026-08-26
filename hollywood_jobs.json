@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-25 08:47 UTC",
-  "total": 12,
-  "new_count": 0,
+  "scraped_at": "2026-08-26 04:11 UTC",
+  "total": 18,
+  "new_count": 7,
   "jobs": [
     {
       "company": "The Walt Disney Company",
@@ -60,6 +60,17 @@
     },
     {
       "company": "Live Nation Entertainment",
+      "title": "Insomniac - Marketing Coordinator",
+      "location": "Calabasas, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Marketing-Coordinator_JR-92541-1",
+      "date_posted": "Posted Today",
+      "ats": "Workday",
+      "feeds": [
+        "hollywood"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
       "title": "LN Concerts, Tour Marketing Coordinator",
       "location": "Beverly Hills, CA, USA",
       "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/LN-Concerts--Tour-Marketing-Coordinator_JR-92498-2",
@@ -86,6 +97,17 @@
       "location": "Calabasas, CA, USA",
       "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Paid-Fall-Public-Relations-Intern_JR-92533-1",
       "date_posted": "Posted 8 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "hollywood"
+      ]
+    },
+    {
+      "company": "iHeartMedia",
+      "title": "Account Coordinator",
+      "location": "New York, NY (55th St)",
+      "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/New-York-NY-55th-St/Account-Coordinator_Req39150-1",
+      "date_posted": "Posted Today",
       "ats": "Workday",
       "feeds": [
         "hollywood"
@@ -125,23 +147,145 @@
       ]
     },
     {
-      "company": "Live Nation Entertainment",
-      "title": "Insomniac - Merchandise & Content Marketing Manager",
-      "location": "Calabasas, CA",
-      "url": "https://www.linkedin.com/jobs/view/4343015428/",
-      "date_posted": "2026-08-24",
+      "company": "NBCUniversal",
+      "title": "Manager, Publicity",
+      "location": "Universal City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459001319/",
+      "date_posted": "2026-08-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "hollywood"
+      ]
+    },
+    {
+      "company": "NBCUniversal",
+      "title": "Assoc Manager, Integrated Marketing",
+      "location": "Universal City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4448388181/",
+      "date_posted": "2026-08-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "hollywood"
+      ]
+    },
+    {
+      "company": "AEG",
+      "title": "LA Galaxy, Inside Sales Representative",
+      "location": "Carson, CA",
+      "url": "https://www.linkedin.com/jobs/view/4448809005/",
+      "date_posted": "2026-08-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "hollywood"
+      ]
+    },
+    {
+      "company": "SiriusXM",
+      "title": "Social Media Manager,  Hip-Hop and R&B",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4437647295/",
+      "date_posted": "2026-08-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "hollywood"
+      ]
+    },
+    {
+      "company": "NBCUniversal",
+      "title": "Production Operations Coordinator",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4448322049/",
+      "date_posted": "2026-08-25",
       "ats": "LinkedIn",
       "feeds": [
         "hollywood"
       ]
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "Live Nation Entertainment",
+      "title": "Insomniac - Marketing Coordinator",
+      "location": "Calabasas, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Marketing-Coordinator_JR-92541-1",
+      "date_posted": "Posted Today",
+      "ats": "Workday",
+      "feeds": [
+        "hollywood"
+      ]
+    },
+    {
+      "company": "iHeartMedia",
+      "title": "Account Coordinator",
+      "location": "New York, NY (55th St)",
+      "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/New-York-NY-55th-St/Account-Coordinator_Req39150-1",
+      "date_posted": "Posted Today",
+      "ats": "Workday",
+      "feeds": [
+        "hollywood"
+      ]
+    },
+    {
+      "company": "NBCUniversal",
+      "title": "Manager, Publicity",
+      "location": "Universal City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459001319/",
+      "date_posted": "2026-08-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "hollywood"
+      ]
+    },
+    {
+      "company": "NBCUniversal",
+      "title": "Assoc Manager, Integrated Marketing",
+      "location": "Universal City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4448388181/",
+      "date_posted": "2026-08-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "hollywood"
+      ]
+    },
+    {
+      "company": "AEG",
+      "title": "LA Galaxy, Inside Sales Representative",
+      "location": "Carson, CA",
+      "url": "https://www.linkedin.com/jobs/view/4448809005/",
+      "date_posted": "2026-08-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "hollywood"
+      ]
+    },
+    {
+      "company": "SiriusXM",
+      "title": "Social Media Manager,  Hip-Hop and R&B",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4437647295/",
+      "date_posted": "2026-08-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "hollywood"
+      ]
+    },
+    {
+      "company": "NBCUniversal",
+      "title": "Production Operations Coordinator",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4448322049/",
+      "date_posted": "2026-08-25",
+      "ats": "LinkedIn",
+      "feeds": [
+        "hollywood"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 0,
-    "stale": 30
+    "location": 1,
+    "stale": 29
   }
 }
