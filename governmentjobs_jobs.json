@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-25 17:02 UTC",
-  "total": 4,
+  "scraped_at": "2026-08-26 18:08 UTC",
+  "total": 5,
   "new_count": 1,
   "jobs": [
     {
@@ -40,6 +40,18 @@
       ]
     },
     {
+      "company": "City of San Jose",
+      "title": "Community Coordinator - Housing Department, Homelessness Response Division",
+      "location": "San Jose",
+      "url": "https://www.governmentjobs.com/jobs/5450392-0/community-coordinator-housing-department-homelessness-response-division",
+      "date_posted": "",
+      "salary": "$92,426.88 - $112,432.32 Annually",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "City of Gardena",
       "title": "Administrative Coordinator",
       "location": "Gardena, CA",
@@ -54,12 +66,12 @@
   ],
   "new_jobs": [
     {
-      "company": "City of Gardena",
-      "title": "Administrative Coordinator",
-      "location": "Gardena, CA",
-      "url": "https://www.governmentjobs.com/jobs/5454869-0/administrative-coordinator",
+      "company": "City of San Jose",
+      "title": "Community Coordinator - Housing Department, Homelessness Response Division",
+      "location": "San Jose",
+      "url": "https://www.governmentjobs.com/jobs/5450392-0/community-coordinator-housing-department-homelessness-response-division",
       "date_posted": "",
-      "salary": "$89,040.00 - $113,652.00 Annually",
+      "salary": "$92,426.88 - $112,432.32 Annually",
       "ats": "NEOGOV",
       "feeds": [
         "general"
