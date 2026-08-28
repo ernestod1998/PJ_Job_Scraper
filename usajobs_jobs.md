@@ -1,6 +1,9 @@
 # 🇺🇸 USAJOBS — Federal Roles
-*Last updated: 2026-08-26 16:37 UTC*
+*Last updated: 2026-08-28 00:33 UTC*
 
-**0 new role(s)** since last run · 0 total in current USAJOBS postings
+**1 new role(s)** since last run · 1 total in current USAJOBS postings
 
-No new federal roles since the last run.
+### [Social Worker (Program Coordinator)-HCHV Outreach](https://www.usajobs.gov/job/882340200) — Veterans Health Administration
+- 📍 **Location:** Oakland, California
+- 💰 **Salary:** Starting at $126,164 Per year (GS 12)
+- 🕒 **Posted:** 2026-08-26

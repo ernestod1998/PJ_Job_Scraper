@@ -1,14 +1,40 @@
 {
-  "scraped_at": "2026-08-26 16:37 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": [],
+  "scraped_at": "2026-08-28 00:33 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker (Program Coordinator)-HCHV Outreach",
+      "location": "Oakland, California",
+      "url": "https://www.usajobs.gov/job/882340200",
+      "date_posted": "2026-08-26",
+      "salary": "Starting at $126,164 Per year (GS 12)",
+      "ats": "USAJOBS",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker (Program Coordinator)-HCHV Outreach",
+      "location": "Oakland, California",
+      "url": "https://www.usajobs.gov/job/882340200",
+      "date_posted": "2026-08-26",
+      "salary": "Starting at $126,164 Per year (GS 12)",
+      "ats": "USAJOBS",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 17,
+    "location": 16,
     "stale": 0
   }
 }
