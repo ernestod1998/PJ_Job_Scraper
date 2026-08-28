@@ -1,177 +1,124 @@
 # 🗃 Direct ATS Registry — Marketing / Account Mgmt / Coordinator Roles
-*Last updated: 2026-08-27 23:15 UTC*
+*Last updated: 2026-08-28 23:16 UTC*
 
-**45 new role(s)** since last run · 125 total in current registry shard
+**30 new role(s)** since last run · 126 total in current registry shard
 
-### [Operations Associate](https://jobs.ashbyhq.com/Ekho/73227349-3420-41c8-8a2c-22d9c38800ab) — Ekho
-- 📍 **Location:** New York City HQ
-- 🕒 **Posted:** 2026-08-14
+### [Technical Enterprise Account Manager](https://jobs.ashbyhq.com/checkout.com/b83df826-4622-4c99-b781-f21f84d783f3) — Checkout.com
+- 📍 **Location:** Atlanta
+- 🕒 **Posted:** 2026-08-26
 
-### [Business Operations](https://jobs.ashbyhq.com/exa/0e3957bf-3dd1-4a5a-828c-5c06a8499c93) — Exa
-- 📍 **Location:** San Francisco, California
-- 🕒 **Posted:** 2026-08-27
+### [Customer Success Manager, Managed Inference](https://jobs.ashbyhq.com/Crusoe/648dc4df-6a51-4e99-822a-23f76e8ca53c) — Crusoe
+- 📍 **Location:** San Francisco, CA - US
+- 🕒 **Posted:** 2026-08-26
 
-### [Sales Operations Engineer](https://jobs.ashbyhq.com/orchard/88859272-7f44-4e82-9d03-a812ae46ef57) — Orchard
+### [Learning & Development Coordinator](https://jobs.ashbyhq.com/Crusoe/a9d08293-7016-455c-8590-8228755b5845) — Crusoe
+- 📍 **Location:** San Francisco, CA - US
+- 🕒 **Posted:** 2026-08-21
+
+### [Recruiting Operations Specialist](https://jobs.ashbyhq.com/mercor/ab558822-b18d-431c-b6dd-21cc877cee19) — Mercor
+- 📍 **Location:** New York City
+- 🕒 **Posted:** 2026-08-28
+
+### [Recruiting Coordinator](https://jobs.ashbyhq.com/specter/fde0899b-16bd-4ab9-880b-b1e36cdefca5) — Specter
 - 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-08-24
+- 🕒 **Posted:** 2026-08-17
 
-### [Operations Associate - Part Time (San Jose, CA)](https://jobs.ashbyhq.com/serverobotics/2bd05e97-500b-4f13-9e87-53e6e374b963) — Serve Robotics
-- 📍 **Location:** San Jose, California
-- 🕒 **Posted:** 2026-08-19
+### [Operations Associate (University Hire) ](https://jobs.ashbyhq.com/voleon/6953e829-c69d-43dc-9b39-49ab1b487b2d) — The Voleon Group
+- 📍 **Location:** Berkeley, CA
+- 🕒 **Posted:** 2026-08-21
 
-### [Strategy & Operations Associate, Marketplace](https://jobs.ashbyhq.com/shiftsmart/b3b5a129-776c-4b57-a326-5306e509e9b6) — Shiftsmart
-- 📍 **Location:** New York City (HQ)
-- 🕒 **Posted:** 2026-08-27
+### [Legal Operations Associate](https://jobs.ashbyhq.com/voleon/86a44390-8423-45e8-8d3d-e7e08c8e382f) — The Voleon Group
+- 📍 **Location:** Berkeley, CA
+- 🕒 **Posted:** 2026-08-26
 
-### [Web Growth Marketing Manager](https://job-boards.greenhouse.io/amplitude/jobs/8590452002) — Amplitude
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-27
+### [Account Manager, Financial Services (High Growth)](https://job-boards.greenhouse.io/alphasense/jobs/8393285002) — AlphaSense
+- 📍 **Location:** New York, New York, United States
+- 🕒 **Posted:** 2026-08-25
 
-### [Specialty Account Manager, Long Term Care (Aurora, IL)](https://job-boards.greenhouse.io/axsometherapeutics/jobs/6164405004) — Axsome Therapeutics Inc
-- 📍 **Location:** Aurora, IL
-- 🕒 **Posted:** 2026-08-27
+### [Customer Success Manager, Corporate](https://job-boards.greenhouse.io/alphasense/jobs/8191964002) — AlphaSense
+- 📍 **Location:** Chicago; New York, New York, United States
+- 🕒 **Posted:** 2026-08-25
 
-### [Specialty Account Manager, Long Term Care (Los Angeles Central, CA)](https://job-boards.greenhouse.io/axsometherapeutics/jobs/6164410004) — Axsome Therapeutics Inc
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-08-27
+### [Customer Success Manager, Financial Services - High Growth](https://job-boards.greenhouse.io/alphasense/jobs/8550698002) — AlphaSense
+- 📍 **Location:** New York, New York, United States
+- 🕒 **Posted:** 2026-08-25
 
-### [Specialty Account Manager, Long Term Care (Los Angeles North, CA)](https://job-boards.greenhouse.io/axsometherapeutics/jobs/6164412004) — Axsome Therapeutics Inc
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-08-27
+### [Customer Success Manager, Financial Services - Strategic](https://job-boards.greenhouse.io/alphasense/jobs/8550718002) — AlphaSense
+- 📍 **Location:** New York, New York, United States
+- 🕒 **Posted:** 2026-08-25
 
-### [Specialty Account Manager, Long Term Care (Los Angeles South, CA)](https://job-boards.greenhouse.io/axsometherapeutics/jobs/6164409004) — Axsome Therapeutics Inc
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-08-27
+### [Sales Development Representative ](https://job-boards.greenhouse.io/alphasense/jobs/8609652002) — AlphaSense
+- 📍 **Location:** New York, New York, United States
+- 🕒 **Posted:** 2026-08-25
 
-### [Specialty Account Manager, Long Term Care (San Francisco, CA)](https://job-boards.greenhouse.io/axsometherapeutics/jobs/6164413004) — Axsome Therapeutics Inc
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-27
-
-### [Customer Success Manager](https://job-boards.greenhouse.io/flip/jobs/5156195008) — Flip
-- 📍 **Location:** Los Angeles
-- 🕒 **Posted:** 2026-08-18
-
-### [Enterprise Customer Success Manager](https://job-boards.greenhouse.io/flip/jobs/5046018008) — Flip
-- 📍 **Location:** Los Angeles
-- 🕒 **Posted:** 2026-08-18
-
-### [Business Development Representative, Data Solutions - Associate ](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8622456002) — iCapital Network
+### [Software Technical Account Manager - Dedrone](https://job-boards.greenhouse.io/axon/jobs/7671023003) — Axon
 - 📍 **Location:** New York, New York, United States
 - 🕒 **Posted:** 2026-08-27
 
-### [Account Manager - Financial Services at MrBeast](https://job-boards.greenhouse.io/mrbeastyoutube/jobs/6144453004) — MrBeast
-- 📍 **Location:** Greenville, NC / New York, NY 
-- 🕒 **Posted:** 2026-08-20
-
-### [Account Manager - Tech B2C](https://job-boards.greenhouse.io/mrbeastyoutube/jobs/6144425004) — MrBeast
-- 📍 **Location:** Greenville, NC / New York, NY 
-- 🕒 **Posted:** 2026-08-20
-
-### [Account Manager -Telecommunications](https://job-boards.greenhouse.io/mrbeastyoutube/jobs/6144457004) — MrBeast
-- 📍 **Location:** Greenville, NC / New York, NY 
-- 🕒 **Posted:** 2026-08-20
-
-### [Executive Assistant](https://job-boards.greenhouse.io/nerostechnologies/jobs/5223031007) — Neros Technologies
-- 📍 **Location:** Torrance, California, United States
+### [Client Success Advisor](https://job-boards.greenhouse.io/diligentcorporation/jobs/6120033004) — Diligent Corporation
+- 📍 **Location:** New York, New York, United States; Washington, District of Columbia, United States
 - 🕒 **Posted:** 2026-08-27
 
-### [Account Manager, Evaluation Services](https://job-boards.greenhouse.io/ninjatrader/jobs/4702386006) — NinjaTrader
-- 📍 **Location:** Chicago, IL
+### [Client Success Manager](https://job-boards.greenhouse.io/diligentrobotics/jobs/7895311003) — Diligent Robotics
+- 📍 **Location:** Los Angeles, California, United States
 - 🕒 **Posted:** 2026-08-18
 
-### [Social Media Manager](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5197086007) — True Anomaly
-- 📍 **Location:** Long Beach, CA
+### [Creator Solutions Account Manager ](https://job-boards.greenhouse.io/impact/jobs/8728538002) — impact.com
+- 📍 **Location:** New York,New York
+- 🕒 **Posted:** 2026-08-18
+
+### [Executive Assistant](https://job-boards.greenhouse.io/instabase/jobs/8731142002) — Instabase
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-26
+
+### [Product Operations Specialist](https://job-boards.greenhouse.io/kodiak/jobs/4385434009) — Kodiak Robotics
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-08-27
+
+### [Project Coordinator](https://job-boards.greenhouse.io/precisionaq/jobs/6128696004) — Precision AQ
+- 📍 **Location:** New York, NY, USA
+- 🕒 **Posted:** 2026-08-27
+
+### [Executive Assistant](https://job-boards.greenhouse.io/singlestore/jobs/8097185) — SingleStore
+- 📍 **Location:** San Francisco, California, United States
+- 🕒 **Posted:** 2026-08-21
+
+### [CDL | Hourly Pay with OT | FREE Benefits (Operations Specialist) ](https://job-boards.greenhouse.io/stackav/jobs/5223840007) — StackAV
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-08-27
+
+### [Full Time Front Desk Operations Assistant ](https://job-boards.greenhouse.io/thinkacademyus/jobs/7552615003) — Think Academy International Education
+- 📍 **Location:** San Jose 
+- 🕒 **Posted:** 2026-08-26
+
+### [Pre-School Math Teacher + Business Operations Specialist ](https://job-boards.greenhouse.io/thinkacademyus/jobs/7976090003) — Think Academy International Education
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-25
 
-### [Executive Assistant](https://job-boards.greenhouse.io/vardaspace/jobs/7978450003) — Varda Space
-- 📍 **Location:** El Segundo, California, United States
-- 🕒 **Posted:** 2026-08-26
+### [Recruiting Coordinator](https://job-boards.greenhouse.io/thinkacademyus/jobs/7979891003) — Think Academy International Education
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-27
 
-### [ Executive Assistant](https://boards.greenhouse.io/vast/jobs/4662977006?gh_jid=4662977006) — VAST
-- 📍 **Location:** Long Beach, California, United States
-- 🕒 **Posted:** 2026-08-26
+### [Client Account Manager](https://job-boards.greenhouse.io/xai/jobs/4940377007) — xAI
+- 📍 **Location:** Austin, Texas; Los Angeles, California; New York, New York
+- 🕒 **Posted:** 2026-08-27
 
-### [Executive Assistant](https://boards.greenhouse.io/vast/jobs/4703748006?gh_jid=4703748006) — VAST
-- 📍 **Location:** Long Beach, California, United States
-- 🕒 **Posted:** 2026-08-26
-
-### [Logistics Coordinator II](https://boards.greenhouse.io/vast/jobs/4700671006?gh_jid=4700671006) — VAST
-- 📍 **Location:** Long Beach, California, United States
-- 🕒 **Posted:** 2026-08-26
-
-### [Operations Specialist](https://boards.greenhouse.io/vast/jobs/4698881006?gh_jid=4698881006) — VAST
-- 📍 **Location:** Long Beach, California, United States
-- 🕒 **Posted:** 2026-08-26
-
-### [Procurement Coordinator, Indirect](https://boards.greenhouse.io/vast/jobs/4688603006?gh_jid=4688603006) — VAST
-- 📍 **Location:** Long Beach, California, United States
-- 🕒 **Posted:** 2026-08-26
-
-### [Business Development Representative, Majors](https://job-boards.greenhouse.io/vercel/jobs/5039945004) — Vercel
-- 📍 **Location:** Hybrid - San Francisco, New York City, Austin
-- 🕒 **Posted:** 2026-08-18
-
-### [Growth Marketing Manager, Agent Stack ](https://job-boards.greenhouse.io/vercel/jobs/6016765004) — Vercel
-- 📍 **Location:** Hybrid - San Francisco, New York City, Austin
-- 🕒 **Posted:** 2026-08-18
-
-### [Growth Marketing Manager, Discoverability ](https://job-boards.greenhouse.io/vercel/jobs/6119988004) — Vercel
-- 📍 **Location:** Hybrid - San Francisco, New York City, Austin
-- 🕒 **Posted:** 2026-08-18
-
-### [Recruiting Coordinator (Contract)](https://job-boards.greenhouse.io/vercel/jobs/5686511004) — Vercel
-- 📍 **Location:** Hybrid - San Francisco, New York City
-- 🕒 **Posted:** 2026-08-18
-
-### [Brand Marketing Lead](https://jobs.lever.co/matchgroup/b4f9fcdf-5fba-44c2-a626-c10c5de530d7) — Tinder
+### [Client Account Manager- SMB](https://job-boards.greenhouse.io/xai/jobs/5221126007) — xAI
 - 📍 **Location:** New York, New York
-- 🕒 **Posted:** 2026-08-26
+- 🕒 **Posted:** 2026-08-27
 
-### [SAP Project Coordinator](https://jobs.lever.co/reply/2f9c3ddc-f30e-4550-9210-042c73b49fcd) — Reply
-- 📍 **Location:** Atlanta, Georgia
-- 🕒 **Posted:** 2026-08-24
+### [Human Data - Business Operations Analyst](https://job-boards.greenhouse.io/xai/jobs/5216863007) — xAI
+- 📍 **Location:** Palo Alto, California
+- 🕒 **Posted:** 2026-08-27
 
-### [SAP Project Coordinator](https://jobs.lever.co/reply/b87c3a4a-cd29-48a8-b598-dc6a0dfc9a9e) — Reply
-- 📍 **Location:** Atlanta, Georgia
-- 🕒 **Posted:** 2026-08-24
-
-### [Account Manager - Infectious Disease Diagnostics - Greater Chicago Area.](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Illinois---Chicago/Account-Manager---Infectious-Disease-Diagnostics---Greater-Chicago-Area_31156607) — Abbott
-- 📍 **Location:** United States - Illinois - Chicago
-- 🕒 **Posted:** Posted Today
-
-### [Coordinator, Field Marketing - BeatBox](https://abinbev.wd1.myworkdayjobs.com/USA/job/Carson-California/Coordinator--Field-Marketing---BeatBox_30094722-1) — Anheuser-Busch
-- 📍 **Location:** Carson, California
-- 🕒 **Posted:** Posted 2 Days Ago
-
-### [Counter Sales Representative](https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/Anaheim-CA---Retail-shop/Counter-Sales-Representative_R10094622) — Airgas
-- 📍 **Location:** Anaheim, CA - Retail shop
-- 🕒 **Posted:** Posted Yesterday
-
-### [Analyst, US Client Services](https://aresmgmt.wd1.myworkdayjobs.com/External/job/Denver-CO/Analyst--US-Client-Services_R8000) — Ares Management
-- 📍 **Location:** New York, NY - PARK
-
-### [Analyst, US Client Services](https://aresmgmt.wd1.myworkdayjobs.com/External/job/New-York-NY/Analyst--US-Client-Services_R8205) — Ares Management
+### [Customer Success Manager, Enterprise - Financial Services](https://job-boards.greenhouse.io/yext/jobs/7766556) — Yext
 - 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-17
 
-### [Executive Assistant](https://aresmgmt.wd1.myworkdayjobs.com/External/job/New-York-NY/Executive-Assistant_R6660) — Ares Management
-- 📍 **Location:** New York, NY
+### [Assistant Facilities Account Manager](https://jobs.lever.co/ableserve/5f4af884-4d9a-48a7-96bb-efa4ee6fef00) — ableserve
+- 📍 **Location:** Newport Beach, CA
+- 🕒 **Posted:** 2026-08-20
 
-### [Executive Assistant - Real Estate](https://aresmgmt.wd1.myworkdayjobs.com/External/job/New-York-NY/Executive-Assistant_R7590) — Ares Management
-- 📍 **Location:** New York, NY
-
-### [Executive Assistant - Insurance](https://aresmgmt.wd1.myworkdayjobs.com/External/job/New-York-NY/Executive-Assistant---Insurance_R7947) — Ares Management
-- 📍 **Location:** New York, NY
-
-### [Executive Assistant, Government Affairs](https://aresmgmt.wd1.myworkdayjobs.com/External/job/New-York-NY/Executive-Assistant--Government-Affairs_R7949) — Ares Management
-- 📍 **Location:** New York, NY
-
-### [Executive Assistant](https://aresmgmt.wd1.myworkdayjobs.com/External/job/Los-Angeles-CA---Century-City/Executive-Assistant_R7589) — Ares Management
-- 📍 **Location:** Los Angeles, CA - Century City
-
-### [Executive Assistant](https://bmo.wd3.myworkdayjobs.com/External/job/San-Francisco-CA-USA/Executive-Assistant_R260024874) — Bank of Montreal
-- 📍 **Location:** San Francisco, CA, USA
-- 🕒 **Posted:** Posted 3 Days Ago
-
-### [Executive Assistant - U.S. Banking HR](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Executive-Assistant---US-Banking-HR_R260024507) — Bank of Montreal
-- 📍 **Location:** Chicago, IL, USA
-- 🕒 **Posted:** Posted 6 Days Ago
+### [Marketing Coordinator - Email Marketing](https://jobs.lever.co/bisnow/7ae8c9f5-67bf-426a-9c7a-9db0578c2f6b) — Bisnow
+- 📍 **Location:** New York City
+- 🕒 **Posted:** 2026-08-18
