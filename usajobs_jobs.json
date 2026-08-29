@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-29 00:04 UTC",
+  "scraped_at": "2026-08-29 18:47 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Veterans Health Administration",
@@ -28,20 +28,7 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker (Program Coordinator)",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov/job/882528500",
-      "date_posted": "2026-08-28",
-      "salary": "Starting at $114,695 Per year (GS 12)",
-      "ats": "USAJOBS",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
