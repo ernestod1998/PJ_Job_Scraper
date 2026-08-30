@@ -1,204 +1,138 @@
 # 🔥 LinkedIn — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-08-30 18:03 UTC*
+*Last updated: 2026-08-30 22:41 UTC*
 
-**48 new role(s)** since last run · 48 total in last 4h
+**31 new role(s)** since last run · 31 total in last 4h
 
-### [Assistant Project Manager- Multifamily Construction](https://www.linkedin.com/jobs/view/4457966616/) — Diamond Peak Recruiting
-- 📍 **Location:** Los Angeles Metropolitan Area
-- 💰 **Salary:** $105,000.00/yr - $120,000.00/yr
+### [SEWP Program Coordinator](https://www.linkedin.com/jobs/view/4461037120/) — Golden Star Technology Inc (GST)
+- 📍 **Location:** Cerritos, CA
 - 🕒 **Posted:** 2026-08-30
 
-### [Assistant Project Manager - Healthcare (HCAi) OC/LA/IE](https://www.linkedin.com/jobs/view/4424447394/) — Swinerton
+### [Contracts & Program Coordinator - NASA SEWP](https://www.linkedin.com/jobs/view/4461023220/) — Golden Star Technology Inc (GST)
+- 📍 **Location:** Cerritos, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Federal Program Coordinator](https://www.linkedin.com/jobs/view/4461027177/) — Golden Star Technology Inc (GST)
+- 📍 **Location:** Cerritos, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Logistics Coordinator](https://www.linkedin.com/jobs/view/4461023340/) — MAGMAS
+- 📍 **Location:** Irvine, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Business Development Representative](https://www.linkedin.com/jobs/view/4459747653/) — Premier Physicians Management Company
+- 📍 **Location:** Irvine, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Business to Business Sales Representative](https://www.linkedin.com/jobs/view/4459745678/) — MJR Insurance Services LLC
 - 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-08-30
 
-### [Wealth Management Client Relationship Manager](https://www.linkedin.com/jobs/view/4441356284/) — TIAA
-- 📍 **Location:** Pasadena, CA
-- 🕒 **Posted:** 2026-08-30
-
-### [Psychiatric Account Manager](https://www.linkedin.com/jobs/view/4383442499/) — Syneos Health Commercial Solutions
-- 📍 **Location:** East Los Angeles, CA
-- 🕒 **Posted:** 2026-08-30
-
-### [Global Account Manager (GAM) - Pasadena, CA](https://www.linkedin.com/jobs/view/4461014337/) — Cogent Communication
-- 📍 **Location:** Pasadena, CA
-- 🕒 **Posted:** 2026-08-30
-
-### [Global Account Manager (GAM) - Los Angeles, CA](https://www.linkedin.com/jobs/view/4461019117/) — Cogent Communication
-- 📍 **Location:** Los Angeles Metropolitan Area
-- 🕒 **Posted:** 2026-08-30
-
-### [Technical Sales Representative](https://www.linkedin.com/jobs/view/4433265270/) — Carlisle Construction Materials
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-08-30
-
-### [Sales And Marketing Specialist](https://www.linkedin.com/jobs/view/4460818717/) — Teknofix finans
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-08-30
-
-### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459735461/) — SkyKey Financial
-- 📍 **Location:** Burbank, CA
-- 🕒 **Posted:** 2026-08-30
-
-### [National Account Manager (NAM) - Los Angeles, CA](https://www.linkedin.com/jobs/view/4461020101/) — Cogent Communication
-- 📍 **Location:** Los Angeles Metropolitan Area
-- 🕒 **Posted:** 2026-08-30
-
-### [National Account Manager (NAM) - Pasadena, CA](https://www.linkedin.com/jobs/view/4461032005/) — Cogent Communication
-- 📍 **Location:** Pasadena, CA
-- 🕒 **Posted:** 2026-08-30
-
-### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459742411/) — SkyKey Financial
-- 📍 **Location:** Costa Mesa, CA
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459754592/) — SkyKey Financial
+- 📍 **Location:** Newport Beach, CA
 - 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-08-30
 
-### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459740429/) — SkyKey Financial
-- 📍 **Location:** Downey, CA
-- 🕒 **Posted:** 2026-08-30
-
-### [Social Media Manager](https://www.linkedin.com/jobs/view/4442185388/) — Crusoe
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-30
-
-### [Associate, Client Onboarding Specialist](https://www.linkedin.com/jobs/view/4430267736/) — IEQ Capital
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-08-30
-
-### [Business Development Associate](https://www.linkedin.com/jobs/view/4384225076/) — Marsh McLennan Agency
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-30
-
-### [Global Account Manager (GAM) - San Francisco, CA](https://www.linkedin.com/jobs/view/4461028041/) — Cogent Communication
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-30
-
-### [Account Manager, Strategic Healthcare Partnerships](https://www.linkedin.com/jobs/view/4423586999/) — Lyft
-- 📍 **Location:** San Francisco County, CA
-- 🕒 **Posted:** 2026-08-30
-
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4374147851/) — Crusoe
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-30
-
-### [Enterprise Account Manager](https://www.linkedin.com/jobs/view/4424640566/) — Replit
-- 📍 **Location:** Foster City, CA
-- 💰 **Salary:** $200,000.00/yr - $260,000.00/yr
-- 🕒 **Posted:** 2026-08-30
-
-### [Customer Success Manager II - San Francisco, CA](https://www.linkedin.com/jobs/view/4424468797/) — OpenGov Inc.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-30
-
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4424463170/) — Whatnot
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $113,000.00/yr - $155,000.00/yr
-- 🕒 **Posted:** 2026-08-30
-
-### [Technical Account Manager, Mid-Market](https://www.linkedin.com/jobs/view/4424926142/) — Hightouch
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-30
-
-### [Water Market Client Account Manager – San Francisco Bay Area](https://www.linkedin.com/jobs/view/4405699764/) — Jacobs
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $205,600.00/yr - $350,000.00/yr
-- 🕒 **Posted:** 2026-08-30
-
-### [Water Market Client Account Manager – San Francisco Bay Area](https://www.linkedin.com/jobs/view/4405691879/) — Jacobs
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $205,600.00/yr - $350,000.00/yr
-- 🕒 **Posted:** 2026-08-30
-
-### [Operations Associate, Arctic Ocean Initiative](https://www.linkedin.com/jobs/view/4434067359/) — Gordon and Betty Moore Foundation
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-30
-
-### [Program Associate](https://www.linkedin.com/jobs/view/4458855138/) — PurposePhil Career
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-30
-
-### [Sales Coordinator](https://www.linkedin.com/jobs/view/4459738529/) — Core Home
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $50,000.00/yr - $60,000.00/yr
-- 🕒 **Posted:** 2026-08-30
-
-### [Executive Assistant to the CEO](https://www.linkedin.com/jobs/view/4460898938/) — Major League Hacking
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-30
-
-### [Account Manager II - New York City](https://www.linkedin.com/jobs/view/4434097298/) — Aon
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-30
-
-### [Global Account Manager (GAM) - New York, NY](https://www.linkedin.com/jobs/view/4461023091/) — Cogent Communication
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-30
-
-### [Mid-Market Account Manager](https://www.linkedin.com/jobs/view/4424632636/) — Replit
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-30
-
-### [Enterprise Account Manager](https://www.linkedin.com/jobs/view/4424643511/) — Replit
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-30
-
-### [National Account Manager (NAM) - New York, NY](https://www.linkedin.com/jobs/view/4461015214/) — Cogent Communication
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-30
-
-### [Global Account Manager](https://www.linkedin.com/jobs/view/4442523627/) — Check Point Software
-- 📍 **Location:** Newark, NJ
-- 🕒 **Posted:** 2026-08-30
-
-### [Business Development Representative](https://www.linkedin.com/jobs/view/4424620718/) — Movable Ink
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-30
-
-### [Regional Account Manager (RAM) - New York, NY](https://www.linkedin.com/jobs/view/4461028033/) — Cogent Communication
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-30
-
-### [2027 Summer Intern – Marketing Communications](https://www.linkedin.com/jobs/view/4461001049/) — Stryten Energy
-- 📍 **Location:** Alpharetta, GA
-- 🕒 **Posted:** 2026-08-30
-
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4423570845/) — WSP in the U.S.
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-08-30
-
-### [Media Planner](https://www.linkedin.com/jobs/view/4433404033/) — Team One
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-08-30
-
-### [Regional Account Manager (RAM) - Atlanta, GA](https://www.linkedin.com/jobs/view/4461010963/) — Cogent Communication
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-08-30
-
-### [Air Force Client Account Manager](https://www.linkedin.com/jobs/view/4415116368/) — Pond & Company
-- 📍 **Location:** Peachtree Corners, GA
-- 🕒 **Posted:** 2026-08-30
-
-### [Global Account Manager (GAM) - Atlanta, GA](https://www.linkedin.com/jobs/view/4461032006/) — Cogent Communication
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-08-30
-
-### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459734509/) — SkyKey Financial
-- 📍 **Location:** Sandy Springs, GA
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459739805/) — SkyKey Financial
+- 📍 **Location:** Whittier, CA
 - 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-08-30
 
-### [Sales Development Representative](https://www.linkedin.com/jobs/view/4441779486/) — WitnessAI
-- 📍 **Location:** Atlanta, GA
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459747677/) — SkyKey Financial
+- 📍 **Location:** Santa Monica, CA
+- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-08-30
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4379969955/) — Erie Home
-- 📍 **Location:** Lombard, IL
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459750625/) — SkyKey Financial
+- 📍 **Location:** Westminster, CA
+- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-08-30
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4414224856/) — Real Chemistry
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459731824/) — SkyKey Financial
+- 📍 **Location:** Lake Forest, CA
+- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-08-30
+
+### [Career Program Specialist](https://www.linkedin.com/jobs/view/4461016340/) — The Posse Foundation
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Cyber Risk, and Technical Countermeasures Operations Specialist Operations Specialist (CRTC)](https://www.linkedin.com/jobs/view/4459746658/) — Milestone Technologies, Inc.
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $90,000.00/yr - $110,000.00/yr
+- 🕒 **Posted:** 2026-08-30
+
+### [Outbound Sales Representative](https://www.linkedin.com/jobs/view/4459754537/) — ZUUZ
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Trauma Sales Representative San Jose, CA](https://www.linkedin.com/jobs/view/4454424103/) — Stryker
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Trauma Sales Representative San Jose, CA](https://www.linkedin.com/jobs/view/4454420137/) — Stryker
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459739781/) — SkyKey Financial
+- 📍 **Location:** Vacaville, CA
+- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-08-30
+
+### [Jr. Sales Representative (CA or TX)](https://www.linkedin.com/jobs/view/4458864253/) — Eve Security
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-08-30
+
+### [Sales Development Representative](https://www.linkedin.com/jobs/view/4459749708/) — Coverflow
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Assistant Project Manager](https://www.linkedin.com/jobs/view/4447217050/) — E-J Electric Installation Co.
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-30
+
+### [Clinical Research Coordinator](https://www.linkedin.com/jobs/view/4461037248/) — Equity Medical
+- 📍 **Location:** Bronx, NY
+- 🕒 **Posted:** 2026-08-30
+
+### [Executive Assistant (Volunteer)](https://www.linkedin.com/jobs/view/4461031375/) — Mentor A Promise
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-30
+
+### [Executive assistant - Fragrance](https://www.linkedin.com/jobs/view/4459743620/) — Slate Brands
+- 📍 **Location:** Brooklyn, NY
+- 🕒 **Posted:** 2026-08-30
+
+### [Executive Assistant](https://www.linkedin.com/jobs/view/4461016584/) — Dealroom Media
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-08-30
+
+### [Executive Assistant](https://www.linkedin.com/jobs/view/4448315558/) — Octagon Credit Investors
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $90,000.00/yr - $130,000.00/yr
+- 🕒 **Posted:** 2026-08-30
+
+### [Sales Development Representative](https://www.linkedin.com/jobs/view/4458000575/) — AppCard, Inc.
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $70,000.00/yr - $85,000.00/yr
+- 🕒 **Posted:** 2026-08-30
+
+### [A&D Sales Representative](https://www.linkedin.com/jobs/view/4459750547/) — Roll & Hill
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-30
+
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459755530/) — SkyKey Financial
+- 📍 **Location:** Roswell, GA
+- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-08-30
+
+### [Administrative Coordinator - Dermatology Full time Days](https://www.linkedin.com/jobs/view/4459482899/) — Northwestern Memorial Hospital
 - 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-08-30
 
-### [Growth Marketing Manager, Paid Social](https://www.linkedin.com/jobs/view/4461001822/) — Everlywell
-- 📍 **Location:** Hoffman Estates, IL
+### [Digital Marketing & Social Media Coordinator](https://www.linkedin.com/jobs/view/4459734781/) — ALMASIKA
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-08-30
+
+### [Entry-Level Marketing Assistant](https://www.linkedin.com/jobs/view/4458865321/) — Atlas Marketing Group Inc.
+- 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-08-30
