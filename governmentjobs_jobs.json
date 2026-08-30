@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-29 19:26 UTC",
+  "scraped_at": "2026-08-30 19:21 UTC",
   "total": 4,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "City of Redondo Beach",
@@ -52,32 +52,7 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "City of San Jose",
-      "title": "Community Coordinator - Housing Department, Homelessness Response Division",
-      "location": "San Jose",
-      "url": "https://www.governmentjobs.com/jobs/5450392-0/community-coordinator-housing-department-homelessness-response-division",
-      "date_posted": "",
-      "salary": "$92,426.88 - $112,432.32 Annually",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "City of Gardena",
-      "title": "Administrative Coordinator",
-      "location": "Gardena, CA",
-      "url": "https://www.governmentjobs.com/jobs/5454869-0/administrative-coordinator",
-      "date_posted": "",
-      "salary": "$89,040.00 - $113,652.00 Annually",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
