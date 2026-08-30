@@ -1,49 +1,129 @@
 {
-  "scraped_at": "2026-08-30 00:48 UTC",
-  "total": 11,
-  "new_count": 6,
+  "scraped_at": "2026-08-30 06:32 UTC",
+  "total": 22,
+  "new_count": 21,
   "jobs": [
     {
-      "company": "Skyne Beauty",
-      "title": "Growth Marketing Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460843457/",
-      "date_posted": "2026-08-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Semper Laser",
-      "title": "Sales Coordinator",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4459712399/",
-      "date_posted": "2026-08-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Salt Productions",
-      "title": "Executive Producer (Experiential Marketing Events)",
+      "company": "Cedars-Sinai",
+      "title": "Clinical Research Coordinator II \u2013 Clinical Trials",
       "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460847310/",
+      "url": "https://www.linkedin.com/jobs/view/4458846268/",
       "date_posted": "2026-08-29",
       "ats": "LinkedIn",
-      "salary": "$145,000.00/yr - $165,000.00/yr",
+      "salary": "$28.86/hr - $49.06/hr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Headline - Asia",
-      "title": "Field Marketing Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459705730/",
+      "company": "WRA",
+      "title": "Outside B2B Sales Representative",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460879389/",
       "date_posted": "2026-08-29",
       "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "PRover",
+      "title": "Public Affairs Operations Assistant (Part-Time)",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459719560/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "BioSpace",
+      "title": "Executive Assistant & Operations Manager, Commercial",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460885314/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Allied Universal",
+      "title": "Assistant Security Account Manager",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460881444/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "salary": "$105,000.00/yr - $109,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "ChangeEngine",
+      "title": "Field Marketing Associate",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4458804317/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Thermo Fisher Scientific",
+      "title": "Account Manager II",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4458835338/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DXC Technology",
+      "title": "CIS HI- Tech Client Success Manager  in California",
+      "location": "Daly City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459719665/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DXC Technology",
+      "title": "Healthcare Client Success Manager in California",
+      "location": "Daly City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459706750/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Allied Universal",
+      "title": "Account Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460882465/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "salary": "$95,000.00/yr - $99,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Allied Universal",
+      "title": "Account Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460872507/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "salary": "$110,000.00/yr - $115,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -60,10 +140,10 @@
       ]
     },
     {
-      "company": "Stryker",
-      "title": "Trauma Sales Representative San Jose, CA",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454420137/",
+      "company": "DXC Technology",
+      "title": "CIS Healthcare/Science/Retail Client Success Manager - Bay Area, CA",
+      "location": "Daly City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459726575/",
       "date_posted": "2026-08-29",
       "ats": "LinkedIn",
       "feeds": [
@@ -71,10 +151,21 @@
       ]
     },
     {
-      "company": "Morgan Stanley",
-      "title": "Associate, Private Real Estate Fund Marketing Specialist",
+      "company": "DXC Technology",
+      "title": "CIS Finance Client Success Manager- El Segundo, CA",
+      "location": "Daly City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459718624/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Weill Cornell Medicine",
+      "title": "Research Coordinator",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4448240922/",
+      "url": "https://www.linkedin.com/jobs/view/4460862926/",
       "date_posted": "2026-08-29",
       "ats": "LinkedIn",
       "feeds": [
@@ -82,10 +173,32 @@
       ]
     },
     {
-      "company": "Guardian Life",
-      "title": "Executive Assistant, FPRS",
+      "company": "Esteva Inc",
+      "title": "Social Media Marketing Specialist",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4456587871/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "PRover",
+      "title": "Communications & Marketing Coordinator (IN OFFICE)",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4459725449/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Ronini",
+      "title": "Social Media Manager (Video-First, Contract)",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458818192/",
+      "url": "https://www.linkedin.com/jobs/view/4460870280/",
       "date_posted": "2026-08-29",
       "ats": "LinkedIn",
       "feeds": [
@@ -93,10 +206,10 @@
       ]
     },
     {
-      "company": "Change Order",
-      "title": "Partnerships Operations & Account Manager",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458822174/",
+      "company": "Across Sports Wear LLC",
+      "title": "Sales Representative",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4458845183/",
       "date_posted": "2026-08-29",
       "ats": "LinkedIn",
       "feeds": [
@@ -104,23 +217,35 @@
       ]
     },
     {
-      "company": "Uber",
-      "title": "Enterprise Franchise Account Manager ll",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4460848318/",
-      "date_posted": "2026-08-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Lakeshore Management",
-      "title": "Sales And Marketing Specialist",
+      "company": "Crock Ground Inc",
+      "title": "Operations Coordinator",
       "location": "Greater Chicago Area",
-      "url": "https://www.linkedin.com/jobs/view/4459488921/",
+      "url": "https://www.linkedin.com/jobs/view/4459720578/",
       "date_posted": "2026-08-29",
       "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hamilton Storage",
+      "title": "Regional Sales Representative - Robotics",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4459723582/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Crate & Barrel",
+      "title": "Operations Associate",
+      "location": "Northbrook, IL",
+      "url": "https://www.linkedin.com/jobs/view/4460887268/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "salary": "$15.00/hr - $18.75/hr",
       "feeds": [
         "general"
       ]
@@ -128,55 +253,22 @@
   ],
   "new_jobs": [
     {
-      "company": "Skyne Beauty",
-      "title": "Growth Marketing Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460843457/",
-      "date_posted": "2026-08-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Semper Laser",
-      "title": "Sales Coordinator",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4459712399/",
-      "date_posted": "2026-08-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Salt Productions",
-      "title": "Executive Producer (Experiential Marketing Events)",
+      "company": "Cedars-Sinai",
+      "title": "Clinical Research Coordinator II \u2013 Clinical Trials",
       "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460847310/",
+      "url": "https://www.linkedin.com/jobs/view/4458846268/",
       "date_posted": "2026-08-29",
       "ats": "LinkedIn",
-      "salary": "$145,000.00/yr - $165,000.00/yr",
+      "salary": "$28.86/hr - $49.06/hr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Morgan Stanley",
-      "title": "Associate, Private Real Estate Fund Marketing Specialist",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4448240922/",
-      "date_posted": "2026-08-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Guardian Life",
-      "title": "Executive Assistant, FPRS",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458818192/",
+      "company": "WRA",
+      "title": "Outside B2B Sales Representative",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460879389/",
       "date_posted": "2026-08-29",
       "ats": "LinkedIn",
       "feeds": [
@@ -184,12 +276,214 @@
       ]
     },
     {
-      "company": "Change Order",
-      "title": "Partnerships Operations & Account Manager",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4458822174/",
+      "company": "PRover",
+      "title": "Public Affairs Operations Assistant (Part-Time)",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459719560/",
       "date_posted": "2026-08-29",
       "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "BioSpace",
+      "title": "Executive Assistant & Operations Manager, Commercial",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460885314/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Allied Universal",
+      "title": "Assistant Security Account Manager",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460881444/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "salary": "$105,000.00/yr - $109,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "ChangeEngine",
+      "title": "Field Marketing Associate",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4458804317/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Thermo Fisher Scientific",
+      "title": "Account Manager II",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4458835338/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DXC Technology",
+      "title": "CIS HI- Tech Client Success Manager  in California",
+      "location": "Daly City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459719665/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DXC Technology",
+      "title": "Healthcare Client Success Manager in California",
+      "location": "Daly City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459706750/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Allied Universal",
+      "title": "Account Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460882465/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "salary": "$95,000.00/yr - $99,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Allied Universal",
+      "title": "Account Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460872507/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "salary": "$110,000.00/yr - $115,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DXC Technology",
+      "title": "CIS Healthcare/Science/Retail Client Success Manager - Bay Area, CA",
+      "location": "Daly City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459726575/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DXC Technology",
+      "title": "CIS Finance Client Success Manager- El Segundo, CA",
+      "location": "Daly City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459718624/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Weill Cornell Medicine",
+      "title": "Research Coordinator",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4460862926/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Esteva Inc",
+      "title": "Social Media Marketing Specialist",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4456587871/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "PRover",
+      "title": "Communications & Marketing Coordinator (IN OFFICE)",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4459725449/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Ronini",
+      "title": "Social Media Manager (Video-First, Contract)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4460870280/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Across Sports Wear LLC",
+      "title": "Sales Representative",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4458845183/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Crock Ground Inc",
+      "title": "Operations Coordinator",
+      "location": "Greater Chicago Area",
+      "url": "https://www.linkedin.com/jobs/view/4459720578/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hamilton Storage",
+      "title": "Regional Sales Representative - Robotics",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4459723582/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Crate & Barrel",
+      "title": "Operations Associate",
+      "location": "Northbrook, IL",
+      "url": "https://www.linkedin.com/jobs/view/4460887268/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "salary": "$15.00/hr - $18.75/hr",
       "feeds": [
         "general"
       ]
@@ -199,7 +493,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 6,
+    "location": 9,
     "stale": 0
   }
 }
