@@ -1,32 +1,33 @@
 # 🟦 Indeed — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-08-30 07:19 UTC*
+*Last updated: 2026-08-30 18:11 UTC*
 
-**6 new role(s)** since last run · 46 total in last 24h
+**6 new role(s)** since last run · 21 total in last 24h
 
-### [Electrical Estimator / Purchasing Coordinator](https://www.indeed.com/viewjob?jk=188934725e2cb417) — West Coast Wiring & Automation
+### [Bird Program Coordinator & Parrot Caretaker](https://www.indeed.com/viewjob?jk=ece3413b2f37cd44) — Unknown
+- 📍 **Location:** Brea, CA, US
+- 💰 **Salary:** $20–$26/hr
+- 🕒 **Posted:** 2026-08-30
+
+### [Key Account Manager, Power Packs](https://www.indeed.com/viewjob?jk=d86d57ad32242cda) — Collectors
 - 📍 **Location:** Santa Ana, CA, US
-- 💰 **Salary:** $25–$40/hr
+- 💰 **Salary:** $125k–$147k/yr
 - 🕒 **Posted:** 2026-08-30
 
-### [Account Manager II](https://www.indeed.com/viewjob?jk=c4a24422cc695ce0) — Thermo Fisher Scientific
-- 📍 **Location:** South San Francisco, CA, US
-- 💰 **Salary:** $57k–$86k/yr
-- 🕒 **Posted:** 2026-08-29
-
-### [Sales Representative](https://www.indeed.com/viewjob?jk=d5b35f62e55daadb) — Fremont Chrysler Dodge Jeep Ram
-- 📍 **Location:** Newark, CA, US
-- 💰 **Salary:** $71k–$120k/yr
+### [Logistics Coordinator](https://www.indeed.com/viewjob?jk=91b6cb4454b9cc83) — Plan B Transportation
+- 📍 **Location:** Queens, NY, US
+- 💰 **Salary:** $26–$32/hr
 - 🕒 **Posted:** 2026-08-30
 
-### [Social Media Manager](https://www.indeed.com/viewjob?jk=fbcde6cc5157c18a) — Unknown
-- 📍 **Location:** San Ramon, CA, US
+### [Logistics Coordinator](https://www.indeed.com/viewjob?jk=e21dc1b0725abddf) — KD Marketing Group.
+- 📍 **Location:** Queens, NY, US
+- 💰 **Salary:** $25–$29/hr
 - 🕒 **Posted:** 2026-08-30
 
-### [Clinical Research Coordinator III | School of Medicine - Pediatrics, Nephrology](https://www.indeed.com/viewjob?jk=38eb4c232fcb33d7) — Emory University
-- 📍 **Location:** Atlanta, GA, US
-- 🕒 **Posted:** 2026-08-29
+### [Account Manager - Base44](https://www.indeed.com/viewjob?jk=9884b58eb413ba8b) — Wix.com, Inc.
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $125k–$150k/yr
+- 🕒 **Posted:** 2026-08-30
 
-### [Retail Sales Representative](https://www.indeed.com/viewjob?jk=6c56022ef768d5d8) — 2020 Companies
-- 📍 **Location:** Cicero, IL, US
-- 💰 **Salary:** $800–$1000/wk
-- 🕒 **Posted:** 2026-08-29
+### [2027 Summer Intern – Marketing Communications](https://www.indeed.com/viewjob?jk=d167697923d6cc2e) — Stryten Energy
+- 📍 **Location:** Alpharetta, GA, US
+- 🕒 **Posted:** 2026-08-21
