@@ -1,6 +1,8 @@
 # 🎬 Entertainment — Studios / Agencies / Labels (direct ATS + LinkedIn allowlist)
-*Last updated: 2026-08-29 10:11 UTC*
+*Last updated: 2026-08-30 09:20 UTC*
 
-**0 new role(s)** since last run · 11 total in last 24h
+**1 new role(s)** since last run · 12 total in last 24h
 
-No new entertainment roles since the last run.
+### [Manager, Sports Content Marketing & Partnerships](https://www.linkedin.com/jobs/view/4449200633/) — SiriusXM
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-29

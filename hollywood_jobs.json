@@ -1,14 +1,14 @@
 {
-  "scraped_at": "2026-08-29 10:11 UTC",
-  "total": 11,
-  "new_count": 0,
+  "scraped_at": "2026-08-30 09:20 UTC",
+  "total": 12,
+  "new_count": 1,
   "jobs": [
     {
       "company": "The Walt Disney Company",
       "title": "Music Research Coordinator, Disney Music Group",
       "location": "Burbank, CA, USA",
       "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Music-Research-Coordinator--Disney-Music-Group_10158813-1",
-      "date_posted": "Posted 3 Days Ago",
+      "date_posted": "Posted 4 Days Ago",
       "ats": "Workday",
       "feeds": [
         "hollywood"
@@ -19,7 +19,7 @@
       "title": "Associate Project Manager (Project Hire/Internal Assignment)",
       "location": "Anaheim, CA, USA",
       "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Associate-Project-Manager--Project-Hire-Internal-Assignment-_10157888",
-      "date_posted": "Posted 2 Days Ago",
+      "date_posted": "Posted 3 Days Ago",
       "ats": "Workday",
       "feeds": [
         "hollywood"
@@ -30,7 +30,7 @@
       "title": "Operations Specialist",
       "location": "Burbank, CA, USA",
       "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Operations-Specialist_10158816",
-      "date_posted": "Posted 2 Days Ago",
+      "date_posted": "Posted 3 Days Ago",
       "ats": "Workday",
       "feeds": [
         "hollywood"
@@ -41,7 +41,7 @@
       "title": "Specialist, Client Services",
       "location": "New York, NY, USA",
       "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Specialist--Client-Services_10155624",
-      "date_posted": "Posted 5 Days Ago",
+      "date_posted": "Posted 6 Days Ago",
       "ats": "Workday",
       "feeds": [
         "hollywood"
@@ -52,7 +52,7 @@
       "title": "Associate Project Manager (Facility Asset Management)",
       "location": "Anaheim, CA, USA",
       "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Associate-Project-Manager--Facility-Asset-Management-_10158806",
-      "date_posted": "Posted 10 Days Ago",
+      "date_posted": "Posted 11 Days Ago",
       "ats": "Workday",
       "feeds": [
         "hollywood"
@@ -63,7 +63,7 @@
       "title": "Media Coordinator",
       "location": "New York, NY, USA",
       "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Media-Coordinator_10158005",
-      "date_posted": "Posted 11 Days Ago",
+      "date_posted": "Posted 12 Days Ago",
       "ats": "Workday",
       "feeds": [
         "hollywood"
@@ -74,7 +74,7 @@
       "title": "Insomniac - Marketing Coordinator",
       "location": "Calabasas, CA, USA",
       "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Marketing-Coordinator_JR-92541-1",
-      "date_posted": "Posted 4 Days Ago",
+      "date_posted": "Posted 5 Days Ago",
       "ats": "Workday",
       "feeds": [
         "hollywood"
@@ -85,7 +85,7 @@
       "title": "LN Concerts, Tour Marketing Coordinator",
       "location": "Beverly Hills, CA, USA",
       "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/LN-Concerts--Tour-Marketing-Coordinator_JR-92498-2",
-      "date_posted": "Posted 10 Days Ago",
+      "date_posted": "Posted 11 Days Ago",
       "ats": "Workday",
       "feeds": [
         "hollywood"
@@ -96,7 +96,7 @@
       "title": "Insomniac - Paid Fall Public Relations Intern",
       "location": "Calabasas, CA, USA",
       "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Paid-Fall-Public-Relations-Intern_JR-92533-1",
-      "date_posted": "Posted 12 Days Ago",
+      "date_posted": "Posted 13 Days Ago",
       "ats": "Workday",
       "feeds": [
         "hollywood"
@@ -107,7 +107,7 @@
       "title": "Account Coordinator",
       "location": "New York, NY (55th St)",
       "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/New-York-NY-55th-St/Account-Coordinator_Req39150-1",
-      "date_posted": "Posted 4 Days Ago",
+      "date_posted": "Posted 5 Days Ago",
       "ats": "Workday",
       "feeds": [
         "hollywood"
@@ -118,14 +118,37 @@
       "title": "Executive Assistant",
       "location": "Chicago, IL",
       "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Chicago-IL/Executive-Assistant_Req39123-2",
-      "date_posted": "Posted 10 Days Ago",
+      "date_posted": "Posted 11 Days Ago",
       "ats": "Workday",
+      "feeds": [
+        "hollywood"
+      ]
+    },
+    {
+      "company": "SiriusXM",
+      "title": "Manager, Sports Content Marketing & Partnerships",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4449200633/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
       "feeds": [
         "hollywood"
       ]
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "SiriusXM",
+      "title": "Manager, Sports Content Marketing & Partnerships",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4449200633/",
+      "date_posted": "2026-08-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "hollywood"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
