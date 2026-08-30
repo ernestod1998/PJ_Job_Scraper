@@ -1,33 +1,23 @@
 # 🟦 Indeed — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-08-30 18:11 UTC*
+*Last updated: 2026-08-30 22:55 UTC*
 
-**6 new role(s)** since last run · 21 total in last 24h
+**4 new role(s)** since last run · 16 total in last 24h
 
-### [Bird Program Coordinator & Parrot Caretaker](https://www.indeed.com/viewjob?jk=ece3413b2f37cd44) — Unknown
-- 📍 **Location:** Brea, CA, US
-- 💰 **Salary:** $20–$26/hr
+### [Business Development Representative (LA / OC / IE)](https://www.indeed.com/viewjob?jk=fa38920231846ce8) — Simplexam
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $56k–$71k/yr
 - 🕒 **Posted:** 2026-08-30
 
-### [Key Account Manager, Power Packs](https://www.indeed.com/viewjob?jk=d86d57ad32242cda) — Collectors
+### [Customer Sales Representative](https://www.indeed.com/viewjob?jk=d71caf50f6dbaba5) — Elysian Consultants
 - 📍 **Location:** Santa Ana, CA, US
-- 💰 **Salary:** $125k–$147k/yr
+- 💰 **Salary:** $1000–$65k/wk
 - 🕒 **Posted:** 2026-08-30
 
-### [Logistics Coordinator](https://www.indeed.com/viewjob?jk=91b6cb4454b9cc83) — Plan B Transportation
-- 📍 **Location:** Queens, NY, US
-- 💰 **Salary:** $26–$32/hr
+### [Fulfillment Coordinator](https://www.indeed.com/viewjob?jk=dd2e3cb556af83ab) — B.T.R. Bar
+- 📍 **Location:** San Francisco, CA, US
 - 🕒 **Posted:** 2026-08-30
 
-### [Logistics Coordinator](https://www.indeed.com/viewjob?jk=e21dc1b0725abddf) — KD Marketing Group.
-- 📍 **Location:** Queens, NY, US
-- 💰 **Salary:** $25–$29/hr
-- 🕒 **Posted:** 2026-08-30
-
-### [Account Manager - Base44](https://www.indeed.com/viewjob?jk=9884b58eb413ba8b) — Wix.com, Inc.
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $125k–$150k/yr
-- 🕒 **Posted:** 2026-08-30
-
-### [2027 Summer Intern – Marketing Communications](https://www.indeed.com/viewjob?jk=d167697923d6cc2e) — Stryten Energy
+### [Order and Administrative Coordinator](https://www.indeed.com/viewjob?jk=15f5f652574c3100) — Graphic Solid Inks
 - 📍 **Location:** Alpharetta, GA, US
-- 🕒 **Posted:** 2026-08-21
+- 💰 **Salary:** $25–$30/hr
+- 🕒 **Posted:** 2026-08-30
