@@ -1,138 +1,198 @@
 # 🔥 LinkedIn — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-08-30 22:41 UTC*
+*Last updated: 2026-08-31 06:58 UTC*
 
-**31 new role(s)** since last run · 31 total in last 4h
+**44 new role(s)** since last run · 46 total in last 4h
 
-### [SEWP Program Coordinator](https://www.linkedin.com/jobs/view/4461037120/) — Golden Star Technology Inc (GST)
-- 📍 **Location:** Cerritos, CA
-- 🕒 **Posted:** 2026-08-30
-
-### [Contracts & Program Coordinator - NASA SEWP](https://www.linkedin.com/jobs/view/4461023220/) — Golden Star Technology Inc (GST)
-- 📍 **Location:** Cerritos, CA
-- 🕒 **Posted:** 2026-08-30
-
-### [Federal Program Coordinator](https://www.linkedin.com/jobs/view/4461027177/) — Golden Star Technology Inc (GST)
-- 📍 **Location:** Cerritos, CA
-- 🕒 **Posted:** 2026-08-30
-
-### [Logistics Coordinator](https://www.linkedin.com/jobs/view/4461023340/) — MAGMAS
-- 📍 **Location:** Irvine, CA
-- 🕒 **Posted:** 2026-08-30
-
-### [Business Development Representative](https://www.linkedin.com/jobs/view/4459747653/) — Premier Physicians Management Company
-- 📍 **Location:** Irvine, CA
-- 🕒 **Posted:** 2026-08-30
-
-### [Business to Business Sales Representative](https://www.linkedin.com/jobs/view/4459745678/) — MJR Insurance Services LLC
+### [Legal Administrative Coordinator - Corporate Business Transactions/Finance/Litigation](https://www.linkedin.com/jobs/view/4445541484/) — Morgan, Lewis & Bockius LLP
 - 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-08-30
 
-### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459754592/) — SkyKey Financial
+### [Spanish Bilingual Logistics Coordinator](https://www.linkedin.com/jobs/view/4458868857/) — JAC Recruitment
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Membership Sales Representative](https://www.linkedin.com/jobs/view/4461057070/) — National Federation of Independent Business (NFIB)
+- 📍 **Location:** Orange, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Membership Sales Representative](https://www.linkedin.com/jobs/view/4461044197/) — National Federation of Independent Business (NFIB)
+- 📍 **Location:** Pomona, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459767293/) — SkyKey Financial
+- 📍 **Location:** Buena Park, CA
+- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-08-30
+
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459758420/) — SkyKey Financial
+- 📍 **Location:** Tustin, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459777155/) — SkyKey Financial
+- 📍 **Location:** Lakewood, CA
+- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-08-30
+
+### [Membership Sales Representative - Elite](https://www.linkedin.com/jobs/view/4461048151/) — National Federation of Independent Business (NFIB)
+- 📍 **Location:** Gardena, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Membership Sales Representative - Elite](https://www.linkedin.com/jobs/view/4461060048/) — National Federation of Independent Business (NFIB)
+- 📍 **Location:** Fullerton, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Account Manager, ETF Sales (West Region)](https://www.linkedin.com/jobs/view/4444045387/) — PIMCO
 - 📍 **Location:** Newport Beach, CA
-- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-08-30
 
-### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459739805/) — SkyKey Financial
+### [Outside Sales Representative](https://www.linkedin.com/jobs/view/4461040272/) — National Federation of Independent Business (NFIB)
+- 📍 **Location:** Anaheim, CA
+- 💰 **Salary:** $70,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-08-30
+
+### [Outside Sales Representative](https://www.linkedin.com/jobs/view/4461054132/) — National Federation of Independent Business (NFIB)
 - 📍 **Location:** Whittier, CA
-- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
+- 💰 **Salary:** $70,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-08-30
 
-### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459747677/) — SkyKey Financial
-- 📍 **Location:** Santa Monica, CA
-- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
+### [Outside Sales Representative](https://www.linkedin.com/jobs/view/4461056086/) — National Federation of Independent Business (NFIB)
+- 📍 **Location:** Long Beach, CA
+- 💰 **Salary:** $70,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-08-30
 
-### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459750625/) — SkyKey Financial
-- 📍 **Location:** Westminster, CA
-- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4459759666/) — AlphaX RE Capital
+- 📍 **Location:** Cupertino, CA
 - 🕒 **Posted:** 2026-08-30
 
-### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459731824/) — SkyKey Financial
-- 📍 **Location:** Lake Forest, CA
-- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
-- 🕒 **Posted:** 2026-08-30
-
-### [Career Program Specialist](https://www.linkedin.com/jobs/view/4461016340/) — The Posse Foundation
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-30
-
-### [Cyber Risk, and Technical Countermeasures Operations Specialist Operations Specialist (CRTC)](https://www.linkedin.com/jobs/view/4459746658/) — Milestone Technologies, Inc.
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $90,000.00/yr - $110,000.00/yr
-- 🕒 **Posted:** 2026-08-30
-
-### [Outbound Sales Representative](https://www.linkedin.com/jobs/view/4459754537/) — ZUUZ
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-08-30
-
-### [Trauma Sales Representative San Jose, CA](https://www.linkedin.com/jobs/view/4454424103/) — Stryker
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-30
-
-### [Trauma Sales Representative San Jose, CA](https://www.linkedin.com/jobs/view/4454420137/) — Stryker
+### [Lab Operations Specialist](https://www.linkedin.com/jobs/view/4461038338/) — Dexmate
 - 📍 **Location:** Fremont, CA
 - 🕒 **Posted:** 2026-08-30
 
-### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459739781/) — SkyKey Financial
-- 📍 **Location:** Vacaville, CA
+### [Membership Sales Representative](https://www.linkedin.com/jobs/view/4461040270/) — National Federation of Independent Business (NFIB)
+- 📍 **Location:** Concord, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Membership Sales Representative - Elite](https://www.linkedin.com/jobs/view/4461049158/) — National Federation of Independent Business (NFIB)
+- 📍 **Location:** Danville, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Outside Sales Representative](https://www.linkedin.com/jobs/view/4461050145/) — National Federation of Independent Business (NFIB)
+- 📍 **Location:** Hayward, CA
+- 💰 **Salary:** $70,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-08-30
+
+### [Membership Sales Representative - Elite](https://www.linkedin.com/jobs/view/4461061015/) — National Federation of Independent Business (NFIB)
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Outside Sales Representative](https://www.linkedin.com/jobs/view/4461053150/) — National Federation of Independent Business (NFIB)
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Global Account Manager](https://www.linkedin.com/jobs/view/4461049656/) — Cogent Communications
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-30
+
+### [Customer Success Manager, Medical Devices](https://www.linkedin.com/jobs/view/4459775220/) — Lumafield
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $140,000.00/yr - $160,000.00/yr
+- 🕒 **Posted:** 2026-08-30
+
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459769317/) — SkyKey Financial
+- 📍 **Location:** Alameda County, CA
 - 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-08-30
 
-### [Jr. Sales Representative (CA or TX)](https://www.linkedin.com/jobs/view/4458864253/) — Eve Security
-- 📍 **Location:** San Francisco Bay Area
+### [Manager of Customer Success](https://www.linkedin.com/jobs/view/4459776076/) — XBuild
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $125,000.00/yr - $145,000.00/yr
 - 🕒 **Posted:** 2026-08-30
 
-### [Sales Development Representative](https://www.linkedin.com/jobs/view/4459749708/) — Coverflow
+### [SDR Manager](https://www.linkedin.com/jobs/view/4447087109/) — Niural AI
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-30
 
-### [Assistant Project Manager](https://www.linkedin.com/jobs/view/4447217050/) — E-J Electric Installation Co.
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-30
-
-### [Clinical Research Coordinator](https://www.linkedin.com/jobs/view/4461037248/) — Equity Medical
-- 📍 **Location:** Bronx, NY
-- 🕒 **Posted:** 2026-08-30
-
-### [Executive Assistant (Volunteer)](https://www.linkedin.com/jobs/view/4461031375/) — Mentor A Promise
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-30
-
-### [Executive assistant - Fragrance](https://www.linkedin.com/jobs/view/4459743620/) — Slate Brands
-- 📍 **Location:** Brooklyn, NY
-- 🕒 **Posted:** 2026-08-30
-
-### [Executive Assistant](https://www.linkedin.com/jobs/view/4461016584/) — Dealroom Media
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-08-30
-
-### [Executive Assistant](https://www.linkedin.com/jobs/view/4448315558/) — Octagon Credit Investors
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $90,000.00/yr - $130,000.00/yr
-- 🕒 **Posted:** 2026-08-30
-
-### [Sales Development Representative](https://www.linkedin.com/jobs/view/4458000575/) — AppCard, Inc.
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $70,000.00/yr - $85,000.00/yr
-- 🕒 **Posted:** 2026-08-30
-
-### [A&D Sales Representative](https://www.linkedin.com/jobs/view/4459750547/) — Roll & Hill
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-30
-
-### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459755530/) — SkyKey Financial
-- 📍 **Location:** Roswell, GA
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459768335/) — SkyKey Financial
+- 📍 **Location:** Pleasanton, CA
 - 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-08-30
 
-### [Administrative Coordinator - Dermatology Full time Days](https://www.linkedin.com/jobs/view/4459482899/) — Northwestern Memorial Hospital
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459767340/) — SkyKey Financial
+- 📍 **Location:** Milpitas, CA
+- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-08-30
+
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459774184/) — SkyKey Financial
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-08-30
+
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459770267/) — SkyKey Financial
+- 📍 **Location:** Redwood City, CA
+- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-08-30
+
+### [Research Coordinator](https://www.linkedin.com/jobs/view/4460862926/) — Weill Cornell Medicine
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-30
+
+### [Community Manager](https://www.linkedin.com/jobs/view/4460561499/) — Rapport Guest Services
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-30
+
+### [Bilingual Account Manager, Field Based](https://www.linkedin.com/jobs/view/4459769342/) — UnitedHealth Group
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-30
+
+### [Outside Sales Representative](https://www.linkedin.com/jobs/view/4460504863/) — National Federation of Independent Business (NFIB)
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $70,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-08-30
+
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459777137/) — SkyKey Financial
+- 📍 **Location:** Johns Creek, GA
+- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-08-30
+
+### [Valet Account Manager - Atlanta, GA](https://www.linkedin.com/jobs/view/4460528687/) — Parking Management Company
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-08-30
+
+### [Client Relationship Associate](https://www.linkedin.com/jobs/view/4459764341/) — Cerity Partners
 - 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-08-30
 
-### [Digital Marketing & Social Media Coordinator](https://www.linkedin.com/jobs/view/4459734781/) — ALMASIKA
+### [Field Marketing Representative](https://www.linkedin.com/jobs/view/4461051691/) — Home Genius Exteriors
+- 📍 **Location:** Joliet, IL
+- 🕒 **Posted:** 2026-08-30
+
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459770328/) — SkyKey Financial
+- 📍 **Location:** Evanston, IL
+- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-08-30
+
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459771305/) — SkyKey Financial
+- 📍 **Location:** Arlington Heights, IL
+- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-08-30
+
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4459772290/) — SkyKey Financial
+- 📍 **Location:** Schaumburg, IL
+- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-08-30
+
+### [Inside Sales Representative (NO COLD CALLING)](https://www.linkedin.com/jobs/view/4461047371/) — Right Choice Resources
 - 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-08-30
 
-### [Entry-Level Marketing Assistant](https://www.linkedin.com/jobs/view/4458865321/) — Atlas Marketing Group Inc.
+### [Entry Level Sales Representative](https://www.linkedin.com/jobs/view/4461056304/) — Right Choice Resources
 - 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-08-30
+
+### [Outside Sales Representative (No Cold Calling)](https://www.linkedin.com/jobs/view/4461055634/) — Home Genius Exteriors
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-08-30
+
+### [Outside Sales Representative (No Cold Calling)](https://www.linkedin.com/jobs/view/4461040861/) — Home Genius Exteriors
+- 📍 **Location:** Joliet, IL
 - 🕒 **Posted:** 2026-08-30
