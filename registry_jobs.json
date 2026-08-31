@@ -1,8 +1,19 @@
 {
-  "scraped_at": "2026-08-30 17:48 UTC",
-  "total": 178,
-  "new_count": 45,
+  "scraped_at": "2026-08-31 19:45 UTC",
+  "total": 222,
+  "new_count": 76,
   "jobs": [
+    {
+      "company": "Baseten",
+      "title": "Sales Development Representative - Inbound",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/baseten/49aaa88c-75b5-4d4e-b726-28bfecd4300e",
+      "date_posted": "2026-08-18",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
     {
       "company": "Checkout.com",
       "title": "Technical Enterprise Account Manager",
@@ -64,6 +75,17 @@
       "location": "San Francisco, CA - US",
       "url": "https://jobs.ashbyhq.com/Crusoe/a9d08293-7016-455c-8590-8228755b5845",
       "date_posted": "2026-08-21",
+      "ats": "Ashby",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "EliseAI",
+      "title": "Recruiting Coordinator ",
+      "location": "New York City",
+      "url": "https://jobs.ashbyhq.com/EliseAI/2025e09f-a1dd-44bb-bf68-6d356fa1c49f",
+      "date_posted": "2026-08-23",
       "ats": "Ashby",
       "feeds": [
         "general"
@@ -139,8 +161,8 @@
       "company": "Jerry",
       "title": "Community Manager ",
       "location": "Palo Alto, California",
-      "url": "https://jobs.ashbyhq.com/jerry.ai/34a7f95e-827c-456d-bc36-74ae504c9bef",
-      "date_posted": "2026-08-24",
+      "url": "https://jobs.ashbyhq.com/jerry.ai/b85865cd-9677-40f9-ba2f-593768cdb3c4",
+      "date_posted": "2026-08-31",
       "ats": "Ashby",
       "feeds": [
         "general"
@@ -173,17 +195,6 @@
       "title": "Finance & Business Operations Analyst",
       "location": "Torrance, CA",
       "url": "https://jobs.ashbyhq.com/NorthwoodSpace/0a4748c7-79b2-4233-8b62-e716b2bf457e",
-      "date_posted": "2026-08-17",
-      "ats": "Ashby",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Northwood Space",
-      "title": "Executive Assistant",
-      "location": "Torrance, CA",
-      "url": "https://jobs.ashbyhq.com/NorthwoodSpace/9a61b2d6-446d-4f1f-91f4-e7b91a5fe087",
       "date_posted": "2026-08-17",
       "ats": "Ashby",
       "feeds": [
@@ -247,17 +258,6 @@
     },
     {
       "company": "OpenAI",
-      "title": "Content Marketing Manager, Demand Generation",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/openai/67c67c36-e710-4f21-bd9c-759eb72cfabf",
-      "date_posted": "2026-08-17",
-      "ats": "Ashby",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "OpenAI",
       "title": "Business Operations Manager, Business Marketing ",
       "location": "San Francisco",
       "url": "https://jobs.ashbyhq.com/openai/2df4df3a-7ac6-42f2-b8ec-d471627a80c8",
@@ -312,17 +312,6 @@
       ]
     },
     {
-      "company": "Picogrid",
-      "title": "Executive Assistant ",
-      "location": "El Segundo, CA",
-      "url": "https://jobs.ashbyhq.com/picogrid/67959dc5-d5d2-4f6f-9197-2f53a9dd8397",
-      "date_posted": "2026-08-19",
-      "ats": "Ashby",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "Sciforium",
       "title": "Growth Marketing Specialist",
       "location": "San Francisco, CA",
@@ -367,11 +356,11 @@
       ]
     },
     {
-      "company": "Triumph",
-      "title": "Operations Associate (Day Shift)",
-      "location": "Mountain View",
-      "url": "https://jobs.ashbyhq.com/triumph-arcade/89f66367-caee-4394-8183-db77ba114e72",
-      "date_posted": "2026-08-17",
+      "company": "Squint",
+      "title": "Inside Sales Representative",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/squint.ai/75ec0131-27b7-44a6-bd31-7ab9ff6a3251",
+      "date_posted": "2026-08-19",
       "ats": "Ashby",
       "feeds": [
         "general"
@@ -422,44 +411,11 @@
       ]
     },
     {
-      "company": "84.51 Degrees",
-      "title": "Lead Client Success Manager (P3880)",
-      "location": "Cincinnati, OH; Chicago, IL",
-      "url": "https://job-boards.greenhouse.io/8451/jobs/8721064002",
-      "date_posted": "2026-08-17",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "84.51 Degrees",
-      "title": "Manager, Client Success (P4142)",
-      "location": "Cincinnati, OH; Chicago, IL; New York, NY",
-      "url": "https://job-boards.greenhouse.io/8451/jobs/8720998002",
-      "date_posted": "2026-08-17",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Addepar",
-      "title": "Business Development Representative",
-      "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/addepar1/jobs/8709085002",
-      "date_posted": "2026-08-27",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "Addepar",
       "title": "Business Development Representative - Spanish Speaking",
       "location": "New York, NY",
       "url": "https://job-boards.greenhouse.io/addepar1/jobs/8643505002",
-      "date_posted": "2026-08-28",
+      "date_posted": "2026-08-31",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -470,7 +426,7 @@
       "title": "Software Engineer, Client Experience Frameworks",
       "location": "New York, NY",
       "url": "https://job-boards.greenhouse.io/addepar1/jobs/8733680002",
-      "date_posted": "2026-08-27",
+      "date_posted": "2026-08-31",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -481,7 +437,7 @@
       "title": "Workplace Operations Assistant",
       "location": "New York, NY",
       "url": "https://job-boards.greenhouse.io/addepar1/jobs/8702726002",
-      "date_posted": "2026-08-27",
+      "date_posted": "2026-08-31",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -800,7 +756,7 @@
       "title": "Product Operations Associate, Tier 1",
       "location": "Santa Ana, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007?gh_jid=5081383007",
-      "date_posted": "2026-08-30",
+      "date_posted": "2026-08-31",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -823,6 +779,248 @@
       "location": "Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/4190079007?gh_jid=4190079007",
       "date_posted": "2026-08-24",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "AV Operations Specialist",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383710008",
+      "date_posted": "2026-08-21",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "BDR Enablement Lead",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390984008",
+      "date_posted": "2026-08-21",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Brand Marketing Lead, Enterprise",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5176201008",
+      "date_posted": "2026-08-21",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Business Development Representative",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5396186008",
+      "date_posted": "2026-08-21",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Customer Success Manager, Financial Services",
+      "location": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391062008",
+      "date_posted": "2026-08-21",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Customer Success Manager, GSI",
+      "location": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4986159008",
+      "date_posted": "2026-08-21",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Customer Success Manager, Industries",
+      "location": "New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5068570008",
+      "date_posted": "2026-08-21",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Customer Success Manager, Tech",
+      "location": "New York City, NY; San Francisco, CA; Seattle, WA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5082455008",
+      "date_posted": "2026-08-26",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Customer Success Manager, Top Accounts",
+      "location": "Boston, MA; San Francisco, CA | New York City, NY; Seattle, WA; Washington, DC",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392957008",
+      "date_posted": "2026-08-21",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Field Marketing Lead, Public Sector",
+      "location": "San Francisco, CA | Washington, DC",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5344577008",
+      "date_posted": "2026-08-27",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "GSOC Response & Policy Program Specialist",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5382033008",
+      "date_posted": "2026-08-21",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Manager, Customer Success - Beneficial Deployments",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383204008",
+      "date_posted": "2026-08-21",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Manager, Customer Success GSI",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392821008",
+      "date_posted": "2026-08-21",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Partnerships Business Operations Manager",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391211008",
+      "date_posted": "2026-08-21",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Technical Program Manager, Revenue Operations",
+      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390964008",
+      "date_posted": "2026-08-21",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AppLovin",
+      "title": "Business Development Associate",
+      "location": "Los Angeles/Santa Monica, CA",
+      "url": "https://boards.greenhouse.io/applovin/jobs/4622998006?gh_jid=4622998006",
+      "date_posted": "2026-08-25",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AppLovin",
+      "title": "Content Marketing Manager",
+      "location": "Palo Alto, CA",
+      "url": "https://boards.greenhouse.io/applovin/jobs/4706446006?gh_jid=4706446006",
+      "date_posted": "2026-08-26",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AppLovin",
+      "title": "CRM & Lifecycle Marketing Specialist - Growth Marketing",
+      "location": "New York City, NY",
+      "url": "https://boards.greenhouse.io/applovin/jobs/4697888006?gh_jid=4697888006",
+      "date_posted": "2026-08-25",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AppLovin",
+      "title": "Inside Sales Associate",
+      "location": "Los Angeles/Santa Monica, CA",
+      "url": "https://boards.greenhouse.io/applovin/jobs/4703343006?gh_jid=4703343006",
+      "date_posted": "2026-08-25",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AppLovin",
+      "title": "Media Buyer, Emerging Channels - Growth Marketing",
+      "location": "New York City, NY",
+      "url": "https://boards.greenhouse.io/applovin/jobs/4697910006?gh_jid=4697910006",
+      "date_posted": "2026-08-25",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AppLovin",
+      "title": "Media Buyer, Emerging Channels - Growth Marketing",
+      "location": "Palo Alto, CA",
+      "url": "https://boards.greenhouse.io/applovin/jobs/4698108006?gh_jid=4698108006",
+      "date_posted": "2026-08-25",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AppLovin",
+      "title": "Media Buyer, Emerging Channels - Growth Marketing",
+      "location": "Los Angeles/Santa Monica, CA",
+      "url": "https://boards.greenhouse.io/applovin/jobs/4698111006?gh_jid=4698111006",
+      "date_posted": "2026-08-25",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -889,17 +1087,6 @@
       "location": "New York, New York, United States",
       "url": "https://job-boards.greenhouse.io/axon/jobs/7671023003",
       "date_posted": "2026-08-27",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Axsome Therapeutics Inc",
-      "title": "Key Account Manager, Long Term Care (Great Lakes Region)",
-      "location": "Chicago, IL",
-      "url": "https://job-boards.greenhouse.io/axsometherapeutics/jobs/6145386004",
-      "date_posted": "2026-08-17",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -983,6 +1170,39 @@
       ]
     },
     {
+      "company": "Buyers Edge Platform",
+      "title": "Account Manager",
+      "location": "Chicago, IL; Remotely based",
+      "url": "https://job-boards.greenhouse.io/buyersedgeplatformrecruiting/jobs/4727193005",
+      "date_posted": "2026-08-24",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Buyers Edge Platform",
+      "title": "Operations Coordinator",
+      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/buyersedgeplatformrecruiting/jobs/4728848005",
+      "date_posted": "2026-08-28",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Chan Zuckerberg Initiative",
+      "title": "Social Media Manager",
+      "location": "Redwood City, CA (Hybrid)",
+      "url": "https://job-boards.greenhouse.io/chanzuckerberginitiative/jobs/8080661",
+      "date_posted": "2026-08-28",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Charles River Associates (CRA)",
       "title": "Client Relations Coordinator (Forensic Services practice)",
       "location": "Boston, MA, United States; Chicago, IL, United States; Dallas, Texas, United States; Houston, Texas, United States; New York, NY, United States; Washington, DC, United States",
@@ -1016,6 +1236,17 @@
       ]
     },
     {
+      "company": "Crunchyroll",
+      "title": "Publicity Coordinator, Theatrical & Awards (Contract)",
+      "location": "Los Angeles, California, United States",
+      "url": "https://boards.greenhouse.io/crunchyroll/jobs/8141935?gh_jid=8141935",
+      "date_posted": "2026-08-27",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Atoms",
       "title": "Business Development Associate",
       "location": "New York, NY ",
@@ -1043,6 +1274,17 @@
       "location": "Los Angeles, CA",
       "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8735075002",
       "date_posted": "2026-08-20",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Atoms",
+      "title": "Executive Assistant",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8747506002",
+      "date_posted": "2026-08-31",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -1104,33 +1346,319 @@
       ]
     },
     {
+      "company": "DoorDash",
+      "title": "Account Manager, CPG",
+      "location": "San Francisco, CA; New York, NY; Chicago, IL; Los Angeles, CA; Atlanta, GA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7852785",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Account Manager, CPG",
+      "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Chicago, IL; Atlanta, GA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8077011",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Account Manager, CPG",
+      "location": "New York, NY; Los Angeles, CA; Atlanta, GA; Chicago, IL; San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7592588",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Account Manager, CPG Enterprise Ad Sales",
+      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8114531",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Account Manager, Enterprise Ad Sales",
+      "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Atlanta, GA; Chicago, IL; United States - Remote",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8001716",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Account Manager, Enterprise Ad Sales",
+      "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Chicago, IL; Atlanta, GA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7951406",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Account Manager, Enterprise Ad Sales - Restaurants",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7719034",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Account Manager, Mid Market CPG Partnerships",
+      "location": "New York, NY; Los Angeles, CA; Atlanta, GA; Chicago, IL; San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7918661",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Account Manager, New Verticals",
+      "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Chicago, IL; Atlanta, GA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8119389",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Account Manager, Platform Innovation",
+      "location": "Chicago, IL; Detroit, MI; New York, NY; Philadelphia, PA; Washington, DC",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7958917",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Account Manager, Restaurants (Bilingual Spanish)",
+      "location": "Miami, FL; Atlanta, GA; Orlando, FL",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7899497",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Account Manager, SMB",
+      "location": "Los Angeles, CA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8029215",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Account Manager, SMB",
+      "location": "Atlanta, GA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8141988",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Associate Manager, Consumer Integrated Marketing - New Verticals Habituation",
+      "location": "New York, NY; San Francisco, CA; Chicago, IL; Denver, CO; Boston, MA; Austin, TX; Atlanta, GA; Miami, FL; Seattle, WA; Washington D.C.; United States - Remote",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7958799",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Associate Manager, Integrated Marketing",
+      "location": "New York, NY; San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7998424",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Associate Manager, Integrated Marketing, Consumer - DashPass Benefits",
+      "location": "New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Sunnyvale, CA; Chicago, IL; Austin, TX; Denver, CO; Atlanta, GA; Miami, FL; Boston, MA; Washington D.C.",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8082760",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Audience Insights Manager",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8160437",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Client Success Manager",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8060832",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Customer Success Manager ",
+      "location": "Los Angeles, CA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7984775",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Executive Assistant",
+      "location": "San Francisco, CA, Seattle, WA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8108918",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Manager, Integrated Marketing, Consumer - DashPass Benefits",
+      "location": "New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Sunnyvale, CA; Chicago, IL; Austin, TX; Denver, CO; Atlanta, GA; Miami, FL; Boston, MA; Washington D.C.",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8009912",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Manager, Integrated Marketing, Consumer - DashPass Habituation",
+      "location": "New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Sunnyvale, CA; Chicago, IL; Austin, TX; Denver, CO; Atlanta, GA; Miami, FL; Boston, MA; Washington, D.C. ",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8010609",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Operations Specialist, Commercial Operations Specialist",
+      "location": "Concord, CA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8156324",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Operations Specialist, Commercial Operations Specialist, DoorDash Air",
+      "location": "Concord, CA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7967497",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Operations Specialist, Robot - DoorDash Dot",
+      "location": "Dublin, CA; San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/6813973",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Outside Account Manager",
+      "location": "Charlotte, NC; Atlanta, GA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8156392",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Sales Development Representative - Mandarin Speaking DR",
+      "location": "Boston, MA; Washington, DC; Atlanta, GA; Austin, TX; Baltimore, MD; Hartford, CT; New Haven, CT; Philadelphia, PA; Miami, FL; Chicago, IL; Charlotte, NC; Raleigh-Durham, NC; Tampa, FL; Orlando, FL; Pittsburgh, PA; Richmond, VA; Jacksonville, FL; Columbus, OH; Dallas, TX; Houston, TX; Minneapolis, MN; Nashville, TN; Kansas City, MO; St. Louis, MO",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7951899",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Strategic Sales Development Representative",
+      "location": "Atlanta, GA; Charlotte, NC; Raleigh-Durham, NC; Tampa, FL; Orlando, FL; Pittsburgh, PA; Richmond, VA; Jacksonville, FL; Columbus, OH; Dallas, TX; Houston, TX; Minneapolis, MN ; Nashville, TN; Kansas City, MO; St. Louis, MO",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7812245",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "EPIC Insurance Brokers & Consultants",
       "title": "Account Manager-Employee Benefits ",
       "location": "2405 Satellite Boulevard Suite 200,  Duluth, GA 30096",
       "url": "https://job-boards.greenhouse.io/edgewoodpartnersinsurancecenter/jobs/8701171002",
       "date_posted": "2026-08-26",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "EPIC Insurance Brokers & Consultants",
-      "title": "Commercial Insurance Account Manager",
-      "location": "5909 Peachtree Dunwoody Rd Bldg D Ste 800,  Atlanta, GA 30328",
-      "url": "https://job-boards.greenhouse.io/edgewoodpartnersinsurancecenter/jobs/8651453002",
-      "date_posted": "2026-08-17",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "EPIC Insurance Brokers & Consultants",
-      "title": "Commercial Insurance Account Manager",
-      "location": "3780 Mansell Road, Ste 370, Alpharetta, GA 30022",
-      "url": "https://job-boards.greenhouse.io/edgewoodpartnersinsurancecenter/jobs/8686650002",
-      "date_posted": "2026-08-17",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -1160,10 +1688,21 @@
     },
     {
       "company": "Eudia",
+      "title": "Customer Success Manager",
+      "location": "Palo Alto, CA",
+      "url": "https://job-boards.greenhouse.io/eudia/jobs/4048275009",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Eudia",
       "title": "Field Marketing Manager",
       "location": "Palo Alto, CA",
       "url": "https://job-boards.greenhouse.io/eudia/jobs/4379529009",
-      "date_posted": "2026-08-21",
+      "date_posted": "2026-08-31",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -1258,6 +1797,17 @@
       ]
     },
     {
+      "company": "Figma",
+      "title": "Field Marketing Manager, Third Party & Partner Events",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "url": "https://boards.greenhouse.io/figma/jobs/6141213004?gh_jid=6141213004",
+      "date_posted": "2026-08-17",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Figure",
       "title": "Project Coordinator, Data Creators",
       "location": "Los Angeles, CA",
@@ -1293,8 +1843,8 @@
     {
       "company": "Flexport",
       "title": "Global Operations Specialist",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://job-boards.greenhouse.io/flexport/jobs/7450553",
+      "location": "New York City, New York, United States",
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/7442105",
       "date_posted": "2026-08-28",
       "ats": "Greenhouse",
       "feeds": [
@@ -1315,8 +1865,8 @@
     {
       "company": "Flexport",
       "title": "Global Operations Specialist",
-      "location": "New York City, New York, United States",
-      "url": "https://job-boards.greenhouse.io/flexport/jobs/7442105",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/7450553",
       "date_posted": "2026-08-28",
       "ats": "Greenhouse",
       "feeds": [
@@ -1423,11 +1973,22 @@
       ]
     },
     {
-      "company": "Garner Health",
-      "title": "Growth Marketing Manager",
-      "location": "New York City, New York",
-      "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6141172004",
-      "date_posted": "2026-08-17",
+      "company": "F. Schumacher & Co.",
+      "title": "Account Manager - Rugs",
+      "location": "West Hollywood, CA",
+      "url": "https://job-boards.greenhouse.io/fschumacherco/jobs/5391421008",
+      "date_posted": "2026-08-18",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "F. Schumacher & Co.",
+      "title": "Hospitality Intern - Business Operations",
+      "location": "New York, New York",
+      "url": "https://job-boards.greenhouse.io/fschumacherco/jobs/5399907008",
+      "date_posted": "2026-08-24",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -1471,7 +2032,7 @@
       "title": "Sales Operations Manager",
       "location": "Fremont, California",
       "url": "https://job-boards.greenhouse.io/gotion/jobs/8163096002",
-      "date_posted": "2026-08-21",
+      "date_posted": "2026-08-31",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -1577,6 +2138,39 @@
       ]
     },
     {
+      "company": "LG Electronics",
+      "title": "Executive Assistant",
+      "location": "Santa Clara, CA ",
+      "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/5400207008",
+      "date_posted": "2026-08-30",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "LG Electronics",
+      "title": "Property & Workplace Operations Associate",
+      "location": "Santa Clara, CA ",
+      "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/5304702008",
+      "date_posted": "2026-08-28",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "May Mobility",
+      "title": "Autonomous Vehicle Operations Specialist ",
+      "location": "Atlanta, GA - Onsite",
+      "url": "https://job-boards.greenhouse.io/maymobility/jobs/8755629002",
+      "date_posted": "2026-08-28",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "McMaster-Carr",
       "title": "Market Researcher",
       "location": "Chicago, IL (Elmhurst)",
@@ -1603,7 +2197,7 @@
       "title": "Account Manager - Financial Services at MrBeast",
       "location": "Greenville, NC / New York, NY ",
       "url": "https://job-boards.greenhouse.io/mrbeastyoutube/jobs/6144453004",
-      "date_posted": "2026-08-20",
+      "date_posted": "2026-08-31",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -1614,7 +2208,7 @@
       "title": "Account Manager - Tech B2C",
       "location": "Greenville, NC / New York, NY ",
       "url": "https://job-boards.greenhouse.io/mrbeastyoutube/jobs/6144425004",
-      "date_posted": "2026-08-20",
+      "date_posted": "2026-08-31",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -1625,7 +2219,18 @@
       "title": "Account Manager -Telecommunications",
       "location": "Greenville, NC / New York, NY ",
       "url": "https://job-boards.greenhouse.io/mrbeastyoutube/jobs/6144457004",
-      "date_posted": "2026-08-20",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "MrBeast",
+      "title": "Executive Assistant & Office Operations",
+      "location": "San Mateo, CA",
+      "url": "https://job-boards.greenhouse.io/mrbeastyoutube/jobs/6102368004",
+      "date_posted": "2026-08-31",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -1710,32 +2315,54 @@
     },
     {
       "company": "PagerDuty",
-      "title": "Business Development Representative - ATL",
-      "location": "Atlanta",
-      "url": "https://job-boards.greenhouse.io/pagerduty/jobs/5831509004",
-      "date_posted": "2026-08-16",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "PagerDuty",
-      "title": "Business Development Representative - SF",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/pagerduty/jobs/5831506004",
-      "date_posted": "2026-08-16",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "PagerDuty",
       "title": "Event Marketing Manager",
       "location": "San Francisco",
       "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6166307004",
       "date_posted": "2026-08-28",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Pallet",
+      "title": "Executive Assistant to the CEO",
+      "location": "San Francisco ",
+      "url": "https://job-boards.greenhouse.io/pallet/jobs/5222037007",
+      "date_posted": "2026-08-25",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Pallet",
+      "title": "Field Marketing Manager",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/pallet/jobs/5220076007",
+      "date_posted": "2026-08-24",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Pallet",
+      "title": "Growth Marketing Manager ",
+      "location": "San Francisco or New York City ",
+      "url": "https://job-boards.greenhouse.io/pallet/jobs/5210926007",
+      "date_posted": "2026-08-24",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Pallet",
+      "title": "Sales Development Representative ",
+      "location": "New York City",
+      "url": "https://job-boards.greenhouse.io/pallet/jobs/5162240007",
+      "date_posted": "2026-08-24",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -1753,6 +2380,50 @@
       ]
     },
     {
+      "company": "Planet",
+      "title": "Customer and Partner Marketing Specialist",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8140020",
+      "date_posted": "2026-08-26",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Planet",
+      "title": "Customer Success Manager II, Commercial Markets",
+      "location": "San Francisco, CA; Arlington, VA",
+      "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8119750",
+      "date_posted": "2026-08-27",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Planet",
+      "title": "Manager, Customer Success - Commercial Markets",
+      "location": "San Francisco, CA; Washington, D.C.",
+      "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8088251",
+      "date_posted": "2026-08-27",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Planet",
+      "title": "Sales Development Representative, North America Civil Government",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8094173",
+      "date_posted": "2026-08-27",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Precision AQ",
       "title": "Project Coordinator",
       "location": "New York, NY, USA",
@@ -1764,198 +2435,11 @@
       ]
     },
     {
-      "company": "SharkNinja",
-      "title": "Social Media Specialist - Supporting LATAM",
-      "location": "New York, New York, United States",
-      "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4688288006",
-      "date_posted": "2026-08-25",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "SHEIN",
-      "title": "Merchant Operations Specialist II",
-      "location": "Los Angeles",
-      "url": "https://job-boards.greenhouse.io/shein/jobs/5367960008",
-      "date_posted": "2026-08-25",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Sigma Computing",
-      "title": "Commercial Customer Success Manager - SF",
-      "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7819122003",
-      "date_posted": "2026-08-21",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Sigma Computing",
-      "title": "Enterprise Customer Success Manager \u2014 East (Bilingual: English/Spanish)",
-      "location": "New York City, NY",
-      "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7815449003",
-      "date_posted": "2026-08-25",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Sigma Computing",
-      "title": "Enterprise Customer Success Manager - NY",
-      "location": "New York City, NY",
-      "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7815448003",
-      "date_posted": "2026-08-25",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "SingleStore",
-      "title": "Executive Assistant",
-      "location": "San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8097185",
-      "date_posted": "2026-08-21",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Sony Interactive Entertainment",
-      "title": "Hardware Fleet Operations Specialist",
-      "location": "United States, Aliso Viejo, CA",
-      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6150986004",
+      "company": "Pure Storage",
+      "title": "Partner Account Manager - Strategics Americas ",
+      "location": "Boston, Massachusetts; New York, New York; Philadelphia, Pennsylvania; Raleigh, North Carolina; Remote, Connecticut; Remote, New Jersey",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8160222",
       "date_posted": "2026-08-28",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Sony Interactive Entertainment",
-      "title": "Social Media Manager (Contract)",
-      "location": "United States, San Mateo, CA",
-      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6092628004",
-      "date_posted": "2026-08-28",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "StackAV",
-      "title": "CDL | Hourly Pay with OT | FREE Benefits (Operations Specialist) ",
-      "location": "Atlanta, GA",
-      "url": "https://job-boards.greenhouse.io/stackav/jobs/5223840007",
-      "date_posted": "2026-08-27",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Tax Relief Advocates",
-      "title": "Junior Client Success Specialist ",
-      "location": "Irvine, CA ",
-      "url": "https://job-boards.greenhouse.io/taxreliefadvocates/jobs/5209881008",
-      "date_posted": "2026-08-18",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Think Academy International Education",
-      "title": "Full Time Front Desk Operations Assistant ",
-      "location": "San Jose ",
-      "url": "https://job-boards.greenhouse.io/thinkacademyus/jobs/7552615003",
-      "date_posted": "2026-08-26",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Think Academy International Education",
-      "title": "Pre-School Math Teacher + Business Operations Specialist ",
-      "location": "San Jose, CA",
-      "url": "https://job-boards.greenhouse.io/thinkacademyus/jobs/7976090003",
-      "date_posted": "2026-08-25",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Think Academy International Education",
-      "title": "Recruiting Coordinator",
-      "location": "San Jose, CA",
-      "url": "https://job-boards.greenhouse.io/thinkacademyus/jobs/7979891003",
-      "date_posted": "2026-08-27",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "True Anomaly",
-      "title": "Social Media Manager",
-      "location": "Long Beach, CA",
-      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5197086007",
-      "date_posted": "2026-08-25",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Twitch",
-      "title": "Partnerships Associate",
-      "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8739325002",
-      "date_posted": "2026-08-21",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Twitch",
-      "title": "Partnerships Associate",
-      "location": "New York City",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8739356002",
-      "date_posted": "2026-08-21",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Twitch",
-      "title": "Partnerships Associate",
-      "location": "Irvine, CA",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8739355002",
-      "date_posted": "2026-08-21",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Ultima Genomics",
-      "title": "Inside Sales Representative",
-      "location": "Fremont, California, United States",
-      "url": "https://job-boards.greenhouse.io/ultimagenomics/jobs/5819634004",
-      "date_posted": "2026-08-27",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -1964,10 +2448,10 @@
   ],
   "new_jobs": [
     {
-      "company": "Gen Digital",
-      "title": "Media Operations Specialist ",
-      "location": "USA - New York, NY",
-      "url": "https://jobs.ashbyhq.com/gen-digital/cc7f5c3b-4796-4902-8443-3e3d0fae2128",
+      "company": "Baseten",
+      "title": "Sales Development Representative - Inbound",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/baseten/49aaa88c-75b5-4d4e-b726-28bfecd4300e",
       "date_posted": "2026-08-18",
       "ats": "Ashby",
       "feeds": [
@@ -1975,32 +2459,32 @@
       ]
     },
     {
-      "company": "Hinge Health",
-      "title": "Growth Marketing Manager",
-      "location": "San Francisco-HQ",
-      "url": "https://jobs.ashbyhq.com/hinge-health/cd67cd2f-3a94-4eaf-9ad8-d067fdd18bf0",
-      "date_posted": "2026-08-18",
+      "company": "EliseAI",
+      "title": "Recruiting Coordinator ",
+      "location": "New York City",
+      "url": "https://jobs.ashbyhq.com/EliseAI/2025e09f-a1dd-44bb-bf68-6d356fa1c49f",
+      "date_posted": "2026-08-23",
       "ats": "Ashby",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Hinge Health",
-      "title": "Business Operations & Strategy Manager",
-      "location": "San Francisco-HQ",
-      "url": "https://jobs.ashbyhq.com/hinge-health/d307173d-281d-4d9a-b7cf-75c3066ef09b",
-      "date_posted": "2026-08-25",
+      "company": "Jerry",
+      "title": "Community Manager ",
+      "location": "Palo Alto, California",
+      "url": "https://jobs.ashbyhq.com/jerry.ai/b85865cd-9677-40f9-ba2f-593768cdb3c4",
+      "date_posted": "2026-08-31",
       "ats": "Ashby",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Picogrid",
-      "title": "Executive Assistant ",
-      "location": "El Segundo, CA",
-      "url": "https://jobs.ashbyhq.com/picogrid/67959dc5-d5d2-4f6f-9197-2f53a9dd8397",
+      "company": "Squint",
+      "title": "Inside Sales Representative",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/squint.ai/75ec0131-27b7-44a6-bd31-7ab9ff6a3251",
       "date_posted": "2026-08-19",
       "ats": "Ashby",
       "feeds": [
@@ -2008,32 +2492,87 @@
       ]
     },
     {
-      "company": "Sciforium",
-      "title": "Growth Marketing Specialist",
+      "company": "Anthropic",
+      "title": "AV Operations Specialist",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383710008",
+      "date_posted": "2026-08-21",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "BDR Enablement Lead",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390984008",
+      "date_posted": "2026-08-21",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Brand Marketing Lead, Enterprise",
       "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/Sciforium/8234ccd2-91f3-474b-a4cb-7a713a5b9165",
-      "date_posted": "2026-08-27",
-      "ats": "Ashby",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5176201008",
+      "date_posted": "2026-08-21",
+      "ats": "Greenhouse",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Triumph",
-      "title": "Operations Associate (Day Shift)",
-      "location": "Mountain View",
-      "url": "https://jobs.ashbyhq.com/triumph-arcade/89f66367-caee-4394-8183-db77ba114e72",
-      "date_posted": "2026-08-17",
-      "ats": "Ashby",
+      "company": "Anthropic",
+      "title": "Business Development Representative",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5396186008",
+      "date_posted": "2026-08-21",
+      "ats": "Greenhouse",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Arena Club",
-      "title": "Lifecycle Marketing Coordinator",
-      "location": "Los Angeles, CA",
-      "url": "https://job-boards.greenhouse.io/arenaclub/jobs/4380291009",
+      "company": "Anthropic",
+      "title": "Customer Success Manager, Financial Services",
+      "location": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391062008",
+      "date_posted": "2026-08-21",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Customer Success Manager, GSI",
+      "location": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4986159008",
+      "date_posted": "2026-08-21",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Customer Success Manager, Industries",
+      "location": "New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5068570008",
+      "date_posted": "2026-08-21",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Customer Success Manager, Tech",
+      "location": "New York City, NY; San Francisco, CA; Seattle, WA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5082455008",
       "date_posted": "2026-08-26",
       "ats": "Greenhouse",
       "feeds": [
@@ -2041,43 +2580,10 @@
       ]
     },
     {
-      "company": "Arena Club",
-      "title": "Paid Media Coordinator",
-      "location": "Los Angeles, CA",
-      "url": "https://job-boards.greenhouse.io/arenaclub/jobs/4378760009",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Breeze.cash",
-      "title": "Revenue Operations Specialist ",
-      "location": "New York City ",
-      "url": "https://job-boards.greenhouse.io/breezecash/jobs/5397332008",
-      "date_posted": "2026-08-28",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CLEAR",
-      "title": "Business Development Representative, Healthcare",
-      "location": "New York, New York, United States",
-      "url": "https://job-boards.greenhouse.io/clear/jobs/8154616",
-      "date_posted": "2026-08-25",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Atoms",
-      "title": "Business Development Associate",
-      "location": "New York, NY ",
-      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8738991002",
+      "company": "Anthropic",
+      "title": "Customer Success Manager, Top Accounts",
+      "location": "Boston, MA; San Francisco, CA | New York City, NY; Seattle, WA; Washington, DC",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392957008",
       "date_posted": "2026-08-21",
       "ats": "Greenhouse",
       "feeds": [
@@ -2085,43 +2591,10 @@
       ]
     },
     {
-      "company": "Atoms",
-      "title": "Business Development Associate",
-      "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8762022002",
-      "date_posted": "2026-08-28",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Atoms",
-      "title": "Enterprise Customer Success Manager",
-      "location": "Los Angeles, CA",
-      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8735075002",
-      "date_posted": "2026-08-20",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Energy Solutions",
-      "title": "Executive Assistant II (Hybrid - Oakland, CA; Orange, CA; Portland, OR - US)",
-      "location": "Oakland, California, United States; Orange, California, United States; Portland, Oregon, United States",
-      "url": "https://job-boards.greenhouse.io/energysolutions/jobs/5203895007",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Everlaw",
-      "title": "Administrative Coordinator (Temporary)",
-      "location": "Oakland, California, United States",
-      "url": "https://job-boards.greenhouse.io/everlaw/jobs/4708756006",
+      "company": "Anthropic",
+      "title": "Field Marketing Lead, Public Sector",
+      "location": "San Francisco, CA | Washington, DC",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5344577008",
       "date_posted": "2026-08-27",
       "ats": "Greenhouse",
       "feeds": [
@@ -2129,296 +2602,10 @@
       ]
     },
     {
-      "company": "Fanatics",
-      "title": "Account Manager",
-      "location": "New York, NY, United States",
-      "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4253518009",
-      "date_posted": "2026-08-20",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Fanatics",
-      "title": "Account Manager, Breaker & Hobby Sales",
-      "location": "New York, NY, United States",
-      "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4372446009",
-      "date_posted": "2026-08-20",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Fanatics",
-      "title": "Associate Project Manager",
-      "location": "New York, NY, United States",
-      "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4380218009",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Fanatics",
-      "title": "Strategic Operations Associate",
-      "location": "New York, NY, United States; Sunnyvale, TX, United States",
-      "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4237935009",
-      "date_posted": "2026-08-20",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Fanatics",
-      "title": "Supply Chain & Strategic Operations Associate",
-      "location": "Sunnyvale, TX, United States",
-      "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4222317009",
-      "date_posted": "2026-08-20",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Flexport",
-      "title": "3PL Customer Success Manager ",
-      "location": "Atlanta Warehouse; Chicago Warehouse; Dallas Warehouse; New York City, New York, United States; Phillipsburg Warehouse; San Bernardino Warehouse",
-      "url": "https://job-boards.greenhouse.io/flexport/jobs/8052691",
-      "date_posted": "2026-08-28",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Flexport",
-      "title": "Global Operations Specialist",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://job-boards.greenhouse.io/flexport/jobs/7450553",
-      "date_posted": "2026-08-28",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Flexport",
-      "title": "Global Operations Specialist",
-      "location": "Los Angeles, California, United States",
-      "url": "https://job-boards.greenhouse.io/flexport/jobs/7450554",
-      "date_posted": "2026-08-28",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Flexport",
-      "title": "Global Operations Specialist",
-      "location": "New York City, New York, United States",
-      "url": "https://job-boards.greenhouse.io/flexport/jobs/7442105",
-      "date_posted": "2026-08-28",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Flexport",
-      "title": "Inbound Sales Development Representative",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://job-boards.greenhouse.io/flexport/jobs/8084124",
-      "date_posted": "2026-08-28",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Flexport",
-      "title": "Inbound Sales Development Representative - New Grad",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://job-boards.greenhouse.io/flexport/jobs/5850324",
-      "date_posted": "2026-08-28",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Flexport",
-      "title": "Manager, Account Management",
-      "location": "Atlanta Warehouse; Dallas Warehouse",
-      "url": "https://job-boards.greenhouse.io/flexport/jobs/8044167",
-      "date_posted": "2026-08-28",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Flexport",
-      "title": "Operations Associate - Join Our Talent Community",
-      "location": "Atlanta, Georgia, United States; Bellevue, Washington, United States; Chicago, Illinois, United States; Dallas, Texas, United States; Denver, Colorado, United States; Los Angeles, California, United States; New York City, New York, United States; San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/flexport/jobs/7904839",
-      "date_posted": "2026-08-28",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Flexport",
-      "title": "Operations Specialist - Join Our Talent Community ",
-      "location": "Atlanta, Georgia, United States; Bellevue, Washington, United States; Chicago, Illinois, United States; Dallas, Texas, United States; Denver, Colorado, United States; Los Angeles, California, United States; New York City, New York, United States; San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/flexport/jobs/7909078",
-      "date_posted": "2026-08-28",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Flexport",
-      "title": "Sales Development Representative",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://job-boards.greenhouse.io/flexport/jobs/8084123",
-      "date_posted": "2026-08-28",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Flexport",
-      "title": "Sales Development Representative - New Grad",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://job-boards.greenhouse.io/flexport/jobs/8084127",
-      "date_posted": "2026-08-28",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jane Street",
-      "title": "Events Coordinator",
-      "location": "New York, New York, United States",
-      "url": "https://www.janestreet.com/join-jane-street/apply/8686227002?gh_jid=8686227002",
-      "date_posted": "2026-08-27",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jane Street",
-      "title": "Legal Operations Specialist",
-      "location": "New York, New York, United States",
-      "url": "https://www.janestreet.com/join-jane-street/apply/8324512002?gh_jid=8324512002",
-      "date_posted": "2026-08-27",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jane Street",
-      "title": "Operations Specialist",
-      "location": "New York, New York, United States",
-      "url": "https://www.janestreet.com/join-jane-street/apply/8360490002?gh_jid=8360490002",
-      "date_posted": "2026-08-27",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jane Street",
-      "title": "Recruiting Coordinator",
-      "location": "New York, New York, United States",
-      "url": "https://www.janestreet.com/join-jane-street/apply/8560087002?gh_jid=8560087002",
-      "date_posted": "2026-08-27",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jane Street",
-      "title": "Recruiting Operations Specialist",
-      "location": "New York, New York, United States",
-      "url": "https://www.janestreet.com/join-jane-street/apply/8687964002?gh_jid=8687964002",
-      "date_posted": "2026-08-27",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "PagerDuty",
-      "title": "Business Development Representative - ATL",
-      "location": "Atlanta",
-      "url": "https://job-boards.greenhouse.io/pagerduty/jobs/5831509004",
-      "date_posted": "2026-08-16",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "PagerDuty",
-      "title": "Business Development Representative - SF",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/pagerduty/jobs/5831506004",
-      "date_posted": "2026-08-16",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "PagerDuty",
-      "title": "Event Marketing Manager",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6166307004",
-      "date_posted": "2026-08-28",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "SharkNinja",
-      "title": "Social Media Specialist - Supporting LATAM",
-      "location": "New York, New York, United States",
-      "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4688288006",
-      "date_posted": "2026-08-25",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "SHEIN",
-      "title": "Merchant Operations Specialist II",
-      "location": "Los Angeles",
-      "url": "https://job-boards.greenhouse.io/shein/jobs/5367960008",
-      "date_posted": "2026-08-25",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Twitch",
-      "title": "Partnerships Associate",
+      "company": "Anthropic",
+      "title": "GSOC Response & Policy Program Specialist",
       "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8739325002",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5382033008",
       "date_posted": "2026-08-21",
       "ats": "Greenhouse",
       "feeds": [
@@ -2426,10 +2613,10 @@
       ]
     },
     {
-      "company": "Twitch",
-      "title": "Partnerships Associate",
-      "location": "New York City",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8739356002",
+      "company": "Anthropic",
+      "title": "Manager, Customer Success - Beneficial Deployments",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383204008",
       "date_posted": "2026-08-21",
       "ats": "Greenhouse",
       "feeds": [
@@ -2437,10 +2624,10 @@
       ]
     },
     {
-      "company": "Twitch",
-      "title": "Partnerships Associate",
-      "location": "Irvine, CA",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8739355002",
+      "company": "Anthropic",
+      "title": "Manager, Customer Success GSI",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392821008",
       "date_posted": "2026-08-21",
       "ats": "Greenhouse",
       "feeds": [
@@ -2448,11 +2635,649 @@
       ]
     },
     {
-      "company": "Ultima Genomics",
-      "title": "Inside Sales Representative",
-      "location": "Fremont, California, United States",
-      "url": "https://job-boards.greenhouse.io/ultimagenomics/jobs/5819634004",
+      "company": "Anthropic",
+      "title": "Partnerships Business Operations Manager",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391211008",
+      "date_posted": "2026-08-21",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "title": "Technical Program Manager, Revenue Operations",
+      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390964008",
+      "date_posted": "2026-08-21",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AppLovin",
+      "title": "Business Development Associate",
+      "location": "Los Angeles/Santa Monica, CA",
+      "url": "https://boards.greenhouse.io/applovin/jobs/4622998006?gh_jid=4622998006",
+      "date_posted": "2026-08-25",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AppLovin",
+      "title": "Content Marketing Manager",
+      "location": "Palo Alto, CA",
+      "url": "https://boards.greenhouse.io/applovin/jobs/4706446006?gh_jid=4706446006",
+      "date_posted": "2026-08-26",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AppLovin",
+      "title": "CRM & Lifecycle Marketing Specialist - Growth Marketing",
+      "location": "New York City, NY",
+      "url": "https://boards.greenhouse.io/applovin/jobs/4697888006?gh_jid=4697888006",
+      "date_posted": "2026-08-25",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AppLovin",
+      "title": "Inside Sales Associate",
+      "location": "Los Angeles/Santa Monica, CA",
+      "url": "https://boards.greenhouse.io/applovin/jobs/4703343006?gh_jid=4703343006",
+      "date_posted": "2026-08-25",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AppLovin",
+      "title": "Media Buyer, Emerging Channels - Growth Marketing",
+      "location": "New York City, NY",
+      "url": "https://boards.greenhouse.io/applovin/jobs/4697910006?gh_jid=4697910006",
+      "date_posted": "2026-08-25",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AppLovin",
+      "title": "Media Buyer, Emerging Channels - Growth Marketing",
+      "location": "Palo Alto, CA",
+      "url": "https://boards.greenhouse.io/applovin/jobs/4698108006?gh_jid=4698108006",
+      "date_posted": "2026-08-25",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AppLovin",
+      "title": "Media Buyer, Emerging Channels - Growth Marketing",
+      "location": "Los Angeles/Santa Monica, CA",
+      "url": "https://boards.greenhouse.io/applovin/jobs/4698111006?gh_jid=4698111006",
+      "date_posted": "2026-08-25",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Buyers Edge Platform",
+      "title": "Account Manager",
+      "location": "Chicago, IL; Remotely based",
+      "url": "https://job-boards.greenhouse.io/buyersedgeplatformrecruiting/jobs/4727193005",
+      "date_posted": "2026-08-24",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Buyers Edge Platform",
+      "title": "Operations Coordinator",
+      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/buyersedgeplatformrecruiting/jobs/4728848005",
+      "date_posted": "2026-08-28",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Chan Zuckerberg Initiative",
+      "title": "Social Media Manager",
+      "location": "Redwood City, CA (Hybrid)",
+      "url": "https://job-boards.greenhouse.io/chanzuckerberginitiative/jobs/8080661",
+      "date_posted": "2026-08-28",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Crunchyroll",
+      "title": "Publicity Coordinator, Theatrical & Awards (Contract)",
+      "location": "Los Angeles, California, United States",
+      "url": "https://boards.greenhouse.io/crunchyroll/jobs/8141935?gh_jid=8141935",
       "date_posted": "2026-08-27",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Atoms",
+      "title": "Executive Assistant",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8747506002",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Account Manager, CPG",
+      "location": "San Francisco, CA; New York, NY; Chicago, IL; Los Angeles, CA; Atlanta, GA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7852785",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Account Manager, CPG",
+      "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Chicago, IL; Atlanta, GA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8077011",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Account Manager, CPG",
+      "location": "New York, NY; Los Angeles, CA; Atlanta, GA; Chicago, IL; San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7592588",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Account Manager, CPG Enterprise Ad Sales",
+      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8114531",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Account Manager, Enterprise Ad Sales",
+      "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Atlanta, GA; Chicago, IL; United States - Remote",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8001716",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Account Manager, Enterprise Ad Sales",
+      "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Chicago, IL; Atlanta, GA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7951406",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Account Manager, Enterprise Ad Sales - Restaurants",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7719034",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Account Manager, Mid Market CPG Partnerships",
+      "location": "New York, NY; Los Angeles, CA; Atlanta, GA; Chicago, IL; San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7918661",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Account Manager, New Verticals",
+      "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Chicago, IL; Atlanta, GA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8119389",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Account Manager, Platform Innovation",
+      "location": "Chicago, IL; Detroit, MI; New York, NY; Philadelphia, PA; Washington, DC",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7958917",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Account Manager, Restaurants (Bilingual Spanish)",
+      "location": "Miami, FL; Atlanta, GA; Orlando, FL",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7899497",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Account Manager, SMB",
+      "location": "Los Angeles, CA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8029215",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Account Manager, SMB",
+      "location": "Atlanta, GA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8141988",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Associate Manager, Consumer Integrated Marketing - New Verticals Habituation",
+      "location": "New York, NY; San Francisco, CA; Chicago, IL; Denver, CO; Boston, MA; Austin, TX; Atlanta, GA; Miami, FL; Seattle, WA; Washington D.C.; United States - Remote",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7958799",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Associate Manager, Integrated Marketing",
+      "location": "New York, NY; San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7998424",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Associate Manager, Integrated Marketing, Consumer - DashPass Benefits",
+      "location": "New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Sunnyvale, CA; Chicago, IL; Austin, TX; Denver, CO; Atlanta, GA; Miami, FL; Boston, MA; Washington D.C.",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8082760",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Audience Insights Manager",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8160437",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Client Success Manager",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8060832",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Customer Success Manager ",
+      "location": "Los Angeles, CA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7984775",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Executive Assistant",
+      "location": "San Francisco, CA, Seattle, WA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8108918",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Manager, Integrated Marketing, Consumer - DashPass Benefits",
+      "location": "New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Sunnyvale, CA; Chicago, IL; Austin, TX; Denver, CO; Atlanta, GA; Miami, FL; Boston, MA; Washington D.C.",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8009912",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Manager, Integrated Marketing, Consumer - DashPass Habituation",
+      "location": "New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Sunnyvale, CA; Chicago, IL; Austin, TX; Denver, CO; Atlanta, GA; Miami, FL; Boston, MA; Washington, D.C. ",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8010609",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Operations Specialist, Commercial Operations Specialist",
+      "location": "Concord, CA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8156324",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Operations Specialist, Commercial Operations Specialist, DoorDash Air",
+      "location": "Concord, CA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7967497",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Operations Specialist, Robot - DoorDash Dot",
+      "location": "Dublin, CA; San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/6813973",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Outside Account Manager",
+      "location": "Charlotte, NC; Atlanta, GA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8156392",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Sales Development Representative - Mandarin Speaking DR",
+      "location": "Boston, MA; Washington, DC; Atlanta, GA; Austin, TX; Baltimore, MD; Hartford, CT; New Haven, CT; Philadelphia, PA; Miami, FL; Chicago, IL; Charlotte, NC; Raleigh-Durham, NC; Tampa, FL; Orlando, FL; Pittsburgh, PA; Richmond, VA; Jacksonville, FL; Columbus, OH; Dallas, TX; Houston, TX; Minneapolis, MN; Nashville, TN; Kansas City, MO; St. Louis, MO",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7951899",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DoorDash",
+      "title": "Strategic Sales Development Representative",
+      "location": "Atlanta, GA; Charlotte, NC; Raleigh-Durham, NC; Tampa, FL; Orlando, FL; Pittsburgh, PA; Richmond, VA; Jacksonville, FL; Columbus, OH; Dallas, TX; Houston, TX; Minneapolis, MN ; Nashville, TN; Kansas City, MO; St. Louis, MO",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7812245",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Eudia",
+      "title": "Customer Success Manager",
+      "location": "Palo Alto, CA",
+      "url": "https://job-boards.greenhouse.io/eudia/jobs/4048275009",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Figma",
+      "title": "Field Marketing Manager, Third Party & Partner Events",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "url": "https://boards.greenhouse.io/figma/jobs/6141213004?gh_jid=6141213004",
+      "date_posted": "2026-08-17",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "F. Schumacher & Co.",
+      "title": "Account Manager - Rugs",
+      "location": "West Hollywood, CA",
+      "url": "https://job-boards.greenhouse.io/fschumacherco/jobs/5391421008",
+      "date_posted": "2026-08-18",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "F. Schumacher & Co.",
+      "title": "Hospitality Intern - Business Operations",
+      "location": "New York, New York",
+      "url": "https://job-boards.greenhouse.io/fschumacherco/jobs/5399907008",
+      "date_posted": "2026-08-24",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "LG Electronics",
+      "title": "Executive Assistant",
+      "location": "Santa Clara, CA ",
+      "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/5400207008",
+      "date_posted": "2026-08-30",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "LG Electronics",
+      "title": "Property & Workplace Operations Associate",
+      "location": "Santa Clara, CA ",
+      "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/5304702008",
+      "date_posted": "2026-08-28",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "May Mobility",
+      "title": "Autonomous Vehicle Operations Specialist ",
+      "location": "Atlanta, GA - Onsite",
+      "url": "https://job-boards.greenhouse.io/maymobility/jobs/8755629002",
+      "date_posted": "2026-08-28",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "MrBeast",
+      "title": "Executive Assistant & Office Operations",
+      "location": "San Mateo, CA",
+      "url": "https://job-boards.greenhouse.io/mrbeastyoutube/jobs/6102368004",
+      "date_posted": "2026-08-31",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Pallet",
+      "title": "Executive Assistant to the CEO",
+      "location": "San Francisco ",
+      "url": "https://job-boards.greenhouse.io/pallet/jobs/5222037007",
+      "date_posted": "2026-08-25",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Pallet",
+      "title": "Field Marketing Manager",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/pallet/jobs/5220076007",
+      "date_posted": "2026-08-24",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Pallet",
+      "title": "Growth Marketing Manager ",
+      "location": "San Francisco or New York City ",
+      "url": "https://job-boards.greenhouse.io/pallet/jobs/5210926007",
+      "date_posted": "2026-08-24",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Pallet",
+      "title": "Sales Development Representative ",
+      "location": "New York City",
+      "url": "https://job-boards.greenhouse.io/pallet/jobs/5162240007",
+      "date_posted": "2026-08-24",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Planet",
+      "title": "Customer and Partner Marketing Specialist",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8140020",
+      "date_posted": "2026-08-26",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Planet",
+      "title": "Customer Success Manager II, Commercial Markets",
+      "location": "San Francisco, CA; Arlington, VA",
+      "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8119750",
+      "date_posted": "2026-08-27",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Planet",
+      "title": "Manager, Customer Success - Commercial Markets",
+      "location": "San Francisco, CA; Washington, D.C.",
+      "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8088251",
+      "date_posted": "2026-08-27",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Planet",
+      "title": "Sales Development Representative, North America Civil Government",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8094173",
+      "date_posted": "2026-08-27",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Pure Storage",
+      "title": "Partner Account Manager - Strategics Americas ",
+      "location": "Boston, Massachusetts; New York, New York; Philadelphia, Pennsylvania; Raleigh, North Carolina; Remote, Connecticut; Remote, New Jersey",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8160222",
+      "date_posted": "2026-08-28",
       "ats": "Greenhouse",
       "feeds": [
         "general"
