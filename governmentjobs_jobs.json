@@ -1,20 +1,8 @@
 {
-  "scraped_at": "2026-08-31 21:31 UTC",
-  "total": 3,
-  "new_count": 0,
+  "scraped_at": "2026-09-01 19:27 UTC",
+  "total": 2,
+  "new_count": 1,
   "jobs": [
-    {
-      "company": "City of Redondo Beach",
-      "title": "Program Coordinator - Part-Time (Police Department)",
-      "location": "Redondo Beach Police Department, CA",
-      "url": "https://www.governmentjobs.com/jobs/5445815-0/program-coordinator-part-time-police-department",
-      "date_posted": "",
-      "salary": "$19.50 - $50.00 Hourly",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    },
     {
       "company": "City of Pasadena",
       "title": "Program Coordinator I (Resource Recovery & Recycling \u2013 Recycling Operations)",
@@ -28,19 +16,32 @@
       ]
     },
     {
-      "company": "City of San Jose",
-      "title": "Community Coordinator - Housing Department, Homelessness Response Division",
-      "location": "San Jose",
-      "url": "https://www.governmentjobs.com/jobs/5450392-0/community-coordinator-housing-department-homelessness-response-division",
+      "company": "City of Gardena",
+      "title": "Administrative Coordinator",
+      "location": "Gardena, CA",
+      "url": "https://www.governmentjobs.com/jobs/5454869-0/administrative-coordinator",
       "date_posted": "",
-      "salary": "$92,426.88 - $112,432.32 Annually",
+      "salary": "$89,040.00 - $113,652.00 Annually",
       "ats": "NEOGOV",
       "feeds": [
         "general"
       ]
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "City of Gardena",
+      "title": "Administrative Coordinator",
+      "location": "Gardena, CA",
+      "url": "https://www.governmentjobs.com/jobs/5454869-0/administrative-coordinator",
+      "date_posted": "",
+      "salary": "$89,040.00 - $113,652.00 Annually",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
