@@ -1,6 +1,9 @@
 # 🇺🇸 USAJOBS — Federal Roles
-*Last updated: 2026-09-02 18:55 UTC*
+*Last updated: 2026-09-03 18:50 UTC*
 
-**0 new role(s)** since last run · 2 total in current USAJOBS postings
+**1 new role(s)** since last run · 3 total in current USAJOBS postings
 
-No new federal roles since the last run.
+### [Social Worker (Program Coordinator)](https://www.usajobs.gov/job/883497600) — Veterans Health Administration
+- 📍 **Location:** Chicago, Illinois
+- 💰 **Salary:** Starting at $102,216 Per year (GS 12)
+- 🕒 **Posted:** 2026-09-03

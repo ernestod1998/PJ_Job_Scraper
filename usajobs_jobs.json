@@ -1,8 +1,20 @@
 {
-  "scraped_at": "2026-09-02 18:55 UTC",
-  "total": 2,
-  "new_count": 0,
+  "scraped_at": "2026-09-03 18:50 UTC",
+  "total": 3,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker (Program Coordinator)",
+      "location": "Chicago, Illinois",
+      "url": "https://www.usajobs.gov/job/883497600",
+      "date_posted": "2026-09-03",
+      "salary": "Starting at $102,216 Per year (GS 12)",
+      "ats": "USAJOBS",
+      "feeds": [
+        "general"
+      ]
+    },
     {
       "company": "Veterans Health Administration",
       "title": "Social Worker (Program Coordinator)",
@@ -28,12 +40,25 @@
       ]
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker (Program Coordinator)",
+      "location": "Chicago, Illinois",
+      "url": "https://www.usajobs.gov/job/883497600",
+      "date_posted": "2026-09-03",
+      "salary": "Starting at $102,216 Per year (GS 12)",
+      "ats": "USAJOBS",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 18,
+    "location": 17,
     "stale": 0
   }
 }
