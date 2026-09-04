@@ -1,21 +1,9 @@
 {
-  "scraped_at": "2026-09-03 19:20 UTC",
-  "total": 2,
-  "new_count": 2,
+  "scraped_at": "2026-09-04 19:01 UTC",
+  "total": 1,
+  "new_count": 0,
   "jobs": [
     {
-      "company": "City of Pasadena",
-      "title": "Program Coordinator I (Resource Recovery & Recycling \u2013 Recycling Operations)",
-      "location": "Pasadena City Yards, CA",
-      "url": "https://www.governmentjobs.com/jobs/5454830-0/program-coordinator-i-resource-recovery-recycling-recycling-operations",
-      "date_posted": "",
-      "salary": "$84,580.00 - $105,725.00 Annually",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "CalOptima",
       "title": "Communications Specialist",
       "location": "Orange, CA",
@@ -28,32 +16,7 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "City of Pasadena",
-      "title": "Program Coordinator I (Resource Recovery & Recycling \u2013 Recycling Operations)",
-      "location": "Pasadena City Yards, CA",
-      "url": "https://www.governmentjobs.com/jobs/5454830-0/program-coordinator-i-resource-recovery-recycling-recycling-operations",
-      "date_posted": "",
-      "salary": "$84,580.00 - $105,725.00 Annually",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CalOptima",
-      "title": "Communications Specialist",
-      "location": "Orange, CA",
-      "url": "https://www.governmentjobs.com/jobs/149224-1/communications-specialist",
-      "date_posted": "",
-      "salary": "",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
