@@ -1,14 +1,25 @@
 {
-  "scraped_at": "2026-09-03 17:36 UTC",
-  "total": 82,
-  "new_count": 18,
+  "scraped_at": "2026-09-04 17:27 UTC",
+  "total": 91,
+  "new_count": 21,
   "jobs": [
     {
-      "company": "Otter",
-      "title": "Enterprise Customer Success Manager",
-      "location": "Los Angeles, CA",
-      "url": "https://job-boards.greenhouse.io/otter/jobs/8637474002",
-      "date_posted": "2026-08-20",
+      "company": "NinjaTrader",
+      "title": "Account Manager, Evaluation Services",
+      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/ninjatrader/jobs/4702386006",
+      "date_posted": "2026-09-01",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Oklo",
+      "title": "Administrative Operations Assistant",
+      "location": "New York, NY or Remote",
+      "url": "https://job-boards.greenhouse.io/oklo/jobs/6135589004",
+      "date_posted": "2026-08-25",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -63,7 +74,7 @@
       "title": "Social Media Manager",
       "location": "New York, NY",
       "url": "https://job-boards.greenhouse.io/peregrinetechnologies/jobs/4729715005",
-      "date_posted": "2026-09-01",
+      "date_posted": "2026-09-04",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -115,10 +126,32 @@
     },
     {
       "company": "Planet",
+      "title": "Sales Development Representative",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8165383",
+      "date_posted": "2026-09-03",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Planet",
       "title": "Sales Development Representative, North America Civil Government",
       "location": "San Francisco, CA",
       "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8094173",
       "date_posted": "2026-08-27",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Point72",
+      "title": "Program Coordinator, Investment Professional Development",
+      "location": "New York, NY",
+      "url": "https://boards.greenhouse.io/point72/jobs/8658281002?gh_jid=8658281002",
+      "date_posted": "2026-08-21",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -192,17 +225,6 @@
     },
     {
       "company": "Sigma Computing",
-      "title": "Commercial Customer Success Manager - SF",
-      "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7819122003",
-      "date_posted": "2026-08-21",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Sigma Computing",
       "title": "Enterprise Customer Success Manager \u2014 East (Bilingual: English/Spanish)",
       "location": "New York City, NY",
       "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7815449003",
@@ -236,6 +258,17 @@
     },
     {
       "company": "Sony Interactive Entertainment",
+      "title": "Executive Assistant 2",
+      "location": "United States, San Mateo, CA",
+      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6176308004",
+      "date_posted": "2026-09-04",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Sony Interactive Entertainment",
       "title": "Hardware Fleet Operations Specialist",
       "location": "United States, Aliso Viejo, CA",
       "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6150986004",
@@ -251,6 +284,17 @@
       "location": "Atlanta, GA",
       "url": "https://job-boards.greenhouse.io/stackav/jobs/5223840007",
       "date_posted": "2026-08-27",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "tastytrade",
+      "title": "Operations Specialist",
+      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/tastytrade/jobs/6176088004",
+      "date_posted": "2026-09-03",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -347,8 +391,8 @@
     {
       "company": "Twitch",
       "title": "Partnerships Associate",
-      "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8739325002",
+      "location": "Irvine, CA",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8739355002",
       "date_posted": "2026-09-01",
       "ats": "Greenhouse",
       "feeds": [
@@ -358,8 +402,8 @@
     {
       "company": "Twitch",
       "title": "Partnerships Associate",
-      "location": "Irvine, CA",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8739355002",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8739325002",
       "date_posted": "2026-09-01",
       "ats": "Greenhouse",
       "feeds": [
@@ -394,6 +438,17 @@
       "location": "El Segundo, California, United States",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7978450003",
       "date_posted": "2026-08-28",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Varda Space",
+      "title": "People Operations Specialist",
+      "location": "El Segundo, California, United States",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7985667003",
+      "date_posted": "2026-09-03",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -446,8 +501,8 @@
     {
       "company": "Workstream",
       "title": "Revenue Operations Manager",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6141656004",
+      "location": "Menlo Park",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6141655004",
       "date_posted": "2026-08-27",
       "ats": "Greenhouse",
       "feeds": [
@@ -457,8 +512,8 @@
     {
       "company": "Workstream",
       "title": "Revenue Operations Manager",
-      "location": "Menlo Park",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6141655004",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6141656004",
       "date_posted": "2026-08-27",
       "ats": "Greenhouse",
       "feeds": [
@@ -479,9 +534,9 @@
     {
       "company": "xAI",
       "title": "Client Account Manager",
-      "location": "Austin, Texas; Los Angeles, California; New York, New York",
+      "location": "Austin, TX; Los Angeles, CA; New York, NY",
       "url": "https://job-boards.greenhouse.io/xai/jobs/4940377007",
-      "date_posted": "2026-08-27",
+      "date_posted": "2026-09-03",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -490,9 +545,9 @@
     {
       "company": "xAI",
       "title": "Client Account Manager- SMB",
-      "location": "New York, New York",
+      "location": "New York, NY",
       "url": "https://job-boards.greenhouse.io/xai/jobs/5221126007",
-      "date_posted": "2026-08-27",
+      "date_posted": "2026-09-03",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -501,9 +556,9 @@
     {
       "company": "xAI",
       "title": "Human Data - Business Operations Analyst",
-      "location": "Palo Alto, California",
+      "location": " Palo Alto, CA",
       "url": "https://job-boards.greenhouse.io/xai/jobs/5216863007",
-      "date_posted": "2026-08-27",
+      "date_posted": "2026-09-03",
       "ats": "Greenhouse",
       "feeds": [
         "general"
@@ -516,17 +571,6 @@
       "url": "https://job-boards.greenhouse.io/yext/jobs/8002946",
       "date_posted": "2026-08-31",
       "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "ableserve",
-      "title": "Assistant Facilities Account Manager",
-      "location": "Newport Beach, CA",
-      "url": "https://jobs.lever.co/ableserve/5f4af884-4d9a-48a7-96bb-efa4ee6fef00",
-      "date_posted": "2026-08-20",
-      "ats": "Lever",
       "feeds": [
         "general"
       ]
@@ -548,6 +592,17 @@
       "location": "New York, New York",
       "url": "https://jobs.lever.co/matchgroup/b4f9fcdf-5fba-44c2-a626-c10c5de530d7",
       "date_posted": "2026-08-26",
+      "ats": "Lever",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Palantir",
+      "title": "Legal Operations Specialist",
+      "location": "Palo Alto, CA",
+      "url": "https://jobs.lever.co/palantir/3c0c9552-f4ae-4467-b032-5809d2d62724",
+      "date_posted": "2026-09-03",
       "ats": "Lever",
       "feeds": [
         "general"
@@ -587,11 +642,22 @@
       ]
     },
     {
+      "company": "SunSource",
+      "title": "Inside Sales - Instrumentation Products",
+      "location": "Marietta, GA 30067",
+      "url": "https://jobs.lever.co/sunsrce/a4da977d-36e1-47a3-b4d4-1d5719722eb5",
+      "date_posted": "2026-09-04",
+      "ats": "Lever",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Abbott",
       "title": "National Account Manager - US Distribution",
       "location": "United States - New Jersey - Hoboken",
       "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---New-Jersey---Princeton/National-Account-Manager---US-Distribution_31160466",
-      "date_posted": "Posted 6 Days Ago",
+      "date_posted": "Posted 7 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -602,7 +668,7 @@
       "title": "Account Manager, Vessel Closure - Los Angeles, South",
       "location": "United States - California - Los Angeles",
       "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Los-Angeles/Account-Manager--Vessel-Closure---Los-Angeles--South_31159513",
-      "date_posted": "Posted 6 Days Ago",
+      "date_posted": "Posted 7 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -613,7 +679,7 @@
       "title": "Account Manager - Infectious Disease Diagnostics - Greater Chicago Area.",
       "location": "United States - Illinois - Chicago",
       "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Illinois---Chicago/Account-Manager---Infectious-Disease-Diagnostics---Greater-Chicago-Area_31156607",
-      "date_posted": "Posted 7 Days Ago",
+      "date_posted": "Posted 8 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -624,7 +690,7 @@
       "title": "National Enterprise Account Manager, Reference Labs and National Health Systems",
       "location": "United States - Illinois - Chicago",
       "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Illinois---Chicago/National-Enterprise-Account-Manager--Reference-Labs-and-National-Health-Systems_31159685-1",
-      "date_posted": "Posted 3 Days Ago",
+      "date_posted": "Posted 4 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -635,7 +701,7 @@
       "title": "Coordinator, Field Marketing - BeatBox",
       "location": "Carson, California",
       "url": "https://abinbev.wd1.myworkdayjobs.com/USA/job/Carson-California/Coordinator--Field-Marketing---BeatBox_30094722-1",
-      "date_posted": "Posted 9 Days Ago",
+      "date_posted": "Posted 10 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -646,18 +712,7 @@
       "title": "Counter Sales Representative",
       "location": "Anaheim, CA - Retail shop",
       "url": "https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/Anaheim-CA---Retail-shop/Counter-Sales-Representative_R10094622",
-      "date_posted": "Posted 8 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Nissan",
-      "title": "Regional Marketing Communications Manager- Infiniti",
-      "location": "Irvine, California - United States of America",
-      "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Irvine-California---United-States-of-America/Regional-Marketing-Communications-Manager--Infiniti_R00212935-1",
-      "date_posted": "Posted 13 Days Ago",
+      "date_posted": "Posted 9 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -668,7 +723,7 @@
       "title": "Sales Account Manager",
       "location": "Virtual - Los Angeles, CA 90011",
       "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Virtual---Los-Angeles-CA-90011/Sales-Account-Manager_R02998",
-      "date_posted": "Posted 2 Days Ago",
+      "date_posted": "Posted 3 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -679,7 +734,7 @@
       "title": "Sales Representative - Chicago",
       "location": "Des Plaines, IL",
       "url": "https://andersen.wd12.myworkdayjobs.com/Andersen_External_Career_Site/job/Des-Plaines-IL/Sales-Representative---Chicago_R-970",
-      "date_posted": "Posted 6 Days Ago",
+      "date_posted": "Posted 7 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -734,7 +789,7 @@
       "title": "Marketing and Social Media Specialist",
       "location": "Chicago, IL",
       "url": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/Chicago-IL/Marketing-and-Social-Media-Specialist_R100125170",
-      "date_posted": "Posted 3 Days Ago",
+      "date_posted": "Posted 4 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -745,7 +800,106 @@
       "title": "Catering Sales Coordinator",
       "location": "San Francisco, CA",
       "url": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/San-Francisco-CA/Catering-Sales-Coordinator_R100125106",
-      "date_posted": "Posted 7 Days Ago",
+      "date_posted": "Posted 8 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AT&T",
+      "title": "Lead Account Manager Channel 3 Mob VAR",
+      "location": "New York, New York",
+      "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Bedminster-New-Jersey/Lead-Account-Manager-Channel-3-Mob-VAR_R-121429-1",
+      "date_posted": "Posted Yesterday",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AT&T",
+      "title": "Business Sales Representative \u2013 Territory Accounts",
+      "location": "Atlanta, Georgia",
+      "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Atlanta-Georgia/B2B-Sales-Account-Executive_R-115876",
+      "date_posted": "Posted 9 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AT&T",
+      "title": "Business Sales Representative \u2013 Territory Accounts",
+      "location": "Chicago, Illinois",
+      "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Chicago-Illinois/B2B-Sales-Account-Executive_R-116985",
+      "date_posted": "Posted 11 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AT&T",
+      "title": "Business Sales Representative \u2013 Territory Accounts",
+      "location": "San Francisco, California",
+      "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/San-Francisco-California/Business-Sales-Representative---Territory-Accounts_R-121693",
+      "date_posted": "Posted 2 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AT&T",
+      "title": "Business Sales Representative \u2013 Territory Accounts",
+      "location": "New York, New York",
+      "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/New-York-New-York/Business-Sales-Representative---Territory-Accounts_R-117395",
+      "date_posted": "Posted 6 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AT&T",
+      "title": "Bilingual Spanish Call Center Sales Representative",
+      "location": "Chicago, Illinois",
+      "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Chicago-Illinois/Bilingual-Spanish-Call-Center-Sales-Representative_R-119583",
+      "date_posted": "Posted 11 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Brown & Brown Insurance",
+      "title": "Account Coordinator",
+      "location": "Alpharetta, GA, USA",
+      "url": "https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Alpharetta-GA-USA/Account-Coordinator_R26_0000003027",
+      "date_posted": "Posted Today",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Brown & Brown Insurance",
+      "title": "Account Manager",
+      "location": "Oakbrook Terrace, IL, USA",
+      "url": "https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Oakbrook-Terrace-IL-USA/Account-Manager_R26_0000002981",
+      "date_posted": "Posted 2 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Bloom Energy",
+      "title": "Executive Assistant",
+      "location": "San Jose, California",
+      "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Executive-Assistant_JR-23302",
+      "date_posted": "Posted 9 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -756,18 +910,18 @@
       "title": "Executive Assistant",
       "location": "San Francisco, CA, USA",
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/San-Francisco-CA-USA/Executive-Assistant_R260024874",
-      "date_posted": "Posted 10 Days Ago",
+      "date_posted": "Posted 11 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Bank of Montreal",
-      "title": "Executive Assistant - U.S. Banking HR",
-      "location": "Chicago, IL, USA",
-      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Executive-Assistant---US-Banking-HR_R260024507",
-      "date_posted": "Posted 13 Days Ago",
+      "company": "Brenntag",
+      "title": "Account Manager -  Material Science",
+      "location": "USA/BSS/Chicago",
+      "url": "https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/USABSSChicago/Account-Manager----Material-Science_JR111755",
+      "date_posted": "Posted Today",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -778,7 +932,7 @@
       "title": "Account Manager - Food/Nutrition",
       "location": "USA/BSS/Chicago",
       "url": "https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/USABSSChicago/Account-Manager---Food-Nutrition_JR111849",
-      "date_posted": "Posted 7 Days Ago",
+      "date_posted": "Posted 8 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -789,7 +943,7 @@
       "title": "Nokia Global Account Manager",
       "location": "USA-California-San Jose-1320 Ridder Park Drive",
       "url": "https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Nokia-Global-Account-Manager_R025396",
-      "date_posted": "Posted 10 Days Ago",
+      "date_posted": "Posted 11 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -800,7 +954,7 @@
       "title": "Operations Associate (Hybrid)",
       "location": "Newark, NJ",
       "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Newark-NJ/Operations-Associate--Hybrid-_JR1085284",
-      "date_posted": "Posted 10 Days Ago",
+      "date_posted": "Posted 11 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -822,28 +976,6 @@
       "title": "Account Coordinator",
       "location": "US-CA-Burbank",
       "url": "https://bydeluxe.wd5.myworkdayjobs.com/Deluxe_External/job/US-CA-Burbank/Account-Coordinator_R0016278",
-      "date_posted": "Posted 7 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Collectors",
-      "title": "Events Coordinator, Beckett",
-      "location": "Santa Ana, CA",
-      "url": "https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Plano-TX/Events-Coordinator--Beckett_JR105727-1",
-      "date_posted": "Posted Yesterday",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Collectors",
-      "title": "Executive Assistant",
-      "location": "Santa Ana, CA",
-      "url": "https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Santa-Ana-CA/Executive-Assistant_JR106201",
       "date_posted": "Posted 8 Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -851,43 +983,10 @@
       ]
     },
     {
-      "company": "Collectors",
-      "title": "Key Account Manager, Power Packs",
-      "location": "Santa Ana, CA",
-      "url": "https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Santa-Ana-CA/Key-Account-Manager--Power-Packs_JR106191",
-      "date_posted": "Posted 6 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Collectors",
-      "title": "Sales Operations Manager, Marketplace",
-      "location": "Santa Ana, CA",
-      "url": "https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Santa-Ana-CA/Sales-Operations-Manager--Marketplace_JR106117",
-      "date_posted": "Posted 6 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Corteva",
-      "title": "Digital Marketing & Communications Specialist",
-      "location": "Cremona, Lombardy, Italy",
-      "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Cremona-Lombardy-Italy/Digital---Communication-Specialist_247483W",
-      "date_posted": "Posted Yesterday",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cox",
-      "title": "Client Relationship Manager II",
-      "location": "Atlanta GA",
-      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Client-Relationship-Manager-II_R202681935",
+      "company": "Carrier Global",
+      "title": "Inside Sales Associate - NYC",
+      "location": "CAN35: CCS-New York, 1350 Broadway, New York, NY, 10018 USA",
+      "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN35-CCS-New-York-1350-Broadway-New-York-NY-10018-USA/Inside-Sales-Associate---NYC_30210919",
       "date_posted": "Posted 2 Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -895,11 +994,11 @@
       ]
     },
     {
-      "company": "Crowdstrike",
-      "title": "SMB Account Manager (Hybrid)",
-      "location": "USA - Sunnyvale, CA",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Austin-TX/SMB-Account-Manager--Hybrid-_R29514-1",
-      "date_posted": "Posted 3 Days Ago",
+      "company": "Solar Turbines",
+      "title": "Sales Account Manager-Power Generation",
+      "location": "Naperville, Illinois",
+      "url": "https://cat.wd5.myworkdayjobs.com/solarturbines/job/Parsippany-New-Jersey/Sales-Account-Manager-Power-Generation_R0000389019",
+      "date_posted": "Posted Today",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -908,32 +1007,21 @@
   ],
   "new_jobs": [
     {
-      "company": "Otter",
-      "title": "Enterprise Customer Success Manager",
-      "location": "Los Angeles, CA",
-      "url": "https://job-boards.greenhouse.io/otter/jobs/8637474002",
-      "date_posted": "2026-08-20",
+      "company": "NinjaTrader",
+      "title": "Account Manager, Evaluation Services",
+      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/ninjatrader/jobs/4702386006",
+      "date_posted": "2026-09-01",
       "ats": "Greenhouse",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "PagerDuty",
-      "title": "Event Marketing Manager",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6166307004",
-      "date_posted": "2026-08-28",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Pallet",
-      "title": "Executive Assistant to the CEO",
-      "location": "San Francisco ",
-      "url": "https://job-boards.greenhouse.io/pallet/jobs/5222037007",
+      "company": "Oklo",
+      "title": "Administrative Operations Assistant",
+      "location": "New York, NY or Remote",
+      "url": "https://job-boards.greenhouse.io/oklo/jobs/6135589004",
       "date_posted": "2026-08-25",
       "ats": "Greenhouse",
       "feeds": [
@@ -941,98 +1029,10 @@
       ]
     },
     {
-      "company": "Pallet",
-      "title": "Field Marketing Manager",
+      "company": "Planet",
+      "title": "Sales Development Representative",
       "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/pallet/jobs/5220076007",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Pallet",
-      "title": "Sales Development Representative ",
-      "location": "New York City",
-      "url": "https://job-boards.greenhouse.io/pallet/jobs/5162240007",
-      "date_posted": "2026-08-24",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Peregrine",
-      "title": "Social Media Manager",
-      "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/peregrinetechnologies/jobs/4729715005",
-      "date_posted": "2026-09-01",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Peregrine",
-      "title": "Social Media Manager",
-      "location": "San Francisco, CA ",
-      "url": "https://job-boards.greenhouse.io/peregrinetechnologies/jobs/4722962005",
-      "date_posted": "2026-09-01",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Planet",
-      "title": "Customer and Partner Marketing Specialist",
-      "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8140020",
-      "date_posted": "2026-08-26",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Planet",
-      "title": "Customer Success Manager II, Commercial Markets",
-      "location": "San Francisco, CA; Arlington, VA",
-      "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8119750",
-      "date_posted": "2026-08-27",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Planet",
-      "title": "Manager, Customer Success - Commercial Markets",
-      "location": "San Francisco, CA; Washington, D.C.",
-      "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8088251",
-      "date_posted": "2026-08-27",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Planet",
-      "title": "Sales Development Representative, North America Civil Government",
-      "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8094173",
-      "date_posted": "2026-08-27",
-      "ats": "Greenhouse",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Precision AQ",
-      "title": "Project Coordinator",
-      "location": "New York, NY, USA",
-      "url": "https://job-boards.greenhouse.io/precisionaq/jobs/6128696004",
+      "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8165383",
       "date_posted": "2026-09-03",
       "ats": "Greenhouse",
       "feeds": [
@@ -1040,54 +1040,120 @@
       ]
     },
     {
-      "company": "SHEIN",
-      "title": "Graphic Designer (Contract Role, Email Marketing)",
-      "location": "Los Angeles",
-      "url": "https://job-boards.greenhouse.io/shein/jobs/5414184008",
-      "date_posted": "2026-09-02",
+      "company": "Point72",
+      "title": "Program Coordinator, Investment Professional Development",
+      "location": "New York, NY",
+      "url": "https://boards.greenhouse.io/point72/jobs/8658281002?gh_jid=8658281002",
+      "date_posted": "2026-08-21",
       "ats": "Greenhouse",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Think Academy International Education",
-      "title": "RedNote Marketing Specialist",
-      "location": "San Jose, CA",
-      "url": "https://job-boards.greenhouse.io/thinkacademyus/jobs/7984766003",
-      "date_posted": "2026-09-02",
+      "company": "Sony Interactive Entertainment",
+      "title": "Executive Assistant 2",
+      "location": "United States, San Mateo, CA",
+      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6176308004",
+      "date_posted": "2026-09-04",
       "ats": "Greenhouse",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "True Anomaly",
-      "title": "Social Media Manager",
-      "location": "Long Beach, CA",
-      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5197086007",
-      "date_posted": "2026-08-25",
+      "company": "tastytrade",
+      "title": "Operations Specialist",
+      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/tastytrade/jobs/6176088004",
+      "date_posted": "2026-09-03",
       "ats": "Greenhouse",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Bisnow",
-      "title": "Marketing Coordinator - Email Marketing",
-      "location": "New York City",
-      "url": "https://jobs.lever.co/bisnow/0296ba37-1f07-4d81-8e3d-512c0f7baca8",
-      "date_posted": "2026-09-02",
+      "company": "Varda Space",
+      "title": "People Operations Specialist",
+      "location": "El Segundo, California, United States",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7985667003",
+      "date_posted": "2026-09-03",
+      "ats": "Greenhouse",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Palantir",
+      "title": "Legal Operations Specialist",
+      "location": "Palo Alto, CA",
+      "url": "https://jobs.lever.co/palantir/3c0c9552-f4ae-4467-b032-5809d2d62724",
+      "date_posted": "2026-09-03",
       "ats": "Lever",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Andersen Corporation",
-      "title": "Sales Representative - Chicago",
-      "location": "Des Plaines, IL",
-      "url": "https://andersen.wd12.myworkdayjobs.com/Andersen_External_Career_Site/job/Des-Plaines-IL/Sales-Representative---Chicago_R-970",
+      "company": "SunSource",
+      "title": "Inside Sales - Instrumentation Products",
+      "location": "Marietta, GA 30067",
+      "url": "https://jobs.lever.co/sunsrce/a4da977d-36e1-47a3-b4d4-1d5719722eb5",
+      "date_posted": "2026-09-04",
+      "ats": "Lever",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AT&T",
+      "title": "Lead Account Manager Channel 3 Mob VAR",
+      "location": "New York, New York",
+      "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Bedminster-New-Jersey/Lead-Account-Manager-Channel-3-Mob-VAR_R-121429-1",
+      "date_posted": "Posted Yesterday",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AT&T",
+      "title": "Business Sales Representative \u2013 Territory Accounts",
+      "location": "Atlanta, Georgia",
+      "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Atlanta-Georgia/B2B-Sales-Account-Executive_R-115876",
+      "date_posted": "Posted 9 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AT&T",
+      "title": "Business Sales Representative \u2013 Territory Accounts",
+      "location": "Chicago, Illinois",
+      "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Chicago-Illinois/B2B-Sales-Account-Executive_R-116985",
+      "date_posted": "Posted 11 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AT&T",
+      "title": "Business Sales Representative \u2013 Territory Accounts",
+      "location": "San Francisco, California",
+      "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/San-Francisco-California/Business-Sales-Representative---Territory-Accounts_R-121693",
+      "date_posted": "Posted 2 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AT&T",
+      "title": "Business Sales Representative \u2013 Territory Accounts",
+      "location": "New York, New York",
+      "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/New-York-New-York/Business-Sales-Representative---Territory-Accounts_R-117395",
       "date_posted": "Posted 6 Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -1095,11 +1161,77 @@
       ]
     },
     {
-      "company": "Cox",
-      "title": "Client Relationship Manager II",
-      "location": "Atlanta GA",
-      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Client-Relationship-Manager-II_R202681935",
+      "company": "AT&T",
+      "title": "Bilingual Spanish Call Center Sales Representative",
+      "location": "Chicago, Illinois",
+      "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Chicago-Illinois/Bilingual-Spanish-Call-Center-Sales-Representative_R-119583",
+      "date_posted": "Posted 11 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Brown & Brown Insurance",
+      "title": "Account Coordinator",
+      "location": "Alpharetta, GA, USA",
+      "url": "https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Alpharetta-GA-USA/Account-Coordinator_R26_0000003027",
+      "date_posted": "Posted Today",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Brown & Brown Insurance",
+      "title": "Account Manager",
+      "location": "Oakbrook Terrace, IL, USA",
+      "url": "https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Oakbrook-Terrace-IL-USA/Account-Manager_R26_0000002981",
       "date_posted": "Posted 2 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Bloom Energy",
+      "title": "Executive Assistant",
+      "location": "San Jose, California",
+      "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Executive-Assistant_JR-23302",
+      "date_posted": "Posted 9 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Brenntag",
+      "title": "Account Manager -  Material Science",
+      "location": "USA/BSS/Chicago",
+      "url": "https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/USABSSChicago/Account-Manager----Material-Science_JR111755",
+      "date_posted": "Posted Today",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Carrier Global",
+      "title": "Inside Sales Associate - NYC",
+      "location": "CAN35: CCS-New York, 1350 Broadway, New York, NY, 10018 USA",
+      "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN35-CCS-New-York-1350-Broadway-New-York-NY-10018-USA/Inside-Sales-Associate---NYC_30210919",
+      "date_posted": "Posted 2 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Solar Turbines",
+      "title": "Sales Account Manager-Power Generation",
+      "location": "Naperville, Illinois",
+      "url": "https://cat.wd5.myworkdayjobs.com/solarturbines/job/Parsippany-New-Jersey/Sales-Account-Manager-Power-Generation_R0000389019",
+      "date_posted": "Posted Today",
       "ats": "Workday",
       "feeds": [
         "general"
