@@ -1,24 +1,24 @@
 # 🎬 Entertainment — Studios / Agencies / Labels (direct ATS + LinkedIn allowlist)
-*Last updated: 2026-09-04 08:05 UTC*
+*Last updated: 2026-09-05 07:48 UTC*
 
 **5 new role(s)** since last run · 12 total in last 24h
 
-### [Manager, Digital Marketing](https://wmg.wd1.myworkdayjobs.com/WMGUS/job/USA---Los-Angeles---777-S-Santa-Fe-Ave/Manager--Digital-Marketing_R-028452) — Warner Music Group
-- 📍 **Location:** USA - Los Angeles - 777 S. Santa Fe Ave
-- 🕒 **Posted:** Posted 3 Days Ago
+### [Production Coordinator (Project Hire)](https://disney.wd5.myworkdayjobs.com/disneycareer/job/San-Francisco-CA-USA/Production-Coordinator--Project-Hire-_10159485) — The Walt Disney Company
+- 📍 **Location:** San Francisco, CA, USA
+- 🕒 **Posted:** Posted Yesterday
 
-### [Publicist](https://www.linkedin.com/jobs/view/4453161806/) — NBCUniversal
-- 📍 **Location:** Universal City, CA
-- 🕒 **Posted:** 2026-09-03
-
-### [Data Account Manager](https://www.linkedin.com/jobs/view/4461668923/) — INNOCEAN USA
-- 📍 **Location:** Huntington Beach, CA
-- 🕒 **Posted:** 2026-09-03
-
-### [Executive Assistant](https://www.linkedin.com/jobs/view/4453354348/) — Paramount Pictures
+### [Executive Assistant, International Marketing](https://www.linkedin.com/jobs/view/4444764844/) — Paramount
 - 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-09-03
+- 🕒 **Posted:** 2026-09-04
 
-### [Procurement Operations Specialist, AMS](https://www.linkedin.com/jobs/view/4461696008/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-03
+### [Coordinator, Content Marketing & Partnerships, Sports](https://www.linkedin.com/jobs/view/4461401708/) — SiriusXM
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-04
+
+### [Account Manager](https://www.linkedin.com/jobs/view/4436138305/) — Snap Inc.
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-04
+
+### [Account Manager - CPG Care - Global Business Solutions](https://www.linkedin.com/jobs/view/4462307702/) — TikTok
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-09-04
