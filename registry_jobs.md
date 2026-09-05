@@ -1,88 +1,132 @@
 # 🗃 Direct ATS Registry — Marketing / Account Mgmt / Coordinator Roles
-*Last updated: 2026-09-04 17:27 UTC*
+*Last updated: 2026-09-05 16:37 UTC*
 
-**21 new role(s)** since last run · 91 total in current registry shard
+**32 new role(s)** since last run · 118 total in current registry shard
 
-### [Account Manager, Evaluation Services](https://job-boards.greenhouse.io/ninjatrader/jobs/4702386006) — NinjaTrader
-- 📍 **Location:** Chicago, IL
+### [Business Development Representative, Data Solutions - Associate ](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8622456002) — iCapital Network
+- 📍 **Location:** New York, New York, United States
+- 🕒 **Posted:** 2026-08-28
+
+### [Executive Assistant](https://job-boards.greenhouse.io/instabase/jobs/8731142002) — Instabase
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [Events Coordinator](https://www.janestreet.com/join-jane-street/apply/8686227002?gh_jid=8686227002) — Jane Street
+- 📍 **Location:** New York, New York, United States
+- 🕒 **Posted:** 2026-08-27
+
+### [Legal Operations Specialist](https://www.janestreet.com/join-jane-street/apply/8324512002?gh_jid=8324512002) — Jane Street
+- 📍 **Location:** New York, New York, United States
+- 🕒 **Posted:** 2026-08-27
+
+### [Operations Specialist](https://www.janestreet.com/join-jane-street/apply/8360490002?gh_jid=8360490002) — Jane Street
+- 📍 **Location:** New York, New York, United States
+- 🕒 **Posted:** 2026-08-27
+
+### [Recruiting Coordinator](https://www.janestreet.com/join-jane-street/apply/8560087002?gh_jid=8560087002) — Jane Street
+- 📍 **Location:** New York, New York, United States
+- 🕒 **Posted:** 2026-08-27
+
+### [Recruiting Operations Specialist](https://www.janestreet.com/join-jane-street/apply/8687964002?gh_jid=8687964002) — Jane Street
+- 📍 **Location:** New York, New York, United States
+- 🕒 **Posted:** 2026-08-27
+
+### [Product Operations Specialist](https://job-boards.greenhouse.io/kodiak/jobs/4385434009) — Kodiak Robotics
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-08-27
+
+### [Executive Assistant](https://job-boards.greenhouse.io/lgelectronics/jobs/5400207008) — LG Electronics
+- 📍 **Location:** Santa Clara, CA 
+- 🕒 **Posted:** 2026-08-30
+
+### [Property & Workplace Operations Associate](https://job-boards.greenhouse.io/lgelectronics/jobs/5304702008) — LG Electronics
+- 📍 **Location:** Santa Clara, CA 
+- 🕒 **Posted:** 2026-08-28
+
+### [Autonomous Vehicle Operations Specialist ](https://job-boards.greenhouse.io/maymobility/jobs/8755629002) — May Mobility
+- 📍 **Location:** Atlanta, GA - Onsite
+- 🕒 **Posted:** 2026-08-28
+
+### [Market Researcher](https://job-boards.greenhouse.io/mcmastercarr/jobs/4369141009) — McMaster-Carr
+- 📍 **Location:** Chicago, IL (Elmhurst)
 - 🕒 **Posted:** 2026-09-01
 
-### [Administrative Operations Assistant](https://job-boards.greenhouse.io/oklo/jobs/6135589004) — Oklo
-- 📍 **Location:** New York, NY or Remote
-- 🕒 **Posted:** 2026-08-25
+### [Market Researcher](https://job-boards.greenhouse.io/mcmastercarr/jobs/4249053009) — McMaster-Carr
+- 📍 **Location:** Los Angeles, CA (Santa Fe Springs)
+- 🕒 **Posted:** 2026-09-01
 
-### [Sales Development Representative](https://job-boards.greenhouse.io/planetlabs/jobs/8165383) — Planet
+### [Account Manager - Financial Services at MrBeast](https://job-boards.greenhouse.io/mrbeastyoutube/jobs/6144453004) — MrBeast
+- 📍 **Location:** Greenville, NC / New York, NY 
+- 🕒 **Posted:** 2026-09-01
+
+### [Account Manager - Tech B2C](https://job-boards.greenhouse.io/mrbeastyoutube/jobs/6144425004) — MrBeast
+- 📍 **Location:** Greenville, NC / New York, NY 
+- 🕒 **Posted:** 2026-09-01
+
+### [Account Manager -Telecommunications](https://job-boards.greenhouse.io/mrbeastyoutube/jobs/6144457004) — MrBeast
+- 📍 **Location:** Greenville, NC / New York, NY 
+- 🕒 **Posted:** 2026-09-01
+
+### [Executive Assistant](https://job-boards.greenhouse.io/nerostechnologies/jobs/5223031007) — Neros Technologies
+- 📍 **Location:** Torrance, California, United States
+- 🕒 **Posted:** 2026-09-03
+
+### [Media Relations Manager](https://job-boards.greenhouse.io/nerostechnologies/jobs/5197722007) — Neros Technologies
+- 📍 **Location:** Torrance, California, United States
+- 🕒 **Posted:** 2026-09-03
+
+### [Lifecycle Account Manager](https://job-boards.greenhouse.io/purestorage/jobs/8180347) — Pure Storage
+- 📍 **Location:** Santa Clara, California
+- 🕒 **Posted:** 2026-09-04
+
+### [Logistics Coordinator](https://job-boards.greenhouse.io/rocketlab/jobs/7979648003) — Rocket Lab USA
+- 📍 **Location:** Long Beach, CA
+- 🕒 **Posted:** 2026-08-31
+
+### [Business Development Representative](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767916003) — Sigma Computing
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-03
-
-### [Program Coordinator, Investment Professional Development](https://boards.greenhouse.io/point72/jobs/8658281002?gh_jid=8658281002) — Point72
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-21
-
-### [Executive Assistant 2](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6176308004) — Sony Interactive Entertainment
-- 📍 **Location:** United States, San Mateo, CA
 - 🕒 **Posted:** 2026-09-04
 
-### [Operations Specialist](https://job-boards.greenhouse.io/tastytrade/jobs/6176088004) — tastytrade
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-09-03
-
-### [People Operations Specialist](https://job-boards.greenhouse.io/vardaspace/jobs/7985667003) — Varda Space
-- 📍 **Location:** El Segundo, California, United States
-- 🕒 **Posted:** 2026-09-03
-
-### [Legal Operations Specialist](https://jobs.lever.co/palantir/3c0c9552-f4ae-4467-b032-5809d2d62724) — Palantir
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-03
-
-### [Inside Sales - Instrumentation Products](https://jobs.lever.co/sunsrce/a4da977d-36e1-47a3-b4d4-1d5719722eb5) — SunSource
-- 📍 **Location:** Marietta, GA 30067
+### [Business Development Representative](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767894003) — Sigma Computing
+- 📍 **Location:** New York City, NY 
 - 🕒 **Posted:** 2026-09-04
 
-### [Lead Account Manager Channel 3 Mob VAR](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Bedminster-New-Jersey/Lead-Account-Manager-Channel-3-Mob-VAR_R-121429-1) — AT&T
-- 📍 **Location:** New York, New York
+### [Consumer Marketing Specialist supporting Nvidia](https://job-boards.greenhouse.io/sustainabletalent/jobs/4730005005) — Sustainable Talent
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [Legal Operations Specialist](https://job-boards.greenhouse.io/xai/jobs/5231516007) — xAI
+- 📍 **Location:**  Palo Alto, CA
+- 🕒 **Posted:** 2026-09-04
+
+### [Executive Assistant, BMO Capital Markets](https://bmo.wd3.myworkdayjobs.com/External/job/New-York-NY-USA/Executive-Assistant--BMO-Capital-Markets_R260016243) — Bank of Montreal
+- 📍 **Location:** New York, NY, USA
 - 🕒 **Posted:** Posted Yesterday
 
-### [Business Sales Representative – Territory Accounts](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Atlanta-Georgia/B2B-Sales-Account-Executive_R-115876) — AT&T
-- 📍 **Location:** Atlanta, Georgia
-- 🕒 **Posted:** Posted 9 Days Ago
+### [Account Manager, Western USA - Express Scripts – Hybrid](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Glendale-CA/Account-Manager---Express-Scripts---Hybrid_26007054) — Cigna Group
+- 📍 **Location:** Glendale, CA
+- 🕒 **Posted:** Posted 4 Days Ago
 
-### [Business Sales Representative – Territory Accounts](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Chicago-Illinois/B2B-Sales-Account-Executive_R-116985) — AT&T
-- 📍 **Location:** Chicago, Illinois
+### [Client Services Manager - Middle Market/Construction](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Downers-Grove-IL-USA/Client-Services-Manager---National-Accounts_R-7538) — CNA Insurance
+- 📍 **Location:** Downers Grove, IL, USA
 - 🕒 **Posted:** Posted 11 Days Ago
 
-### [Business Sales Representative – Territory Accounts](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/San-Francisco-California/Business-Sales-Representative---Territory-Accounts_R-121693) — AT&T
-- 📍 **Location:** San Francisco, California
-- 🕒 **Posted:** Posted 2 Days Ago
+### [Real Estate Project Coordinator](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Santa-Ana-CA/Real-Estate-Project-Coordinator_JR106560) — Collectors
+- 📍 **Location:** Santa Ana, CA
+- 🕒 **Posted:** Posted Yesterday
 
-### [Business Sales Representative – Territory Accounts](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/New-York-New-York/Business-Sales-Representative---Territory-Accounts_R-117395) — AT&T
-- 📍 **Location:** New York, New York
-- 🕒 **Posted:** Posted 6 Days Ago
+### [Events Coordinator, Beckett](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Plano-TX/Events-Coordinator--Beckett_JR105727-1) — Collectors
+- 📍 **Location:** Santa Ana, CA
+- 🕒 **Posted:** Posted 3 Days Ago
 
-### [Bilingual Spanish Call Center Sales Representative](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Chicago-Illinois/Bilingual-Spanish-Call-Center-Sales-Representative_R-119583) — AT&T
-- 📍 **Location:** Chicago, Illinois
-- 🕒 **Posted:** Posted 11 Days Ago
+### [Executive Assistant](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Santa-Ana-CA/Executive-Assistant_JR106201) — Collectors
+- 📍 **Location:** Santa Ana, CA
+- 🕒 **Posted:** Posted 10 Days Ago
 
-### [Account Coordinator](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Alpharetta-GA-USA/Account-Coordinator_R26_0000003027) — Brown & Brown Insurance
-- 📍 **Location:** Alpharetta, GA, USA
-- 🕒 **Posted:** Posted Today
+### [Sales Operations Manager, Marketplace](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Santa-Ana-CA/Sales-Operations-Manager--Marketplace_JR106117) — Collectors
+- 📍 **Location:** Santa Ana, CA
+- 🕒 **Posted:** Posted 8 Days Ago
 
-### [Account Manager](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Oakbrook-Terrace-IL-USA/Account-Manager_R26_0000002981) — Brown & Brown Insurance
-- 📍 **Location:** Oakbrook Terrace, IL, USA
-- 🕒 **Posted:** Posted 2 Days Ago
-
-### [Executive Assistant](https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Executive-Assistant_JR-23302) — Bloom Energy
-- 📍 **Location:** San Jose, California
-- 🕒 **Posted:** Posted 9 Days Ago
-
-### [Account Manager -  Material Science](https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/USABSSChicago/Account-Manager----Material-Science_JR111755) — Brenntag
-- 📍 **Location:** USA/BSS/Chicago
-- 🕒 **Posted:** Posted Today
-
-### [Inside Sales Associate - NYC](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN35-CCS-New-York-1350-Broadway-New-York-NY-10018-USA/Inside-Sales-Associate---NYC_30210919) — Carrier Global
-- 📍 **Location:** CAN35: CCS-New York, 1350 Broadway, New York, NY, 10018 USA
-- 🕒 **Posted:** Posted 2 Days Ago
-
-### [Sales Account Manager-Power Generation](https://cat.wd5.myworkdayjobs.com/solarturbines/job/Parsippany-New-Jersey/Sales-Account-Manager-Power-Generation_R0000389019) — Solar Turbines
-- 📍 **Location:** Naperville, Illinois
-- 🕒 **Posted:** Posted Today
+### [Marketplace Business Operations Program Manager](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Santa-Ana-CA/Marketplace-Business-Operations-Program-Manager_JR106115) — Collectors
+- 📍 **Location:** Santa Ana, CA
+- 🕒 **Posted:** Posted Yesterday
