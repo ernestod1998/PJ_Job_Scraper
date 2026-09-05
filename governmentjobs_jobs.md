@@ -1,6 +1,7 @@
 # 🏛 NEOGOV — State & Local Government Roles
-*Last updated: 2026-09-04 19:01 UTC*
+*Last updated: 2026-09-05 18:24 UTC*
 
-**0 new role(s)** since last run · 1 total in recent GovernmentJobs postings
+**1 new role(s)** since last run · 2 total in recent GovernmentJobs postings
 
-No new state/local-gov roles since the last run.
+### [Marketing Communications Professional III](https://www.governmentjobs.com/jobs/148955-1/marketing-communications-professional-iii) — California State University, Fullerton
+- 📍 **Location:** Fullerton, CA

@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-04 19:01 UTC",
+  "scraped_at": "2026-09-05 18:25 UTC",
   "total": 4,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Golden Gate Bridge Highway And Transportation District",
@@ -52,20 +52,7 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Golden Gate Bridge Highway And Transportation District",
-      "title": "Program Manager, Electronic Revenue Operations",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/golden-gate-bridge-highway-and-transportation-district/job-20773767",
-      "date_posted": "",
-      "salary": "$168,292.80-$203,257.60",
-      "ats": "CalOpps",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
