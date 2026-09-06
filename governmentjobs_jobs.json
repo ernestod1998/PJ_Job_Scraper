@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-05 18:24 UTC",
+  "scraped_at": "2026-09-06 18:25 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "CalOptima",
@@ -28,20 +28,7 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "California State University, Fullerton",
-      "title": "Marketing Communications Professional III",
-      "location": "Fullerton, CA",
-      "url": "https://www.governmentjobs.com/jobs/148955-1/marketing-communications-professional-iii",
-      "date_posted": "",
-      "salary": "",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
