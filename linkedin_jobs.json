@@ -1,13 +1,13 @@
 {
-  "scraped_at": "2026-09-06 05:49 UTC",
-  "total": 8,
-  "new_count": 8,
+  "scraped_at": "2026-09-06 06:32 UTC",
+  "total": 13,
+  "new_count": 5,
   "jobs": [
     {
-      "company": "Warrior Machinery LLC",
-      "title": "Sales Representative",
+      "company": "Vinum Italia",
+      "title": "Italian Wine Sales Representative - Commission-Only (1099)",
       "location": "Los Angeles Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4462659802/",
+      "url": "https://www.linkedin.com/jobs/view/4462676044/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -15,10 +15,10 @@
       ]
     },
     {
-      "company": "Vinum Italia",
-      "title": "Italian Wine Sales Representative - Commission-Only (1099)",
+      "company": "Warrior Machinery LLC",
+      "title": "Sales Representative",
       "location": "Los Angeles Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4462676044/",
+      "url": "https://www.linkedin.com/jobs/view/4462659802/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -37,10 +37,32 @@
       ]
     },
     {
+      "company": "CoreWeave",
+      "title": "SDR",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461827448/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "BioSpace",
       "title": "Account Manager / Specialty Account Manager - Tavneos - Oakland, CA",
       "location": "Oakland, CA",
       "url": "https://www.linkedin.com/jobs/view/4463794524/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Pacagen",
+      "title": "Marketing Associate",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4462651833/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -59,10 +81,21 @@
       ]
     },
     {
-      "company": "Pacagen",
-      "title": "Marketing Associate",
+      "company": "CoreWeave",
+      "title": "SDR",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4462651833/",
+      "url": "https://www.linkedin.com/jobs/view/4461824473/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CoreWeave",
+      "title": "Manager, SDR",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4461820488/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -85,6 +118,29 @@
       "title": "Merchandise Operations Coordinator",
       "location": "Northbrook, IL",
       "url": "https://www.linkedin.com/jobs/view/4462751829/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "salary": "$20.00/hr - $25.00/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Freight Broker 911",
+      "title": "Jr. Sales Representative - Freight Forwarding",
+      "location": "Elk Grove Village, IL",
+      "url": "https://www.linkedin.com/jobs/view/4463792778/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Freight Broker 911",
+      "title": "Sales Representative - International Freight Forwarding",
+      "location": "Elk Grove Village, IL",
+      "url": "https://www.linkedin.com/jobs/view/4464002660/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -94,32 +150,10 @@
   ],
   "new_jobs": [
     {
-      "company": "Warrior Machinery LLC",
-      "title": "Sales Representative",
-      "location": "Los Angeles Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4462659802/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Vinum Italia",
-      "title": "Italian Wine Sales Representative - Commission-Only (1099)",
-      "location": "Los Angeles Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4462676044/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "SSA Group",
-      "title": "Catering - Catering & Events Coordinator",
+      "company": "CoreWeave",
+      "title": "SDR",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461805856/",
+      "url": "https://www.linkedin.com/jobs/view/4461827448/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -127,32 +161,10 @@
       ]
     },
     {
-      "company": "BioSpace",
-      "title": "Account Manager / Specialty Account Manager - Tavneos - Oakland, CA",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463794524/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Pratt Institute School of Architecture",
-      "title": "Executive Assistant (71101)",
-      "location": "Brooklyn, NY",
-      "url": "https://www.linkedin.com/jobs/view/4464001194/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Pacagen",
-      "title": "Marketing Associate",
+      "company": "CoreWeave",
+      "title": "SDR",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4462651833/",
+      "url": "https://www.linkedin.com/jobs/view/4461824473/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -160,10 +172,10 @@
       ]
     },
     {
-      "company": "Generator Supercenter of Tampa Bay",
-      "title": "Outside Sales Representative",
-      "location": "Roswell, GA",
-      "url": "https://www.linkedin.com/jobs/view/4464009299/",
+      "company": "CoreWeave",
+      "title": "Manager, SDR",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4461820488/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -171,10 +183,21 @@
       ]
     },
     {
-      "company": "Crate & Barrel",
-      "title": "Merchandise Operations Coordinator",
-      "location": "Northbrook, IL",
-      "url": "https://www.linkedin.com/jobs/view/4462751829/",
+      "company": "Freight Broker 911",
+      "title": "Jr. Sales Representative - Freight Forwarding",
+      "location": "Elk Grove Village, IL",
+      "url": "https://www.linkedin.com/jobs/view/4463792778/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Freight Broker 911",
+      "title": "Sales Representative - International Freight Forwarding",
+      "location": "Elk Grove Village, IL",
+      "url": "https://www.linkedin.com/jobs/view/4464002660/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -186,7 +209,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 8,
+    "location": 7,
     "stale": 0
   }
 }
