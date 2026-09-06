@@ -1,24 +1,13 @@
 {
-  "scraped_at": "2026-09-05 23:49 UTC",
-  "total": 33,
-  "new_count": 13,
+  "scraped_at": "2026-09-06 00:15 UTC",
+  "total": 36,
+  "new_count": 4,
   "jobs": [
     {
       "company": "Seyfarth Shaw LLP",
       "title": "Practice Development Coordinator (Labor & Employment)",
       "location": "Los Angeles, CA",
       "url": "https://www.linkedin.com/jobs/view/4410982970/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Nen Creative",
-      "title": "Operations Associate",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463770640/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -60,6 +49,29 @@
       ]
     },
     {
+      "company": "Nen Creative",
+      "title": "Operations Associate",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463770640/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cedars-Sinai",
+      "title": "OBGYN Professional Services Executive Assistant",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461496626/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "salary": "$37.77/hr - $58.54/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Oakridge",
       "title": "Psychological Intern - Slack Community Manager for Book-to-Film-Development Community",
       "location": "Los Angeles, CA",
@@ -71,10 +83,10 @@
       ]
     },
     {
-      "company": "SMCP \u2013 Sandro, Maje, Claudie Pierlot, Fursac",
-      "title": "Retail Operations Associate, Maje, The Grove",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456796674/",
+      "company": "Jobs That Are Left",
+      "title": "Waverley Street Foundation, Program Associates - U.S. Programs",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461498643/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -86,17 +98,6 @@
       "title": "Community Coordinator",
       "location": "Oakland, CA",
       "url": "https://www.linkedin.com/jobs/view/4462664245/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Nen Creative",
-      "title": "Operations Associate",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463771563/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -116,10 +117,10 @@
       ]
     },
     {
-      "company": "Jobs That Are Left",
-      "title": "Waverley Street Foundation, Program Associates - U.S. Programs",
+      "company": "Nen Creative",
+      "title": "Operations Associate",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461498643/",
+      "url": "https://www.linkedin.com/jobs/view/4463771563/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -223,15 +224,16 @@
       "url": "https://www.linkedin.com/jobs/view/4454751352/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
+      "salary": "$55,000.00/yr - $67,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Citi",
-      "title": "SEM Budget Operations Specialist, Paid Search Activation",
+      "company": "DailyPay",
+      "title": "Business Development Representative",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4462670149/",
+      "url": "https://www.linkedin.com/jobs/view/4395710487/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -273,10 +275,44 @@
       ]
     },
     {
-      "company": "DailyPay",
-      "title": "Business Development Representative",
+      "company": "Riva Recruiting",
+      "title": "Operations Associate \u2013 Multi-Asset | Global Macro Hedge Fund",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4462654122/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "salary": "$160,000.00/yr - $215,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "SMCP \u2013 Sandro, Maje, Claudie Pierlot, Fursac",
+      "title": "Full-Time Retail Operations Associate, SANDRO Prince Street Flagship, New York City",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4395710487/",
+      "url": "https://www.linkedin.com/jobs/view/4456463974/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Citi",
+      "title": "SEM Budget Operations Specialist, Paid Search Activation",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4462670149/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "SUNY Downstate Health Sciences University",
+      "title": "Facility Operations Assistant 1 (Utilities)",
+      "location": "Brooklyn, NY",
+      "url": "https://www.linkedin.com/jobs/view/4442748913/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -334,7 +370,6 @@
       "url": "https://www.linkedin.com/jobs/view/4459876004/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
-      "salary": "$33.33/hr - $33.33/hr",
       "feeds": [
         "general"
       ]
@@ -376,121 +411,33 @@
   "new_jobs": [
     {
       "company": "Cedars-Sinai",
-      "title": "Pharmacy Program Coordinator - Specialty Pharmacy",
+      "title": "OBGYN Professional Services Executive Assistant",
       "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461488622/",
+      "url": "https://www.linkedin.com/jobs/view/4461496626/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
-      "salary": "$78.86/hr - $126.18/hr",
+      "salary": "$37.77/hr - $58.54/hr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Oakridge",
-      "title": "Psychological Intern - Slack Community Manager for Book-to-Film-Development Community",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462666153/",
+      "company": "Riva Recruiting",
+      "title": "Operations Associate \u2013 Multi-Asset | Global Macro Hedge Fund",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4462654122/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
+      "salary": "$160,000.00/yr - $215,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
       "company": "SMCP \u2013 Sandro, Maje, Claudie Pierlot, Fursac",
-      "title": "Retail Operations Associate, Maje, The Grove",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456796674/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "The BEAM, LLC",
-      "title": "Community Coordinator",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462664245/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobs That Are Left",
-      "title": "Waverley Street Foundation, Program Associates - U.S. Programs",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461498643/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "StartX Med",
-      "title": "Sales Operations Assistant",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462666173/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stryker",
-      "title": "Trauma Sales Representative - Santa Rosa/Berkeley , CA",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460640988/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "The City University of New York",
-      "title": "Academic Program Coordinator, College Now (aHEO) - 400518",
-      "location": "Brooklyn, NY",
-      "url": "https://www.linkedin.com/jobs/view/4463781704/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Core Elite",
-      "title": "Marketing Communications Specialist",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4454750356/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "salary": "$58,000.00/yr - $72,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Core Elite",
-      "title": "Entry-Level Account Manager",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4454751352/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NewForm",
-      "title": "Growth Marketing Lead",
+      "title": "Full-Time Retail Operations Associate, SANDRO Prince Street Flagship, New York City",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4463779695/",
+      "url": "https://www.linkedin.com/jobs/view/4456463974/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -498,22 +445,10 @@
       ]
     },
     {
-      "company": "TekWissen \u00ae",
-      "title": "Event Coordinator",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4459876004/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "salary": "$33.33/hr - $33.33/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Atlas Marketing Group Inc.",
-      "title": "Entry-Level Marketing Assistant",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4461491656/",
+      "company": "SUNY Downstate Health Sciences University",
+      "title": "Facility Operations Assistant 1 (Utilities)",
+      "location": "Brooklyn, NY",
+      "url": "https://www.linkedin.com/jobs/view/4442748913/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -525,7 +460,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 11,
+    "location": 10,
     "stale": 0
   }
 }
