@@ -1,273 +1,13 @@
 {
-  "scraped_at": "2026-09-06 00:15 UTC",
-  "total": 36,
-  "new_count": 4,
+  "scraped_at": "2026-09-06 05:49 UTC",
+  "total": 8,
+  "new_count": 8,
   "jobs": [
     {
-      "company": "Seyfarth Shaw LLP",
-      "title": "Practice Development Coordinator (Labor & Employment)",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410982970/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cedars-Sinai",
-      "title": "Pharmacy Program Coordinator - Specialty Pharmacy",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461488622/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "salary": "$78.86/hr - $126.18/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "California State University, Long Beach",
-      "title": "COB Graduate Program Specialist - 2 Positions Available",
-      "location": "Long Beach, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462661100/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "The Pullman Group",
-      "title": "Executive Assistant",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4368539682/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Nen Creative",
-      "title": "Operations Associate",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463770640/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cedars-Sinai",
-      "title": "OBGYN Professional Services Executive Assistant",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461496626/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "salary": "$37.77/hr - $58.54/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Oakridge",
-      "title": "Psychological Intern - Slack Community Manager for Book-to-Film-Development Community",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462666153/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobs That Are Left",
-      "title": "Waverley Street Foundation, Program Associates - U.S. Programs",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461498643/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "The BEAM, LLC",
-      "title": "Community Coordinator",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462664245/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "LHH",
-      "title": "Human Resources Operations Coordinator",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462649182/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "salary": "$25.45/hr - $28.15/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Nen Creative",
-      "title": "Operations Associate",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463771563/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "StartX Med",
-      "title": "Sales Operations Assistant",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462666173/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stryker",
-      "title": "Trauma Sales Representative - Santa Rosa/Berkeley , CA",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460640988/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "AirPay",
-      "title": "Customer Operations Associate",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4463787649/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "AirPay",
-      "title": "Customer Operations Associate - Integrations",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4463777598/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Nen Creative",
-      "title": "Operations Associate",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4463787531/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "The City University of New York",
-      "title": "Academic Program Coordinator, College Now (aHEO) - 400518",
-      "location": "Brooklyn, NY",
-      "url": "https://www.linkedin.com/jobs/view/4463781704/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Core Elite",
-      "title": "Marketing Communications Specialist",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4454750356/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "salary": "$58,000.00/yr - $72,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Lambent",
-      "title": "Executive Assistant/Office Manager for AI Healthcare Startup",
-      "location": "Manhattan, NY",
-      "url": "https://www.linkedin.com/jobs/view/4463780543/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "salary": "$80,000.00/yr - $100,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Core Elite",
-      "title": "Entry-Level Account Manager",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4454751352/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "salary": "$55,000.00/yr - $67,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "DailyPay",
-      "title": "Business Development Representative",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4395710487/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "AirPay",
-      "title": "Customer Success Manager",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4463768652/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Sysco",
+      "company": "Warrior Machinery LLC",
       "title": "Sales Representative",
-      "location": "Queens, NY",
-      "url": "https://www.linkedin.com/jobs/view/4463769782/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "salary": "$53,000.00/yr - $88,400.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NewForm",
-      "title": "Growth Marketing Lead",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4463779695/",
+      "location": "Los Angeles Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4462659802/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -275,22 +15,10 @@
       ]
     },
     {
-      "company": "Riva Recruiting",
-      "title": "Operations Associate \u2013 Multi-Asset | Global Macro Hedge Fund",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4462654122/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "salary": "$160,000.00/yr - $215,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "SMCP \u2013 Sandro, Maje, Claudie Pierlot, Fursac",
-      "title": "Full-Time Retail Operations Associate, SANDRO Prince Street Flagship, New York City",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4456463974/",
+      "company": "Vinum Italia",
+      "title": "Italian Wine Sales Representative - Commission-Only (1099)",
+      "location": "Los Angeles Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4462676044/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -298,10 +26,10 @@
       ]
     },
     {
-      "company": "Citi",
-      "title": "SEM Budget Operations Specialist, Paid Search Activation",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4462670149/",
+      "company": "SSA Group",
+      "title": "Catering - Catering & Events Coordinator",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461805856/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -309,10 +37,21 @@
       ]
     },
     {
-      "company": "SUNY Downstate Health Sciences University",
-      "title": "Facility Operations Assistant 1 (Utilities)",
+      "company": "BioSpace",
+      "title": "Account Manager / Specialty Account Manager - Tavneos - Oakland, CA",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463794524/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Pratt Institute School of Architecture",
+      "title": "Executive Assistant (71101)",
       "location": "Brooklyn, NY",
-      "url": "https://www.linkedin.com/jobs/view/4442748913/",
+      "url": "https://www.linkedin.com/jobs/view/4464001194/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -320,10 +59,10 @@
       ]
     },
     {
-      "company": "Seyfarth Shaw LLP",
-      "title": "Practice Development Coordinator (Labor & Employment)",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4410982968/",
+      "company": "Pacagen",
+      "title": "Marketing Associate",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4462651833/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -331,10 +70,10 @@
       ]
     },
     {
-      "company": "Nutrafol",
-      "title": "Operations Associate",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4463781611/",
+      "company": "Generator Supercenter of Tampa Bay",
+      "title": "Outside Sales Representative",
+      "location": "Roswell, GA",
+      "url": "https://www.linkedin.com/jobs/view/4464009299/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -342,65 +81,10 @@
       ]
     },
     {
-      "company": "United Rentals",
-      "title": "Inside Sales Rep",
-      "location": "Decatur, GA",
-      "url": "https://www.linkedin.com/jobs/view/4459031382/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Seyfarth Shaw LLP",
-      "title": "Practice Development Coordinator (Labor & Employment)",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4410998025/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TekWissen \u00ae",
-      "title": "Event Coordinator",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4459876004/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "The Business of HLTH Podcast",
-      "title": "Media Relations Manager (Hybrid)",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4463770778/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Everlywell",
-      "title": "Growth Marketing Manager, SEM",
-      "location": "Hoffman Estates, IL",
-      "url": "https://www.linkedin.com/jobs/view/4461013573/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Atlas Marketing Group Inc.",
-      "title": "Entry-Level Marketing Assistant",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4461491656/",
+      "company": "Crate & Barrel",
+      "title": "Merchandise Operations Coordinator",
+      "location": "Northbrook, IL",
+      "url": "https://www.linkedin.com/jobs/view/4462751829/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -410,34 +94,10 @@
   ],
   "new_jobs": [
     {
-      "company": "Cedars-Sinai",
-      "title": "OBGYN Professional Services Executive Assistant",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4461496626/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "salary": "$37.77/hr - $58.54/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Riva Recruiting",
-      "title": "Operations Associate \u2013 Multi-Asset | Global Macro Hedge Fund",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4462654122/",
-      "date_posted": "2026-09-05",
-      "ats": "LinkedIn",
-      "salary": "$160,000.00/yr - $215,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "SMCP \u2013 Sandro, Maje, Claudie Pierlot, Fursac",
-      "title": "Full-Time Retail Operations Associate, SANDRO Prince Street Flagship, New York City",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4456463974/",
+      "company": "Warrior Machinery LLC",
+      "title": "Sales Representative",
+      "location": "Los Angeles Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4462659802/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -445,10 +105,76 @@
       ]
     },
     {
-      "company": "SUNY Downstate Health Sciences University",
-      "title": "Facility Operations Assistant 1 (Utilities)",
+      "company": "Vinum Italia",
+      "title": "Italian Wine Sales Representative - Commission-Only (1099)",
+      "location": "Los Angeles Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4462676044/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "SSA Group",
+      "title": "Catering - Catering & Events Coordinator",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4461805856/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "BioSpace",
+      "title": "Account Manager / Specialty Account Manager - Tavneos - Oakland, CA",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463794524/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Pratt Institute School of Architecture",
+      "title": "Executive Assistant (71101)",
       "location": "Brooklyn, NY",
-      "url": "https://www.linkedin.com/jobs/view/4442748913/",
+      "url": "https://www.linkedin.com/jobs/view/4464001194/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Pacagen",
+      "title": "Marketing Associate",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4462651833/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Generator Supercenter of Tampa Bay",
+      "title": "Outside Sales Representative",
+      "location": "Roswell, GA",
+      "url": "https://www.linkedin.com/jobs/view/4464009299/",
+      "date_posted": "2026-09-05",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Crate & Barrel",
+      "title": "Merchandise Operations Coordinator",
+      "location": "Northbrook, IL",
+      "url": "https://www.linkedin.com/jobs/view/4462751829/",
       "date_posted": "2026-09-05",
       "ats": "LinkedIn",
       "feeds": [
@@ -460,7 +186,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 10,
+    "location": 8,
     "stale": 0
   }
 }

@@ -1,22 +1,36 @@
 # 🔥 LinkedIn — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-09-06 00:15 UTC*
+*Last updated: 2026-09-06 05:49 UTC*
 
-**4 new role(s)** since last run · 36 total in last 4h
+**8 new role(s)** since last run · 8 total in last 4h
 
-### [OBGYN Professional Services Executive Assistant](https://www.linkedin.com/jobs/view/4461496626/) — Cedars-Sinai
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $37.77/hr - $58.54/hr
+### [Sales Representative](https://www.linkedin.com/jobs/view/4462659802/) — Warrior Machinery LLC
+- 📍 **Location:** Los Angeles Metropolitan Area
 - 🕒 **Posted:** 2026-09-05
 
-### [Operations Associate – Multi-Asset | Global Macro Hedge Fund](https://www.linkedin.com/jobs/view/4462654122/) — Riva Recruiting
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $160,000.00/yr - $215,000.00/yr
+### [Italian Wine Sales Representative - Commission-Only (1099)](https://www.linkedin.com/jobs/view/4462676044/) — Vinum Italia
+- 📍 **Location:** Los Angeles Metropolitan Area
 - 🕒 **Posted:** 2026-09-05
 
-### [Full-Time Retail Operations Associate, SANDRO Prince Street Flagship, New York City](https://www.linkedin.com/jobs/view/4456463974/) — SMCP – Sandro, Maje, Claudie Pierlot, Fursac
+### [Catering - Catering & Events Coordinator](https://www.linkedin.com/jobs/view/4461805856/) — SSA Group
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-05
+
+### [Account Manager / Specialty Account Manager - Tavneos - Oakland, CA](https://www.linkedin.com/jobs/view/4463794524/) — BioSpace
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-09-05
+
+### [Executive Assistant (71101)](https://www.linkedin.com/jobs/view/4464001194/) — Pratt Institute School of Architecture
+- 📍 **Location:** Brooklyn, NY
+- 🕒 **Posted:** 2026-09-05
+
+### [Marketing Associate](https://www.linkedin.com/jobs/view/4462651833/) — Pacagen
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-05
 
-### [Facility Operations Assistant 1 (Utilities)](https://www.linkedin.com/jobs/view/4442748913/) — SUNY Downstate Health Sciences University
-- 📍 **Location:** Brooklyn, NY
+### [Outside Sales Representative](https://www.linkedin.com/jobs/view/4464009299/) — Generator Supercenter of Tampa Bay
+- 📍 **Location:** Roswell, GA
+- 🕒 **Posted:** 2026-09-05
+
+### [Merchandise Operations Coordinator](https://www.linkedin.com/jobs/view/4462751829/) — Crate & Barrel
+- 📍 **Location:** Northbrook, IL
 - 🕒 **Posted:** 2026-09-05
