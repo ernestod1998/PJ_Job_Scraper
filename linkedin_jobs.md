@@ -1,126 +1,121 @@
 # 🔥 LinkedIn — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-09-06 19:05 UTC*
+*Last updated: 2026-09-06 22:08 UTC*
 
-**30 new role(s)** since last run · 58 total in last 4h
+**28 new role(s)** since last run · 49 total in last 4h
 
-### [Practice Development Coordinator (Labor & Employment)](https://www.linkedin.com/jobs/view/4410982970/) — Seyfarth Shaw LLP
+### [Assistant Project Manager | Construction](https://www.linkedin.com/jobs/view/4464049197/) — EPD Solutions, Inc.
+- 📍 **Location:** Irvine, CA
+- 🕒 **Posted:** 2026-09-06
+
+### [Assistant Project Manager | Development](https://www.linkedin.com/jobs/view/4464049323/) — EPD Solutions, Inc.
+- 📍 **Location:** Irvine, CA
+- 🕒 **Posted:** 2026-09-06
+
+### [Recruiting Coordinator - ASAP](https://www.linkedin.com/jobs/view/4464063082/) — Vaco by Highspring
+- 📍 **Location:** Hawthorne, CA
+- 💰 **Salary:** $36.00/hr - $38.00/hr
+- 🕒 **Posted:** 2026-09-06
+
+### [Development Coordinator](https://www.linkedin.com/jobs/view/4464042364/) — Stray Cat Alliance
 - 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-09-06
 
-### [Cash Operations Specialist](https://www.linkedin.com/jobs/view/4462116333/) — Goodwin
-- 📍 **Location:** Santa Monica, CA
+### [Executive Assistant](https://www.linkedin.com/jobs/view/4464041421/) — Greenberg Gross LLP
+- 📍 **Location:** Costa Mesa, CA
 - 🕒 **Posted:** 2026-09-06
 
-### [Cash Operations Specialist](https://www.linkedin.com/jobs/view/4462116330/) — Goodwin
+### [Executive Assistant](https://www.linkedin.com/jobs/view/4464059340/) — Greenberg Gross LLP
 - 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-09-06
 
-### [Entry-Level Marketing Associate](https://www.linkedin.com/jobs/view/4460423156/) — Next Target
-- 📍 **Location:** Santa Ana, CA
-- 🕒 **Posted:** 2026-09-06
-
-### [Partner Field Sales Representative- Los Angeles](https://www.linkedin.com/jobs/view/4187610285/) — Corpay
+### [Operations Associate](https://www.linkedin.com/jobs/view/4459906207/) — The Bay Club Company
 - 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-09-06
 
-### [Entry Level Brand Marketing Associate](https://www.linkedin.com/jobs/view/4460433143/) — Next Target
-- 📍 **Location:** Long Beach, CA
+### [Technical Inside Sales Engineer](https://www.linkedin.com/jobs/view/4464045411/) — Captiveaire - Region 114 Western PA
+- 📍 **Location:** Tustin, CA
 - 🕒 **Posted:** 2026-09-06
 
-### [Global Account Manager](https://www.linkedin.com/jobs/view/4464045143/) — Cogent Communications
-- 📍 **Location:** Pasadena, CA
-- 🕒 **Posted:** 2026-09-06
-
-### [Entry Level Client Relations](https://www.linkedin.com/jobs/view/4460421145/) — Next Target
-- 📍 **Location:** Santa Ana, CA
-- 🕒 **Posted:** 2026-09-06
-
-### [Client Services Representative](https://www.linkedin.com/jobs/view/4460093337/) — TravisMathew
-- 📍 **Location:** Huntington Beach, CA
-- 🕒 **Posted:** 2026-09-06
-
-### [Practice Development Coordinator (Labor & Employment)](https://www.linkedin.com/jobs/view/4410973999/) — Seyfarth Shaw LLP
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-06
-
-### [Clinical Research Coordinator 2](https://www.linkedin.com/jobs/view/4461407670/) — Stanford University
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-09-06
-
-### [Cash Operations Specialist](https://www.linkedin.com/jobs/view/4462117306/) — Goodwin
+### [Digital Marketing, Content, and SEO Specialist](https://www.linkedin.com/jobs/view/4462680809/) — NachoNacho
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-06
 
-### [Cash Operations Specialist](https://www.linkedin.com/jobs/view/4462099742/) — Goodwin
-- 📍 **Location:** Redwood City, CA
+### [Bilingual (English/Cantonese) Outreach Coordinator / Instructor in East Bay, CA](https://www.linkedin.com/jobs/view/4464054316/) — digitalLIFT
+- 📍 **Location:** Alameda, CA
 - 🕒 **Posted:** 2026-09-06
 
-### [Remote Sales Representative (No Experience Required - Full Training)](https://www.linkedin.com/jobs/view/4457144775/) — Legacy Harbor Advisors
+### [Surgical Account Manager - Oakland/Walnut Creek](https://www.linkedin.com/jobs/view/4456454088/) — Medtronic
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-09-06
+
+### [Customer Success Manager, Revenue Suite](https://www.linkedin.com/jobs/view/4454550323/) — Stripe
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $115,000.00/yr - $260,000.00/yr
 - 🕒 **Posted:** 2026-09-06
 
-### [SDR Manager](https://www.linkedin.com/jobs/view/4447087109/) — Niural AI
+### [Counter Sales Representative](https://www.linkedin.com/jobs/view/4432062181/) — Airgas
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-06
 
-### [Clinical Research Coordinator - Cardiology](https://www.linkedin.com/jobs/view/4461186583/) — Columbia University Irving Medical Center
+### [Operations Specialist, Morning Shift](https://www.linkedin.com/jobs/view/4418869080/) — Lime
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $22.00/hr - $22.00/hr
+- 🕒 **Posted:** 2026-09-06
+
+### [Production Coordinator, Leathergoods - Luxury Brand in NYC!](https://www.linkedin.com/jobs/view/4454791239/) — Fourth Floor
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $70,000.00/yr - $80,000.00/yr
+- 🕒 **Posted:** 2026-09-06
+
+### [Executive Assistant](https://www.linkedin.com/jobs/view/4460764597/) — Columbia University Irving Medical Center
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-06
 
-### [Executive Assistant to Founder - $200k base + package](https://www.linkedin.com/jobs/view/4464028917/) — The British Connection Staffing
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-09-06
-
-### [Payroll Operations Specialist](https://www.linkedin.com/jobs/view/4423079673/) — Niural AI
+### [Executive Assistant](https://www.linkedin.com/jobs/view/4461872125/) — Rho
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-06
 
-### [Veteran Transition Program-Aladdin Client Business Development Associate](https://www.linkedin.com/jobs/view/4444427633/) — BlackRock
+### [Sales Account Manager](https://www.linkedin.com/jobs/view/4440837314/) — Veregy
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-06
 
-### [Sales Representative](https://www.linkedin.com/jobs/view/4442357154/) — Choice Distribution
-- 📍 **Location:** Brooklyn, NY
-- 🕒 **Posted:** 2026-09-06
-
-### [Marcus by Goldman Sachs, Digital Marketing Manager – Aggregator Marketing Lead, Associate - New York](https://www.linkedin.com/jobs/view/4444398937/) — Goldman Sachs
+### [Beauty Account Manager - Department Store and Specialty - Hybrid Opportunity in NYC!](https://www.linkedin.com/jobs/view/4458651016/) — Fourth Floor
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $90,000.00/yr - $100,000.00/yr
 - 🕒 **Posted:** 2026-09-06
 
-### [Benefits Customer Success Specialist](https://www.linkedin.com/jobs/view/4423072857/) — Niural AI
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-06
-
-### [Manager, Customer Success](https://www.linkedin.com/jobs/view/4441910013/) — Niural AI
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $95,000.00/yr - $105,000.00/yr
-- 🕒 **Posted:** 2026-09-06
-
-### [Territory Sales Representative](https://www.linkedin.com/jobs/view/4462675704/) — Zen Den
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-09-06
-
-### [Practice Development Coordinator (Labor & Employment)](https://www.linkedin.com/jobs/view/4410982968/) — Seyfarth Shaw LLP
+### [Client Success Manager](https://www.linkedin.com/jobs/view/4464039392/) — Azalea Health
 - 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-09-06
 
-### [Marketing Specialist, Product Marketing](https://www.linkedin.com/jobs/view/4435246876/) — Wolters Kluwer
-- 📍 **Location:** Kennesaw, GA
+### [Merchandise Operations Coordinator](https://www.linkedin.com/jobs/view/4462751829/) — Crate & Barrel
+- 📍 **Location:** Northbrook, IL
+- 💰 **Salary:** $20.00/hr - $25.00/hr
 - 🕒 **Posted:** 2026-09-06
 
-### [Creative Operations Specialist II](https://www.linkedin.com/jobs/view/4433123455/) — Cars Commerce
-- 📍 **Location:** Greater Chicago Area
+### [Sales Coordinator](https://www.linkedin.com/jobs/view/4460939091/) — Sonesta International Hotels
+- 📍 **Location:** Rosemont, IL
 - 🕒 **Posted:** 2026-09-06
 
-### [Practice Development Coordinator (Labor & Employment)](https://www.linkedin.com/jobs/view/4410998025/) — Seyfarth Shaw LLP
+### [Digital Media & Marketing Assistant](https://www.linkedin.com/jobs/view/4462676948/) — Light of Loving Kindness (LOLK)
 - 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-09-06
 
-### [Client Relationship Executive (Private Equity)](https://www.linkedin.com/jobs/view/4464039189/) — CohnReznick
+### [Import & Export Operations Specialist](https://www.linkedin.com/jobs/view/4462037600/) — Ajulia Executive Search
 - 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-09-06
 
-### [Business Development Associate - Ryan Transportation](https://www.linkedin.com/jobs/view/4406463378/) — Ryan Transportation
+### [Regional Sales Representative - Robotics](https://www.linkedin.com/jobs/view/4462687866/) — Hamilton Storage
 - 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-09-06
+
+### [Key Account Manager](https://www.linkedin.com/jobs/view/4464071018/) — US Conec
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-09-06
+
+### [Commercial Lines Account Manager](https://www.linkedin.com/jobs/view/4462679876/) — Konen Insurance, Inc.
+- 📍 **Location:** Aurora, IL
+- 🕒 **Posted:** 2026-09-06
+
+### [Inside Sales Engineer](https://www.linkedin.com/jobs/view/4464049242/) — Oriental Motor USA
+- 📍 **Location:** Elk Grove Village, IL
 - 🕒 **Posted:** 2026-09-06
