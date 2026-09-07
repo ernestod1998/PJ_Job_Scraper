@@ -1,8 +1,19 @@
 {
-  "scraped_at": "2026-09-07 05:59 UTC",
-  "total": 28,
-  "new_count": 26,
+  "scraped_at": "2026-09-07 06:40 UTC",
+  "total": 32,
+  "new_count": 5,
   "jobs": [
+    {
+      "company": "24 Seven Talent",
+      "title": "Production Assistant",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462900840/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
     {
       "company": "Encore",
       "title": "Event Sales Coordinator, Hotel Services - JW Marriott LA Live",
@@ -16,10 +27,10 @@
       ]
     },
     {
-      "company": "Johnson Digital Solutions",
-      "title": "Sales Representative",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462901466/",
+      "company": "CHEManager International",
+      "title": "Entertainment Market Research Quality Control Specialist",
+      "location": "Culver City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4462917851/",
       "date_posted": "2026-09-06",
       "ats": "LinkedIn",
       "feeds": [
@@ -38,21 +49,10 @@
       ]
     },
     {
-      "company": "24 Seven Talent",
-      "title": "Production Assistant",
+      "company": "Johnson Digital Solutions",
+      "title": "Sales Representative",
       "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462900840/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CHEManager International",
-      "title": "Entertainment Market Research Quality Control Specialist",
-      "location": "Culver City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462917851/",
+      "url": "https://www.linkedin.com/jobs/view/4462901466/",
       "date_posted": "2026-09-06",
       "ats": "LinkedIn",
       "feeds": [
@@ -82,6 +82,18 @@
       ]
     },
     {
+      "company": "Robert Half",
+      "title": "Administrative Coordinator",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457563140/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
+      "salary": "$31.35/hr - $36.30/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Zip",
       "title": "Business Development Representative",
       "location": "San Francisco, CA",
@@ -93,10 +105,21 @@
       ]
     },
     {
-      "company": "Stripe",
-      "title": "Technical Account Manager, AI User Segment",
+      "company": "Forestown International Consulting Inc.",
+      "title": "SDR (AI field)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454554285/",
+      "url": "https://www.linkedin.com/jobs/view/4462923816/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "First American",
+      "title": "1031 Exchange Sales Representative (Remote- San Jose, CA)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464083997/",
       "date_posted": "2026-09-06",
       "ats": "LinkedIn",
       "feeds": [
@@ -115,10 +138,10 @@
       ]
     },
     {
-      "company": "First American",
-      "title": "1031 Exchange Sales Representative (Remote- San Jose, CA)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464083997/",
+      "company": "Stripe",
+      "title": "Technical Account Manager, AI User Segment",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454554285/",
       "date_posted": "2026-09-06",
       "ats": "LinkedIn",
       "feeds": [
@@ -181,6 +204,28 @@
       ]
     },
     {
+      "company": "Cogent Communications",
+      "title": "National Account Manager",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4464302212/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cogent Communications",
+      "title": "Global Account Manager",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4464307155/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "City of Atlanta",
       "title": "DWM Communications Coordinator - (Office of Communications and Community Affairs)",
       "location": "Atlanta, GA",
@@ -192,10 +237,10 @@
       ]
     },
     {
-      "company": "Stripe",
-      "title": "Customer Success Manager, Radar",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4454543373/",
+      "company": "CGH Group",
+      "title": "Sales Representative",
+      "location": "Sandy Springs, GA",
+      "url": "https://www.linkedin.com/jobs/view/4462904871/",
       "date_posted": "2026-09-06",
       "ats": "LinkedIn",
       "feeds": [
@@ -247,10 +292,10 @@
       ]
     },
     {
-      "company": "CGH Group",
-      "title": "Sales Representative",
-      "location": "Naperville, IL",
-      "url": "https://www.linkedin.com/jobs/view/4462913830/",
+      "company": "Stripe",
+      "title": "Enterprise Paid Digital Marketing Manager",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4454536397/",
       "date_posted": "2026-09-06",
       "ats": "LinkedIn",
       "feeds": [
@@ -262,17 +307,6 @@
       "title": "Account Manager - Dental - Chicago",
       "location": "Chicago, IL",
       "url": "https://www.linkedin.com/jobs/view/4462920354/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stripe",
-      "title": "Enterprise Paid Digital Marketing Manager",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4454536397/",
       "date_posted": "2026-09-06",
       "ats": "LinkedIn",
       "feeds": [
@@ -292,9 +326,20 @@
     },
     {
       "company": "Right Choice Resources",
-      "title": "Entry Level Sales Representative",
+      "title": "Inside Sales Representative (NO COLD CALLING)",
       "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4464083916/",
+      "url": "https://www.linkedin.com/jobs/view/4464070952/",
+      "date_posted": "2026-09-06",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CGH Group",
+      "title": "Sales Representative",
+      "location": "Naperville, IL",
+      "url": "https://www.linkedin.com/jobs/view/4462913830/",
       "date_posted": "2026-09-06",
       "ats": "LinkedIn",
       "feeds": [
@@ -303,9 +348,9 @@
     },
     {
       "company": "Right Choice Resources",
-      "title": "Inside Sales Representative (NO COLD CALLING)",
+      "title": "Entry Level Sales Representative",
       "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4464070952/",
+      "url": "https://www.linkedin.com/jobs/view/4464083916/",
       "date_posted": "2026-09-06",
       "ats": "LinkedIn",
       "feeds": [
@@ -315,88 +360,22 @@
   ],
   "new_jobs": [
     {
-      "company": "Encore",
-      "title": "Event Sales Coordinator, Hotel Services - JW Marriott LA Live",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462923735/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "salary": "$20.65/hr - $26.84/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Johnson Digital Solutions",
-      "title": "Sales Representative",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462901466/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Vinum Italia",
-      "title": "Italian Wine Sales Representative - Commission-Only (1099)",
-      "location": "Los Angeles Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4462676044/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "24 Seven Talent",
-      "title": "Production Assistant",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462900840/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CHEManager International",
-      "title": "Entertainment Market Research Quality Control Specialist",
-      "location": "Culver City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462917851/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "BioSpace",
-      "title": "Pharmaceutical Sales Representative - Associate Territory Manager - Cardiometabolic Health",
-      "location": "Newport Beach, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464085981/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "BioSpace",
+      "company": "Robert Half",
       "title": "Administrative Coordinator",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464077904/",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4457563140/",
       "date_posted": "2026-09-06",
       "ats": "LinkedIn",
+      "salary": "$31.35/hr - $36.30/hr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Zip",
-      "title": "Business Development Representative",
+      "company": "Forestown International Consulting Inc.",
+      "title": "SDR (AI field)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464075896/",
+      "url": "https://www.linkedin.com/jobs/view/4462923816/",
       "date_posted": "2026-09-06",
       "ats": "LinkedIn",
       "feeds": [
@@ -404,65 +383,10 @@
       ]
     },
     {
-      "company": "Stripe",
-      "title": "Technical Account Manager, AI User Segment",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454554285/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "EcoPharm Returns",
-      "title": "Territory Sales Representative",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4462903441/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "First American",
-      "title": "1031 Exchange Sales Representative (Remote- San Jose, CA)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464083997/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "UnitedHealth Group",
-      "title": "Bilingual Account Manager, Field Based",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4462909334/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "UnitedHealth Group",
-      "title": "Bilingual Account Manager, Field Based",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4462906776/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CORE GROUP NA",
+      "company": "Cogent Communications",
       "title": "National Account Manager",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4461875866/",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4464302212/",
       "date_posted": "2026-09-06",
       "ats": "LinkedIn",
       "feeds": [
@@ -470,65 +394,10 @@
       ]
     },
     {
-      "company": "BioSpace",
-      "title": "Account Manager/Specialty Account Manager-IgG4-RD (Newark, NJ)",
-      "location": "Newark, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4464065985/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "City of Atlanta",
-      "title": "DWM Communications Coordinator - (Office of Communications and Community Affairs)",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4462922619/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stripe",
-      "title": "Customer Success Manager, Radar",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4454543373/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Carotek",
-      "title": "Inside Sales - Instrumentation Products",
-      "location": "Marietta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4461182516/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stryker",
-      "title": "Marketing Associate - Surgical Care - Hybrid",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4460651738/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Skyline Marketing Agency",
-      "title": "Entry Level Marketing Campaign Specialist",
-      "location": "Oak Park, IL",
-      "url": "https://www.linkedin.com/jobs/view/4461874462/",
+      "company": "Cogent Communications",
+      "title": "Global Account Manager",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4464307155/",
       "date_posted": "2026-09-06",
       "ats": "LinkedIn",
       "feeds": [
@@ -538,63 +407,8 @@
     {
       "company": "CGH Group",
       "title": "Sales Representative",
-      "location": "Naperville, IL",
-      "url": "https://www.linkedin.com/jobs/view/4462913830/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "SHINING 3D",
-      "title": "Account Manager - Dental - Chicago",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4462920354/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stripe",
-      "title": "Enterprise Paid Digital Marketing Manager",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4454536397/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hallstar",
-      "title": "Chemical Sales Representative",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4464064994/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Right Choice Resources",
-      "title": "Entry Level Sales Representative",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4464083916/",
-      "date_posted": "2026-09-06",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Right Choice Resources",
-      "title": "Inside Sales Representative (NO COLD CALLING)",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4464070952/",
+      "location": "Sandy Springs, GA",
+      "url": "https://www.linkedin.com/jobs/view/4462904871/",
       "date_posted": "2026-09-06",
       "ats": "LinkedIn",
       "feeds": [
@@ -606,7 +420,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 7,
+    "location": 8,
     "stale": 0
   }
 }
