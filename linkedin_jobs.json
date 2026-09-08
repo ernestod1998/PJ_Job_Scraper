@@ -1,13 +1,46 @@
 {
-  "scraped_at": "2026-09-08 05:52 UTC",
-  "total": 21,
-  "new_count": 18,
+  "scraped_at": "2026-09-08 06:35 UTC",
+  "total": 28,
+  "new_count": 9,
   "jobs": [
     {
       "company": "Bayrich Development",
       "title": "Marketing Event Coordinator",
       "location": "Fullerton, CA",
       "url": "https://www.linkedin.com/jobs/view/4463229319/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Bonfire Cinema",
+      "title": "ADMINISTRATIVE COORDINATOR (VOLUNTEER \u2192 PAID PATHWAY)",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460072338/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CLA Global Inc",
+      "title": "Junior Business Development Representative",
+      "location": "Long Beach, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463200520/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "ADT",
+      "title": "Business Sales Representative",
+      "location": "Anaheim, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463621919/",
       "date_posted": "2026-09-07",
       "ats": "LinkedIn",
       "feeds": [
@@ -82,17 +115,6 @@
       ]
     },
     {
-      "company": "ADT",
-      "title": "Business Sales Representative",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463693549/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "Trilyon, Inc.",
       "title": "Procurement Operations Specialist | $95/hr | ZIP HQ Experience Required",
       "location": "San Francisco Bay Area",
@@ -104,13 +126,45 @@
       ]
     },
     {
-      "company": "Addition Management",
-      "title": "Communications Event Coordinator",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4464413453/",
+      "company": "Stripe",
+      "title": "Technical Account Manager, AI User Segment",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454554285/",
       "date_posted": "2026-09-07",
       "ats": "LinkedIn",
-      "salary": "$85,000.00/yr - $91,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "ADT",
+      "title": "Business Sales Representative",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463693549/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Stryker",
+      "title": "Trauma Sales Representative - Santa Rosa/Berkeley , CA",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460640988/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Alpaca",
+      "title": "Trading Operations Associate - West Coast",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464422494/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
@@ -132,6 +186,17 @@
       "title": "COMMUNITY COORDINATOR",
       "location": "Manhattan, NY",
       "url": "https://www.linkedin.com/jobs/view/4463366384/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Addition Management",
+      "title": "Communications Event Coordinator",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4464413453/",
       "date_posted": "2026-09-07",
       "ats": "LinkedIn",
       "feeds": [
@@ -188,6 +253,17 @@
       "title": "Account Manager, Sell-Side",
       "location": "New York, NY",
       "url": "https://www.linkedin.com/jobs/view/4464444458/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cogent Communications",
+      "title": "Global Account Manager",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4464443600/",
       "date_posted": "2026-09-07",
       "ats": "LinkedIn",
       "feeds": [
@@ -217,10 +293,10 @@
       ]
     },
     {
-      "company": "Morningstar",
-      "title": "Executive Assistant",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4462035191/",
+      "company": "Cogent Communications",
+      "title": "Regional Account Manager",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4464443609/",
       "date_posted": "2026-09-07",
       "ats": "LinkedIn",
       "feeds": [
@@ -228,10 +304,10 @@
       ]
     },
     {
-      "company": "Stripe",
-      "title": "Enterprise Paid Digital Marketing Manager",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4454536397/",
+      "company": "Cogent Communications",
+      "title": "Global Account Manager",
+      "location": "Atlanta Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4464446595/",
       "date_posted": "2026-09-07",
       "ats": "LinkedIn",
       "feeds": [
@@ -241,10 +317,10 @@
   ],
   "new_jobs": [
     {
-      "company": "Bayrich Development",
-      "title": "Marketing Event Coordinator",
-      "location": "Fullerton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463229319/",
+      "company": "Bonfire Cinema",
+      "title": "ADMINISTRATIVE COORDINATOR (VOLUNTEER \u2192 PAID PATHWAY)",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460072338/",
       "date_posted": "2026-09-07",
       "ats": "LinkedIn",
       "feeds": [
@@ -252,55 +328,10 @@
       ]
     },
     {
-      "company": "Louis Vuitton",
-      "title": "Regional Client Relations Manager, Les Extraordinaires",
-      "location": "Costa Mesa, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464418989/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Herc Rentals",
-      "title": "ProSolutions Pump Sales Representative",
+      "company": "CLA Global Inc",
+      "title": "Junior Business Development Representative",
       "location": "Long Beach, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459860910/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Ampere",
-      "title": "Recruiting Coordinator",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464431735/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Workday",
-      "title": "People Operations Specialist",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462986970/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "salary": "$47.00/hr - $55.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Lucky Strike Entertainment",
-      "title": "Event Operations Manager",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4432489082/",
+      "url": "https://www.linkedin.com/jobs/view/4463200520/",
       "date_posted": "2026-09-07",
       "ats": "LinkedIn",
       "feeds": [
@@ -310,8 +341,8 @@
     {
       "company": "ADT",
       "title": "Business Sales Representative",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463693549/",
+      "location": "Anaheim, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463621919/",
       "date_posted": "2026-09-07",
       "ats": "LinkedIn",
       "feeds": [
@@ -319,10 +350,10 @@
       ]
     },
     {
-      "company": "Trilyon, Inc.",
-      "title": "Procurement Operations Specialist | $95/hr | ZIP HQ Experience Required",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4462320691/",
+      "company": "Stripe",
+      "title": "Technical Account Manager, AI User Segment",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4454554285/",
       "date_posted": "2026-09-07",
       "ats": "LinkedIn",
       "feeds": [
@@ -330,34 +361,32 @@
       ]
     },
     {
-      "company": "Addition Management",
-      "title": "Communications Event Coordinator",
+      "company": "Stryker",
+      "title": "Trauma Sales Representative - Santa Rosa/Berkeley , CA",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460640988/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Alpaca",
+      "title": "Trading Operations Associate - West Coast",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464422494/",
+      "date_posted": "2026-09-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cogent Communications",
+      "title": "Global Account Manager",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4464413453/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "salary": "$85,000.00/yr - $91,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "MJHS",
-      "title": "Sales Operations Specialist",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4434753220/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "salary": "$38,545.00/yr - $48,181.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "New York City Police Department",
-      "title": "COMMUNITY COORDINATOR",
-      "location": "Manhattan, NY",
-      "url": "https://www.linkedin.com/jobs/view/4463366384/",
+      "url": "https://www.linkedin.com/jobs/view/4464443600/",
       "date_posted": "2026-09-07",
       "ats": "LinkedIn",
       "feeds": [
@@ -365,10 +394,10 @@
       ]
     },
     {
-      "company": "NEH Marketing Inc",
-      "title": "Communications Assistant",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4464419927/",
+      "company": "Cogent Communications",
+      "title": "Regional Account Manager",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4464443609/",
       "date_posted": "2026-09-07",
       "ats": "LinkedIn",
       "feeds": [
@@ -376,66 +405,10 @@
       ]
     },
     {
-      "company": "Addition Management",
-      "title": "Business Development Coordinator",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4464433408/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "salary": "$75,000.00/yr - $85,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Ralph Lauren",
-      "title": "Operations Associate",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4462252442/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Premium Merchant Funding",
-      "title": "Sales Representative \u2013 Business Financing | Uncapped Commission",
-      "location": "Manhattan, NY",
-      "url": "https://www.linkedin.com/jobs/view/4463215015/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "The Best Job Board",
-      "title": "Account Manager, Sell-Side",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4464444458/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "ADT",
-      "title": "Business Sales Representative",
-      "location": "Duluth, GA",
-      "url": "https://www.linkedin.com/jobs/view/4462716897/",
-      "date_posted": "2026-09-07",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Morningstar",
-      "title": "Executive Assistant",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4462035191/",
+      "company": "Cogent Communications",
+      "title": "Global Account Manager",
+      "location": "Atlanta Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4464446595/",
       "date_posted": "2026-09-07",
       "ats": "LinkedIn",
       "feeds": [
@@ -447,7 +420,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 6,
+    "location": 12,
     "stale": 0
   }
 }
