@@ -110,10 +110,10 @@ class RoleAndLocationPolicy(unittest.TestCase):
             role("https://x/old", date_posted="2024-09-04"),
         ]
         kept, rejected, stats = sj._filter_job_observations(rows, default_feed="general")
-        self.assertEqual([j["url"] for j in kept], ["https://x/ok"])
+        self.assertEqual([j["url"] for j in kept], ["https://x/ok", "https://x/old"])
         self.assertEqual(kept[0]["feeds"], ["general"])
-        self.assertEqual(stats, {"company": 1, "seniority": 1, "role": 0, "location": 1, "stale": 1})
-        self.assertEqual({r["reason"] for r in rejected}, {"company", "seniority", "location", "stale"})
+        self.assertEqual(stats, {"company": 1, "seniority": 1, "role": 0, "location": 1, "stale": 0})
+        self.assertEqual({r["reason"] for r in rejected}, {"company", "seniority", "location"})
         bio, _, _ = sj._filter_job_observations(
             [role("https://x/bio", location="Burbank, CA")], default_feed="hollywood")
         self.assertEqual(bio[0]["feeds"], ["hollywood"])
@@ -134,12 +134,22 @@ class RoleAndLocationPolicy(unittest.TestCase):
         kept, _, stats = sj._filter_job_observations(rows, default_feed="general")
         self.assertEqual(
             [j["url"] for j in kept],
-            ["https://x/fresh", "https://x/workday-fresh", "https://x/undated"],
+            [j["url"] for j in rows],
         )
-        self.assertEqual(stats["stale"], 2)
+        self.assertEqual(stats["stale"], 0)
 
 
 class MasterPolicy(unittest.TestCase):
+    def test_old_master_survives_empty_run_and_duplicate_refresh(self):
+        old = role(first_seen="2020-01-01T00:00:00Z", date_posted="2019-12-01", feeds=["general"])
+        with open(os.path.join(self.tmp.name, "all_jobs.json"), "w") as f:
+            json.dump({"jobs": [old]}, f)
+        sj._merge_into_all_jobs([])
+        self.assertEqual(self.read_master(), [old])
+        sj._merge_into_all_jobs([role(salary="$120k", feeds=["general"])])
+        self.assertEqual(len(self.read_master()), 1)
+        self.assertEqual(self.read_master()[0]["first_seen"], old["first_seen"])
+
     def setUp(self):
         self.tmp = tempfile.TemporaryDirectory()
         self.old_dir = sj.SCRIPT_DIR

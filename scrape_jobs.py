@@ -100,12 +100,9 @@ REQUEST_DELAY = 0.3
 # Entertainment digest should only contain reliably fresh roles.
 FRESH_JOB_LOOKBACK = timedelta(hours=24)
 
-# Hard ceiling on posting age for EVERY persisted source (2026-08-19): the
-# ATS registry shipped with no date filter at all and surfaced reqs from
-# 2024 (one from 2019). Enforced as the "stale" reason in
-# _filter_job_observations; unparseable/missing dates are KEPT — staleness
-# must be proven, and ~23 rows legitimately have no date.
-MAX_POSTING_AGE_DAYS = 14
+# Posting age does not expire eligible listings. Source acquisition windows
+# still limit each request, while all_jobs.json keeps previously collected jobs.
+MAX_POSTING_AGE_DAYS = None  # Retain listings indefinitely; acquisition windows stay separate.
 
 # Genuinely-senior and executive titles are excluded everywhere. "manager"
 # and "lead" are ALLOWED — Account Manager, Community Manager, and Junior
@@ -570,12 +567,9 @@ def is_recent_posting(job: dict, *, now: datetime | None = None) -> bool:
 
 
 def is_stale_posting(date_value, *, now: datetime | None = None) -> bool:
-    """True when a posting is provably older than MAX_POSTING_AGE_DAYS.
-
-    Unparseable or missing dates return False (kept): the registry's job of
-    proving freshness was abandoned long ago (see is_recent_posting's unused
-    24h window), so this filter only drops rows whose age it can prove.
-    """
+    """Optional age policy; disabled by default so postings never age out."""
+    if MAX_POSTING_AGE_DAYS is None:
+        return False
     posted_at = _parse_posted_at(date_value, now=now)
     if posted_at is None:
         return False
@@ -1655,7 +1649,7 @@ def _load_prev_ids(json_path: str) -> set[str]:
     return ids
 
 
-ALL_JOBS_PRUNE_DAYS = 14
+ALL_JOBS_PRUNE_DAYS = None  # No automatic expiration of the permanent master.
 
 
 def _merge_into_all_jobs(observed_jobs: list, rejected_observations: list | None = None) -> int:
@@ -1664,7 +1658,7 @@ def _merge_into_all_jobs(observed_jobs: list, rejected_observations: list | None
     scrapers surface, each stamped with first_seen. The per-source JSONs are
     rolling windows that overwrite every run (LinkedIn keeps only ~1h), so this
     master is what the triage agent and the dashboard's Rank tab read to see
-    everything from the last ALL_JOBS_PRUNE_DAYS days. Returns count added.
+    every retained listing, regardless of age. Returns count added.
     """
     path = os.path.join(SCRIPT_DIR, "all_jobs.json")
     try:
@@ -1731,15 +1725,14 @@ def _merge_into_all_jobs(observed_jobs: list, rejected_observations: list | None
             ]) | set(j.get("feeds") or [])
         )
 
-    cutoff = (now - timedelta(days=ALL_JOBS_PRUNE_DAYS)).strftime("%Y-%m-%dT%H:%M:%SZ")
-    kept = [j for j in by_identity.values() if j.get("first_seen", stamp) >= cutoff]
+    kept = list(by_identity.values())
     kept.sort(key=lambda j: j.get("first_seen", ""), reverse=True)
 
     with open(path, "w") as f:
         # Compact separators: the dashboard downloads this file on every load.
         json.dump({"updated_at": now.strftime("%Y-%m-%d %H:%M UTC"), "jobs": kept},
                   f, separators=(",", ":"))
-    print(f"🗂  all_jobs.json: +{added} new, {len(kept)} total (last {ALL_JOBS_PRUNE_DAYS}d)")
+    print(f"🗂  all_jobs.json: +{added} new, {len(kept)} total (no age expiration)")
     return added
 
 

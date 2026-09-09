@@ -46,6 +46,15 @@ check('legacy feed string is accepted',
 const vetoMatch = html.match(/const EXCLUDED_TITLE_RE = (\/.*\/[a-z]*);/);
 if (!vetoMatch) throw new Error('EXCLUDED_TITLE_RE not found');
 const veto = new Function(`return ${vetoMatch[1]}`)();
+const retentionState = { jobs: [
+  { url: 'old', title: 'Marketing Coordinator', first_seen: '2020-01-01', date_posted: '2019-12-01' },
+  { url: 'excluded', title: 'Senior Director' },
+] };
+new Function('state', 'tri', 'EXCLUDED_TITLE_RE',
+  `${extractFunction(html, 'pruneState')}; pruneState();`
+)(retentionState, () => null, veto);
+check('old untriaged listing survives while excluded title is still removed',
+  retentionState.jobs.length === 1 && retentionState.jobs[0].url === 'old');
 for (const title of [
   'Senior Account Manager', 'Sr. Marketing Coordinator', 'Staff Coordinator',
   'Principal Program Manager', 'Director of Marketing', 'VP Sales',

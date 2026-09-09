@@ -862,7 +862,7 @@
   }
 
   // What the card's 🕒 shows. The scrapers now stamp Pacific days, but
-  // all_jobs.json keeps entries for 14 days, so rows written before that fix
+  // all_jobs.json keeps entries indefinitely, so rows written before that fix
   // can still carry a future date — and a source we haven't normalized could
   // reintroduce one. A date that hasn't happened yet is never right, so clamp
   // it to the viewer's today. Relative strings and past dates pass through.
@@ -1596,21 +1596,19 @@
   // ---------- Prune (keeps localStorage bounded) ----------
   // Drops untriaged jobs that carry genuinely-senior/exec markers (excluded
   // at the scraper — keep this regex in sync with EXCLUDED_SENIORITY_RE in
-  // scrape_jobs.py) or older than 30 days. Bare "manager"/"lead" are
+  // scrape_jobs.py). Listing age never prunes jobs. Bare "manager"/"lead" are
   // deliberately ALLOWED — Account Manager, Community Manager are core PJ
   // titles. Anything saved/applied/dismissed is kept — triage history.
   const EXCLUDED_TITLE_RE = /\b(senior|sr|staff|principal|distinguished|founding|director|vice president|vp|svp|evp|chief|head\s+of|executive director)\b|\b(general|group|regional|national|district)\s+manager\b/i;
   function pruneState() {
-    const cutoff = Date.now() - 30 * 86400000;
     const before = state.jobs.length;
     state.jobs = state.jobs.filter(j => {
       if (tri(j.url)) return true;   // tri(), not truthiness — a tombstone is an object
       if (EXCLUDED_TITLE_RE.test(j.title || '')) return false;
-      const t = jobFreshMs(j);
-      return t == null || t >= cutoff;
+      return true;  // Listing age never expires an otherwise eligible job.
     });
     if (state.jobs.length < before) {
-      console.info(`[pruneState] dropped ${before - state.jobs.length} stale/excluded job(s)`);
+      console.info(`[pruneState] dropped ${before - state.jobs.length} excluded job(s)`);
     }
   }
 

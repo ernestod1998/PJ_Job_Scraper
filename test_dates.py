@@ -157,11 +157,11 @@ class MaxAgePolicy(unittest.TestCase):
     def test_small_integers_are_not_dates(self):
         self.assertIsNone(sj._parse_posted_at("12345", now=self.NOW))
 
-    def test_stale_boundary(self):
+    def test_posting_age_never_expires_listings(self):
         self.assertFalse(self.stale("Posted 13 Days Ago"))
-        self.assertTrue(self.stale("Posted 15 Days Ago"))
-        self.assertTrue(self.stale("Posted 30+ Days Ago"))
-        self.assertTrue(self.stale("2024-09-04"))
+        self.assertFalse(self.stale("Posted 15 Days Ago"))
+        self.assertFalse(self.stale("Posted 30+ Days Ago"))
+        self.assertFalse(self.stale("2024-09-04"))
 
     def test_unprovable_staleness_is_kept(self):
         for value in ("", None, "next Tuesday"):
