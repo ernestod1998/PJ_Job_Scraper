@@ -1,14 +1,40 @@
 {
-  "scraped_at": "2026-09-08 19:37 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": [],
+  "scraped_at": "2026-09-09 19:31 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "Judicial Council of California",
+      "title": "Administrative Coordinator JO#6738",
+      "location": "San Francisco County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529833",
+      "date_posted": "2026-08-25",
+      "salary": "$5933.00 - $8305.00",
+      "ats": "CalCareers",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Judicial Council of California",
+      "title": "Administrative Coordinator JO#6738",
+      "location": "San Francisco County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529833",
+      "date_posted": "2026-08-25",
+      "salary": "$5933.00 - $8305.00",
+      "ats": "CalCareers",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 3,
-    "stale": 1
+    "location": 2,
+    "stale": 0
   }
 }
