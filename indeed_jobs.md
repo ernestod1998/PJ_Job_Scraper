@@ -1,74 +1,70 @@
 # 🟦 Indeed — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-09-12 19:38 UTC*
+*Last updated: 2026-09-12 22:31 UTC*
 
-**15 new role(s)** since last run · 144 total in last 24h
+**14 new role(s)** since last run · 115 total in last 24h
 
-### [Recruiting Coordinator](https://www.indeed.com/viewjob?jk=aad6fd09f0abb059) — Veros Credit
-- 📍 **Location:** Santa Ana, CA, US
-- 💰 **Salary:** $21–$27/hr
-- 🕒 **Posted:** 2026-09-12
-
-### [Operations Coordinator, Autonomy Systems Validation (1st Shift)](https://www.indeed.com/viewjob?jk=ef831064ac50bb13) — Rivian
-- 📍 **Location:** Torrance, CA, US
-- 🕒 **Posted:** 2026-09-11
-
-### [Production Assistant](https://www.indeed.com/viewjob?jk=e666c07a798add0e) — Unknown
+### [Enrollment & Marketing Coordinator](https://www.indeed.com/viewjob?jk=99737a37f0aaf934) — C.B.S. Dance Company
 - 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $23–$27/hr
-- 🕒 **Posted:** 2026-09-11
-
-### [Affiliate Marketing Specialist | Paid Training | Hourly + Performance Bonuses](https://www.indeed.com/viewjob?jk=7d8488bfeb78f5ed) — True Premier Financial
-- 📍 **Location:** Irvine, CA, US
-- 💰 **Salary:** $80k–$250k/yr
+- 💰 **Salary:** $18–$20/hr
 - 🕒 **Posted:** 2026-09-12
 
-### [Inside Sales Manager, Leasing](https://www.indeed.com/viewjob?jk=11fde6bfc601486b) — Essex Property Trust
-- 📍 **Location:** Irvine, CA, US
-- 💰 **Salary:** $83k–$102k/yr
+### [Part-time Community Manager](https://www.indeed.com/viewjob?jk=99202509cb9341d1) — The REMM Group
+- 📍 **Location:** Santa Monica, CA, US
 - 🕒 **Posted:** 2026-09-11
 
-### [Inside Sales Engineer](https://www.indeed.com/viewjob?jk=0f2de19a8d570bb7) — Caltrol
-- 📍 **Location:** Livermore, CA, US
-- 💰 **Salary:** $33–$37/hr
+### [Public Relations Manager](https://www.indeed.com/viewjob?jk=ad31cd47e77f455f) — Robinson Helicopter Company
+- 📍 **Location:** Torrance, CA, US
+- 💰 **Salary:** $110k–$125k/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Named Regional Account Manager](https://www.indeed.com/viewjob?jk=2a55c26ce302c79f) — Fortinet
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $200k–$220k/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Business Development Representative](https://www.indeed.com/viewjob?jk=c09cd6acff322086) — FlowMD Medical Spa
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $55k–$66k/yr
 - 🕒 **Posted:** 2026-09-12
 
-### [Business Operations Program Manager, Global Business Planning, Supply Chain Management (IC4)](https://www.indeed.com/viewjob?jk=8baf51a4e179f2d9) — Oracle
-- 📍 **Location:** Santa Clara, CA, US
-- 🕒 **Posted:** 2026-08-21
+### [JPMorgan Private Client Relationship Manager - Walnut Creek, CA](https://www.indeed.com/viewjob?jk=ac88cd41ea8b0635) — JPMorganChase
+- 📍 **Location:** Walnut Creek, CA, US
+- 🕒 **Posted:** 2026-09-12
 
-### [Sales and Marketing Coordinator](https://www.indeed.com/viewjob?jk=01d7f7c062a242bf) — Ivy Living
-- 📍 **Location:** Belmont, CA, US
-- 💰 **Salary:** $22–$23/hr
+### [Field Sales Operations Lead, US Specialist Org, NAMER Field Operations, NAMER Sales Operations](https://www.indeed.com/viewjob?jk=f8b72b2d66c59fd9) — Amazon Web Services
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $97k–$170k/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Operations Coordinator](https://www.indeed.com/viewjob?jk=e9d0404ce164d775) — Hume AI
+### [Sales Representative, Property Management (PSR)](https://www.indeed.com/viewjob?jk=f4e38f58a9af07bc) — Sherwin-Williams
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $60k–$80k/yr
+- 💰 **Salary:** $71k–$92k/yr
 - 🕒 **Posted:** 2026-09-12
 
-### [Business Development Representative](https://www.indeed.com/viewjob?jk=834bb10bd9b0f2fa) — Katy Belov, M.D.
+### [Client Success Manager](https://www.indeed.com/viewjob?jk=218f9878c2d80501) — Maven Clinic
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $30–$40/hr
+- 💰 **Salary:** $106k–$120k/yr
 - 🕒 **Posted:** 2026-09-12
 
-### [Recruiting Coordinator](https://www.indeed.com/viewjob?jk=773d0bb94a9ef6ac) — Distyl AI
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $65k–$85k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Production Coordinator](https://www.indeed.com/viewjob?jk=6d723fe735e2a513) — JW Mobile LLC
-- 📍 **Location:** Brooklyn, NY, US
-- 🕒 **Posted:** 2026-09-11
-
-### [Administrative Coordinator](https://www.indeed.com/viewjob?jk=fc4de3e744a37f2a) — Unknown
-- 📍 **Location:** Alpharetta, GA, US
-- 🕒 **Posted:** 2026-09-12
-
-### [Early Careers Talent Recruiting Coordinator](https://www.indeed.com/viewjob?jk=2118b4827600eb99) — EY
+### [Film Production Coordinator](https://www.indeed.com/viewjob?jk=1e59d441cc6971dd) — Studio Space Atlanta
 - 📍 **Location:** Atlanta, GA, US
-- 🕒 **Posted:** 2026-09-08
+- 💰 **Salary:** $20–$24/hr
+- 🕒 **Posted:** 2026-09-12
 
-### [Key Account Manager II](https://www.indeed.com/viewjob?jk=f9b75a3d0e681f5a) — Advantage Solutions
-- 📍 **Location:** Naperville, IL, US
-- 💰 **Salary:** $62k–$98k/yr
+### [Manager-Field Marketing](https://www.indeed.com/viewjob?jk=6d16c6829be64930) — Cox Automotive
+- 📍 **Location:** College Park, GA, US
+- 💰 **Salary:** $89k–$134k/yr
 - 🕒 **Posted:** 2026-09-11
+
+### [Sales Representative (Primary Care)](https://www.indeed.com/viewjob?jk=785003c3ebd31fe6) — Syneos Health Commercial Solutions
+- 📍 **Location:** Smyrna, GA, US
+- 🕒 **Posted:** 2026-09-11
+
+### [Sales Representative (Primary Care)](https://www.indeed.com/viewjob?jk=4482e31ce7e2ab48) — サイネオス・ヘルス
+- 📍 **Location:** Smyrna, GA, US
+- 🕒 **Posted:** 2026-09-11
+
+### [Production Assistant](https://www.indeed.com/viewjob?jk=b204c41d1c87a36e) — Lens Head Media
+- 📍 **Location:** Atlanta, GA, US
+- 💰 **Salary:** $18–$22/hr
+- 🕒 **Posted:** 2026-09-12
