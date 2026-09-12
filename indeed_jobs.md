@@ -1,135 +1,74 @@
 # 🟦 Indeed — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-09-12 17:26 UTC*
+*Last updated: 2026-09-12 19:38 UTC*
 
-**27 new role(s)** since last run · 163 total in last 24h
+**15 new role(s)** since last run · 144 total in last 24h
 
-### [Tournament Sales Coordinator](https://www.indeed.com/viewjob?jk=a7133a19a41170a8) — American Golf Corporation
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $22–$24/hr
+### [Recruiting Coordinator](https://www.indeed.com/viewjob?jk=aad6fd09f0abb059) — Veros Credit
+- 📍 **Location:** Santa Ana, CA, US
+- 💰 **Salary:** $21–$27/hr
 - 🕒 **Posted:** 2026-09-12
 
-### [Account Manager](https://www.indeed.com/viewjob?jk=cf1eda330d9030f1) — TicketManager
-- 📍 **Location:** Calabasas, CA, US
-- 💰 **Salary:** $75k–$100k/yr
+### [Operations Coordinator, Autonomy Systems Validation (1st Shift)](https://www.indeed.com/viewjob?jk=ef831064ac50bb13) — Rivian
+- 📍 **Location:** Torrance, CA, US
 - 🕒 **Posted:** 2026-09-11
 
-### [Social Media Specialist](https://www.indeed.com/viewjob?jk=a2369668d60c14fd) — Moaddel Law Firm APC
+### [Production Assistant](https://www.indeed.com/viewjob?jk=e666c07a798add0e) — Unknown
 - 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $65k–$85k/yr
+- 💰 **Salary:** $23–$27/hr
+- 🕒 **Posted:** 2026-09-11
+
+### [Affiliate Marketing Specialist | Paid Training | Hourly + Performance Bonuses](https://www.indeed.com/viewjob?jk=7d8488bfeb78f5ed) — True Premier Financial
+- 📍 **Location:** Irvine, CA, US
+- 💰 **Salary:** $80k–$250k/yr
 - 🕒 **Posted:** 2026-09-12
 
-### [Inside Sales Engineer](https://www.indeed.com/viewjob?jk=392afb730611517e) — Caltrol
+### [Inside Sales Manager, Leasing](https://www.indeed.com/viewjob?jk=11fde6bfc601486b) — Essex Property Trust
 - 📍 **Location:** Irvine, CA, US
+- 💰 **Salary:** $83k–$102k/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Inside Sales Engineer](https://www.indeed.com/viewjob?jk=0f2de19a8d570bb7) — Caltrol
+- 📍 **Location:** Livermore, CA, US
 - 💰 **Salary:** $33–$37/hr
 - 🕒 **Posted:** 2026-09-12
 
-### [Artist Development Coordinator](https://www.indeed.com/viewjob?jk=0276b8c91396bd81) — SFFILM
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $23–$24/hr
+### [Business Operations Program Manager, Global Business Planning, Supply Chain Management (IC4)](https://www.indeed.com/viewjob?jk=8baf51a4e179f2d9) — Oracle
+- 📍 **Location:** Santa Clara, CA, US
+- 🕒 **Posted:** 2026-08-21
+
+### [Sales and Marketing Coordinator](https://www.indeed.com/viewjob?jk=01d7f7c062a242bf) — Ivy Living
+- 📍 **Location:** Belmont, CA, US
+- 💰 **Salary:** $22–$23/hr
 - 🕒 **Posted:** 2026-09-11
 
-### [Community Manager - Akin Residences](https://www.indeed.com/viewjob?jk=47f8bfef5e4bf9a9) — Hines
-- 📍 **Location:** Walnut Creek, CA, US
-- 🕒 **Posted:** 2026-09-11
-
-### [Field Sales Operations Lead, US Specialist Org, NAMER Field Operations, NAMER Sales Operations](https://www.indeed.com/viewjob?jk=f8b72b2d66c59fd9) — Amazon Web Services
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $97k–$170k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Inside Sales Representative](https://www.indeed.com/viewjob?jk=865ec51f3354ee45) — Parker Hannifin
-- 📍 **Location:** Richmond, CA, US
-- 💰 **Salary:** $25–$42/hr
-- 🕒 **Posted:** 2026-09-11
-
-### [Care/Program Coordinator – Comprehensive Health Program - Grant Funded](https://www.indeed.com/viewjob?jk=78470bfd8d0a2a8d) — NewYork-Presbyterian Hospital
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $66k–$89k/yr
-- 🕒 **Posted:** 2026-09-12
-
-### [Customer Success Coordinator III](https://www.indeed.com/viewjob?jk=9798867c9b6796ac) — DocGo
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $16–$20/hr
-- 🕒 **Posted:** 2026-09-11
-
-### [Marketing Operations Coordinator](https://www.indeed.com/viewjob?jk=6af3c976ee816f8f) — Kirkland & Ellis
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $67k–$92k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Account Manager](https://www.indeed.com/viewjob?jk=645ed67ce5a5a15a) — TicketManager
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $75k–$100k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Digital Signage Program Associate](https://www.indeed.com/viewjob?jk=06dba593bdf7f6c4) — JPMorganChase
-- 📍 **Location:** Brooklyn, NY, US
-- 💰 **Salary:** $62k–$110k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Business Development Representative](https://www.indeed.com/viewjob?jk=dd7deb5fc6ee4a5b) — Archive
+### [Operations Coordinator](https://www.indeed.com/viewjob?jk=e9d0404ce164d775) — Hume AI
 - 📍 **Location:** New York, NY, US
 - 💰 **Salary:** $60k–$80k/yr
 - 🕒 **Posted:** 2026-09-12
 
-### [Customer Sales Representative](https://www.indeed.com/viewjob?jk=b102c07466f955e6) — NY Events
-- 📍 **Location:** Manhattan, NY, US
-- 💰 **Salary:** $800–$1400/wk
+### [Business Development Representative](https://www.indeed.com/viewjob?jk=834bb10bd9b0f2fa) — Katy Belov, M.D.
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $30–$40/hr
 - 🕒 **Posted:** 2026-09-12
 
-### [Order Entry & Customer Operations Coordinator](https://www.indeed.com/viewjob?jk=627921a0dd1c2f29) — French Feast
-- 📍 **Location:** Oakland, NJ, US
-- 💰 **Salary:** $19–$23/hr
-- 🕒 **Posted:** 2026-09-12
-
-### [Cardiovascular Key Account Manager - Atlanta, GA](https://www.indeed.com/viewjob?jk=3151f14735eb4f80) — Amgen
-- 📍 **Location:** Atlanta, GA, US
-- 💰 **Salary:** $159k–$216k/yr
+### [Recruiting Coordinator](https://www.indeed.com/viewjob?jk=773d0bb94a9ef6ac) — Distyl AI
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $65k–$85k/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Manager-Field Marketing](https://www.indeed.com/viewjob?jk=017a32768ce55712) — Cox Automotive
-- 📍 **Location:** Atlanta, GA, US
-- 💰 **Salary:** $89k–$134k/yr
+### [Production Coordinator](https://www.indeed.com/viewjob?jk=6d723fe735e2a513) — JW Mobile LLC
+- 📍 **Location:** Brooklyn, NY, US
 - 🕒 **Posted:** 2026-09-11
 
-### [Sales Development Representative](https://www.indeed.com/viewjob?jk=1e479a69a123f22d) — Incident IQ
+### [Administrative Coordinator](https://www.indeed.com/viewjob?jk=fc4de3e744a37f2a) — Unknown
 - 📍 **Location:** Alpharetta, GA, US
-- 🕒 **Posted:** 2026-09-11
+- 🕒 **Posted:** 2026-09-12
 
-### [Coordinator Business Operations, Surgical Services Admin](https://www.indeed.com/viewjob?jk=1f2400f73230275d) — Northside Hospital
+### [Early Careers Talent Recruiting Coordinator](https://www.indeed.com/viewjob?jk=2118b4827600eb99) — EY
 - 📍 **Location:** Atlanta, GA, US
-- 🕒 **Posted:** 2026-09-11
+- 🕒 **Posted:** 2026-09-08
 
-### [Program Coordinator](https://www.indeed.com/viewjob?jk=f65cd624330d0efb) — Eating Recovery Center Pathlight Mood and Anxiety Center
-- 📍 **Location:** Chicago, IL, US
-- 💰 **Salary:** $18–$29/hr
-- 🕒 **Posted:** 2026-09-11
-
-### [Venue & Events Coordinator](https://www.indeed.com/viewjob?jk=845f888b201f020e) — Good To Go Jamaican Cuisine
-- 📍 **Location:** Chicago, IL, US
-- 💰 **Salary:** $40k–$45k/yr
-- 🕒 **Posted:** 2026-09-12
-
-### [Key Account Manager II](https://www.indeed.com/viewjob?jk=ad2916092db6279c) — Advantage Solutions
+### [Key Account Manager II](https://www.indeed.com/viewjob?jk=f9b75a3d0e681f5a) — Advantage Solutions
 - 📍 **Location:** Naperville, IL, US
-- 🕒 **Posted:** 2026-09-12
-
-### [Established Account Manager, Manufacturing - ERP, EAM, Field Service Management](https://www.indeed.com/viewjob?jk=cee521ce8216d28b) — IFS
-- 📍 **Location:** Itasca, IL, US
-- 💰 **Salary:** $135k–$150k/yr
-- 🕒 **Posted:** 2026-09-12
-
-### [ORD Account Manager Passenger Services](https://www.indeed.com/viewjob?jk=785ad2f3a9c8dc0b) — Swissport
-- 📍 **Location:** Chicago, IL, US
-- 💰 **Salary:** $80k–$85k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Product Manager- Client Onboarding](https://www.indeed.com/viewjob?jk=f21ad9169c084a46) — JPMorganChase
-- 📍 **Location:** Chicago, IL, US
-- 💰 **Salary:** $114k–$180k/yr
-- 🕒 **Posted:** 2026-09-12
-
-### [Assistant Community Manager](https://www.indeed.com/viewjob?jk=5324770cc5c47ec8) — Related
-- 📍 **Location:** Chicago, IL, US
-- 💰 **Salary:** $26–$27/hr
+- 💰 **Salary:** $62k–$98k/yr
 - 🕒 **Posted:** 2026-09-11
