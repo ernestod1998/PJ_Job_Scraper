@@ -1,160 +1,114 @@
 # 🔥 LinkedIn — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-09-12 19:14 UTC*
+*Last updated: 2026-09-12 22:13 UTC*
 
-**38 new role(s)** since last run · 79 total in last 4h
+**26 new role(s)** since last run · 41 total in last 4h
 
-### [CFT Development Coordinator](https://www.linkedin.com/jobs/view/4455429967/) — Panda Restaurant Group
-- 📍 **Location:** Pasadena, CA
+### [Administrative & Operations Coordinator](https://www.linkedin.com/jobs/view/4465444125/) — Handy Foundation
+- 📍 **Location:** Los Angeles Metropolitan Area
 - 🕒 **Posted:** 2026-09-12
 
-### [Lot Operations Specialist II- Lane Leader (Manheim)](https://www.linkedin.com/jobs/view/4466711227/) — Cox Automotive Inc.
-- 📍 **Location:** Anaheim, CA
+### [Marketing Coordinator - Professional Channel](https://www.linkedin.com/jobs/view/4466710464/) — Dermalogica
+- 📍 **Location:** Carson, CA
 - 🕒 **Posted:** 2026-09-12
 
-### [Key Account Manager - Infrastructure (2517)](https://www.linkedin.com/jobs/view/4457986329/) — HellermannTyton North America
-- 📍 **Location:** Los Angeles, CA
+### [Human Resources Administrative Coordinator](https://www.linkedin.com/jobs/view/4465428121/) — ROXON
+- 📍 **Location:** Irvine, CA
 - 🕒 **Posted:** 2026-09-12
 
-### [Sales Representative](https://www.linkedin.com/jobs/view/4419983551/) — Packaging Corporation of America
-- 📍 **Location:** Los Angeles, CA
+### [Field Sales Representative](https://www.linkedin.com/jobs/view/4464567711/) — Roadie Brew
+- 📍 **Location:** Los Angeles Metropolitan Area
 - 🕒 **Posted:** 2026-09-12
 
-### [Associate Project Manager (Real Estate & Workplace Design)](https://www.linkedin.com/jobs/view/4412815873/) — Analog Devices
-- 📍 **Location:** San Jose, CA
+### [FY27 - Financial Services - Private Client Services - Tax Services Manager EDGE](https://www.linkedin.com/jobs/view/4427879027/) — EY
+- 📍 **Location:** Irvine, CA
 - 🕒 **Posted:** 2026-09-12
 
-### [Executive Assistant & R&D Operations Coordinator](https://www.linkedin.com/jobs/view/4456272317/) — Samsung Semiconductor
-- 📍 **Location:** San Jose, CA
+### [Store Operations Associate](https://www.linkedin.com/jobs/view/4466712396/) — CubeSmart
+- 📍 **Location:** Westminster, CA
 - 🕒 **Posted:** 2026-09-12
 
-### [Sales Representative (Primary Care)](https://www.linkedin.com/jobs/view/4438877159/) — Syneos Health Commercial Solutions
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-12
-
-### [Index Sales Account Manager - Financial Solutions](https://www.linkedin.com/jobs/view/4454657146/) — Bloomberg
+### [AI Operations Specialist](https://www.linkedin.com/jobs/view/4465839573/) — Valerie Health
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $125,000.00/yr - $185,000.00/yr
+- 💰 **Salary:** $65,000.00/yr - $85,000.00/yr
 - 🕒 **Posted:** 2026-09-12
 
-### [Strategic Account Manager, CSP](https://www.linkedin.com/jobs/view/4447420053/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-12
-
-### [Strategic Account Manager](https://www.linkedin.com/jobs/view/4438305170/) — Checkmarx
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-12
-
-### [Technical Account Manager, AWS Enterprise Support, Strategic Industries](https://www.linkedin.com/jobs/view/4457395006/) — Amazon Web Services (AWS)
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-12
-
-### [Technical Account Manager, AWS Enterprise Support, Strategic Industries](https://www.linkedin.com/jobs/view/4457383096/) — Amazon Web Services (AWS)
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-09-12
-
-### [Client Relationship Executive - Commercial](https://www.linkedin.com/jobs/view/4426886112/) — Grant Thornton (US)
+### [Business Operations Manager, Strategic Program Management](https://www.linkedin.com/jobs/view/4466748008/) — Cisco
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-12
 
-### [FY27 - Financial Services - Private Client Services - Tax Services Manager EDGE](https://www.linkedin.com/jobs/view/4427876055/) — EY
+### [Business Operations Manager, Strategic Program Management](https://www.linkedin.com/jobs/view/4466735172/) — Cisco
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-12
+
+### [Legal Business Development Coordinator](https://www.linkedin.com/jobs/view/4465445099/) — SearchPointNY
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $65,000.00/yr - $80,000.00/yr
+- 🕒 **Posted:** 2026-09-12
+
+### [Customer Experience Specialist](https://www.linkedin.com/jobs/view/4465427126/) — Barefoot Student
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-09-12
 
-### [Field Sales Operations Lead, US Specialist Org, NAMER Field Operations, NAMER Sales Operations](https://www.linkedin.com/jobs/view/4466495142/) — Amazon Web Services (AWS)
-- 📍 **Location:** San Francisco, CA
+### [Customer Experience Specialist](https://www.linkedin.com/jobs/view/4465439078/) — Barefoot Student
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-09-12
 
-### [Social Media Manager](https://www.linkedin.com/jobs/view/4466708326/) — BY Recruiting
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $125,000.00/yr - $275,000.00/yr
+### [Account Manager](https://www.linkedin.com/jobs/view/4464734025/) — Ewing Outdoor Supply
+- 📍 **Location:** San Carlos, CA
 - 🕒 **Posted:** 2026-09-12
 
-### [Clinical Research Coordinator II](https://www.linkedin.com/jobs/view/4464228088/) — Columbia University Irving Medical Center
+### [Automotive Internet Sales Representative Wanted at Livermore Auto Group](https://www.linkedin.com/jobs/view/4466718371/) — Livermore Ford and Lincoln
+- 📍 **Location:** Livermore, CA
+- 💰 **Salary:** $16.50/hr - $16.50/hr
+- 🕒 **Posted:** 2026-09-12
+
+### [Part-Time Administrative & Field Operations Coordinator](https://www.linkedin.com/jobs/view/4463885297/) — Sparrow Estate Mgmt
+- 📍 **Location:** Manhattan, NY
+- 🕒 **Posted:** 2026-09-12
+
+### [Executive Assistant, AWS Industries | Media & Entertainment, Games, and Sports](https://www.linkedin.com/jobs/view/4457388068/) — Amazon Web Services (AWS)
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-12
 
-### [Bilingual Community Outreach Representative](https://www.linkedin.com/jobs/view/4465416935/) — Personal Touch Home Care
-- 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $65,000.00/yr - $90,000.00/yr
-- 🕒 **Posted:** 2026-09-12
-
-### [Executive Assistant - Corporate/Investment Banking](https://www.linkedin.com/jobs/view/4457520893/) — CIBC US
+### [Personal/Executive Assistant to Chairman of Family Office](https://www.linkedin.com/jobs/view/4466738008/) — Lambent
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-12
 
-### [Manager, Account Management – Global FS](https://www.linkedin.com/jobs/view/4456270636/) — GLG
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-12
-
-### [Manager, Account Management - Life Sciences](https://www.linkedin.com/jobs/view/4428089238/) — GLG
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-12
-
-### [Account Manager - Grata](https://www.linkedin.com/jobs/view/4435610270/) — Datasite
+### [Inside Sales Representative](https://www.linkedin.com/jobs/view/4465439133/) — Beacon
 - 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-09-12
 
-### [Account Manager](https://www.linkedin.com/jobs/view/4366969373/) — Varonis
+### [FY27 - Financial Services - Private Client Services - Tax Services Manager EDGE](https://www.linkedin.com/jobs/view/4427872096/) — EY
+- 📍 **Location:** Secaucus, NJ
+- 🕒 **Posted:** 2026-09-12
+
+### [Dir, Customer Success Operations (Armis/Veza)](https://www.linkedin.com/jobs/view/4457003201/) — ServiceNow
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-12
 
-### [Client Success Manager](https://www.linkedin.com/jobs/view/4465413944/) — Maven Clinic
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-12
-
-### [Global Account Manager](https://www.linkedin.com/jobs/view/4466707909/) — Cogent Communications
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-12
-
-### [Global Account Manager](https://www.linkedin.com/jobs/view/4466711256/) — Cogent Communications
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-12
-
-### [Manager-Field Marketing](https://www.linkedin.com/jobs/view/4466725066/) — Cox Automotive Inc.
-- 📍 **Location:** College Park, GA
-- 🕒 **Posted:** 2026-09-12
-
-### [Sales And Marketing Specialist](https://www.linkedin.com/jobs/view/4466706937/) — Legacy Wealth and inheritance solutions
-- 📍 **Location:** Atlanta Metropolitan Area
-- 🕒 **Posted:** 2026-09-12
-
-### [Media Planner](https://www.linkedin.com/jobs/view/4456277513/) — Razorfish
+### [Remote Travel Marketing Specialist](https://www.linkedin.com/jobs/view/4465426210/) — Career Advancement Network
 - 📍 **Location:** Atlanta, GA
+- 💰 **Salary:** $30,000.00/yr - $70,000.00/yr
 - 🕒 **Posted:** 2026-09-12
 
-### [Technical Account Manager, AWS Enterprise Support, Strategic Industries](https://www.linkedin.com/jobs/view/4457388069/) — Amazon Web Services (AWS)
+### [Client Relationship Specialist - Cobb County, GA](https://www.linkedin.com/jobs/view/4464722003/) — Charles Schwab
 - 📍 **Location:** Atlanta, GA
+- 💰 **Salary:** $24.47/hr - $35.05/hr
 - 🕒 **Posted:** 2026-09-12
 
-### [FY27 - Financial Services - Private Client Services - Tax Services Manager EDGE](https://www.linkedin.com/jobs/view/4427873078/) — EY
-- 📍 **Location:** Alpharetta, GA
-- 🕒 **Posted:** 2026-09-12
-
-### [Communications Assistant - Part Time](https://www.linkedin.com/jobs/view/4454683264/) — Metropolitan Family Services
+### [Administrative Coordinator-Gastroenterology Full Time Days](https://www.linkedin.com/jobs/view/4465437137/) — Northwestern Memorial Hospital
 - 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-09-12
 
-### [Event Operations Supervisor, Audio Visual - Hyatt Lodge Oak Brook Chicago](https://www.linkedin.com/jobs/view/4456264433/) — Encore
-- 📍 **Location:** Oak Brook, IL
-- 💰 **Salary:** $20.82/hr - $27.07/hr
-- 🕒 **Posted:** 2026-09-12
-
-### [Account Manager, Construction Owners](https://www.linkedin.com/jobs/view/4457382154/) — Argo Group
+### [TLC Leader Learning Program Coordinator](https://www.linkedin.com/jobs/view/4458053251/) — CommonSpirit Health
 - 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-09-12
 
-### [Sales Development Representative - Chicago, IL (Ansarada)](https://www.linkedin.com/jobs/view/4445523600/) — Datasite
+### [Marketing And Business Development Coordinator](https://www.linkedin.com/jobs/view/4465430235/) — LHH
 - 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $60,000.00/yr - $83,000.00/yr
 - 🕒 **Posted:** 2026-09-12
 
-### [LTL Business Development Associate - Ryan Transportation](https://www.linkedin.com/jobs/view/4416856429/) — Ryan Transportation
-- 📍 **Location:** Lombard, IL
-- 🕒 **Posted:** 2026-09-12
-
-### [Carrier Sales Representative (Drayage)](https://www.linkedin.com/jobs/view/4402059437/) — RXO, Inc.
-- 📍 **Location:** Northbrook, IL
-- 🕒 **Posted:** 2026-09-12
-
-### [Client Services Account Manager](https://www.linkedin.com/jobs/view/4439373800/) — STERIS
+### [Account Manager Entry Level](https://www.linkedin.com/jobs/view/4465435071/) — Black Diamond Results Inc.
 - 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-09-12
