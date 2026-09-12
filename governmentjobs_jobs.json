@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-11 19:13 UTC",
-  "total": 1,
+  "scraped_at": "2026-09-12 18:30 UTC",
+  "total": 2,
   "new_count": 1,
   "jobs": [
     {
@@ -14,16 +14,28 @@
       "feeds": [
         "general"
       ]
+    },
+    {
+      "company": "Cobb County Government",
+      "title": "Administrative Coordinator",
+      "location": "Tax Commissioner Marietta, GA",
+      "url": "https://www.governmentjobs.com/jobs/5455666-0/administrative-coordinator",
+      "date_posted": "",
+      "salary": "$22.59 - $28.80 Hourly",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
     }
   ],
   "new_jobs": [
     {
-      "company": "City of Cupertino",
-      "title": "Community Coordinator",
-      "location": "Cupertino, CA",
-      "url": "https://www.governmentjobs.com/jobs/5478961-0/community-coordinator",
+      "company": "Cobb County Government",
+      "title": "Administrative Coordinator",
+      "location": "Tax Commissioner Marietta, GA",
+      "url": "https://www.governmentjobs.com/jobs/5455666-0/administrative-coordinator",
       "date_posted": "",
-      "salary": "$35.30 - $39.30 Hourly",
+      "salary": "$22.59 - $28.80 Hourly",
       "ats": "NEOGOV",
       "feeds": [
         "general"
