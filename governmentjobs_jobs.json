@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-12 18:30 UTC",
+  "scraped_at": "2026-09-13 18:51 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "City of Cupertino",
@@ -28,20 +28,7 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Cobb County Government",
-      "title": "Administrative Coordinator",
-      "location": "Tax Commissioner Marietta, GA",
-      "url": "https://www.governmentjobs.com/jobs/5455666-0/administrative-coordinator",
-      "date_posted": "",
-      "salary": "$22.59 - $28.80 Hourly",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
