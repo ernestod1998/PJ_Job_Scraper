@@ -1,70 +1,61 @@
 # 🟦 Indeed — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-09-12 22:31 UTC*
+*Last updated: 2026-09-13 00:14 UTC*
 
-**14 new role(s)** since last run · 115 total in last 24h
+**12 new role(s)** since last run · 109 total in last 24h
 
-### [Enrollment & Marketing Coordinator](https://www.indeed.com/viewjob?jk=99737a37f0aaf934) — C.B.S. Dance Company
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $18–$20/hr
+### [Inside Sales Engineer](https://www.indeed.com/viewjob?jk=0f2de19a8d570bb7) — Caltrol
+- 📍 **Location:** Livermore, CA, US
+- 💰 **Salary:** $33–$37/hr
 - 🕒 **Posted:** 2026-09-12
 
-### [Part-time Community Manager](https://www.indeed.com/viewjob?jk=99202509cb9341d1) — The REMM Group
-- 📍 **Location:** Santa Monica, CA, US
-- 🕒 **Posted:** 2026-09-11
-
-### [Public Relations Manager](https://www.indeed.com/viewjob?jk=ad31cd47e77f455f) — Robinson Helicopter Company
-- 📍 **Location:** Torrance, CA, US
-- 💰 **Salary:** $110k–$125k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Named Regional Account Manager](https://www.indeed.com/viewjob?jk=2a55c26ce302c79f) — Fortinet
+### [Customer Experience Specialist - Nordstrom Local Fillmore](https://www.indeed.com/viewjob?jk=6c50a8c224b422ad) — Nordstrom
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $200k–$220k/yr
+- 💰 **Salary:** $23–$24/hr
 - 🕒 **Posted:** 2026-09-11
 
-### [Business Development Representative](https://www.indeed.com/viewjob?jk=c09cd6acff322086) — FlowMD Medical Spa
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $55k–$66k/yr
+### [Business Operations Program Manager, Global Business Planning, Supply Chain Management (IC4)](https://www.indeed.com/viewjob?jk=8baf51a4e179f2d9) — Oracle
+- 📍 **Location:** Santa Clara, CA, US
+- 🕒 **Posted:** 2026-08-21
+
+### [Business Operations Program Manager, Materials Execution & Supply Planning (IC4)](https://www.indeed.com/viewjob?jk=71a6e80a0b11effb) — Oracle
+- 📍 **Location:** Santa Clara, CA, US
+- 🕒 **Posted:** 2026-08-20
+
+### [Entry Level Sales Representative](https://www.indeed.com/viewjob?jk=bf3862b863f4ee7c) — NY Events
+- 📍 **Location:** Manhattan, NY, US
+- 💰 **Salary:** $3200–$5400/mo
 - 🕒 **Posted:** 2026-09-12
 
-### [JPMorgan Private Client Relationship Manager - Walnut Creek, CA](https://www.indeed.com/viewjob?jk=ac88cd41ea8b0635) — JPMorganChase
-- 📍 **Location:** Walnut Creek, CA, US
+### [Field Sales Representative (Northern/Central, NJ)](https://www.indeed.com/viewjob?jk=81195b2c257aee96) — CVS Health
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $57k–$111k/yr
 - 🕒 **Posted:** 2026-09-12
 
-### [Field Sales Operations Lead, US Specialist Org, NAMER Field Operations, NAMER Sales Operations](https://www.indeed.com/viewjob?jk=f8b72b2d66c59fd9) — Amazon Web Services
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $97k–$170k/yr
-- 🕒 **Posted:** 2026-09-11
+### [Field Sales Representative (Northern/Central, NJ)](https://www.indeed.com/viewjob?jk=22c335dcbbaa550f) — CVS Health
+- 📍 **Location:** Newark, NJ, US
+- 💰 **Salary:** $57k–$111k/yr
+- 🕒 **Posted:** 2026-09-12
 
-### [Sales Representative, Property Management (PSR)](https://www.indeed.com/viewjob?jk=f4e38f58a9af07bc) — Sherwin-Williams
+### [Field Sales Representative (Northern/Central, NJ)](https://www.indeed.com/viewjob?jk=f8ff3b1255463c5c) — CVS Health
+- 📍 **Location:** Hoboken, NJ, US
+- 💰 **Salary:** $57k–$111k/yr
+- 🕒 **Posted:** 2026-09-12
+
+### [Cardiovascular Key Account Manager, Long Island, NY](https://www.indeed.com/viewjob?jk=a524fff84a2189e8) — Amgen
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $71k–$92k/yr
-- 🕒 **Posted:** 2026-09-12
+- 💰 **Salary:** $159k–$216k/yr
+- 🕒 **Posted:** 2026-09-11
 
-### [Client Success Manager](https://www.indeed.com/viewjob?jk=218f9878c2d80501) — Maven Clinic
+### [Cardiovascular Key Account Manager, New York, NY](https://www.indeed.com/viewjob?jk=fdf0bdf3c10e23e6) — Amgen
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $106k–$120k/yr
-- 🕒 **Posted:** 2026-09-12
-
-### [Film Production Coordinator](https://www.indeed.com/viewjob?jk=1e59d441cc6971dd) — Studio Space Atlanta
-- 📍 **Location:** Atlanta, GA, US
-- 💰 **Salary:** $20–$24/hr
-- 🕒 **Posted:** 2026-09-12
-
-### [Manager-Field Marketing](https://www.indeed.com/viewjob?jk=6d16c6829be64930) — Cox Automotive
-- 📍 **Location:** College Park, GA, US
-- 💰 **Salary:** $89k–$134k/yr
+- 💰 **Salary:** $159k–$216k/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Sales Representative (Primary Care)](https://www.indeed.com/viewjob?jk=785003c3ebd31fe6) — Syneos Health Commercial Solutions
-- 📍 **Location:** Smyrna, GA, US
+### [Business Development Representative - Winter 2026 Cohort](https://www.indeed.com/viewjob?jk=a193cc22737d3b61) — Topline Pro
+- 📍 **Location:** Brooklyn, NY, US
 - 🕒 **Posted:** 2026-09-11
 
-### [Sales Representative (Primary Care)](https://www.indeed.com/viewjob?jk=4482e31ce7e2ab48) — サイネオス・ヘルス
-- 📍 **Location:** Smyrna, GA, US
+### [Outside Sales Representative](https://www.indeed.com/viewjob?jk=e8d2d43e5c444295) — PackSmart, Inc.
+- 📍 **Location:** West Chicago, IL, US
+- 💰 **Salary:** $54k–$80k/yr
 - 🕒 **Posted:** 2026-09-11
-
-### [Production Assistant](https://www.indeed.com/viewjob?jk=b204c41d1c87a36e) — Lens Head Media
-- 📍 **Location:** Atlanta, GA, US
-- 💰 **Salary:** $18–$22/hr
-- 🕒 **Posted:** 2026-09-12
