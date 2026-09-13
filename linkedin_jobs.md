@@ -1,169 +1,84 @@
 # 🔥 LinkedIn — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-09-13 19:54 UTC*
+*Last updated: 2026-09-13 22:23 UTC*
 
-**39 new role(s)** since last run · 55 total in last 4h
+**18 new role(s)** since last run · 45 total in last 4h
 
-### [Operations Coordinator, Experiential Production](https://www.linkedin.com/jobs/view/4466791316/) — Framework Group
-- 📍 **Location:** San Clemente, CA
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4465495213/) — SkyKey Financial
+- 📍 **Location:** Costa Mesa, CA
+- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-09-13
 
-### [Entertainment Market Research Quality Control Specialist](https://www.linkedin.com/jobs/view/4465484091/) — CHEManager International
-- 📍 **Location:** Culver City, CA
+### [B2B Sales - Account Manager](https://www.linkedin.com/jobs/view/4465486291/) — GOODAI GLOBAL USA INC.
+- 📍 **Location:** Irvine, CA
 - 🕒 **Posted:** 2026-09-13
 
-### [Event Coordinator](https://www.linkedin.com/jobs/view/4419353611/) — SBM Management Services, LP
-- 📍 **Location:** Culver City, CA
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4465495209/) — SkyKey Financial
+- 📍 **Location:** Downey, CA
+- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-09-13
 
-### [Account Manager, Experiential Marketing](https://www.linkedin.com/jobs/view/4467002298/) — Framework Group
-- 📍 **Location:** San Clemente, CA
-- 🕒 **Posted:** 2026-09-13
-
-### [Sports-Minded Sales Representative](https://www.linkedin.com/jobs/view/4465136127/) — California Concepts
-- 📍 **Location:** Orange County, CA
-- 💰 **Salary:** $52,000.00/yr - $62,000.00/yr
-- 🕒 **Posted:** 2026-09-13
-
-### [Sports-Minded Sales Representative](https://www.linkedin.com/jobs/view/4465102297/) — California Concepts
-- 📍 **Location:** Long Beach, CA
-- 💰 **Salary:** $17.00/hr - $23.00/hr
-- 🕒 **Posted:** 2026-09-13
-
-### [Strategic Sales Representative](https://www.linkedin.com/jobs/view/4453586402/) — True Vision Enterprises Inc.
-- 📍 **Location:** Orange County, CA
-- 💰 **Salary:** $51,000.00/yr - $61,000.00/yr
-- 🕒 **Posted:** 2026-09-13
-
-### [Account Manager, Social Media](https://www.linkedin.com/jobs/view/4447702004/) — Allison Worldwide
-- 📍 **Location:** Culver City, CA
-- 🕒 **Posted:** 2026-09-13
-
-### [Account Manager](https://www.linkedin.com/jobs/view/4465489099/) — Torn & Glasser
-- 📍 **Location:** Los Angeles Metropolitan Area
-- 🕒 **Posted:** 2026-09-13
-
-### [Programmatic Account Manager - Key Accounts](https://www.linkedin.com/jobs/view/4438824338/) — Samba
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $96,000.00/yr - $108,000.00/yr
-- 🕒 **Posted:** 2026-09-13
-
-### [Medical Sales Representative](https://www.linkedin.com/jobs/view/4461657709/) — Hintech Recruiting LLC
-- 📍 **Location:** Los Angeles County, CA
-- 🕒 **Posted:** 2026-09-13
-
-### [Business Development Representative](https://www.linkedin.com/jobs/view/4464741476/) — Prowork
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-13
-
-### [Entry-level Brand Marketing Associate](https://www.linkedin.com/jobs/view/4465122058/) — ACV Inc.
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $52,000.00/yr - $62,000.00/yr
-- 🕒 **Posted:** 2026-09-13
-
-### [Entry Level Sales Representative](https://www.linkedin.com/jobs/view/4463568810/) — almighty iris inc
-- 📍 **Location:** Pleasanton, CA
-- 💰 **Salary:** $17.00/hr - $20.00/hr
-- 🕒 **Posted:** 2026-09-13
-
-### [Sales Representative (Hardscaping and Landscaping)](https://www.linkedin.com/jobs/view/4400156454/) — MSI
+### [Inside Sales Representative](https://www.linkedin.com/jobs/view/4465497215/) — Advantage Electric Supply
 - 📍 **Location:** Hayward, CA
-- 💰 **Salary:** $60,000.00/yr - $70,000.00/yr
 - 🕒 **Posted:** 2026-09-13
 
-### [Ad Operations Specialist, Uber Advertising (Online Food Delivery)](https://www.linkedin.com/jobs/view/4466780782/) — Uber Advertising
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4465490249/) — SkyKey Financial
+- 📍 **Location:** Richmond, CA
+- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-09-13
+
+### [Sports Minded Sales Representative](https://www.linkedin.com/jobs/view/4464895370/) — Golden Gate Generations
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $19.20/hr - $25.00/hr
 - 🕒 **Posted:** 2026-09-13
 
-### [Global Account Manager](https://www.linkedin.com/jobs/view/4466784331/) — Cogent Communications
-- 📍 **Location:** Santa Clara, CA
+### [Entry Level Sales and Marketing Associate](https://www.linkedin.com/jobs/view/4465103298/) — Golden Gate Generations
+- 📍 **Location:** Newark, CA
+- 💰 **Salary:** $19.20/hr - $26.00/hr
 - 🕒 **Posted:** 2026-09-13
 
-### [Product Operations Coordinator, MGM+ Network Operations](https://www.linkedin.com/jobs/view/4457862610/) — Amazon
+### [Project Coordinator - Japanese Bilingual](https://www.linkedin.com/jobs/view/4456744528/) — Pasona N A, Inc.
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-13
 
-### [Marketing Associate](https://www.linkedin.com/jobs/view/4420632025/) — AIPAC
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-13
-
-### [Business Development Representative](https://www.linkedin.com/jobs/view/4466781447/) — Premium Merchant Funding
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-13
-
-### [Business Development Representative](https://www.linkedin.com/jobs/view/4466785512/) — Premium Merchant Funding
-- 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $60,000.00/yr - $120,000.00/yr
-- 🕒 **Posted:** 2026-09-13
-
-### [Sales Development Representative](https://www.linkedin.com/jobs/view/4438805742/) — Varonis
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-13
-
-### [Media Relations Manager](https://www.linkedin.com/jobs/view/4463020843/) — System1
+### [Student Program Coordinator](https://www.linkedin.com/jobs/view/4466787598/) — Spectrum Expression
 - 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-09-13
 
-### [Sports Tissue Sales Representative - NYC](https://www.linkedin.com/jobs/view/4467000337/) — CONMED Corporation
+### [Digital and Product Marketing Associate](https://www.linkedin.com/jobs/view/4464736833/) — VanEck
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-13
+
+### [Communications Assistant](https://www.linkedin.com/jobs/view/4466788549/) — MANHATTAN PROMOTIONS
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $3,600.00/mo - $5,000.00/mo
+- 🕒 **Posted:** 2026-09-13
+
+### [Executive Assistant to Founder of Digital Media Company and Nonprofit](https://www.linkedin.com/jobs/view/4466796500/) — Lambent
 - 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-09-13
 
-### [Medical Sales Representative](https://www.linkedin.com/jobs/view/4462922101/) — Hintech Recruiting LLC
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-09-13
-
-### [Sales Coordinator Supervisor](https://www.linkedin.com/jobs/view/4439364862/) — Crown Equipment Corporation
-- 📍 **Location:** Duluth, GA
-- 🕒 **Posted:** 2026-09-13
-
-### [National Account Manager](https://www.linkedin.com/jobs/view/4466786308/) — Cogent Communications
+### [Assistant Project Manager](https://www.linkedin.com/jobs/view/4465491169/) — Chang Robotics
 - 📍 **Location:** Atlanta Metropolitan Area
 - 🕒 **Posted:** 2026-09-13
 
-### [Global Aid Account Manager](https://www.linkedin.com/jobs/view/4465499072/) — Flexport
+### [Associate Project Manager - Remote](https://www.linkedin.com/jobs/view/4460620130/) — Stryker
 - 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-09-13
 
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4466781532/) — Chick-fil-A Western Center Blvd
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4395305907/) — Robert Half
 - 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-09-13
 
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4465485114/) — Evlo AI
-- 📍 **Location:** Atlanta, GA
+### [Operations Coordinator](https://www.linkedin.com/jobs/view/4457517649/) — Miller 66, Inc
+- 📍 **Location:** Suwanee, GA
 - 🕒 **Posted:** 2026-09-13
 
-### [Sports Tissue Sales Representative - Atlanta](https://www.linkedin.com/jobs/view/4466788358/) — CONMED Corporation
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-09-13
-
-### [Junior Project Manager](https://www.linkedin.com/jobs/view/4465479288/) — Brooksource
+### [Administrative Assistant Project Coordinator](https://www.linkedin.com/jobs/view/4464753719/) — Hays
 - 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $32.00/hr - $37.00/hr
+- 💰 **Salary:** $80,000.00/yr - $95,000.00/yr
 - 🕒 **Posted:** 2026-09-13
 
-### [Professional, Client Success (Sales Partner)](https://www.linkedin.com/jobs/view/4438358652/) — Epsilon
+### [Middle Office Operations Associate - FCM](https://www.linkedin.com/jobs/view/4466780864/) — Robert Half
 - 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-09-13
-
-### [Account Manager - National & Franchise Accounts](https://www.linkedin.com/jobs/view/4465485163/) — SpeedPro Central PA
-- 📍 **Location:** Downers Grove, IL
-- 🕒 **Posted:** 2026-09-13
-
-### [Operations Associate](https://www.linkedin.com/jobs/view/4446948305/) — Louis Vuitton
-- 📍 **Location:** Oak Brook, IL
-- 🕒 **Posted:** 2026-09-13
-
-### [Social Media Manager](https://www.linkedin.com/jobs/view/4465494041/) — Evlo AI
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-09-13
-
-### [Digital Business Development Sales Representative](https://www.linkedin.com/jobs/view/4438364455/) — Epsilon
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-09-13
-
-### [Sales Representative](https://www.linkedin.com/jobs/view/4464748536/) — ArtVidar Cabinetry
-- 📍 **Location:** Elk Grove Village, IL
-- 🕒 **Posted:** 2026-09-13
-
-### [Medical Sales Representative](https://www.linkedin.com/jobs/view/4453956189/) — Hintech Recruiting LLC
-- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $85,000.00/yr - $105,000.00/yr
 - 🕒 **Posted:** 2026-09-13
