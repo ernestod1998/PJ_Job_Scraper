@@ -1,61 +1,47 @@
 # 🟦 Indeed — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-09-13 00:14 UTC*
+*Last updated: 2026-09-13 06:44 UTC*
 
-**12 new role(s)** since last run · 109 total in last 24h
+**9 new role(s)** since last run · 35 total in last 24h
 
-### [Inside Sales Engineer](https://www.indeed.com/viewjob?jk=0f2de19a8d570bb7) — Caltrol
-- 📍 **Location:** Livermore, CA, US
-- 💰 **Salary:** $33–$37/hr
+### [Business Operations Coordinator](https://www.indeed.com/viewjob?jk=bfbd390f6a3b4d67) — Dream Three
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $25–$35/hr
 - 🕒 **Posted:** 2026-09-12
 
-### [Customer Experience Specialist - Nordstrom Local Fillmore](https://www.indeed.com/viewjob?jk=6c50a8c224b422ad) — Nordstrom
+### [Marketing Coordinator - Professional Channel](https://www.indeed.com/viewjob?jk=cc1537a994fd68d0) — Dermalogica
+- 📍 **Location:** Carson, CA, US
+- 💰 **Salary:** $24–$26/hr
+- 🕒 **Posted:** 2026-09-09
+
+### [Social Media Manager](https://www.indeed.com/viewjob?jk=6fdbe2f445ea30e2) — Unknown
+- 📍 **Location:** Huntington Beach, CA, US
+- 💰 **Salary:** $28–$38/hr
+- 🕒 **Posted:** 2026-09-12
+
+### [Customer Success Manager](https://www.indeed.com/viewjob?jk=bdf32f3593febfe0) — Bild Ai
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $23–$24/hr
-- 🕒 **Posted:** 2026-09-11
-
-### [Business Operations Program Manager, Global Business Planning, Supply Chain Management (IC4)](https://www.indeed.com/viewjob?jk=8baf51a4e179f2d9) — Oracle
-- 📍 **Location:** Santa Clara, CA, US
-- 🕒 **Posted:** 2026-08-21
-
-### [Business Operations Program Manager, Materials Execution & Supply Planning (IC4)](https://www.indeed.com/viewjob?jk=71a6e80a0b11effb) — Oracle
-- 📍 **Location:** Santa Clara, CA, US
-- 🕒 **Posted:** 2026-08-20
-
-### [Entry Level Sales Representative](https://www.indeed.com/viewjob?jk=bf3862b863f4ee7c) — NY Events
-- 📍 **Location:** Manhattan, NY, US
-- 💰 **Salary:** $3200–$5400/mo
+- 💰 **Salary:** $70k–$140k/yr
 - 🕒 **Posted:** 2026-09-12
 
-### [Field Sales Representative (Northern/Central, NJ)](https://www.indeed.com/viewjob?jk=81195b2c257aee96) — CVS Health
-- 📍 **Location:** Jersey City, NJ, US
-- 💰 **Salary:** $57k–$111k/yr
-- 🕒 **Posted:** 2026-09-12
-
-### [Field Sales Representative (Northern/Central, NJ)](https://www.indeed.com/viewjob?jk=22c335dcbbaa550f) — CVS Health
-- 📍 **Location:** Newark, NJ, US
-- 💰 **Salary:** $57k–$111k/yr
-- 🕒 **Posted:** 2026-09-12
-
-### [Field Sales Representative (Northern/Central, NJ)](https://www.indeed.com/viewjob?jk=f8ff3b1255463c5c) — CVS Health
-- 📍 **Location:** Hoboken, NJ, US
-- 💰 **Salary:** $57k–$111k/yr
-- 🕒 **Posted:** 2026-09-12
-
-### [Cardiovascular Key Account Manager, Long Island, NY](https://www.indeed.com/viewjob?jk=a524fff84a2189e8) — Amgen
+### [Business Operations Coordinator](https://www.indeed.com/viewjob?jk=80455da920d75d96) — Dream Three
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $159k–$216k/yr
+- 💰 **Salary:** $25–$35/hr
+- 🕒 **Posted:** 2026-09-12
+
+### [Executive Assistant, Communications](https://www.indeed.com/viewjob?jk=4bfa62468886951a) — Bronx District Attorney
+- 📍 **Location:** Bronx, NY, US
+- 🕒 **Posted:** 2026-09-12
+
+### [Administrative Coordinator](https://www.indeed.com/viewjob?jk=bce7ad9f8727f846) — History Makers
+- 📍 **Location:** Atlanta, GA, US
+- 💰 **Salary:** $2000–$4000/mo
+- 🕒 **Posted:** 2026-05-28
+
+### [Manager-Field Marketing](https://www.indeed.com/viewjob?jk=017a32768ce55712) — Cox Automotive
+- 📍 **Location:** Atlanta, GA, US
+- 💰 **Salary:** $89k–$134k/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Cardiovascular Key Account Manager, New York, NY](https://www.indeed.com/viewjob?jk=fdf0bdf3c10e23e6) — Amgen
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $159k–$216k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Business Development Representative - Winter 2026 Cohort](https://www.indeed.com/viewjob?jk=a193cc22737d3b61) — Topline Pro
-- 📍 **Location:** Brooklyn, NY, US
-- 🕒 **Posted:** 2026-09-11
-
-### [Outside Sales Representative](https://www.indeed.com/viewjob?jk=e8d2d43e5c444295) — PackSmart, Inc.
-- 📍 **Location:** West Chicago, IL, US
-- 💰 **Salary:** $54k–$80k/yr
-- 🕒 **Posted:** 2026-09-11
+### [Process Improvement Administrative Coordinator](https://www.indeed.com/viewjob?jk=6e3e4a2543f55f8f) — Passion for Life
+- 📍 **Location:** Atlanta, GA, US
+- 🕒 **Posted:** 2026-09-12
