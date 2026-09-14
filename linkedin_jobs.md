@@ -1,86 +1,177 @@
 # 🔥 LinkedIn — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-09-14 00:30 UTC*
+*Last updated: 2026-09-14 06:07 UTC*
 
-**19 new role(s)** since last run · 34 total in last 4h
+**40 new role(s)** since last run · 41 total in last 4h
 
-### [Global Account Manager](https://www.linkedin.com/jobs/view/4466787872/) — Cogent Communications
-- 📍 **Location:** Pasadena, CA
+### [Product Development Assistant](https://www.linkedin.com/jobs/view/4465484745/) — 24 Seven Talent
+- 📍 **Location:** Los Angeles County, CA
 - 🕒 **Posted:** 2026-09-13
 
-### [Recruiting Coordinator (2-year fixed-term assignment) (6555C24)](https://www.linkedin.com/jobs/view/4467000811/) — Referment
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $85,000.00/yr - $100,000.00/yr
+### [Account Manager, Integrated Marketing (Gaming)](https://www.linkedin.com/jobs/view/4454252564/) — Nativex
+- 📍 **Location:** Orange County, CA
 - 🕒 **Posted:** 2026-09-13
 
-### [Global Account Manager](https://www.linkedin.com/jobs/view/4467002853/) — Cogent Communications
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-13
-
-### [Strategy and Business Development Associate – Commercial Data Insights (EBF1C3F)](https://www.linkedin.com/jobs/view/4466792882/) — Referment
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $140,000.00/yr - $175,000.00/yr
-- 🕒 **Posted:** 2026-09-13
-
-### [Inside Sales Specialist](https://www.linkedin.com/jobs/view/4455982683/) — Bridge Professional Services
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $55,000.00/yr - $80,000.00/yr
-- 🕒 **Posted:** 2026-09-13
-
-### [VWR Sales Representative - Chicago, IL](https://www.linkedin.com/jobs/view/4444757607/) — Avantor
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-09-13
-
-### [Client Service & Executive Assistant](https://www.linkedin.com/jobs/view/4465493316/) — Private Law Office
-- 📍 **Location:** South Pasadena, CA
-- 🕒 **Posted:** 2026-09-13
-
-### [Operations Specialist - Early AM Shift (4:00 AM – 12:30 PM)](https://www.linkedin.com/jobs/view/4465489307/) — Lime
+### [Marketing Communications Coordinator](https://www.linkedin.com/jobs/view/4464595510/) — D3 Search
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $22.00/hr - $22.00/hr
 - 🕒 **Posted:** 2026-09-13
 
-### [Interior Design procurement Coordinator/office manager](https://www.linkedin.com/jobs/view/4467004088/) — gamble + design
-- 📍 **Location:** San Francisco Bay Area
+### [Insurance Sales Representative](https://www.linkedin.com/jobs/view/4465492761/) — Life Changers Financial Services LLC
+- 📍 **Location:** Los Angeles Metropolitan Area
 - 🕒 **Posted:** 2026-09-13
 
-### [Project Coordinator, Medical & Scientific Communications](https://www.linkedin.com/jobs/view/4465496272/) — IQVIA
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4465701803/) — SkyKey Financial
+- 📍 **Location:** Santa Monica, CA
+- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-09-13
+
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4465497739/) — SkyKey Financial
+- 📍 **Location:** Norwalk, CA
+- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-09-13
+
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4465703672/) — SkyKey Financial
+- 📍 **Location:** Burbank, CA
+- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-09-13
+
+### [Key Account Manager](https://www.linkedin.com/jobs/view/4464780089/) — Solutions Driven
+- 📍 **Location:** Irvine, CA
+- 🕒 **Posted:** 2026-09-13
+
+### [Air Logistics Export Gateway Operations Specialist](https://www.linkedin.com/jobs/view/4467040307/) — Kuehne+Nagel
+- 📍 **Location:** Torrance, CA
+- 🕒 **Posted:** 2026-09-13
+
+### [Key Account Manager - Infrastructure (2517)](https://www.linkedin.com/jobs/view/4457986329/) — HellermannTyton North America
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-09-13
+
+### [Project Coordinator, Supply Chain Properties](https://www.linkedin.com/jobs/view/4464763442/) — Ross Stores, Inc.
+- 📍 **Location:** Dublin, CA
+- 🕒 **Posted:** 2026-09-13
+
+### [Project Specialist](https://www.linkedin.com/jobs/view/4467039423/) — Katalyst CRO
+- 📍 **Location:** Vacaville, CA
+- 🕒 **Posted:** 2026-09-13
+
+### [Business Development Representative, San Francisco](https://www.linkedin.com/jobs/view/4395710331/) — Notion
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-13
+
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4465494744/) — SkyKey Financial
+- 📍 **Location:** Daly City, CA
+- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-09-13
+
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4465495751/) — SkyKey Financial
+- 📍 **Location:** Vacaville, CA
+- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-09-13
+
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4465484802/) — SkyKey Financial
+- 📍 **Location:** San Mateo County, CA
+- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-09-13
+
+### [Hepatology Account Manager - San Francisco, CA](https://www.linkedin.com/jobs/view/4423637774/) — GSK
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-13
+
+### [Medical Sales Representative - San Jose, CA](https://www.linkedin.com/jobs/view/4465700792/) — Ortho Molecular Products
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-13
+
+### [Trauma Sales Representative - Santa Rosa/Berkeley , CA](https://www.linkedin.com/jobs/view/4460640988/) — Stryker
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-09-13
+
+### [Assistant Project Manager](https://www.linkedin.com/jobs/view/4447217050/) — E-J Electric Installation Co.
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-13
 
-### [Vendor Relations Specialist - Jewelry](https://www.linkedin.com/jobs/view/4464109826/) — Adecco
+### [Materials Development Coordinator](https://www.linkedin.com/jobs/view/4464771376/) — kate spade new york
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $28.00/hr - $30.00/hr
 - 🕒 **Posted:** 2026-09-13
 
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4437624630/) — Revin
+### [Communications Event Coordinator](https://www.linkedin.com/jobs/view/4467042034/) — Addition Management
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000.00/yr - $170,000.00/yr
+- 💰 **Salary:** $85,000.00/yr - $91,000.00/yr
 - 🕒 **Posted:** 2026-09-13
 
-### [Communications Assistant](https://www.linkedin.com/jobs/view/4465484363/) — Boost Company
+### [Marketing Coordinator](https://www.linkedin.com/jobs/view/4467032086/) — NEH Marketing Inc
+- 📍 **Location:** Hoboken, NJ
+- 🕒 **Posted:** 2026-09-13
+
+### [Client Services Specialist](https://www.linkedin.com/jobs/view/4467034082/) — Addition Management
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $150,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-09-13
+
+### [Legal Executive Assistant](https://www.linkedin.com/jobs/view/4467037362/) — DLA Piper
 - 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-09-13
 
-### [Marketing Assistant](https://www.linkedin.com/jobs/view/4465490330/) — Boost Company
+### [Executive Assistant](https://www.linkedin.com/jobs/view/4465497722/) — Vera Voce Communication
+- 📍 **Location:** Brooklyn, NY
+- 🕒 **Posted:** 2026-09-13
+
+### [Digital Marketing Assitant](https://www.linkedin.com/jobs/view/4465493069/) — Shokuya
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-13
+
+### [Executive Assistant – Investment Management Firm - $100k-$130k + Bonus!](https://www.linkedin.com/jobs/view/4467031054/) — CitiStaffing
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $100,000.00/yr - $130,000.00/yr
+- 🕒 **Posted:** 2026-09-13
+
+### [Executive Assistant - $90-120k + BONUS!](https://www.linkedin.com/jobs/view/4467028039/) — CitiStaffing
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $90,000.00/yr - $120,000.00/yr
+- 🕒 **Posted:** 2026-09-13
+
+### [Executive Assistant - Private Equity - $125-150k + BONUS!](https://www.linkedin.com/jobs/view/4467038021/) — CitiStaffing
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $125,000.00/yr - $150,000.00/yr
+- 🕒 **Posted:** 2026-09-13
+
+### [Executive Assistant - Investment Management Firm - $150-200K + Bonus!](https://www.linkedin.com/jobs/view/4467041093/) — CitiStaffing
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $150,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-09-13
+
+### [Business Development Representative](https://www.linkedin.com/jobs/view/4467030042/) — Right Choice Resources
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-13
+
+### [Sales Development Representative](https://www.linkedin.com/jobs/view/4467044048/) — Right Choice Resources
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-13
+
+### [Bilingual Account Manager, Field Based](https://www.linkedin.com/jobs/view/4465701859/) — UnitedHealth Group
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-13
+
+### [Sales and Account Manager](https://www.linkedin.com/jobs/view/4464767456/) — AdaCore
 - 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-09-13
 
-### [Entry-Level Marketing Associate](https://www.linkedin.com/jobs/view/4464739909/) — Pinnacle Collective Inc
-- 📍 **Location:** North Bergen, NJ
+### [Trauma Sales Representative - Manhattan / Westchester, NY](https://www.linkedin.com/jobs/view/4464150112/) — Stryker
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-13
 
-### [Retail Marketing Campaign Specialist](https://www.linkedin.com/jobs/view/4464736948/) — Pinnacle Collective Inc
-- 📍 **Location:** North Bergen, NJ
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4465700713/) — SkyKey Financial
+- 📍 **Location:** Sandy Springs, GA
+- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-09-13
 
-### [Account Manager - National & Franchise Accounts](https://www.linkedin.com/jobs/view/4465490397/) — SpeedPro
-- 📍 **Location:** Downers Grove, IL
+### [Junior Sales Representative](https://www.linkedin.com/jobs/view/4465704490/) — SkyKey Financial
+- 📍 **Location:** Roswell, GA
 - 🕒 **Posted:** 2026-09-13
 
-### [Entry Level Marketing Campaign Specialist](https://www.linkedin.com/jobs/view/4464738827/) — Skyline Marketing Agency
-- 📍 **Location:** Oak Park, IL
+### [Registry Implementation Coordinator (Customer Service, Data, IT/Help Desk Support) - Schaumburg, IL](https://www.linkedin.com/jobs/view/4465497611/) — American Society of Anesthesiologists®
+- 📍 **Location:** Schaumburg, IL
 - 🕒 **Posted:** 2026-09-13
 
-### [Entry Level Marketing Assistant](https://www.linkedin.com/jobs/view/4464757829/) — Skyline Marketing Agency
-- 📍 **Location:** Oak Brook, IL
+### [Inside Sales Representative (NO COLD CALLING)](https://www.linkedin.com/jobs/view/4467042025/) — Right Choice Resources
+- 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-09-13
