@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-16 05:58 UTC",
-  "total": 60,
-  "new_count": 56,
+  "scraped_at": "2026-09-16 06:53 UTC",
+  "total": 63,
+  "new_count": 3,
   "jobs": [
     {
       "company": "National Football League (NFL)",
@@ -42,17 +42,6 @@
       "title": "Executive Assistant",
       "location": "Irvine, CA",
       "url": "https://www.linkedin.com/jobs/view/4467924791/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Kastle Systems",
-      "title": "Event Marketing Manager",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466823335/",
       "date_posted": "2026-09-15",
       "ats": "LinkedIn",
       "feeds": [
@@ -123,6 +112,17 @@
       "title": "Production Assistant",
       "location": "Los Angeles, CA",
       "url": "https://www.linkedin.com/jobs/view/4466804945/",
+      "date_posted": "2026-09-15",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Kastle Systems",
+      "title": "Event Marketing Manager",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466823335/",
       "date_posted": "2026-09-15",
       "ats": "LinkedIn",
       "feeds": [
@@ -411,12 +411,35 @@
       ]
     },
     {
+      "company": "GP Strategies Corporation",
+      "title": "Learning Event Coordinator - Onsite NYC- Fixed term role",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4467952913/",
+      "date_posted": "2026-09-15",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Cerity Partners",
       "title": "Business Development Associate",
       "location": "New York, NY",
       "url": "https://www.linkedin.com/jobs/view/4466832305/",
       "date_posted": "2026-09-15",
       "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Bloomingdale's",
+      "title": "Digital Merchandise Coordinator (TEMP)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4467974082/",
+      "date_posted": "2026-09-15",
+      "ats": "LinkedIn",
+      "salary": "$56,280.00/yr - $93,720.00/yr",
       "feeds": [
         "general"
       ]
@@ -677,633 +700,48 @@
       "feeds": [
         "general"
       ]
+    },
+    {
+      "company": "Clean Harbors",
+      "title": "Regional Account Manager - Central",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4467967107/",
+      "date_posted": "2026-09-15",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
     }
   ],
   "new_jobs": [
     {
-      "company": "National Football League (NFL)",
-      "title": "Associate, Content Marketing Production",
-      "location": "Inglewood, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465928793/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Plastpro,Inc",
-      "title": "Marketing Coordinator",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465952074/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Crossover",
-      "title": "Operations Coordinator, Alpha - $90,000/year USD",
-      "location": "Santa Monica, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466818176/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "salary": "$90,000.00/yr - $90,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Parker Hannifin",
-      "title": "Executive Assistant",
-      "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467924791/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Kastle Systems",
-      "title": "Event Marketing Manager",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466823335/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Crossover",
-      "title": "Operations Coordinator, Alpha - $90,000/year USD",
-      "location": "Torrance, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466812559/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "salary": "$90,000.00/yr - $90,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Crossover",
-      "title": "Campus Operations Coordinator, Alpha - $90,000/year USD",
-      "location": "Torrance, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466827096/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "salary": "$90,000.00/yr - $90,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Crossover",
-      "title": "Site Operations Coordinator, Alpha - $90,000/year USD",
-      "location": "Torrance, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466827051/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "salary": "$90,000.00/yr - $90,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Crossover",
-      "title": "School Operations Coordinator, Alpha - $90,000/year USD",
-      "location": "Torrance, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466810970/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "salary": "$90,000.00/yr - $90,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "ROXON",
-      "title": "Human Resources Administrative Coordinator",
-      "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465428121/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Nexstar Media Group, Inc.",
-      "title": "Production Assistant",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466804945/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "SMCP \u2013 Sandro, Maje, Claudie Pierlot, Fursac",
-      "title": "US - Retail Operations Associate, Sandro, South Coast Plaza, Costa Mesa, California",
-      "location": "Costa Mesa, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467923884/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "T&T Supermarket",
-      "title": "Project Specialist - Store Development",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4466830401/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "salary": "$75,000.00/yr - $85,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "University of California, San Francisco",
-      "title": "Clinical Research Coordinator",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465873506/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "GLIDEsf",
-      "title": "Volunteer Program Coordinator",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4460653679/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "UCSF Health",
-      "title": "Ambulatory Care Administrative Coordinator 3",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467959509/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Trilyon, Inc.",
-      "title": "Event Marketing Specialist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466170186/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "PayPal",
-      "title": "Manager, Revenue Operations",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467937639/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Pilot",
-      "title": "Manager, Business Operations",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4453037398/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "PayPal",
-      "title": "Manager, Revenue Operations",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467947371/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "PayPal",
-      "title": "Manager, Revenue Operations",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467955336/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CBRE",
-      "title": "Meeting & Events Coordinator - Menlo Park, CA",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467939242/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "MidPen Housing Corporation",
-      "title": "Assistant Community Manager (Shorebreeze I, Shorebreeze II, San Veron Park)",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467937402/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Coram AI",
-      "title": "Business Development Representative",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467961133/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Ewing Outdoor Supply",
-      "title": "Account Manager",
-      "location": "San Carlos, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464734025/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Reyes Beverage Group",
-      "title": "On-Premise Sales Account Manager",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467915974/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "salary": "$28.50/hr - $28.50/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "PayPal",
-      "title": "Global Strategic Account Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467938473/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Livermore Ford and Lincoln",
-      "title": "Automotive Internet Sales Representative Wanted at Livermore Auto Group",
-      "location": "Livermore, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467940109/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "salary": "$16.50/hr - $16.50/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "WorkGenius Group",
-      "title": "Temporary Wholesale Marketing Assistant",
+      "company": "GP Strategies Corporation",
+      "title": "Learning Event Coordinator - Onsite NYC- Fixed term role",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4466818441/",
+      "url": "https://www.linkedin.com/jobs/view/4467952913/",
       "date_posted": "2026-09-15",
       "ats": "LinkedIn",
-      "salary": "$31.25/hr - $31.25/hr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "WorkGenius Group",
-      "title": "Marketing Assistant",
+      "company": "Bloomingdale's",
+      "title": "Digital Merchandise Coordinator (TEMP)",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4466827362/",
+      "url": "https://www.linkedin.com/jobs/view/4467974082/",
       "date_posted": "2026-09-15",
       "ats": "LinkedIn",
-      "salary": "$25.00/hr - $25.00/hr",
+      "salary": "$56,280.00/yr - $93,720.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Broadridge",
-      "title": "Marketing Specialist",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4467959591/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Moody's Corporation",
-      "title": "Customer Success Summer Intern",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4467937723/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Digilancer",
-      "title": "Clinical Administrative Coordinator",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4466815811/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cerity Partners",
-      "title": "Business Development Associate",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4466832305/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Ralph Lauren",
-      "title": "Flagship Operations Associate- Seasonal Concierge",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4465946975/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Ralph Lauren",
-      "title": "Part-Time Seasonal Operations Associate",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4465947948/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Pagaya",
-      "title": "Business Development Associate",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4466835237/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "WizardQuant",
-      "title": "Business Development Associate",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4466812482/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Spectrum",
-      "title": "Sales Representative (Driving Role)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4467938755/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "salary": "$33,200.00/yr - $66,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "PayPal",
-      "title": "Global Strategic Account Manager",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4467960241/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Axsome Therapeutics, Inc.",
-      "title": "Specialty Account Manager, Sunosi (Jersey City, NJ)",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4465934769/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Medtronic",
-      "title": "Sales Representative I , Spine - New York, NY",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4465898765/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Syneos Health Commercial Solutions",
-      "title": "Professional Pharmaceutical Sales Representative",
-      "location": "Brooklyn, NY",
-      "url": "https://www.linkedin.com/jobs/view/4467930859/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stryker",
-      "title": "Trauma Sales Representative - Manhattan / Westchester, NY",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4464150112/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Exemplar Luxury Group",
-      "title": "Seasonal Operations Associate-Fifth Avenue Club",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4466814294/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Exemplar Luxury Group",
-      "title": "Seasonal Operations Associate-OMS",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4466813301/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Accenture",
-      "title": "API/AI Inside Sales Account Rep",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4466814681/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "gpac",
-      "title": "Key Account Manager- Pet Specialty",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4465926929/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "salary": "$80,000.00/yr - $100,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "gpac",
-      "title": "KEY ACCOUNT MANAGER - PET SPECIALTY",
-      "location": "Oak Brook, IL",
-      "url": "https://www.linkedin.com/jobs/view/4465930868/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "salary": "$80,000.00/yr - $100,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hengli America",
-      "title": "Key Account Manager",
-      "location": "Bolingbrook, IL",
-      "url": "https://www.linkedin.com/jobs/view/4465940606/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "salary": "$100,000.00/yr - $140,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Accenture",
-      "title": "Edge Product \u2014 Account Manager & Product Liaison - 6472305",
+      "company": "Clean Harbors",
+      "title": "Regional Account Manager - Central",
       "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4466814672/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "PayPal",
-      "title": "Global Strategic Account Manager",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4467957287/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Parcel Perform",
-      "title": "Key Account Manager",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4466824320/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Epsilon",
-      "title": "Lead, Client Success",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4466816338/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Aikido Security",
-      "title": "Customer Success Engineer US",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4466832094/",
-      "date_posted": "2026-09-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "PRIMEDIA Network, Inc.",
-      "title": "Advertising Sales Representative",
-      "location": "Schaumburg, IL",
-      "url": "https://www.linkedin.com/jobs/view/4466833220/",
+      "url": "https://www.linkedin.com/jobs/view/4467967107/",
       "date_posted": "2026-09-15",
       "ats": "LinkedIn",
       "feeds": [
