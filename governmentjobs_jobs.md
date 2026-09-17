@@ -1,6 +1,8 @@
 # 🏛 NEOGOV — State & Local Government Roles
-*Last updated: 2026-09-16 19:36 UTC*
+*Last updated: 2026-09-17 19:46 UTC*
 
-**0 new role(s)** since last run · 1 total in recent GovernmentJobs postings
+**1 new role(s)** since last run · 2 total in recent GovernmentJobs postings
 
-No new state/local-gov roles since the last run.
+### [Program Coordinator - Part-Time (Afterschool Site Lead)](https://www.governmentjobs.com/jobs/5486221-0/program-coordinator-part-time-afterschool-site-lead) — City of Redondo Beach
+- 📍 **Location:** Community Services Department Redondo Beach, CA
+- 💰 **Salary:** $23.00 - $24.50 Hourly

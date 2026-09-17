@@ -1,8 +1,20 @@
 {
-  "scraped_at": "2026-09-16 19:36 UTC",
-  "total": 1,
-  "new_count": 0,
+  "scraped_at": "2026-09-17 19:46 UTC",
+  "total": 2,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "City of Redondo Beach",
+      "title": "Program Coordinator - Part-Time (Afterschool Site Lead)",
+      "location": "Community Services Department Redondo Beach, CA",
+      "url": "https://www.governmentjobs.com/jobs/5486221-0/program-coordinator-part-time-afterschool-site-lead",
+      "date_posted": "",
+      "salary": "$23.00 - $24.50 Hourly",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    },
     {
       "company": "City of Cupertino",
       "title": "Community Coordinator",
@@ -16,7 +28,20 @@
       ]
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "City of Redondo Beach",
+      "title": "Program Coordinator - Part-Time (Afterschool Site Lead)",
+      "location": "Community Services Department Redondo Beach, CA",
+      "url": "https://www.governmentjobs.com/jobs/5486221-0/program-coordinator-part-time-afterschool-site-lead",
+      "date_posted": "",
+      "salary": "$23.00 - $24.50 Hourly",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,

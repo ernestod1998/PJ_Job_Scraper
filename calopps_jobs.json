@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-16 19:37 UTC",
+  "scraped_at": "2026-09-17 19:46 UTC",
   "total": 5,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "San Mateo County",
@@ -64,20 +64,7 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "San Mateo County",
-      "title": "Communications Associate- Community Program Specialist I/II",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/san-mateo-county/job-20776764",
-      "date_posted": "",
-      "salary": "$80,121.60-$112,216.00 Annually",
-      "ats": "CalOpps",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
