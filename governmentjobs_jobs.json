@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-17 19:46 UTC",
-  "total": 2,
+  "scraped_at": "2026-09-18 19:04 UTC",
+  "total": 3,
   "new_count": 1,
   "jobs": [
     {
@@ -26,16 +26,28 @@
       "feeds": [
         "general"
       ]
+    },
+    {
+      "company": "Orange County Transportation Authority",
+      "title": "Marketing Specialist Associate",
+      "location": "Orange, CA",
+      "url": "https://www.governmentjobs.com/jobs/149776-1/marketing-specialist-associate",
+      "date_posted": "",
+      "salary": "$34.61 - $47.62 Hourly",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
     }
   ],
   "new_jobs": [
     {
-      "company": "City of Redondo Beach",
-      "title": "Program Coordinator - Part-Time (Afterschool Site Lead)",
-      "location": "Community Services Department Redondo Beach, CA",
-      "url": "https://www.governmentjobs.com/jobs/5486221-0/program-coordinator-part-time-afterschool-site-lead",
+      "company": "Orange County Transportation Authority",
+      "title": "Marketing Specialist Associate",
+      "location": "Orange, CA",
+      "url": "https://www.governmentjobs.com/jobs/149776-1/marketing-specialist-associate",
       "date_posted": "",
-      "salary": "$23.00 - $24.50 Hourly",
+      "salary": "$34.61 - $47.62 Hourly",
       "ats": "NEOGOV",
       "feeds": [
         "general"
