@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-18 05:52 UTC",
-  "total": 50,
-  "new_count": 48,
+  "scraped_at": "2026-09-18 06:45 UTC",
+  "total": 59,
+  "new_count": 10,
   "jobs": [
     {
       "company": "Arena Club",
@@ -60,17 +60,6 @@
       ]
     },
     {
-      "company": "bisco industries",
-      "title": "Sales Account Manager",
-      "location": "Anaheim, CA",
-      "url": "https://www.linkedin.com/jobs/view/4441274266/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "AECOM",
       "title": "Client Account Manager, Mining",
       "location": "Los Angeles, CA",
@@ -82,10 +71,10 @@
       ]
     },
     {
-      "company": "Raymond West",
-      "title": "Parts Sales Representative",
-      "location": "Santa Clarita, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466645380/",
+      "company": "bisco industries",
+      "title": "Sales Account Manager",
+      "location": "Anaheim, CA",
+      "url": "https://www.linkedin.com/jobs/view/4441274266/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn",
       "feeds": [
@@ -115,10 +104,10 @@
       ]
     },
     {
-      "company": "Syneos Health Commercial Solutions",
-      "title": "Professional Pharmaceutical Sales Representative",
+      "company": "Raymond West",
+      "title": "Parts Sales Representative",
       "location": "Santa Clarita, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468865613/",
+      "url": "https://www.linkedin.com/jobs/view/4466645380/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn",
       "feeds": [
@@ -237,17 +226,6 @@
       ]
     },
     {
-      "company": "Gather Health",
-      "title": "Patient Experience Partner/Inside Sales Rep (Healthcare exp preferred)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468851888/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "Snapdocs",
       "title": "Field Marketing Manager",
       "location": "San Francisco, CA",
@@ -263,6 +241,17 @@
       "title": "Field Marketing Manager - 12 Month Contract",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4468895385/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Gather Health",
+      "title": "Patient Experience Partner/Inside Sales Rep (Healthcare exp preferred)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468851888/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn",
       "feeds": [
@@ -326,6 +315,17 @@
       ]
     },
     {
+      "company": "Cogent Communications",
+      "title": "Global Account Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468894938/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "National Women's Soccer League (NWSL)",
       "title": "Administrative Coordinator, Legal & Sporting",
       "location": "New York, NY",
@@ -348,10 +348,10 @@
       ]
     },
     {
-      "company": "Topline Pro",
-      "title": "Business Development Representative - Winter 2026 Cohort",
-      "location": "Brooklyn, NY",
-      "url": "https://www.linkedin.com/jobs/view/4464267268/",
+      "company": "cutandcropped",
+      "title": "Marketing Assistant",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4466663038/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn",
       "feeds": [
@@ -359,10 +359,10 @@
       ]
     },
     {
-      "company": "cutandcropped",
-      "title": "Marketing Assistant",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4466663038/",
+      "company": "Topline Pro",
+      "title": "Business Development Representative - Winter 2026 Cohort",
+      "location": "Brooklyn, NY",
+      "url": "https://www.linkedin.com/jobs/view/4464267268/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn",
       "feeds": [
@@ -396,6 +396,94 @@
       "title": "Bacardi Account Manager \u2013 Long Island, NY",
       "location": "New York, NY",
       "url": "https://www.linkedin.com/jobs/view/4468891174/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Stryker",
+      "title": "Associate Sales Representative - Long Island, NY - Interventional Spine (IVS)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4468894296/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Stryker",
+      "title": "Associate Sales Representative - Long Island, NY - Interventional Spine (IVS)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4469104079/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Stryker",
+      "title": "Associate Sales Representative - Long Island, NY - Interventional Spine (IVS)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4468897197/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Stryker",
+      "title": "Associate Sales Representative - Long Island, NY - Interventional Spine (IVS)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4468889928/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Stryker",
+      "title": "Associate Sales Representative - Long Island, NY - Interventional Spine (IVS)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4468896256/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Stryker",
+      "title": "Associate Sales Representative - Long Island, NY - Interventional Spine (IVS)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4468888932/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Stryker",
+      "title": "Sales Representative - New Jersey South - Hospital (Emergency Care)",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4467176198/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Stryker",
+      "title": "Trauma Sales Representative - Manhattan / Westchester, NY",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4464150112/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn",
       "feeds": [
@@ -518,6 +606,17 @@
       "title": "Wholesale Sales Coordinator",
       "location": "Chicago, IL",
       "url": "https://www.linkedin.com/jobs/view/4469100305/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Congregation Sukkat Shalom",
+      "title": "Executive Assistant",
+      "location": "Wilmette, IL",
+      "url": "https://www.linkedin.com/jobs/view/4467572832/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn",
       "feeds": [
@@ -560,453 +659,10 @@
   ],
   "new_jobs": [
     {
-      "company": "Arena Club",
-      "title": "Recruiting Coordinator (Contract to Hire)",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466638721/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Confidential",
-      "title": "Executive Assistant",
-      "location": "Los Angeles Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4444081562/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "DREAM THREE",
-      "title": "Social Media Manager",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466621815/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Suite Studios",
-      "title": "Business Development Representative",
-      "location": "Los Angeles Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4466637565/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "salary": "$70,000.00/yr - $85,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Herc Rentals",
-      "title": "Territory Sales Representative",
-      "location": "Inglewood, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469115284/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "bisco industries",
-      "title": "Sales Account Manager",
-      "location": "Anaheim, CA",
-      "url": "https://www.linkedin.com/jobs/view/4441274266/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "AECOM",
-      "title": "Client Account Manager, Mining",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466636625/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Raymond West",
-      "title": "Parts Sales Representative",
-      "location": "Santa Clarita, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466645380/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Syneos Health Commercial Solutions",
-      "title": "Professional Pharmaceutical Sales Representative",
-      "location": "Santa Clarita, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468865613/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hilton",
-      "title": "Events Coordinator - Signia by Hilton San Jose",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469114000/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "ManpowerGroup",
-      "title": "Project Coordinator - Response & Recovery Training",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469102209/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TikTok",
-      "title": "Product Operations Specialist (Governance Product) - TikTok LIVE",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466651042/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CCH - (Christian Church Homes)",
-      "title": "Housing Development Assistant",
-      "location": "Walnut Creek, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469116115/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Boys & Girls Clubs of San Francisco",
-      "title": "Youth Development Coordinator",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468893128/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Roblox",
-      "title": "Communications Coordinator, Product Communications",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467823159/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Nex",
-      "title": "Executive Assistant, CEO Office",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469103165/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobot Consulting",
-      "title": "Shipping & Logistics Coordinator",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468893096/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "salary": "$28.00/hr - $30.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "The TJX Companies, Inc.",
-      "title": "Merchandise Coordinator",
-      "location": "San Ramon, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466638488/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Maven Recruiting Group",
-      "title": "Executive Assistant to CEO",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466646030/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Gather Health",
-      "title": "Patient Experience Partner/Inside Sales Rep (Healthcare exp preferred)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468851888/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Snapdocs",
-      "title": "Field Marketing Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4462546320/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Canva",
-      "title": "Field Marketing Manager - 12 Month Contract",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468895385/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CROSSMARK",
-      "title": "Field Sales Representative NE- Wireless & Internet",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468857760/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CROSSMARK",
-      "title": "Field Sales Representative NE- Wireless & Internet",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468853792/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "InfoTrack US",
-      "title": "One Legal Customer Success Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459419872/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "salary": "$66,960.00/yr - $83,700.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Resmed",
-      "title": "Strategic Account Manager (San Francisco, California or San Francisco Bay Area)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465353418/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Gusto",
-      "title": "Health Insurance Sales Operations Analyst",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4468886634/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "National Women's Soccer League (NWSL)",
-      "title": "Administrative Coordinator, Legal & Sporting",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4461325216/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Lenmar Consulting Inc",
-      "title": "Executive Assistant",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4469107336/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Topline Pro",
-      "title": "Business Development Representative - Winter 2026 Cohort",
-      "location": "Brooklyn, NY",
-      "url": "https://www.linkedin.com/jobs/view/4464267268/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "cutandcropped",
-      "title": "Marketing Assistant",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4466663038/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "DREAM THREE",
-      "title": "Social Media Manager",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4466627740/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "thinkcell",
-      "title": "Account Manager, North America",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4468888005/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Bacardi",
-      "title": "Bacardi Account Manager \u2013 Long Island, NY",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4468891174/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Gusto",
-      "title": "Health Insurance Sales Operations Analyst",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4468874897/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Morgan Stanley",
-      "title": "Advance Solutions Project Specialist, AVP",
-      "location": "Alpharetta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4458365102/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Accenture",
-      "title": "Project Specialist- Network Infrastructure",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4466646572/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "ADP",
-      "title": "Implementation Specialist I",
-      "location": "Alpharetta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4466656569/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "PulteGroup",
-      "title": "Procurement Coordinator",
-      "location": "Atlanta Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4466619968/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "AGI Atlanta",
-      "title": "Entry Level Sales Account Manager",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4466640616/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amcor",
-      "title": "Account Manager",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4460531530/",
+      "company": "Cogent Communications",
+      "title": "Global Account Manager",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468894938/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn",
       "feeds": [
@@ -1015,9 +671,9 @@
     },
     {
       "company": "Stryker",
-      "title": "Arterial Account Manager- Atlanta, GA- Peripheral Vascular",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4467183055/",
+      "title": "Associate Sales Representative - Long Island, NY - Interventional Spine (IVS)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4468894296/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn",
       "feeds": [
@@ -1025,10 +681,10 @@
       ]
     },
     {
-      "company": "Imperial Brady",
-      "title": "Project Coordinator",
-      "location": "Glenview, IL",
-      "url": "https://www.linkedin.com/jobs/view/4459995688/",
+      "company": "Stryker",
+      "title": "Associate Sales Representative - Long Island, NY - Interventional Spine (IVS)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4469104079/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn",
       "feeds": [
@@ -1036,22 +692,10 @@
       ]
     },
     {
-      "company": "Digital People",
-      "title": "eCommerce Merchandising Coordinator",
-      "location": "Oak Brook, IL",
-      "url": "https://www.linkedin.com/jobs/view/4462357171/",
-      "date_posted": "2026-09-17",
-      "ats": "LinkedIn",
-      "salary": "$30.00/hr - $32.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Bellroy",
-      "title": "Wholesale Sales Coordinator",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4469100305/",
+      "company": "Stryker",
+      "title": "Associate Sales Representative - Long Island, NY - Interventional Spine (IVS)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4468897197/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn",
       "feeds": [
@@ -1059,10 +703,10 @@
       ]
     },
     {
-      "company": "ThoughtSpot",
-      "title": "Sales Development Representative",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4443193264/",
+      "company": "Stryker",
+      "title": "Associate Sales Representative - Long Island, NY - Interventional Spine (IVS)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4468889928/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn",
       "feeds": [
@@ -1070,10 +714,10 @@
       ]
     },
     {
-      "company": "MedPro Disposal",
-      "title": "Enterprise National Account Manager",
-      "location": "Naperville, IL",
-      "url": "https://www.linkedin.com/jobs/view/4466601092/",
+      "company": "Stryker",
+      "title": "Associate Sales Representative - Long Island, NY - Interventional Spine (IVS)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4468896256/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn",
       "feeds": [
@@ -1081,10 +725,43 @@
       ]
     },
     {
-      "company": "MedPro Disposal",
-      "title": "Enterprise National Account Manager",
-      "location": "Naperville, IL",
-      "url": "https://www.linkedin.com/jobs/view/4466652580/",
+      "company": "Stryker",
+      "title": "Associate Sales Representative - Long Island, NY - Interventional Spine (IVS)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4468888932/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Stryker",
+      "title": "Sales Representative - New Jersey South - Hospital (Emergency Care)",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4467176198/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Stryker",
+      "title": "Trauma Sales Representative - Manhattan / Westchester, NY",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4464150112/",
+      "date_posted": "2026-09-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Congregation Sukkat Shalom",
+      "title": "Executive Assistant",
+      "location": "Wilmette, IL",
+      "url": "https://www.linkedin.com/jobs/view/4467572832/",
       "date_posted": "2026-09-17",
       "ats": "LinkedIn",
       "feeds": [
@@ -1096,7 +773,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 29,
+    "location": 37,
     "stale": 0
   }
 }
