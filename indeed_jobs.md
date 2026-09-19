@@ -1,5 +1,5 @@
 # 🟦 Indeed — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-09-19 17:24 UTC*
+*Last updated: 2026-09-19 19:33 UTC*
 
 **0 new role(s)** since last run · 33 total in last 24h
 
