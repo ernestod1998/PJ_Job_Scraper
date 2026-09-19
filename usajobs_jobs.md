@@ -1,6 +1,9 @@
 # 🇺🇸 USAJOBS — Federal Roles
-*Last updated: 2026-09-18 18:37 UTC*
+*Last updated: 2026-09-19 18:11 UTC*
 
-**0 new role(s)** since last run · 0 total in current USAJOBS postings
+**1 new role(s)** since last run · 1 total in current USAJOBS postings
 
-No new federal roles since the last run.
+### [Social Worker (Program Coordinator)](https://www.usajobs.gov/job/885454100) — Veterans Health Administration
+- 📍 **Location:** Los Angeles, California
+- 💰 **Salary:** Starting at $114,695 Per year (GS 12)
+- 🕒 **Posted:** 2026-09-18
