@@ -1,13 +1,37 @@
 {
-  "scraped_at": "2026-09-20 00:27 UTC",
+  "scraped_at": "2026-09-20 06:04 UTC",
   "total": 13,
-  "new_count": 2,
+  "new_count": 11,
   "jobs": [
     {
-      "company": "SBG Builders",
-      "title": "Assistant Project Manager",
-      "location": "San Clemente, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468402579/",
+      "company": "Crossover",
+      "title": "Operations Coordinator, Alpha - $90,000/year USD",
+      "location": "Torrance, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466812559/",
+      "date_posted": "2026-09-19",
+      "ats": "LinkedIn",
+      "salary": "$90,000.00/yr - $90,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Crossover",
+      "title": "Site Operations Coordinator, Alpha - $90,000/year USD",
+      "location": "Torrance, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466827051/",
+      "date_posted": "2026-09-19",
+      "ats": "LinkedIn",
+      "salary": "$90,000.00/yr - $90,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "BioSpace",
+      "title": "Executive Assistant",
+      "location": "Pasadena, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469583140/",
       "date_posted": "2026-09-19",
       "ats": "LinkedIn",
       "feeds": [
@@ -15,13 +39,45 @@
       ]
     },
     {
-      "company": "Digital Media Management",
-      "title": "Social Media Manager - LA",
+      "company": "Onetera",
+      "title": "Partnership Account Manager",
       "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469566425/",
+      "url": "https://www.linkedin.com/jobs/view/4468435909/",
       "date_posted": "2026-09-19",
       "ats": "LinkedIn",
-      "salary": "$70,304.00/yr - $72,500.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "US Flooring & Molding Inc",
+      "title": "Outside Sales Representative",
+      "location": "Burbank, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469574616/",
+      "date_posted": "2026-09-19",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Platinum Commerce",
+      "title": "TikTok Shop Account Manager - Reseller Accounts",
+      "location": "Beverly Hills, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468419466/",
+      "date_posted": "2026-09-19",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Stryker",
+      "title": "Trauma Sales Representative- Los Angeles, CA",
+      "location": "Pasadena, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466121775/",
+      "date_posted": "2026-09-19",
+      "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
@@ -31,72 +87,6 @@
       "title": "Trauma Sales Representative- Los Angeles, CA",
       "location": "Los Angeles, CA",
       "url": "https://www.linkedin.com/jobs/view/4466113852/",
-      "date_posted": "2026-09-19",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "University of California, San Francisco",
-      "title": "Assistant Clinical Research Coordinator - Memory and Aging",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467909345/",
-      "date_posted": "2026-09-19",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Agilent Technologies",
-      "title": "Executive Assistant",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469565127/",
-      "date_posted": "2026-09-19",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Gusto",
-      "title": "Health Insurance Sales Operations Analyst",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4469553868/",
-      "date_posted": "2026-09-19",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Partnership for After School Education (PASE)",
-      "title": "Beacon Outreach Coordinator (Rockaway YMCA)",
-      "location": "Queens, NY",
-      "url": "https://www.linkedin.com/jobs/view/4466994357/",
-      "date_posted": "2026-09-19",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Whitman Advisory Job Community",
-      "title": "Business Development Coordinator $75k-$104k",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4466991395/",
-      "date_posted": "2026-09-19",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Kevin Champeny",
-      "title": "Social Media Manager",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4468030801/",
       "date_posted": "2026-09-19",
       "ats": "LinkedIn",
       "feeds": [
@@ -115,10 +105,10 @@
       ]
     },
     {
-      "company": "Gusto",
-      "title": "Health Insurance Sales Operations Analyst",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4469558304/",
+      "company": "RG&T Solutions",
+      "title": "Power Equipment & Marine Media Coordinator",
+      "location": "Alpharetta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4468456050/",
       "date_posted": "2026-09-19",
       "ats": "LinkedIn",
       "feeds": [
@@ -126,10 +116,10 @@
       ]
     },
     {
-      "company": "The Sotos Law Firm, P.C.",
-      "title": "Operations Coordinator and Executive Assistant to Managing Partner",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4468098631/",
+      "company": "RG&T Solutions",
+      "title": "Sales Operations Assistant Manager",
+      "location": "Alpharetta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4468455101/",
       "date_posted": "2026-09-19",
       "ats": "LinkedIn",
       "feeds": [
@@ -137,10 +127,21 @@
       ]
     },
     {
-      "company": "C.H. Robinson",
-      "title": "Strategic Account Manager",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4469567107/",
+      "company": "Hintech Recruiting LLC",
+      "title": "Medical Sales Representative",
+      "location": "Atlanta Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4467879748/",
+      "date_posted": "2026-09-19",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "IM Global LLC",
+      "title": "Entry-level logistics coordinator (Bilingual in Mandarin)",
+      "location": "Elk Grove Village, IL",
+      "url": "https://www.linkedin.com/jobs/view/4468433427/",
       "date_posted": "2026-09-19",
       "ats": "LinkedIn",
       "feeds": [
@@ -150,22 +151,122 @@
   ],
   "new_jobs": [
     {
-      "company": "Digital Media Management",
-      "title": "Social Media Manager - LA",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469566425/",
+      "company": "Crossover",
+      "title": "Operations Coordinator, Alpha - $90,000/year USD",
+      "location": "Torrance, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466812559/",
       "date_posted": "2026-09-19",
       "ats": "LinkedIn",
-      "salary": "$70,304.00/yr - $72,500.00/yr",
+      "salary": "$90,000.00/yr - $90,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "University of California, San Francisco",
-      "title": "Assistant Clinical Research Coordinator - Memory and Aging",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467909345/",
+      "company": "Crossover",
+      "title": "Site Operations Coordinator, Alpha - $90,000/year USD",
+      "location": "Torrance, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466827051/",
+      "date_posted": "2026-09-19",
+      "ats": "LinkedIn",
+      "salary": "$90,000.00/yr - $90,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "BioSpace",
+      "title": "Executive Assistant",
+      "location": "Pasadena, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469583140/",
+      "date_posted": "2026-09-19",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Onetera",
+      "title": "Partnership Account Manager",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468435909/",
+      "date_posted": "2026-09-19",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "US Flooring & Molding Inc",
+      "title": "Outside Sales Representative",
+      "location": "Burbank, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469574616/",
+      "date_posted": "2026-09-19",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Platinum Commerce",
+      "title": "TikTok Shop Account Manager - Reseller Accounts",
+      "location": "Beverly Hills, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468419466/",
+      "date_posted": "2026-09-19",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Stryker",
+      "title": "Trauma Sales Representative- Los Angeles, CA",
+      "location": "Pasadena, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466121775/",
+      "date_posted": "2026-09-19",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "RG&T Solutions",
+      "title": "Power Equipment & Marine Media Coordinator",
+      "location": "Alpharetta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4468456050/",
+      "date_posted": "2026-09-19",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "RG&T Solutions",
+      "title": "Sales Operations Assistant Manager",
+      "location": "Alpharetta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4468455101/",
+      "date_posted": "2026-09-19",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hintech Recruiting LLC",
+      "title": "Medical Sales Representative",
+      "location": "Atlanta Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4467879748/",
+      "date_posted": "2026-09-19",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "IM Global LLC",
+      "title": "Entry-level logistics coordinator (Bilingual in Mandarin)",
+      "location": "Elk Grove Village, IL",
+      "url": "https://www.linkedin.com/jobs/view/4468433427/",
       "date_posted": "2026-09-19",
       "ats": "LinkedIn",
       "feeds": [
@@ -177,7 +278,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 5,
+    "location": 7,
     "stale": 0
   }
 }
