@@ -1,50 +1,30 @@
 # 🔥 LinkedIn — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-09-20 06:04 UTC*
+*Last updated: 2026-09-20 07:05 UTC*
 
-**11 new role(s)** since last run · 13 total in last 4h
+**6 new role(s)** since last run · 16 total in last 4h
 
-### [Operations Coordinator, Alpha - $90,000/year USD](https://www.linkedin.com/jobs/view/4466812559/) — Crossover
-- 📍 **Location:** Torrance, CA
-- 💰 **Salary:** $90,000.00/yr - $90,000.00/yr
-- 🕒 **Posted:** 2026-09-19
+### [Global Account Manager](https://www.linkedin.com/jobs/view/4469584275/) — Cogent Communications
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-20
 
-### [Site Operations Coordinator, Alpha - $90,000/year USD](https://www.linkedin.com/jobs/view/4466827051/) — Crossover
-- 📍 **Location:** Torrance, CA
-- 💰 **Salary:** $90,000.00/yr - $90,000.00/yr
-- 🕒 **Posted:** 2026-09-19
+### [Recruiting Coordinator (2-year fixed-term assignment) (26B9AA8)](https://www.linkedin.com/jobs/view/4469576799/) — Referment
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $85,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-09-20
 
-### [Executive Assistant](https://www.linkedin.com/jobs/view/4469583140/) — BioSpace
-- 📍 **Location:** Pasadena, CA
-- 🕒 **Posted:** 2026-09-19
+### [Global Account Manager](https://www.linkedin.com/jobs/view/4469588209/) — Cogent Communications
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-20
 
-### [Partnership Account Manager](https://www.linkedin.com/jobs/view/4468435909/) — Onetera
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-09-19
+### [Strategy and Business Development Associate – Commercial Data Insights (36E1659)](https://www.linkedin.com/jobs/view/4469585227/) — Referment
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $140,000.00/yr - $175,000.00/yr
+- 🕒 **Posted:** 2026-09-20
 
-### [Outside Sales Representative](https://www.linkedin.com/jobs/view/4469574616/) — US Flooring & Molding Inc
-- 📍 **Location:** Burbank, CA
-- 🕒 **Posted:** 2026-09-19
-
-### [TikTok Shop Account Manager - Reseller Accounts](https://www.linkedin.com/jobs/view/4468419466/) — Platinum Commerce
-- 📍 **Location:** Beverly Hills, CA
-- 🕒 **Posted:** 2026-09-19
-
-### [Trauma Sales Representative- Los Angeles, CA](https://www.linkedin.com/jobs/view/4466121775/) — Stryker
-- 📍 **Location:** Pasadena, CA
-- 🕒 **Posted:** 2026-09-19
-
-### [Power Equipment & Marine Media Coordinator](https://www.linkedin.com/jobs/view/4468456050/) — RG&T Solutions
-- 📍 **Location:** Alpharetta, GA
-- 🕒 **Posted:** 2026-09-19
-
-### [Sales Operations Assistant Manager](https://www.linkedin.com/jobs/view/4468455101/) — RG&T Solutions
-- 📍 **Location:** Alpharetta, GA
-- 🕒 **Posted:** 2026-09-19
-
-### [Medical Sales Representative](https://www.linkedin.com/jobs/view/4467879748/) — Hintech Recruiting LLC
+### [Global Account Manager](https://www.linkedin.com/jobs/view/4469570871/) — Cogent Communications
 - 📍 **Location:** Atlanta Metropolitan Area
-- 🕒 **Posted:** 2026-09-19
+- 🕒 **Posted:** 2026-09-20
 
-### [Entry-level logistics coordinator (Bilingual in Mandarin)](https://www.linkedin.com/jobs/view/4468433427/) — IM Global LLC
-- 📍 **Location:** Elk Grove Village, IL
-- 🕒 **Posted:** 2026-09-19
+### [Global Account Manager](https://www.linkedin.com/jobs/view/4469571974/) — Cogent Communications
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-09-20
