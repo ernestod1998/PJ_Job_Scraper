@@ -1,20 +1,16 @@
 # 🎬 Entertainment — Studios / Agencies / Labels (direct ATS + LinkedIn allowlist)
-*Last updated: 2026-09-23 08:38 UTC*
+*Last updated: 2026-09-24 08:33 UTC*
 
-**4 new role(s)** since last run · 41 total in last 24h
+**3 new role(s)** since last run · 40 total in last 24h
 
-### [Publicity Coordinator (Disney Entertainment Television)](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Publicity-Coordinator--Disney-Entertainment-Television-_10161368) — The Walt Disney Company
-- 📍 **Location:** Burbank, CA, USA
+### [Artist Management & Operations Associate](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/Artist-Management---Operations-Associate_JR-93256) — Live Nation Entertainment
+- 📍 **Location:** Beverly Hills, CA, USA
 - 🕒 **Posted:** Posted Yesterday
 
-### [Post Production Coordinator](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Post-Production-Coordinator_10158004-1) — The Walt Disney Company
-- 📍 **Location:** Burbank, CA, USA
-- 🕒 **Posted:** Posted Yesterday
+### [Digital Operations Specialist, Local](https://www.linkedin.com/jobs/view/4470940815/) — NBCUniversal
+- 📍 **Location:** Universal City, CA
+- 🕒 **Posted:** 2026-09-23
 
-### [Digital Distribution Coordinator](https://www.linkedin.com/jobs/view/4468913849/) — A24
-- 📍 **Location:** West Hollywood, CA
-- 🕒 **Posted:** 2026-09-22
-
-### [Multi-Platform Marketing Specialist, Telemundo Area de la Bahia  48](https://www.linkedin.com/jobs/view/4470494463/) — NBCUniversal
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-22
+### [Data Account Manager](https://www.linkedin.com/jobs/view/4469498998/) — INNOCEAN USA
+- 📍 **Location:** Huntington Beach, CA
+- 🕒 **Posted:** 2026-09-23
