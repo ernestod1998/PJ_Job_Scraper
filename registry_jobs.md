@@ -1,60 +1,40 @@
 # 🗃 Direct ATS Registry — Marketing / Account Mgmt / Coordinator Roles
-*Last updated: 2026-09-24 18:18 UTC*
+*Last updated: 2026-09-25 18:25 UTC*
 
-**14 new role(s)** since last run · 71 total in current registry shard
+**9 new role(s)** since last run · 64 total in current registry shard
 
-### [Experienced Production Operations Specialist (Environmental Testing) 2nd Shift – Millennium Space Systems](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Experienced-Production-Operations-Specialist--Environmental-Testing--2nd-Shift---Millennium-Space-Systems_JR2026522352) — The Boeing Company
-- 📍 **Location:** USA - El Segundo, CA
-- 🕒 **Posted:** Posted Today
+### [Commercial Service Account Manager - Southeast Georgia](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAG02-CCS-Marietta-1800-Sandy-Plains-Industrial-Parkway-Marietta-GA-30066-USA/Commercial-Service-Account-Manager---Southeast-Georgia_30216134) — Carrier Global
+- 📍 **Location:** CAG02: CCS-Marietta, 1800 Sandy Plains Industrial Parkway, Marietta, GA, 30066 USA
+- 🕒 **Posted:** Posted 10 Days Ago
 
-### [Account Manager, Sales](https://carters.wd1.myworkdayjobs.com/CartersCareers/job/Atlanta-GA/Account-Manager--Sales_JR61278) — Carter's
-- 📍 **Location:** Atlanta, GA
+### [Sales Representative (Medicare)](https://centene.wd5.myworkdayjobs.com/Centene_External/job/New-York-New-York10002/Sales-Representative--Medicare-_1652421) — Centene
+- 📍 **Location:** New York-New York(10002); Queens-91-08 Roosevelt Ave (11045); Staten Island - 965 Richmond Ave Suite B7 (11160); Bronx-1043 Southern Blvd (11035); Brooklyn - 2133 86th St (11137)
 - 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Field Marketing Specialist](https://cecentertainment.wd5.myworkdayjobs.com/CEC_Careers/job/2990-Cumberland-Blvd-Se-Atlanta-GA/Field-Marketing-Specialists_R135028) — Chuck E. Cheese
-- 📍 **Location:** 2990 Cumberland Blvd. Se, Atlanta, GA
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Account Manager](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Service-Delivery-Manager_R11884) — Clearwater Analytics
-- 📍 **Location:** Office - Chicago
-- 🕒 **Posted:** Posted 2 Days Ago
-
-### [Customer Account Manager](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Burbank-California/Customer-Account-Manager_JR102328) — Crane Co.
-- 📍 **Location:** Burbank, California
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Inside Sales Manager](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Bolingbrook-Illinois/Inside-Sales-Manager_JR101278) — Crane Co.
-- 📍 **Location:** Bolingbrook, Illinois
+### [Sales Representative (Medicare)](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Long-Island-City---25-01-Jackson-Ave-10936/Sales-Representative--Medicare-_1657422) — Centene
+- 📍 **Location:** Brooklyn-New York(11201)
 - 🕒 **Posted:** Posted 16 Days Ago
 
-### [SMB Account Manager (Hybrid)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Austin-TX/SMB-Account-Manager--Hybrid-_R29514-1) — Crowdstrike
-- 📍 **Location:** USA - Sunnyvale, CA
-- 🕒 **Posted:** Posted 24 Days Ago
-
-### [Executive Assistant (Hybrid, Sunnyvale)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Executive-Assistant--Hybrid--Sunnyvale-_R30103) — Crowdstrike
-- 📍 **Location:** USA - Sunnyvale, CA
-- 🕒 **Posted:** Posted 9 Days Ago
-
-### [Salesforce Project Coordinator](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Salesforce-Project-Coordinator_R-52331) — Crowe
-- 📍 **Location:** Chicago IL USA
+### [Inside Sales Specialist](https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-CA-Brea-Nuclear/Inside-Sales-Specialist_JR13671-1) — Curtiss-Wright Corporation
+- 📍 **Location:** US-CA-Brea (Nuclear)
 - 🕒 **Posted:** Posted 2 Days Ago
 
-### [MSFT AI Business Solutions Project Coordinator Campus](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/D365-ERP-Project-Coordinator_R-51937) — Crowe
-- 📍 **Location:** Chicago IL USA
-- 🕒 **Posted:** Posted 13 Days Ago
+### [Research Coordinator](https://cw.wd1.myworkdayjobs.com/external/job/Chicago-Illinois-USA/Research-Coordinator_R337075) — Cushman & Wakefield
+- 📍 **Location:** Chicago, Illinois, USA
+- 🕒 **Posted:** Posted 7 Days Ago
 
-### [MSFT AI Business Solutions Project Coordinator Intern](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/D365-ERP-Project-Coordinator-Intern_R-71038) — Crowe
-- 📍 **Location:** Chicago IL USA
-- 🕒 **Posted:** Posted 13 Days Ago
+### [Industrial Facilities Account Manager](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---GA---Atlanta---223-James-P-Brawley-Dr-SW/Industrial-Facilities-Account-Manager_R337110) — Cushman & Wakefield
+- 📍 **Location:** Client Site - USA - GA - Atlanta - 223 James P Brawley Dr SW
+- 🕒 **Posted:** Posted 8 Days Ago
 
-### [AI Project Coordinator Intern](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/AI-Project-Coordinator-Intern_R-71007) — Crowe
-- 📍 **Location:** Chicago IL USA
-- 🕒 **Posted:** Posted 30+ Days Ago
+### [Operations Specialist](https://cw.wd1.myworkdayjobs.com/external/job/Atlanta-Georgia-USA/Operations-Specialist_R311312-1) — Cushman & Wakefield
+- 📍 **Location:** Atlanta, Georgia, USA
+- 🕒 **Posted:** Posted 29 Days Ago
 
-### [AI Project Coordinator](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/AI-Project-Coordinator_R-71011) — Crowe
-- 📍 **Location:** Chicago IL USA
-- 🕒 **Posted:** Posted 30+ Days Ago
+### [Operations Coordinator ( CRE )](https://cw.wd1.myworkdayjobs.com/external/job/New-York-New-York-USA/Operations-Coordinator---CRE--_R337059) — Cushman & Wakefield
+- 📍 **Location:** New York, New York, USA
+- 🕒 **Posted:** Posted 8 Days Ago
 
-### [Field Beauty Sales Coordinator](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CA---Burbank/Field-Beauty-Sales-Consultant_R0987291) — CVS Health
-- 📍 **Location:** CA - Burbank
-- 🕒 **Posted:** Posted 30 Days Ago
+### [Operations Specialist - Finance](https://cw.wd1.myworkdayjobs.com/external/job/Chicago-Illinois-USA/Operations-Specialist---Finance_R313315) — Cushman & Wakefield
+- 📍 **Location:** Chicago, Illinois, USA
+- 🕒 **Posted:** Posted 10 Days Ago
