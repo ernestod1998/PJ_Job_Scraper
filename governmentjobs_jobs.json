@@ -1,8 +1,20 @@
 {
-  "scraped_at": "2026-09-25 20:04 UTC",
-  "total": 4,
-  "new_count": 0,
+  "scraped_at": "2026-09-26 19:15 UTC",
+  "total": 5,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "City of San Rafael",
+      "title": "Program Coordinator",
+      "location": "San Rafael, CA",
+      "url": "https://www.governmentjobs.com/jobs/151334-1/program-coordinator",
+      "date_posted": "",
+      "salary": "$6,381.00 - $7,756.00 Monthly",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    },
     {
       "company": "City of Redondo Beach",
       "title": "Program Coordinator - Part-Time (Afterschool Site Lead)",
@@ -52,7 +64,20 @@
       ]
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "City of San Rafael",
+      "title": "Program Coordinator",
+      "location": "San Rafael, CA",
+      "url": "https://www.governmentjobs.com/jobs/151334-1/program-coordinator",
+      "date_posted": "",
+      "salary": "$6,381.00 - $7,756.00 Monthly",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,

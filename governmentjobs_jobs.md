@@ -1,6 +1,8 @@
 # 🏛 NEOGOV — State & Local Government Roles
-*Last updated: 2026-09-25 20:04 UTC*
+*Last updated: 2026-09-26 19:15 UTC*
 
-**0 new role(s)** since last run · 4 total in recent GovernmentJobs postings
+**1 new role(s)** since last run · 5 total in recent GovernmentJobs postings
 
-No new state/local-gov roles since the last run.
+### [Program Coordinator](https://www.governmentjobs.com/jobs/151334-1/program-coordinator) — City of San Rafael
+- 📍 **Location:** San Rafael, CA
+- 💰 **Salary:** $6,381.00 - $7,756.00 Monthly
