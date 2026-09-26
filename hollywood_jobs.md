@@ -1,24 +1,28 @@
 # 🎬 Entertainment — Studios / Agencies / Labels (direct ATS + LinkedIn allowlist)
-*Last updated: 2026-09-25 08:57 UTC*
+*Last updated: 2026-09-26 08:45 UTC*
 
-**5 new role(s)** since last run · 40 total in last 24h
+**6 new role(s)** since last run · 42 total in last 24h
 
-### [Producer & Social Media Specialist](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Los-Angeles-CA-Burbank---Olive/Producer---Social-Media-Specialist_Req39366-2) — iHeartMedia
-- 📍 **Location:** Los Angeles, CA (Burbank - Olive)
+### [COE Associate Project Manager](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/COE-Associate-Project-Manager_10161038) — The Walt Disney Company
+- 📍 **Location:** Burbank, CA, USA
 - 🕒 **Posted:** Posted Yesterday
 
-### [Partnerships Operations Specialist](https://www.linkedin.com/jobs/view/4471818200/) — Snap Inc.
+### [Junior Publicist A/Photo Editor](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Junior-Publicist-A-Photo-Editor_10160935-1) — The Walt Disney Company
+- 📍 **Location:** Burbank, CA, USA
+- 🕒 **Posted:** Posted Yesterday
+
+### [Event Marketing Partner - Global Organizational Culture (AMS)](https://www.linkedin.com/jobs/view/4470789567/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-26
+
+### [Retail & Licensing Coordinator - Ceremony Of Roses](https://www.linkedin.com/jobs/view/4467162440/) — Sony Music Entertainment
 - 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-09-25
 
-### [Executive Assistant, Business Affairs](https://www.linkedin.com/jobs/view/4471824761/) — Paramount Pictures
+### [Strategic Partnerships Coordinator - Ceremony Of Roses](https://www.linkedin.com/jobs/view/4470034576/) — Sony Music Entertainment
 - 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-09-25
 
-### [Publicist](https://www.linkedin.com/jobs/view/4453161806/) — NBCUniversal
-- 📍 **Location:** Universal City, CA
-- 🕒 **Posted:** 2026-09-24
-
-### [Coordinator, Digital Marketing](https://www.linkedin.com/jobs/view/4471699796/) — NBCUniversal
-- 📍 **Location:** Universal City, CA
-- 🕒 **Posted:** 2026-09-24
+### [Executive Assistant](https://www.linkedin.com/jobs/view/4463108148/) — Fox Entertainment
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-09-25
