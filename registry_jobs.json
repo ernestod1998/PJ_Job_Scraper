@@ -1,646 +1,8 @@
 {
-  "scraped_at": "2026-09-25 18:25 UTC",
-  "total": 64,
-  "new_count": 9,
+  "scraped_at": "2026-09-26 17:44 UTC",
+  "total": 72,
+  "new_count": 66,
   "jobs": [
-    {
-      "company": "CHEP",
-      "title": "Account Manager",
-      "location": "Milan, Lombardy, Italy",
-      "url": "https://brambles.wd5.myworkdayjobs.com/Brambles_Careers/job/Milan-Lombardy-Italy/Account-Manager_JR21017",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CHEP",
-      "title": "Key Account Manager",
-      "location": "Milan, Lombardy, Italy",
-      "url": "https://brambles.wd5.myworkdayjobs.com/Brambles_Careers/job/Milan-Lombardy-Italy/Key-Account-Manager_JR24280",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Brenntag",
-      "title": "Account Manager - Food/Nutrition Raw Ingredients",
-      "location": "USA/BSS/Chicago",
-      "url": "https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/USABSSChicago/Account-Manager---Food-Nutrition_JR111849",
-      "date_posted": "Posted 9 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Broadridge",
-      "title": "Marketing Specialist",
-      "location": "New York, NY",
-      "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/New-York-NY/Marketing-Specialist_JR1085657",
-      "date_posted": "Posted 10 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Broadridge",
-      "title": "DTC Settlements Operations Associate (Hybrid)",
-      "location": "Newark, NJ",
-      "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Newark-NJ/DTC-Settlements-Operations-Associate--Hybrid-_JR1085870",
-      "date_posted": "Posted 3 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Broadridge",
-      "title": "Operations Associate (Hybrid)",
-      "location": "Newark, NJ",
-      "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Newark-NJ/Operations-Associate--Hybrid-_JR1085284",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Argo Group",
-      "title": "Account Manager, Construction Owners",
-      "location": "US NY - New York City",
-      "url": "https://brookfield.wd5.myworkdayjobs.com/bpandc/job/US-VA---Richmond/Account-Manager--Construction-Owners_R2052060",
-      "date_posted": "",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Brookfield",
-      "title": "Executive Assistant",
-      "location": "New York, New York",
-      "url": "https://brookfield.wd5.myworkdayjobs.com/brookfield/job/New-York-New-York/Executive-Assistant_R2047555-2",
-      "date_posted": "",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "BTI Solutions",
-      "title": "Logistics Coordinator (AIR & Ocean Operations)",
-      "location": "Santa Ana, CA",
-      "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Santa-Ana-CA/Logistics-Coordinator--AIR---Ocean-Operations-_JR101942-1",
-      "date_posted": "Posted 14 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Deluxe Media",
-      "title": "Account Coordinator",
-      "location": "US-CA-Burbank",
-      "url": "https://bydeluxe.wd5.myworkdayjobs.com/Deluxe_External/job/US-CA-Burbank/Account-Coordinator_R0016349",
-      "date_posted": "Posted 17 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Deluxe Media",
-      "title": "Account Coordinator",
-      "location": "US-CA-Burbank",
-      "url": "https://bydeluxe.wd5.myworkdayjobs.com/Deluxe_External/job/US-CA-Burbank/Account-Coordinator_R0016278",
-      "date_posted": "Posted 29 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Camping World",
-      "title": "Field Marketing Coordinator - Entry Level",
-      "location": "Lincolnshire, IL",
-      "url": "https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Lincolnshire-IL/Field-Marketing-Coordinator_26_07430",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Canadian Solar",
-      "title": "Sales Operations Specialist",
-      "location": "Walnut Creek, CA",
-      "url": "https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Walnut-Creek-CA/Sales-Operations-Specialist_10001288",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Carrier Global",
-      "title": "Commercial Service Account Manager - Southeast Georgia",
-      "location": "CAG02: CCS-Marietta, 1800 Sandy Plains Industrial Parkway, Marietta, GA, 30066 USA",
-      "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAG02-CCS-Marietta-1800-Sandy-Plains-Industrial-Parkway-Marietta-GA-30066-USA/Commercial-Service-Account-Manager---Southeast-Georgia_30216134",
-      "date_posted": "Posted 10 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Carrier Global",
-      "title": "Inside Sales Associate - NYC",
-      "location": "CAN35: CCS-New York, 1350 Broadway, New York, NY, 10018 USA",
-      "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN35-CCS-New-York-1350-Broadway-New-York-NY-10018-USA/Inside-Sales-Associate---NYC_30210919",
-      "date_posted": "Posted 23 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Carrier Global",
-      "title": "Inside Sales Associate - Chicago",
-      "location": "CAI10: CCS-Chicago, 7501 South Quincy Street, Willowbrook, IL, 60527 USA",
-      "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI10-CCS-Chicago-7501-South-Quincy-Street-Willowbrook-IL-60527-USA/Inside-Sales-Associate---Chicago_30213935",
-      "date_posted": "Posted 10 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Carter's",
-      "title": "Account Manager, Sales",
-      "location": "Atlanta, GA",
-      "url": "https://carters.wd1.myworkdayjobs.com/CartersCareers/job/Atlanta-GA/Account-Manager--Sales_JR61278",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CDK Global",
-      "title": "OEM Account Manager",
-      "location": "Newark, NJ, USA",
-      "url": "https://cdk.wd1.myworkdayjobs.com/CDK/job/Newark-NJ-USA/OEM-Account-Manager_JR9316-1",
-      "date_posted": "Posted 4 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CDK Global",
-      "title": "Customer Success Specialist - Modern Retail",
-      "location": "Newark, NJ, USA",
-      "url": "https://cdk.wd1.myworkdayjobs.com/CDK/job/US---Maryland---Home-Office/Customer-Success-Specialist---Modern-Retail_JR9177",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Chuck E. Cheese",
-      "title": "Field Marketing Specialist",
-      "location": "2990 Cumberland Blvd. Se, Atlanta, GA",
-      "url": "https://cecentertainment.wd5.myworkdayjobs.com/CEC_Careers/job/2990-Cumberland-Blvd-Se-Atlanta-GA/Field-Marketing-Specialists_R135028",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Centene",
-      "title": "Sales Representative (Medicare)",
-      "location": "New York-New York(10002); Queens-91-08 Roosevelt Ave (11045); Staten Island - 965 Richmond Ave Suite B7 (11160); Bronx-1043 Southern Blvd (11035); Brooklyn - 2133 86th St (11137)",
-      "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/New-York-New-York10002/Sales-Representative--Medicare-_1652421",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Centene",
-      "title": "Sales Representative (Medicare)",
-      "location": "Brooklyn-New York(11201)",
-      "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Long-Island-City---25-01-Jackson-Ave-10936/Sales-Representative--Medicare-_1657422",
-      "date_posted": "Posted 16 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cerity Partners",
-      "title": "Client Relationship Associate",
-      "location": "Chicago, IL",
-      "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Chicago-IL/Client-Relationship-Associate_R852",
-      "date_posted": "Posted 15 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cerity Partners",
-      "title": "Business Development Associate",
-      "location": "New York City, NY",
-      "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Business-Development-Associate_R908",
-      "date_posted": "Posted 10 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Chamberlain Group",
-      "title": "Media Coordinator - National/DTC Media",
-      "location": "Oak Brook, IL",
-      "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Media-Coordinator---National-DTC-Media_JR31257",
-      "date_posted": "",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Chamberlain Group",
-      "title": "Media Coordinator - Retail Media (Amazon)",
-      "location": "Oak Brook, IL",
-      "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Media-Coordinator---Retail-Media--Amazon-_JR31255",
-      "date_posted": "",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "ChenMed",
-      "title": "Healthcare Sales Representative",
-      "location": "Oakland Park",
-      "url": "https://chenmed.wd1.myworkdayjobs.com/chenmed/job/Oakland-Park/Healthcare-Sales-Representative_R0049586",
-      "date_posted": "Posted 17 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CIBC",
-      "title": "Executive Assistant - Corporate/Investment Banking",
-      "location": "New York, NY",
-      "url": "https://cibc.wd3.myworkdayjobs.com/search/job/New-York-NY/Executive-Assistant---Corporate-Investment-Banking_2617507",
-      "date_posted": "Posted 7 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CIBC",
-      "title": "Loan Operations Specialist IV",
-      "location": "Chicago, IL",
-      "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/Loan-Operations-Specialist-IV_2616955",
-      "date_posted": "Posted 11 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Circle",
-      "title": "Hospitality & Operations Specialist (Temporary)",
-      "location": "New York City - remote first in US",
-      "url": "https://circle.wd1.myworkdayjobs.com/Circle/job/New-York-City---remote-first-in-US/Hospitality---Operations-Specialist_JR101123",
-      "date_posted": "Posted 29 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cisco",
-      "title": "Customer Experience Customer Success Specialist (Remote)",
-      "location": "San Jose, California, US",
-      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Customer-Experience-Customer-Success-Specialist--Remote-_2024394-1",
-      "date_posted": "Posted 4 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Clearwater Analytics",
-      "title": "Account Manager",
-      "location": "Office - Chicago",
-      "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Service-Delivery-Manager_R11884",
-      "date_posted": "Posted 3 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CNA Insurance",
-      "title": "Client Services Manager - Middle Market/Construction",
-      "location": "Downers Grove, IL, USA",
-      "url": "https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Downers-Grove-IL-USA/Client-Services-Manager---National-Accounts_R-7538",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cohesity",
-      "title": "Sales Operations Manager",
-      "location": "Santa Clara, CA - USA (Office)",
-      "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Sales-Operations-Manager_R04664",
-      "date_posted": "Posted 8 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Collectors",
-      "title": "Client Services Associate - Santa Ana, CA (Onsite)",
-      "location": "Santa Ana, CA",
-      "url": "https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Santa-Ana-CA/Client-Services-Associate---Santa-Ana--CA--Onsite-_JR104559",
-      "date_posted": "Posted 16 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Collectors",
-      "title": "Real Estate Project Coordinator",
-      "location": "Santa Ana, CA",
-      "url": "https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Santa-Ana-CA/Real-Estate-Project-Coordinator_JR106560",
-      "date_posted": "Posted 21 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Collectors",
-      "title": "Executive Assistant",
-      "location": "Santa Ana, CA",
-      "url": "https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Santa-Ana-CA/Executive-Assistant_JR106201",
-      "date_posted": "Posted 17 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Collectors",
-      "title": "Operations Associate, PSA (Temp-To-Hire) (Shift 1)",
-      "location": "Santa Ana, CA",
-      "url": "https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Santa-Ana-CA/Operations-Associate---temp-to-hire---Shift-2-_JR103405",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Collectors",
-      "title": "Operations Associate, PSA (Temp-To-Hire) (Shift 2)",
-      "location": "Santa Ana, CA",
-      "url": "https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Santa-Ana-CA/Operations-Associate--PSA--Temp-To-Hire---Shift-2-_JR103910-3",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Collectors",
-      "title": "Workplace Operations Associate (PM Shift)",
-      "location": "Santa Ana, CA",
-      "url": "https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Santa-Ana-CA/Workplace-Operations-Associate--PM-Shift-_JR105480",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Collectors",
-      "title": "Workplace Operations Associate (AM Shift)",
-      "location": "Santa Ana, CA",
-      "url": "https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Santa-Ana-CA/Workplace-Operations-Associate--AM-Shift-_JR105481",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Collectors",
-      "title": "Account Manager, Marketplace",
-      "location": "Santa Ana, CA",
-      "url": "https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Santa-Ana-CA/Account-Manager--PSA-Offers_JR103964",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Collectors",
-      "title": "Sales Operations Manager, Marketplace",
-      "location": "Santa Ana, CA",
-      "url": "https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Santa-Ana-CA/Sales-Operations-Manager--Marketplace_JR106117",
-      "date_posted": "Posted 28 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Collectors",
-      "title": "Marketplace Business Operations Program Manager",
-      "location": "Santa Ana, CA",
-      "url": "https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Santa-Ana-CA/Marketplace-Business-Operations-Program-Manager_JR106115",
-      "date_posted": "Posted 21 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "ZT Systems",
-      "title": "Warranty Operations Coordinator",
-      "location": "Secaucus, NJ",
-      "url": "https://connect.wd1.myworkdayjobs.com/ztsystemscareers/job/Secaucus-NJ/Warranty-Operations-Coordinator_R-105189",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CoStar Group",
-      "title": "Manager, Brand Marketing, CoStar Real Estate Manager & Visual Lease",
-      "location": "US-GA Atlanta",
-      "url": "https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-GA-Atlanta/Brand-and-Events-Manager--CoStar-Real-Estate-Manager---Visual-Lease_R39034",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CoStar Group",
-      "title": "Business Development Representative I - Real Estate Manager/ Visual Lease - Atlanta, GA",
-      "location": "US-GA Atlanta",
-      "url": "https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-GA-Atlanta/Business-Development-Representative-I---Real-Estate-Manager--Visual-Lease---Atlanta--GA_R38694",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cox",
-      "title": "Manager, Fleet Client Services",
-      "location": "Newark NJ",
-      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Newark-NJ/Manager--Fleet-Client-Services_R202676582",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cox",
-      "title": "Executive Assistant II",
-      "location": "Atlanta GA",
-      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Executive-Assistant-II_R202682864-1",
-      "date_posted": "Posted 2 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Crane Co.",
-      "title": "Customer Account Manager",
-      "location": "Burbank, California",
-      "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Burbank-California/Customer-Account-Manager_JR102328",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Crane Co.",
-      "title": "Inside Sales Manager",
-      "location": "Bolingbrook, Illinois",
-      "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Bolingbrook-Illinois/Inside-Sales-Manager_JR101278",
-      "date_posted": "Posted 17 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Crowdstrike",
-      "title": "Executive Assistant (Hybrid, Sunnyvale)",
-      "location": "USA - Sunnyvale, CA",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Executive-Assistant--Hybrid--Sunnyvale-_R30103",
-      "date_posted": "Posted 10 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Crowe",
-      "title": "Salesforce Project Coordinator",
-      "location": "Chicago IL USA",
-      "url": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Salesforce-Project-Coordinator_R-52331",
-      "date_posted": "Posted 3 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Crowe",
-      "title": "MSFT AI Business Solutions Project Coordinator Campus",
-      "location": "Chicago IL USA",
-      "url": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/D365-ERP-Project-Coordinator_R-51937",
-      "date_posted": "Posted 14 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Crowe",
-      "title": "MSFT AI Business Solutions Project Coordinator Intern",
-      "location": "Chicago IL USA",
-      "url": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/D365-ERP-Project-Coordinator-Intern_R-71038",
-      "date_posted": "Posted 14 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Crowe",
-      "title": "AI Project Coordinator Intern",
-      "location": "Chicago IL USA",
-      "url": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/AI-Project-Coordinator-Intern_R-71007",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Crowe",
-      "title": "AI Project Coordinator",
-      "location": "Chicago IL USA",
-      "url": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/AI-Project-Coordinator_R-71011",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Curtiss-Wright Corporation",
-      "title": "Inside Sales Specialist",
-      "location": "US-CA-Brea (Nuclear)",
-      "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-CA-Brea-Nuclear/Inside-Sales-Specialist_JR13671-1",
-      "date_posted": "Posted 2 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
     {
       "company": "CVS Health",
       "title": "Field Beauty Sales Coordinator",
@@ -657,7 +19,7 @@
       "title": "Research Coordinator",
       "location": "Chicago, Illinois, USA",
       "url": "https://cw.wd1.myworkdayjobs.com/external/job/Chicago-Illinois-USA/Research-Coordinator_R337075",
-      "date_posted": "Posted 7 Days Ago",
+      "date_posted": "Posted 8 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -668,7 +30,7 @@
       "title": "Industrial Facilities Account Manager",
       "location": "Client Site - USA - GA - Atlanta - 223 James P Brawley Dr SW",
       "url": "https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---GA---Atlanta---223-James-P-Brawley-Dr-SW/Industrial-Facilities-Account-Manager_R337110",
-      "date_posted": "Posted 8 Days Ago",
+      "date_posted": "Posted 9 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -679,7 +41,7 @@
       "title": "Operations Specialist",
       "location": "Atlanta, Georgia, USA",
       "url": "https://cw.wd1.myworkdayjobs.com/external/job/Atlanta-Georgia-USA/Operations-Specialist_R311312-1",
-      "date_posted": "Posted 29 Days Ago",
+      "date_posted": "Posted 30 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -690,7 +52,7 @@
       "title": "Operations Coordinator ( CRE )",
       "location": "New York, New York, USA",
       "url": "https://cw.wd1.myworkdayjobs.com/external/job/New-York-New-York-USA/Operations-Coordinator---CRE--_R337059",
-      "date_posted": "Posted 8 Days Ago",
+      "date_posted": "Posted 9 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -701,7 +63,733 @@
       "title": "Operations Specialist - Finance",
       "location": "Chicago, Illinois, USA",
       "url": "https://cw.wd1.myworkdayjobs.com/external/job/Chicago-Illinois-USA/Operations-Specialist---Finance_R313315",
+      "date_posted": "Posted 11 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Danaher Corporation",
+      "title": "Service Operations Coordinator Lead - ONSITE",
+      "location": "Deerfield, Illinois, United States",
+      "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Deerfield-Illinois-United-States/Service-Operations-Coordinator-Lead---ONSITE_R1318383",
+      "date_posted": "Posted 8 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Danaher Corporation",
+      "title": "Biopharma Key Account Manager",
+      "location": "Jersey City, New Jersey, United States",
+      "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Philadelphia-Pennsylvania-United-States/Biopharma-Key-Account-Manager_R1319602",
+      "date_posted": "Posted 2 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Danaher Corporation",
+      "title": "Account Manager -  Refinery, Oil & Gas, Chemical",
+      "location": "Los Angeles, California, United States",
+      "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Los-Angeles-California-United-States/Account-Manager----Refinery--Oil---Gas--Chemical_R1311167",
+      "date_posted": "Posted 11 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Dave & Busters",
+      "title": "Event Coordinator",
+      "location": "Concord, CA",
+      "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Concord-CA/Event-Coordinator_R-1013571",
+      "date_posted": "Posted Yesterday",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "David Yurman",
+      "title": "Visual Operations Coordinator",
+      "location": "New York, NY",
+      "url": "https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Visual-Operations-Coordinator_R-101001",
+      "date_posted": "Posted 11 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Walt Disney Company",
+      "title": "Publicity Coordinator (Disney Entertainment Television)",
+      "location": "Burbank, CA, USA",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Publicity-Coordinator--Disney-Entertainment-Television-_10161368",
+      "date_posted": "Posted 4 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Walt Disney Company",
+      "title": "Post Production Coordinator",
+      "location": "Burbank, CA, USA",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Post-Production-Coordinator_10158004-1",
+      "date_posted": "Posted 4 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Walt Disney Company",
+      "title": "COE Associate Project Manager",
+      "location": "Burbank, CA, USA",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/COE-Associate-Project-Manager_10161038",
+      "date_posted": "Posted Yesterday",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Walt Disney Company",
+      "title": "Executive Assistant \u2013 Management Audit and Global Product & Labor Standards",
+      "location": "Glendale, CA, USA",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Executive-Assistant---Management-Audit-and-Global-Product---Labor-Standards_10160078-1",
+      "date_posted": "Posted 5 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Walt Disney Company",
+      "title": "Junior Publicist A/Photo Editor",
+      "location": "Burbank, CA, USA",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Junior-Publicist-A-Photo-Editor_10160935-1",
+      "date_posted": "Posted Yesterday",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Walt Disney Company",
+      "title": "Executive Assistant- Marketing, Disney Entertainment \u2013 Studios",
+      "location": "Burbank, CA, USA",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Executive-Assistant--Marketing--Disney-Entertainment---Studios_10158224-1",
+      "date_posted": "Posted 2 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Walt Disney Company",
+      "title": "Publicity Coordinator (Disney Entertainment Television)",
+      "location": "Burbank, CA, USA",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Publicity-Coordinator--Disney-Entertainment-Television-_10161368-1",
+      "date_posted": "Posted 4 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Walt Disney Company",
+      "title": "Production Coordinator - Disney Television Animation",
+      "location": "Glendale, CA, USA",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Production-Coordinator---Disney-Television-Animation_10151463",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Walt Disney Company",
+      "title": "Production Assistant",
+      "location": "Burbank, CA, USA",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Production-Assistant_10136120-2",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Walt Disney Company",
+      "title": "Executive Assistant \u2013 Management Audit and Global Product & Labor Standards",
+      "location": "Glendale, CA, USA",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Executive-Assistant---Management-Audit-and-Global-Product---Labor-Standards_10160078-2",
+      "date_posted": "Posted 5 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Walt Disney Company",
+      "title": "Executive Assistant (PH)",
+      "location": "Glendale, CA, USA",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Executive-Assistant--PH-_10142808-1",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Echo Global Logistics",
+      "title": "Client Sales Representative",
+      "location": "Chicago, IL",
+      "url": "https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Chicago-IL/Client-Sales-Representative_R4573",
+      "date_posted": "Posted 16 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Sompo International Holdings",
+      "title": "HR Operations Associate",
+      "location": "Alpharetta, Georgia",
+      "url": "https://endurance.wd103.myworkdayjobs.com/SompoInternational/job/Alpharetta-Georgia/HR-Operations-Associate_R4557",
+      "date_posted": "Posted 8 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Equinix",
+      "title": "Executive Assistant",
+      "location": "Redwood City",
+      "url": "https://equinix.wd1.myworkdayjobs.com/External/job/Redwood-City/Executive-Assistant_JR-162998",
+      "date_posted": "Posted 24 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Essex",
+      "title": "Inside Sales Representative, Leasing",
+      "location": "Bay Area - South",
+      "url": "https://essex.wd5.myworkdayjobs.com/essexcareers/job/Bay-Area---South/Inside-Sales-Representative--Leasing_R9366-1",
+      "date_posted": "Posted Yesterday",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Etsy",
+      "title": "Market Research Analyst III",
+      "location": "Brooklyn, New York",
+      "url": "https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Market-Research-Analyst-III_JR5819-1",
+      "date_posted": "Posted 16 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Etsy",
+      "title": "Market Research Analyst II",
+      "location": "Brooklyn, New York",
+      "url": "https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Market-Research-Analyst-II_JR5818",
+      "date_posted": "Posted 17 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Expedia Group",
+      "title": "Account Manager, Key Partners, North America",
+      "location": "USA - Illinois - Chicago",
+      "url": "https://expedia.wd108.myworkdayjobs.com/search/job/USA---Florida---Orlando/Account-Manager--Lodging-Strategic-Partners_R-109932-1",
+      "date_posted": "Posted 2 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Expedia Group",
+      "title": "Associate Account Manager",
+      "location": "USA - California - West Hollywood",
+      "url": "https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---West-Hollywood/Associate-Account-Manager_R-109966",
+      "date_posted": "Posted 3 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FactSet",
+      "title": "Lead Implementation Specialist",
+      "location": "New York, NY, USA",
+      "url": "https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/New-York-NY-USA/Lead-Implementation-Specialist_R32906",
+      "date_posted": "Posted 12 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Faith Technologies",
+      "title": "Commissioning Associate Project Manager",
+      "location": "GA - Atlanta",
+      "url": "https://faithtechnologies.wd1.myworkdayjobs.com/fti/job/Nationwide/Commissioning-Associate-Project-Manager_R11509",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Faith Technologies",
+      "title": "Electrical Assistant Project Manager - Commissioning",
+      "location": "GA - Atlanta",
+      "url": "https://faithtechnologies.wd1.myworkdayjobs.com/fti/job/Nationwide/Electrical-Assistant-Project-Manager---Commissioning_R11505-1",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Teledyne",
+      "title": "Western Sales Account Manager",
+      "location": "US - Hawthorne, CA (TDY)",
+      "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Hawthorne-CA-TDY/Sales-Acct-Manager_REQ36275",
+      "date_posted": "Posted 22 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FOX",
+      "title": "Executive Sales Coordinator",
+      "location": "New York, New York, USA",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Executive-Sales-Coordinator_R50032875-1",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FOX",
+      "title": "Freelance CRM Specialist, Fox News",
+      "location": "New York, New York, USA",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Freelance-CRM-Specialist--Fox-News_R50032858",
+      "date_posted": "Posted 26 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FOX",
+      "title": "Production Assistant, FOX Nation",
+      "location": "New York, New York, USA",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Production-Assistant--FOX-Nation_R50033690",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FOX",
+      "title": "Production Assistant, The Claman Countdown",
+      "location": "New York, New York, USA",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Production-Assistant--The-Claman-Countdown_R50033741",
+      "date_posted": "Posted 23 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FOX",
+      "title": "Account Coordinator",
+      "location": "New York, New York, USA",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Account-Coordinator_R50033824",
+      "date_posted": "Posted 17 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FOX",
+      "title": "Freelance Resource Operations Coordinator",
+      "location": "New York, New York, USA",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Freelance-Resource-Operations-Coordinator_R50032452-1",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FOX",
+      "title": "Executive Assistant, FOX Alternative Entertainment Production",
+      "location": "Los Angeles, California, USA",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Executive-Assistant--FOX-Alterative-Entertainment-Production_R50033206",
+      "date_posted": "Posted 17 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FOX",
+      "title": "Executive Assistant",
+      "location": "New York, New York, USA",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Executive-Assistant_R50033559",
+      "date_posted": "Posted 12 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FOX",
+      "title": "Executive Assistant, Ad Sales",
+      "location": "New York, New York, USA",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Executive-Assistant--Ad-Sales_R50033033",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FOX",
+      "title": "Executive Assistant",
+      "location": "Los Angeles, California, USA",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Executive-Assistant_R50032322",
+      "date_posted": "Posted 26 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FOX",
+      "title": "Freelance Production Assistant, FOX Weather",
+      "location": "New York, New York, USA",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Freelance-Production-Assistant--FOX-Weather_R50030603",
+      "date_posted": "Posted 17 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FOX",
+      "title": "Freelance Production Assistant, The Big Weekend Show",
+      "location": "New York, New York, USA",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Freelance-Production-Assistant--The-Big-Weekend-Show_R50033765",
+      "date_posted": "Posted 17 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FOX",
+      "title": "Production Assistant",
+      "location": "USA - CA - Los Angeles - 13031 W. Jefferson Blvd #400",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---CA---Los-Angeles---13031-W-Jefferson-Blvd-400/Production-Assistant_R50033903",
+      "date_posted": "Posted 4 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FOX",
+      "title": "Production Assistant, The Big Money Show",
+      "location": "New York, New York, USA",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Production-Assistant--The-Big-Money-Show_R50033803-1",
+      "date_posted": "Posted 17 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FOX",
+      "title": "Creative Services Trainee",
+      "location": "Atlanta, Georgia, USA",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/Atlanta-Georgia-USA/Creative-Services-Trainee_R50030458-1",
+      "date_posted": "Posted 16 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "GAP",
+      "title": "Site Merchandise Coordinator",
+      "location": "SF - 2 Folsom",
+      "url": "https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/SF---2-Folsom/Site-Merchandise-Coordinator_R218713",
+      "date_posted": "Posted 2 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Goodwin",
+      "title": "Cash Operations Specialist",
+      "location": "Los Angeles",
+      "url": "https://goodwinprocter.wd5.myworkdayjobs.com/External_Careers/job/Los-Angeles/Cash-Operations-Specialist_R04426-1",
+      "date_posted": "Posted 25 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "HCSC",
+      "title": "Strategic Account Manager II - Enterprise National Accounts",
+      "location": "IL - Chicago",
+      "url": "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TX---Richardson/Strategic-Account-Manager-II---Enterprise-National-Accounts_R0055716-1",
+      "date_posted": "Posted 4 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hitachi",
+      "title": "Sales Coordinator (Central Territory)",
+      "location": "(HIESA) Chicago",
+      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HIESA-Chicago/Sales-Coordinator--Central-Territory-_R0133103",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hitachi",
+      "title": "Sales Account Manager \u2013 Rail & IT",
+      "location": "Milan, Lombardy, Italy",
+      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Milan-Lombardy-Italy/Sales-Account-Manager---Rail---IT_R0143400",
+      "date_posted": "Posted 18 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hitachi",
+      "title": "Account Manager - Data Centers Colocations",
+      "location": "(HE)Remote_Santa Clara, California",
+      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HERemote_Santa-Clara-California/Account-Manager---Data-Centers-Colocations_R0045484",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hitachi",
+      "title": "Service Account Manager - North Italy",
+      "location": "Milan, Lombardy, Italy",
+      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Milan-Lombardy-Italy/Service-Account-Manager---North-Italy_R0123827-1",
+      "date_posted": "Posted 26 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hitachi",
+      "title": "EBC Client Success & Technology Specialist",
+      "location": "Santa Clara, California, United States",
+      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/EBC-Client-Success---Technology-Specialist_R0143402-2",
+      "date_posted": "Posted 23 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Dematic",
+      "title": "Sales coordinator",
+      "location": "Atlanta, GA, United States",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Sales-coordinator_JR-0094123-1",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Dematic",
+      "title": "Strategic Account Manager - East",
+      "location": "Atlanta, GA, United States",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Atlanta-GA-United-States/Expert-Sales_JR-0072086",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Dematic",
+      "title": "Strategic Account Manager - East",
+      "location": "Atlanta, GA, United States",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Atlanta-GA-United-States/Strategic-Account-Manager---East_JR-0088422",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Dematic",
+      "title": "Account Manager - Flexible Automation - East Region",
+      "location": "Atlanta, GA, United States",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Account-Manager---Flexible-Automation---East-Region_JR-0087476",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Dematic",
+      "title": "Business Development Representative",
+      "location": "Atlanta, GA, United States",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Business-Development-Representative_JR-0095194",
+      "date_posted": "Posted 24 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "KION Group",
+      "title": "Strategic Account Manager - East",
+      "location": "Atlanta, GA, United States",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/Expert-Sales_JR-0072086-1",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "KION Group",
+      "title": "Strategic Account Manager - East",
+      "location": "Atlanta, GA, United States",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/Strategic-Account-Manager---East_JR-0088422-1",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "KION Group",
+      "title": "Account Manager - Flexible Automation - East Region",
+      "location": "Atlanta, GA, United States",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Account-Manager---Flexible-Automation---East-Region_JR-0087476-1",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "KION Group",
+      "title": "Business Development Representative",
+      "location": "Atlanta, GA, United States",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Business-Development-Representative_JR-0095194-1",
+      "date_posted": "Posted 24 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "KLA Corporation",
+      "title": "Sales Operations Analyst",
+      "location": "Milpitas, CA",
+      "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Sales-Operations-Analyst_2640084",
+      "date_posted": "Posted 26 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "KLA",
+      "title": "Sales Operations Analyst",
+      "location": "Milpitas, CA",
+      "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Sales-Operations-Analyst_2640084-2",
+      "date_posted": "Posted 26 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Leidos",
+      "title": "Associate Project Manager",
+      "location": "Atlanta, GA",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Atlanta-GA/Associate-Project-Manager_R-00190602",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Lennar Corporation",
+      "title": "Internet Sales Coordinator",
+      "location": "Alpharetta, GA (Job Posting Location)",
+      "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Alpharetta-GA-Job-Posting-Location/HB---Internet-Sales-Coordinator_R26_0000003836",
       "date_posted": "Posted 10 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mars",
+      "title": "Executive Assistant - PO",
+      "location": "USA-Illinois-Chicago",
+      "url": "https://mars.wd3.myworkdayjobs.com/external/job/USA-Illinois-Chicago/Executive-Assistant---PO_R164041",
+      "date_posted": "Posted 17 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mars",
+      "title": "Executive Assistant - Sales",
+      "location": "USA-Illinois-Chicago",
+      "url": "https://mars.wd3.myworkdayjobs.com/external/job/USA-Illinois-Chicago/Executive-Assistant---Sales_R164038-1",
+      "date_posted": "Posted 18 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -710,43 +798,21 @@
   ],
   "new_jobs": [
     {
-      "company": "Carrier Global",
-      "title": "Commercial Service Account Manager - Southeast Georgia",
-      "location": "CAG02: CCS-Marietta, 1800 Sandy Plains Industrial Parkway, Marietta, GA, 30066 USA",
-      "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAG02-CCS-Marietta-1800-Sandy-Plains-Industrial-Parkway-Marietta-GA-30066-USA/Commercial-Service-Account-Manager---Southeast-Georgia_30216134",
-      "date_posted": "Posted 10 Days Ago",
+      "company": "Danaher Corporation",
+      "title": "Service Operations Coordinator Lead - ONSITE",
+      "location": "Deerfield, Illinois, United States",
+      "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Deerfield-Illinois-United-States/Service-Operations-Coordinator-Lead---ONSITE_R1318383",
+      "date_posted": "Posted 8 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Centene",
-      "title": "Sales Representative (Medicare)",
-      "location": "New York-New York(10002); Queens-91-08 Roosevelt Ave (11045); Staten Island - 965 Richmond Ave Suite B7 (11160); Bronx-1043 Southern Blvd (11035); Brooklyn - 2133 86th St (11137)",
-      "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/New-York-New-York10002/Sales-Representative--Medicare-_1652421",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Centene",
-      "title": "Sales Representative (Medicare)",
-      "location": "Brooklyn-New York(11201)",
-      "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Long-Island-City---25-01-Jackson-Ave-10936/Sales-Representative--Medicare-_1657422",
-      "date_posted": "Posted 16 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Curtiss-Wright Corporation",
-      "title": "Inside Sales Specialist",
-      "location": "US-CA-Brea (Nuclear)",
-      "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-CA-Brea-Nuclear/Inside-Sales-Specialist_JR13671-1",
+      "company": "Danaher Corporation",
+      "title": "Biopharma Key Account Manager",
+      "location": "Jersey City, New Jersey, United States",
+      "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Philadelphia-Pennsylvania-United-States/Biopharma-Key-Account-Manager_R1319602",
       "date_posted": "Posted 2 Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -754,21 +820,175 @@
       ]
     },
     {
-      "company": "Cushman & Wakefield",
-      "title": "Research Coordinator",
-      "location": "Chicago, Illinois, USA",
-      "url": "https://cw.wd1.myworkdayjobs.com/external/job/Chicago-Illinois-USA/Research-Coordinator_R337075",
-      "date_posted": "Posted 7 Days Ago",
+      "company": "Danaher Corporation",
+      "title": "Account Manager -  Refinery, Oil & Gas, Chemical",
+      "location": "Los Angeles, California, United States",
+      "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Los-Angeles-California-United-States/Account-Manager----Refinery--Oil---Gas--Chemical_R1311167",
+      "date_posted": "Posted 11 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Cushman & Wakefield",
-      "title": "Industrial Facilities Account Manager",
-      "location": "Client Site - USA - GA - Atlanta - 223 James P Brawley Dr SW",
-      "url": "https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---GA---Atlanta---223-James-P-Brawley-Dr-SW/Industrial-Facilities-Account-Manager_R337110",
+      "company": "Dave & Busters",
+      "title": "Event Coordinator",
+      "location": "Concord, CA",
+      "url": "https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Concord-CA/Event-Coordinator_R-1013571",
+      "date_posted": "Posted Yesterday",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "David Yurman",
+      "title": "Visual Operations Coordinator",
+      "location": "New York, NY",
+      "url": "https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Visual-Operations-Coordinator_R-101001",
+      "date_posted": "Posted 11 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Walt Disney Company",
+      "title": "Publicity Coordinator (Disney Entertainment Television)",
+      "location": "Burbank, CA, USA",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Publicity-Coordinator--Disney-Entertainment-Television-_10161368",
+      "date_posted": "Posted 4 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Walt Disney Company",
+      "title": "Post Production Coordinator",
+      "location": "Burbank, CA, USA",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Post-Production-Coordinator_10158004-1",
+      "date_posted": "Posted 4 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Walt Disney Company",
+      "title": "COE Associate Project Manager",
+      "location": "Burbank, CA, USA",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/COE-Associate-Project-Manager_10161038",
+      "date_posted": "Posted Yesterday",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Walt Disney Company",
+      "title": "Executive Assistant \u2013 Management Audit and Global Product & Labor Standards",
+      "location": "Glendale, CA, USA",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Executive-Assistant---Management-Audit-and-Global-Product---Labor-Standards_10160078-1",
+      "date_posted": "Posted 5 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Walt Disney Company",
+      "title": "Junior Publicist A/Photo Editor",
+      "location": "Burbank, CA, USA",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Junior-Publicist-A-Photo-Editor_10160935-1",
+      "date_posted": "Posted Yesterday",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Walt Disney Company",
+      "title": "Executive Assistant- Marketing, Disney Entertainment \u2013 Studios",
+      "location": "Burbank, CA, USA",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Executive-Assistant--Marketing--Disney-Entertainment---Studios_10158224-1",
+      "date_posted": "Posted 2 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Walt Disney Company",
+      "title": "Publicity Coordinator (Disney Entertainment Television)",
+      "location": "Burbank, CA, USA",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Publicity-Coordinator--Disney-Entertainment-Television-_10161368-1",
+      "date_posted": "Posted 4 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Walt Disney Company",
+      "title": "Production Coordinator - Disney Television Animation",
+      "location": "Glendale, CA, USA",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Production-Coordinator---Disney-Television-Animation_10151463",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Walt Disney Company",
+      "title": "Production Assistant",
+      "location": "Burbank, CA, USA",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Production-Assistant_10136120-2",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Walt Disney Company",
+      "title": "Executive Assistant \u2013 Management Audit and Global Product & Labor Standards",
+      "location": "Glendale, CA, USA",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Executive-Assistant---Management-Audit-and-Global-Product---Labor-Standards_10160078-2",
+      "date_posted": "Posted 5 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Walt Disney Company",
+      "title": "Executive Assistant (PH)",
+      "location": "Glendale, CA, USA",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Executive-Assistant--PH-_10142808-1",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Echo Global Logistics",
+      "title": "Client Sales Representative",
+      "location": "Chicago, IL",
+      "url": "https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Chicago-IL/Client-Sales-Representative_R4573",
+      "date_posted": "Posted 16 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Sompo International Holdings",
+      "title": "HR Operations Associate",
+      "location": "Alpharetta, Georgia",
+      "url": "https://endurance.wd103.myworkdayjobs.com/SompoInternational/job/Alpharetta-Georgia/HR-Operations-Associate_R4557",
       "date_posted": "Posted 8 Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -776,33 +996,528 @@
       ]
     },
     {
-      "company": "Cushman & Wakefield",
-      "title": "Operations Specialist",
-      "location": "Atlanta, Georgia, USA",
-      "url": "https://cw.wd1.myworkdayjobs.com/external/job/Atlanta-Georgia-USA/Operations-Specialist_R311312-1",
-      "date_posted": "Posted 29 Days Ago",
+      "company": "Equinix",
+      "title": "Executive Assistant",
+      "location": "Redwood City",
+      "url": "https://equinix.wd1.myworkdayjobs.com/External/job/Redwood-City/Executive-Assistant_JR-162998",
+      "date_posted": "Posted 24 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Cushman & Wakefield",
-      "title": "Operations Coordinator ( CRE )",
+      "company": "Essex",
+      "title": "Inside Sales Representative, Leasing",
+      "location": "Bay Area - South",
+      "url": "https://essex.wd5.myworkdayjobs.com/essexcareers/job/Bay-Area---South/Inside-Sales-Representative--Leasing_R9366-1",
+      "date_posted": "Posted Yesterday",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Etsy",
+      "title": "Market Research Analyst III",
+      "location": "Brooklyn, New York",
+      "url": "https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Market-Research-Analyst-III_JR5819-1",
+      "date_posted": "Posted 16 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Etsy",
+      "title": "Market Research Analyst II",
+      "location": "Brooklyn, New York",
+      "url": "https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Market-Research-Analyst-II_JR5818",
+      "date_posted": "Posted 17 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Expedia Group",
+      "title": "Account Manager, Key Partners, North America",
+      "location": "USA - Illinois - Chicago",
+      "url": "https://expedia.wd108.myworkdayjobs.com/search/job/USA---Florida---Orlando/Account-Manager--Lodging-Strategic-Partners_R-109932-1",
+      "date_posted": "Posted 2 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Expedia Group",
+      "title": "Associate Account Manager",
+      "location": "USA - California - West Hollywood",
+      "url": "https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---West-Hollywood/Associate-Account-Manager_R-109966",
+      "date_posted": "Posted 3 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FactSet",
+      "title": "Lead Implementation Specialist",
+      "location": "New York, NY, USA",
+      "url": "https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/New-York-NY-USA/Lead-Implementation-Specialist_R32906",
+      "date_posted": "Posted 12 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Faith Technologies",
+      "title": "Commissioning Associate Project Manager",
+      "location": "GA - Atlanta",
+      "url": "https://faithtechnologies.wd1.myworkdayjobs.com/fti/job/Nationwide/Commissioning-Associate-Project-Manager_R11509",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Faith Technologies",
+      "title": "Electrical Assistant Project Manager - Commissioning",
+      "location": "GA - Atlanta",
+      "url": "https://faithtechnologies.wd1.myworkdayjobs.com/fti/job/Nationwide/Electrical-Assistant-Project-Manager---Commissioning_R11505-1",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Teledyne",
+      "title": "Western Sales Account Manager",
+      "location": "US - Hawthorne, CA (TDY)",
+      "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Hawthorne-CA-TDY/Sales-Acct-Manager_REQ36275",
+      "date_posted": "Posted 22 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FOX",
+      "title": "Executive Sales Coordinator",
       "location": "New York, New York, USA",
-      "url": "https://cw.wd1.myworkdayjobs.com/external/job/New-York-New-York-USA/Operations-Coordinator---CRE--_R337059",
-      "date_posted": "Posted 8 Days Ago",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Executive-Sales-Coordinator_R50032875-1",
+      "date_posted": "Posted 30+ Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Cushman & Wakefield",
-      "title": "Operations Specialist - Finance",
-      "location": "Chicago, Illinois, USA",
-      "url": "https://cw.wd1.myworkdayjobs.com/external/job/Chicago-Illinois-USA/Operations-Specialist---Finance_R313315",
+      "company": "FOX",
+      "title": "Freelance CRM Specialist, Fox News",
+      "location": "New York, New York, USA",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Freelance-CRM-Specialist--Fox-News_R50032858",
+      "date_posted": "Posted 26 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FOX",
+      "title": "Production Assistant, FOX Nation",
+      "location": "New York, New York, USA",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Production-Assistant--FOX-Nation_R50033690",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FOX",
+      "title": "Production Assistant, The Claman Countdown",
+      "location": "New York, New York, USA",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Production-Assistant--The-Claman-Countdown_R50033741",
+      "date_posted": "Posted 23 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FOX",
+      "title": "Account Coordinator",
+      "location": "New York, New York, USA",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Account-Coordinator_R50033824",
+      "date_posted": "Posted 17 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FOX",
+      "title": "Freelance Resource Operations Coordinator",
+      "location": "New York, New York, USA",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Freelance-Resource-Operations-Coordinator_R50032452-1",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FOX",
+      "title": "Executive Assistant, FOX Alternative Entertainment Production",
+      "location": "Los Angeles, California, USA",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Executive-Assistant--FOX-Alterative-Entertainment-Production_R50033206",
+      "date_posted": "Posted 17 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FOX",
+      "title": "Executive Assistant",
+      "location": "New York, New York, USA",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Executive-Assistant_R50033559",
+      "date_posted": "Posted 12 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FOX",
+      "title": "Executive Assistant, Ad Sales",
+      "location": "New York, New York, USA",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Executive-Assistant--Ad-Sales_R50033033",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FOX",
+      "title": "Executive Assistant",
+      "location": "Los Angeles, California, USA",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Executive-Assistant_R50032322",
+      "date_posted": "Posted 26 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FOX",
+      "title": "Freelance Production Assistant, FOX Weather",
+      "location": "New York, New York, USA",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Freelance-Production-Assistant--FOX-Weather_R50030603",
+      "date_posted": "Posted 17 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FOX",
+      "title": "Freelance Production Assistant, The Big Weekend Show",
+      "location": "New York, New York, USA",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Freelance-Production-Assistant--The-Big-Weekend-Show_R50033765",
+      "date_posted": "Posted 17 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FOX",
+      "title": "Production Assistant",
+      "location": "USA - CA - Los Angeles - 13031 W. Jefferson Blvd #400",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---CA---Los-Angeles---13031-W-Jefferson-Blvd-400/Production-Assistant_R50033903",
+      "date_posted": "Posted 4 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FOX",
+      "title": "Production Assistant, The Big Money Show",
+      "location": "New York, New York, USA",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Production-Assistant--The-Big-Money-Show_R50033803-1",
+      "date_posted": "Posted 17 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "FOX",
+      "title": "Creative Services Trainee",
+      "location": "Atlanta, Georgia, USA",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/Atlanta-Georgia-USA/Creative-Services-Trainee_R50030458-1",
+      "date_posted": "Posted 16 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "GAP",
+      "title": "Site Merchandise Coordinator",
+      "location": "SF - 2 Folsom",
+      "url": "https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/SF---2-Folsom/Site-Merchandise-Coordinator_R218713",
+      "date_posted": "Posted 2 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Goodwin",
+      "title": "Cash Operations Specialist",
+      "location": "Los Angeles",
+      "url": "https://goodwinprocter.wd5.myworkdayjobs.com/External_Careers/job/Los-Angeles/Cash-Operations-Specialist_R04426-1",
+      "date_posted": "Posted 25 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "HCSC",
+      "title": "Strategic Account Manager II - Enterprise National Accounts",
+      "location": "IL - Chicago",
+      "url": "https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TX---Richardson/Strategic-Account-Manager-II---Enterprise-National-Accounts_R0055716-1",
+      "date_posted": "Posted 4 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hitachi",
+      "title": "Sales Coordinator (Central Territory)",
+      "location": "(HIESA) Chicago",
+      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HIESA-Chicago/Sales-Coordinator--Central-Territory-_R0133103",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hitachi",
+      "title": "Sales Account Manager \u2013 Rail & IT",
+      "location": "Milan, Lombardy, Italy",
+      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Milan-Lombardy-Italy/Sales-Account-Manager---Rail---IT_R0143400",
+      "date_posted": "Posted 18 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hitachi",
+      "title": "Account Manager - Data Centers Colocations",
+      "location": "(HE)Remote_Santa Clara, California",
+      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HERemote_Santa-Clara-California/Account-Manager---Data-Centers-Colocations_R0045484",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hitachi",
+      "title": "Service Account Manager - North Italy",
+      "location": "Milan, Lombardy, Italy",
+      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Milan-Lombardy-Italy/Service-Account-Manager---North-Italy_R0123827-1",
+      "date_posted": "Posted 26 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hitachi",
+      "title": "EBC Client Success & Technology Specialist",
+      "location": "Santa Clara, California, United States",
+      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/EBC-Client-Success---Technology-Specialist_R0143402-2",
+      "date_posted": "Posted 23 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Dematic",
+      "title": "Sales coordinator",
+      "location": "Atlanta, GA, United States",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Sales-coordinator_JR-0094123-1",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Dematic",
+      "title": "Strategic Account Manager - East",
+      "location": "Atlanta, GA, United States",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Atlanta-GA-United-States/Expert-Sales_JR-0072086",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Dematic",
+      "title": "Strategic Account Manager - East",
+      "location": "Atlanta, GA, United States",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Atlanta-GA-United-States/Strategic-Account-Manager---East_JR-0088422",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Dematic",
+      "title": "Account Manager - Flexible Automation - East Region",
+      "location": "Atlanta, GA, United States",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Account-Manager---Flexible-Automation---East-Region_JR-0087476",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Dematic",
+      "title": "Business Development Representative",
+      "location": "Atlanta, GA, United States",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Business-Development-Representative_JR-0095194",
+      "date_posted": "Posted 24 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "KION Group",
+      "title": "Strategic Account Manager - East",
+      "location": "Atlanta, GA, United States",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/Expert-Sales_JR-0072086-1",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "KION Group",
+      "title": "Strategic Account Manager - East",
+      "location": "Atlanta, GA, United States",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/Strategic-Account-Manager---East_JR-0088422-1",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "KION Group",
+      "title": "Account Manager - Flexible Automation - East Region",
+      "location": "Atlanta, GA, United States",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Account-Manager---Flexible-Automation---East-Region_JR-0087476-1",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "KION Group",
+      "title": "Business Development Representative",
+      "location": "Atlanta, GA, United States",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Business-Development-Representative_JR-0095194-1",
+      "date_posted": "Posted 24 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "KLA Corporation",
+      "title": "Sales Operations Analyst",
+      "location": "Milpitas, CA",
+      "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Sales-Operations-Analyst_2640084",
+      "date_posted": "Posted 26 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "KLA",
+      "title": "Sales Operations Analyst",
+      "location": "Milpitas, CA",
+      "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Sales-Operations-Analyst_2640084-2",
+      "date_posted": "Posted 26 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Leidos",
+      "title": "Associate Project Manager",
+      "location": "Atlanta, GA",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Atlanta-GA/Associate-Project-Manager_R-00190602",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Lennar Corporation",
+      "title": "Internet Sales Coordinator",
+      "location": "Alpharetta, GA (Job Posting Location)",
+      "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Alpharetta-GA-Job-Posting-Location/HB---Internet-Sales-Coordinator_R26_0000003836",
       "date_posted": "Posted 10 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mars",
+      "title": "Executive Assistant - PO",
+      "location": "USA-Illinois-Chicago",
+      "url": "https://mars.wd3.myworkdayjobs.com/external/job/USA-Illinois-Chicago/Executive-Assistant---PO_R164041",
+      "date_posted": "Posted 17 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mars",
+      "title": "Executive Assistant - Sales",
+      "location": "USA-Illinois-Chicago",
+      "url": "https://mars.wd3.myworkdayjobs.com/external/job/USA-Illinois-Chicago/Executive-Assistant---Sales_R164038-1",
+      "date_posted": "Posted 18 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
