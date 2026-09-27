@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-26 19:15 UTC",
-  "total": 5,
-  "new_count": 1,
+  "scraped_at": "2026-09-27 19:48 UTC",
+  "total": 4,
+  "new_count": 0,
   "jobs": [
     {
       "company": "City of San Rafael",
@@ -50,34 +50,9 @@
       "feeds": [
         "general"
       ]
-    },
-    {
-      "company": "Orange County Transportation Authority",
-      "title": "Marketing Specialist Associate",
-      "location": "Orange, CA",
-      "url": "https://www.governmentjobs.com/jobs/149776-1/marketing-specialist-associate",
-      "date_posted": "",
-      "salary": "$34.61 - $47.62 Hourly",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "City of San Rafael",
-      "title": "Program Coordinator",
-      "location": "San Rafael, CA",
-      "url": "https://www.governmentjobs.com/jobs/151334-1/program-coordinator",
-      "date_posted": "",
-      "salary": "$6,381.00 - $7,756.00 Monthly",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
