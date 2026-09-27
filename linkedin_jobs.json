@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-27 22:59 UTC",
-  "total": 26,
-  "new_count": 24,
+  "scraped_at": "2026-09-27 23:27 UTC",
+  "total": 28,
+  "new_count": 2,
   "jobs": [
     {
       "company": "D3 Search",
@@ -75,6 +75,17 @@
       "title": "Social Media Manager",
       "location": "San Francisco Bay Area",
       "url": "https://www.linkedin.com/jobs/view/4471303473/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Shields Group Search",
+      "title": "Business Development Representative",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465789340/",
       "date_posted": "2026-09-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -169,6 +180,18 @@
       "date_posted": "2026-09-27",
       "ats": "LinkedIn",
       "salary": "$90,000.00/yr - $130,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Elite Placement Group, Inc.",
+      "title": "Executive Assistant",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4472482025/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "salary": "$90,000.00/yr - $110,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -298,55 +321,10 @@
   ],
   "new_jobs": [
     {
-      "company": "D3 Search",
-      "title": "Marketing Communications Coordinator",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470323176/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "ELITE GIFT CARDS",
-      "title": "Sales And Marketing Specialist",
-      "location": "Los Angeles Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4470811651/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CoverageX",
-      "title": "Inside Sales Closer",
-      "location": "Santa Ana, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472472232/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Simple AI",
-      "title": "Field Marketing Associate",
+      "company": "Shields Group Search",
+      "title": "Business Development Representative",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472461458/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "salary": "$75,000.00/yr - $110,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Haystack",
-      "title": "Social Media Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4471303473/",
+      "url": "https://www.linkedin.com/jobs/view/4465789340/",
       "date_posted": "2026-09-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -354,215 +332,13 @@
       ]
     },
     {
-      "company": "Carver Federal Savings Bank",
-      "title": "Administrative Coordinator",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4471301614/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Addition Management",
-      "title": "Communications Event Coordinator",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4472455880/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "salary": "$85,000.00/yr - $91,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Addition Management",
-      "title": "Client Services Specialist",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4472462518/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "salary": "$150,000.00/yr - $200,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "The Moret Group",
-      "title": "ONSITE GARMENT Production Assistant",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4472467070/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "salary": "$50,000.00/yr - $55,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Guardian",
-      "title": "Integrated Marketing Manager",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4417679652/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Arrow Search Partners",
-      "title": "Recruiting Coordinator",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4206103764/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "New York City Council",
-      "title": "CONTENT CREATOR & COMMUNICATIONS ASSISTANT",
-      "location": "Brooklyn, NY",
-      "url": "https://www.linkedin.com/jobs/view/4471310297/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Partners In Law",
+      "company": "Elite Placement Group, Inc.",
       "title": "Executive Assistant",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4472464546/",
+      "url": "https://www.linkedin.com/jobs/view/4472482025/",
       "date_posted": "2026-09-27",
       "ats": "LinkedIn",
-      "salary": "$90,000.00/yr - $130,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Protege",
-      "title": "Field Marketing Manager",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4462487273/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hankey Group",
-      "title": "Dealer Account Manager",
-      "location": "Brooklyn, NY",
-      "url": "https://www.linkedin.com/jobs/view/4472450870/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "LISS Technologies",
-      "title": "Client Services Dispatch Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4459447038/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "salary": "$65,000.00/yr - $85,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Dow Jones",
-      "title": "Manager, Account Management",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4470803982/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "RxSalesPros",
-      "title": "Territory Sales Representative - FOCUS ON GASTROENTEROLOGY - CONTINUING TO BUILD THE PREMIER GI SALES TEAM - Manhattan South, New York",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4446200663/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "RxSalesPros",
-      "title": "Territory Sales Representative - FOCUS ON GASTROENTEROLOGY - CONTINUING TO BUILD THE PREMIER GI SALES TEAM - Manhattan South, New York",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4445893685/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "DICK'S Sporting Goods",
-      "title": "Retail Operations Associate",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4470822336/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Miller 66, Inc",
-      "title": "Operations Coordinator",
-      "location": "Suwanee, GA",
-      "url": "https://www.linkedin.com/jobs/view/4472463481/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "The Music Studio Atlanta",
-      "title": "Part-Time Marketing Coordinator",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4472451958/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Compass",
-      "title": "Business Development Representative",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4472470067/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "The Davey Tree Expert Company",
-      "title": "Arborist Sales Representative | Naperville, IL",
-      "location": "Naperville, IL",
-      "url": "https://www.linkedin.com/jobs/view/4472478146/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
+      "salary": "$90,000.00/yr - $110,000.00/yr",
       "feeds": [
         "general"
       ]
