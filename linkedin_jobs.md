@@ -1,45 +1,29 @@
 # 🔥 LinkedIn — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-09-27 06:31 UTC*
+*Last updated: 2026-09-27 07:08 UTC*
 
-**10 new role(s)** since last run · 10 total in last 4h
+**6 new role(s)** since last run · 16 total in last 4h
 
-### [Account Management Specialist (Logistics Sales Specialist)](https://www.linkedin.com/jobs/view/4471090040/) — LX Pantos Americas
-- 📍 **Location:** Cerritos, CA
-- 🕒 **Posted:** 2026-09-26
+### [Operations Specialist](https://www.linkedin.com/jobs/view/4470582667/) — JOLT
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-27
 
-### [Sales Operations Coordinator](https://www.linkedin.com/jobs/view/4470582578/) — RevOps Report
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-26
+### [Sales Development Representative](https://www.linkedin.com/jobs/view/4451341992/) — Alice (Formerly ActiveFence)
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $130.00/yr - $148.00/yr
+- 🕒 **Posted:** 2026-09-27
 
-### [Sales Operations, Customer Advocate](https://www.linkedin.com/jobs/view/4470589401/) — RevOps Report
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-26
-
-### [Readiness & Operations Coordinator - Sales Enablement](https://www.linkedin.com/jobs/view/4470583564/) — RevOps Report
+### [National Account Manager](https://www.linkedin.com/jobs/view/4472438096/) — Cogent Communications
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-26
+- 🕒 **Posted:** 2026-09-27
 
-### [Executive Assistant](https://www.linkedin.com/jobs/view/4470591352/) — AscendHire
+### [Global Account Manager](https://www.linkedin.com/jobs/view/4472417861/) — Cogent Communications
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $100,000.00/yr - $135,000.00/yr
-- 🕒 **Posted:** 2026-09-26
+- 🕒 **Posted:** 2026-09-27
 
-### [Sales Operations Internship - Summer 2027](https://www.linkedin.com/jobs/view/4470592283/) — RevOps Report
+### [Sales Operations Analyst, AWSI Strategy & Operations](https://www.linkedin.com/jobs/view/4470577756/) — RevOps Report
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-26
+- 🕒 **Posted:** 2026-09-27
 
-### [Sales Operations Analyst II](https://www.linkedin.com/jobs/view/4470584524/) — RevOps Report
+### [Sales Operations Manager, Wholesale](https://www.linkedin.com/jobs/view/4470595243/) — RevOps Report
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-26
-
-### [Marketing Operations Coordinator](https://www.linkedin.com/jobs/view/4470576781/) — RevOps Report
-- 📍 **Location:** Marietta, GA
-- 🕒 **Posted:** 2026-09-26
-
-### [Account Management Specialist (Logistics Sales Specialist)](https://www.linkedin.com/jobs/view/4471075633/) — LX Pantos Americas
-- 📍 **Location:** Duluth, GA
-- 🕒 **Posted:** 2026-09-26
-
-### [Client Relations & Business Development Coordinator](https://www.linkedin.com/jobs/view/4471076729/) — Safe Life Home Health Care
-- 📍 **Location:** Lombard, IL
-- 🕒 **Posted:** 2026-09-26
+- 🕒 **Posted:** 2026-09-27
