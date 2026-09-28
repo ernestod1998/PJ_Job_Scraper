@@ -1,13 +1,25 @@
 {
-  "scraped_at": "2026-09-27 23:27 UTC",
-  "total": 28,
-  "new_count": 2,
+  "scraped_at": "2026-09-28 06:41 UTC",
+  "total": 30,
+  "new_count": 28,
   "jobs": [
     {
-      "company": "D3 Search",
-      "title": "Marketing Communications Coordinator",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470323176/",
+      "company": "Crossover",
+      "title": "School Operations Coordinator, Alpha - $90,000/year USD",
+      "location": "Torrance, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469056454/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "salary": "$90,000.00/yr - $90,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Tilly's Life Center",
+      "title": "Executive Assistant",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4471314748/",
       "date_posted": "2026-09-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -15,10 +27,22 @@
       ]
     },
     {
-      "company": "ELITE GIFT CARDS",
-      "title": "Sales And Marketing Specialist",
-      "location": "Los Angeles Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4470811651/",
+      "company": "Crescendo",
+      "title": "Executive Assistant",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472495251/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "salary": "$90,000.00/yr - $100,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Kuehne+Nagel",
+      "title": "Air Logistics Export Gateway Operations Specialist",
+      "location": "Torrance, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472483595/",
       "date_posted": "2026-09-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -48,33 +72,21 @@
       ]
     },
     {
-      "company": "CoverageX",
-      "title": "Inside Sales Closer",
-      "location": "Santa Ana, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472472232/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Simple AI",
-      "title": "Field Marketing Associate",
+      "company": "Atlasa",
+      "title": "Real Estate Operations Associate",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472461458/",
+      "url": "https://www.linkedin.com/jobs/view/4470617687/",
       "date_posted": "2026-09-27",
       "ats": "LinkedIn",
-      "salary": "$75,000.00/yr - $110,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Haystack",
-      "title": "Social Media Manager",
+      "company": "SA Technologies Inc.",
+      "title": "Sales Development Representative (SDR)",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4471303473/",
+      "url": "https://www.linkedin.com/jobs/view/4470839298/",
       "date_posted": "2026-09-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -82,10 +94,10 @@
       ]
     },
     {
-      "company": "Shields Group Search",
-      "title": "Business Development Representative",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465789340/",
+      "company": "The Best Job Board",
+      "title": "Technical Account Manager (Technical Advisory)",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472700084/",
       "date_posted": "2026-09-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -93,10 +105,10 @@
       ]
     },
     {
-      "company": "Carver Federal Savings Bank",
-      "title": "Administrative Coordinator",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4471301614/",
+      "company": "Gopuff",
+      "title": "Operations Associate - Distribution Center, Richmond",
+      "location": "Richmond, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472490116/",
       "date_posted": "2026-09-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -104,46 +116,10 @@
       ]
     },
     {
-      "company": "Addition Management",
-      "title": "Communications Event Coordinator",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4472455880/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "salary": "$85,000.00/yr - $91,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Addition Management",
-      "title": "Client Services Specialist",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4472462518/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "salary": "$150,000.00/yr - $200,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "The Moret Group",
-      "title": "ONSITE GARMENT Production Assistant",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4472467070/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "salary": "$50,000.00/yr - $55,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Guardian",
-      "title": "Integrated Marketing Manager",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4417679652/",
+      "company": "NEH Marketing Inc",
+      "title": "Marketing Assistant",
+      "location": "Hoboken, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4472491084/",
       "date_posted": "2026-09-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -151,112 +127,10 @@
       ]
     },
     {
-      "company": "Arrow Search Partners",
-      "title": "Recruiting Coordinator",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4206103764/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "New York City Council",
-      "title": "CONTENT CREATOR & COMMUNICATIONS ASSISTANT",
-      "location": "Brooklyn, NY",
-      "url": "https://www.linkedin.com/jobs/view/4471310297/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Partners In Law",
-      "title": "Executive Assistant",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4472464546/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "salary": "$90,000.00/yr - $130,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Elite Placement Group, Inc.",
-      "title": "Executive Assistant",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4472482025/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "salary": "$90,000.00/yr - $110,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Protege",
-      "title": "Field Marketing Manager",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4462487273/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hankey Group",
-      "title": "Dealer Account Manager",
-      "location": "Brooklyn, NY",
-      "url": "https://www.linkedin.com/jobs/view/4472450870/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "LISS Technologies",
-      "title": "Client Services Dispatch Engineer",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4459447038/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "salary": "$65,000.00/yr - $85,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Dow Jones",
-      "title": "Manager, Account Management",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4470803982/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "RxSalesPros",
-      "title": "Territory Sales Representative - FOCUS ON GASTROENTEROLOGY - CONTINUING TO BUILD THE PREMIER GI SALES TEAM - Manhattan South, New York",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4446200663/",
-      "date_posted": "2026-09-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "RxSalesPros",
-      "title": "Territory Sales Representative - FOCUS ON GASTROENTEROLOGY - CONTINUING TO BUILD THE PREMIER GI SALES TEAM - Manhattan South, New York",
+      "company": "Loci",
+      "title": "Social Media Account Manager",
       "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4445893685/",
+      "url": "https://www.linkedin.com/jobs/view/4471337189/",
       "date_posted": "2026-09-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -264,10 +138,10 @@
       ]
     },
     {
-      "company": "DICK'S Sporting Goods",
-      "title": "Retail Operations Associate",
+      "company": "Core Elite",
+      "title": "Marketing Communications Specialist",
       "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4470822336/",
+      "url": "https://www.linkedin.com/jobs/view/4467575485/",
       "date_posted": "2026-09-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -275,10 +149,10 @@
       ]
     },
     {
-      "company": "Miller 66, Inc",
-      "title": "Operations Coordinator",
-      "location": "Suwanee, GA",
-      "url": "https://www.linkedin.com/jobs/view/4472463481/",
+      "company": "The Foundry",
+      "title": "Marketing & Communications Assistant",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4472472936/",
       "date_posted": "2026-09-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -286,21 +160,22 @@
       ]
     },
     {
-      "company": "The Music Studio Atlanta",
-      "title": "Part-Time Marketing Coordinator",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4472451958/",
+      "company": "Core Elite",
+      "title": "Entry-Level Account Manager",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4467577478/",
       "date_posted": "2026-09-27",
       "ats": "LinkedIn",
+      "salary": "$50,000.00/yr - $70,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Compass",
+      "company": "Right Choice Resources",
       "title": "Business Development Representative",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4472470067/",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4472477888/",
       "date_posted": "2026-09-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -308,10 +183,155 @@
       ]
     },
     {
-      "company": "The Davey Tree Expert Company",
-      "title": "Arborist Sales Representative | Naperville, IL",
-      "location": "Naperville, IL",
-      "url": "https://www.linkedin.com/jobs/view/4472478146/",
+      "company": "Right Choice Resources",
+      "title": "Sales Development Representative",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4472484542/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "WizardQuant",
+      "title": "Business Development Associate",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4471331296/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NEH Marketing Inc",
+      "title": "Entry-Level Direct Marketing Associate (New Graduates Welcome)",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4472471909/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Averitas Pharma",
+      "title": "Key Account Manager, (KAM) - Brooklyn, NY",
+      "location": "Brooklyn, NY",
+      "url": "https://www.linkedin.com/jobs/view/4471313692/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "salary": "$160,000.00/yr - $175,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Check Point Software",
+      "title": "Territory Account Manager, Exposure Management (SLED)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4472702117/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Morehouse School of Medicine",
+      "title": "Clinical Research Coordinator, Navigator",
+      "location": "Atlanta Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4472472845/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Park Core Group",
+      "title": "Communications Assistant",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4472487109/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "salary": "$21.00/hr - $30.00/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Spiralyze",
+      "title": "Executive Assistant to the Founder (Entry Level)",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4471325416/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "James Hardie",
+      "title": "Intern, Sales Operations",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4472492133/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Redbridge Debt & Treasury Advisory",
+      "title": "Sales Development Representative",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4460132534/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cogent Communications",
+      "title": "National Account Manager",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4472483868/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "RXO, Inc.",
+      "title": "Key Account Manager (Drayage)",
+      "location": "Northbrook, IL",
+      "url": "https://www.linkedin.com/jobs/view/4471333044/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Haemonetics Interventional Technologies",
+      "title": "Account Manager, Interventional Technoligies, Chicago, IL",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4472492082/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Right Choice Resources",
+      "title": "Inside Sales Representative (NO COLD CALLING)",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4472485438/",
       "date_posted": "2026-09-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -321,10 +341,22 @@
   ],
   "new_jobs": [
     {
-      "company": "Shields Group Search",
-      "title": "Business Development Representative",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465789340/",
+      "company": "Crossover",
+      "title": "School Operations Coordinator, Alpha - $90,000/year USD",
+      "location": "Torrance, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469056454/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "salary": "$90,000.00/yr - $90,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Tilly's Life Center",
+      "title": "Executive Assistant",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4471314748/",
       "date_posted": "2026-09-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -332,13 +364,291 @@
       ]
     },
     {
-      "company": "Elite Placement Group, Inc.",
+      "company": "Crescendo",
       "title": "Executive Assistant",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4472482025/",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472495251/",
       "date_posted": "2026-09-27",
       "ats": "LinkedIn",
-      "salary": "$90,000.00/yr - $110,000.00/yr",
+      "salary": "$90,000.00/yr - $100,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Kuehne+Nagel",
+      "title": "Air Logistics Export Gateway Operations Specialist",
+      "location": "Torrance, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472483595/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Atlasa",
+      "title": "Real Estate Operations Associate",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470617687/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "SA Technologies Inc.",
+      "title": "Sales Development Representative (SDR)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4470839298/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Best Job Board",
+      "title": "Technical Account Manager (Technical Advisory)",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472700084/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Gopuff",
+      "title": "Operations Associate - Distribution Center, Richmond",
+      "location": "Richmond, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472490116/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NEH Marketing Inc",
+      "title": "Marketing Assistant",
+      "location": "Hoboken, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4472491084/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Loci",
+      "title": "Social Media Account Manager",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4471337189/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Core Elite",
+      "title": "Marketing Communications Specialist",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4467575485/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Foundry",
+      "title": "Marketing & Communications Assistant",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4472472936/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Core Elite",
+      "title": "Entry-Level Account Manager",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4467577478/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "salary": "$50,000.00/yr - $70,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Right Choice Resources",
+      "title": "Business Development Representative",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4472477888/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Right Choice Resources",
+      "title": "Sales Development Representative",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4472484542/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "WizardQuant",
+      "title": "Business Development Associate",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4471331296/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NEH Marketing Inc",
+      "title": "Entry-Level Direct Marketing Associate (New Graduates Welcome)",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4472471909/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Averitas Pharma",
+      "title": "Key Account Manager, (KAM) - Brooklyn, NY",
+      "location": "Brooklyn, NY",
+      "url": "https://www.linkedin.com/jobs/view/4471313692/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "salary": "$160,000.00/yr - $175,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Check Point Software",
+      "title": "Territory Account Manager, Exposure Management (SLED)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4472702117/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Morehouse School of Medicine",
+      "title": "Clinical Research Coordinator, Navigator",
+      "location": "Atlanta Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4472472845/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Park Core Group",
+      "title": "Communications Assistant",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4472487109/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "salary": "$21.00/hr - $30.00/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Spiralyze",
+      "title": "Executive Assistant to the Founder (Entry Level)",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4471325416/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "James Hardie",
+      "title": "Intern, Sales Operations",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4472492133/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Redbridge Debt & Treasury Advisory",
+      "title": "Sales Development Representative",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4460132534/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cogent Communications",
+      "title": "National Account Manager",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4472483868/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "RXO, Inc.",
+      "title": "Key Account Manager (Drayage)",
+      "location": "Northbrook, IL",
+      "url": "https://www.linkedin.com/jobs/view/4471333044/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Haemonetics Interventional Technologies",
+      "title": "Account Manager, Interventional Technoligies, Chicago, IL",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4472492082/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Right Choice Resources",
+      "title": "Inside Sales Representative (NO COLD CALLING)",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4472485438/",
+      "date_posted": "2026-09-27",
+      "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
@@ -348,7 +658,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 5,
+    "location": 8,
     "stale": 0
   }
 }
