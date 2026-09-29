@@ -1,100 +1,136 @@
 # 🗃 Direct ATS Registry — Marketing / Account Mgmt / Coordinator Roles
-*Last updated: 2026-09-28 20:34 UTC*
+*Last updated: 2026-09-29 19:13 UTC*
 
-**24 new role(s)** since last run · 64 total in current registry shard
+**33 new role(s)** since last run · 78 total in current registry shard
 
-### [Operations Coordinator](https://essex.wd5.myworkdayjobs.com/essexcareers/job/Bay-Area---East/Operations-Coordinator_R9443) — Essex
-- 📍 **Location:** Bay Area - East
-- 🕒 **Posted:** Posted Today
+### [Publicity Coordinator (Disney Entertainment Television)](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Publicity-Coordinator--Disney-Entertainment-Television-_10161368) — The Walt Disney Company
+- 📍 **Location:** Burbank, CA, USA
+- 🕒 **Posted:** Posted 7 Days Ago
 
-### [Email Marketing Manager](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IL03-01-Chicago-500-W-Monroe-St/Marketing-Specialist-1---Region-Marketing_R4046773-1) — GE Healthcare
-- 📍 **Location:** IL03-01-Chicago-500 W Monroe St
+### [COE Associate Project Manager](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/COE-Associate-Project-Manager_10161038) — The Walt Disney Company
+- 📍 **Location:** Burbank, CA, USA
 - 🕒 **Posted:** Posted 4 Days Ago
 
-### [Program Coordinator](https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/New-York-NY/Program-Coordinator_JR2026-104906) — Hospital for Special Surgery (HSS)
-- 📍 **Location:** New York, NY
+### [Junior Publicist A/Photo Editor](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Junior-Publicist-A-Photo-Editor_10160935-1) — The Walt Disney Company
+- 📍 **Location:** Burbank, CA, USA
+- 🕒 **Posted:** Posted 4 Days Ago
+
+### [Executive Assistant- Marketing, Disney Entertainment – Studios](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Executive-Assistant--Marketing--Disney-Entertainment---Studios_10158224-1) — The Walt Disney Company
+- 📍 **Location:** Burbank, CA, USA
+- 🕒 **Posted:** Posted 5 Days Ago
+
+### [Publicity Coordinator (Disney Entertainment Television)](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Publicity-Coordinator--Disney-Entertainment-Television-_10161368-1) — The Walt Disney Company
+- 📍 **Location:** Burbank, CA, USA
+- 🕒 **Posted:** Posted 7 Days Ago
+
+### [Production Coordinator - Disney Television Animation](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Production-Coordinator---Disney-Television-Animation_10151463) — The Walt Disney Company
+- 📍 **Location:** Glendale, CA, USA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Production Assistant](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Production-Assistant_10136120-2) — The Walt Disney Company
+- 📍 **Location:** Burbank, CA, USA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Executive Assistant – Management Audit and Global Product & Labor Standards](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Executive-Assistant---Management-Audit-and-Global-Product---Labor-Standards_10160078-2) — The Walt Disney Company
+- 📍 **Location:** Glendale, CA, USA
+- 🕒 **Posted:** Posted 8 Days Ago
+
+### [Executive Assistant (PH)](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Executive-Assistant--PH-_10142808-1) — The Walt Disney Company
+- 📍 **Location:** Glendale, CA, USA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Compensation Operations Specialist](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Compensation-Operations-Specialist_Job_Req_55573-1) — Dow Jones
+- 📍 **Location:** NYC - 1211 Ave of the Americas
+- 🕒 **Posted:** Posted Yesterday
+
+### [Commercial Account Manager - Inside Sales (Dow Jones Energy)](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/Houston-TX---OPIS/Commercial-Account-Manager---Inside-Sales--Dow-jones_Job_Req_54592) — Dow Jones
+- 📍 **Location:** NYC - 1211 Ave of the Americas
+- 🕒 **Posted:** Posted Yesterday
+
+### [Account Manager, Corporate Subscriptions](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Account-Manager--Corporate-Subscriptions_Job_Req_55485-1) — Dow Jones
+- 📍 **Location:** NYC - 1211 Ave of the Americas
 - 🕒 **Posted:** Posted 6 Days Ago
 
-### [Research Coordinator](https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/New-York-NY/Research-Coordinator_JR2026-106087) — Hospital for Special Surgery (HSS)
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** Posted 24 Days Ago
+### [Manager, Business Operations — WSJ Leadership Institute](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Manager--Business-Operations---WSJ-Leadership-Institute_Job_Req_55081) — Dow Jones
+- 📍 **Location:** NYC - 1211 Ave of the Americas
+- 🕒 **Posted:** Posted 20 Days Ago
 
-### [Clinical Research Coordinator, HSS Center for Regenerative Medicine](https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/New-York-NY/Clinical-Research-Coordinator--HSS-Center-for-Regenerative-Medicine_JR2026-105512) — Hospital for Special Surgery (HSS)
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** Posted 24 Days Ago
+### [Account Manager](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Account-Manager_Job_Req_54468) — Dow Jones
+- 📍 **Location:** NYC - 1211 Ave of the Americas
+- 🕒 **Posted:** Posted 21 Days Ago
 
-### [Associate Project Manager, Facilities Activation & Regulatory](https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/New-York-NY/Associate-Project-Manager--Facilities-Activation---Regulatory_JR2026-105913) — Hospital for Special Surgery (HSS)
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** Posted 24 Days Ago
+### [Account Manager, GRI](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Account-Manager--GRI_Job_Req_54883) — Dow Jones
+- 📍 **Location:** NYC - 1211 Ave of the Americas
+- 🕒 **Posted:** Posted 21 Days Ago
 
-### [Manager Business Operations, Physiatry](https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/New-York-NY/Manager-Business-Operations--Physiatry_JR2026-106182) — Hospital for Special Surgery (HSS)
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** Posted 11 Days Ago
+### [Manager, Account Management](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Manager--Account-Management_Job_Req_52902) — Dow Jones
+- 📍 **Location:** NYC - 1211 Ave of the Americas
+- 🕒 **Posted:** Posted 28 Days Ago
 
-### [Business Operations Manager, DOM](https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/New-York-NY/Business-Operations-Manager--Service-Lines_JR2026-106174) — Hospital for Special Surgery (HSS)
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** Posted 11 Days Ago
-
-### [Equipment Finance Sales Coordinator II](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Gateway-Center-Cols-Oh/Equipment-Finance-Sales-Coordinator-II_R0071695-1) — Huntington Bancshares
-- 📍 **Location:** Schaumburg, IL
+### [Account Manager](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Account-Manager_Job_Req_53984) — Dow Jones
+- 📍 **Location:** NYC - 1211 Ave of the Americas
 - 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Account Manager - Inventory Finance](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Schaumburg-IL/Account-Manager---Inventory-Finance_R0075652) — Huntington Bancshares
-- 📍 **Location:** Schaumburg, IL
-- 🕒 **Posted:** Posted 17 Days Ago
-
-### [Business Development Coordinator, Capital Markets](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Irvine-CA/Senior-Administrative-Assistant--Capital-Markets_REQ514718) — Jones Lang LaSalle (JLL)
-- 📍 **Location:** Irvine, CA
+### [Manager, Account Management](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Manager--Account-Management_Job_Req_52853) — Dow Jones
+- 📍 **Location:** NYC - 1211 Ave of the Americas
 - 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Facilities Operations Coordinator](https://jll.wd1.myworkdayjobs.com/jllcareers/job/St-Louis-MO/Facilities-Operations-Coordinator_REQ538355) — Jones Lang LaSalle (JLL)
-- 📍 **Location:** Berkeley, MO
-- 🕒 **Posted:** Posted 3 Days Ago
+### [Manager, Integrated Marketing - The Wall Street Journal](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Manager--Integrated-Marketing---The-Wall-Street-Journal_Job_Req_55180) — Dow Jones
+- 📍 **Location:** NYC - 1211 Ave of the Americas
+- 🕒 **Posted:** Posted 15 Days Ago
 
-### [Logistics Coordinator](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Milpitas-CA/Logistics-Coordinator_REQ534442) — Jones Lang LaSalle (JLL)
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** Posted 4 Days Ago
+### [Sales Account Manager – Rail & IT](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Milan-Lombardy-Italy/Sales-Account-Manager---Rail---IT_R0143400) — Hitachi
+- 📍 **Location:** Milan, Lombardy, Italy
+- 🕒 **Posted:** Posted 21 Days Ago
 
-### [Sustainability Program Coordinator](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Raleigh-NC/Sustainability-Program-Coordinator_REQ515492) — Jones Lang LaSalle (JLL)
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** Posted 4 Days Ago
+### [Account Manager - Data Centers Colocations](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HERemote_Santa-Clara-California/Account-Manager---Data-Centers-Colocations_R0045484) — Hitachi
+- 📍 **Location:** (HE)Remote_Santa Clara, California
+- 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Project Coordinator](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Atlanta-GA/Project-Coordinator_REQ535390) — Jones Lang LaSalle (JLL)
-- 📍 **Location:** Atlanta, GA
+### [Sales Operations Analyst- Bilingual Japanese](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Sales-Operations-Analyst_R0142200) — Hitachi
+- 📍 **Location:** Santa Clara, California, United States
 - 🕒 **Posted:** Posted 7 Days Ago
 
-### [Meeting & Events Coordinator](https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Francisco-CA/Meeting---Events-Coordinator_REQ536981) — Jones Lang LaSalle (JLL)
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Executive Assistant](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Tlaquepaque-Jalisco-Mexico/Executive-Assistant_1214565) — Hewlett Packard Enterprise
+- 📍 **Location:** San Jose, San Jose, Costa Rica
+- 🕒 **Posted:** Posted Yesterday
 
-### [Meeting & Events Coordinator](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Meeting---Events-Coordinator_REQ536980) — Jones Lang LaSalle (JLL)
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** Posted 7 Days Ago
+### [GMC Digital Marketing, Analytics & AI Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/GMC-Digital-Marketing--Analytics---AI-Intern_1213640) — Hewlett Packard Enterprise
+- 📍 **Location:** San Jose, California, United States of America
+- 🕒 **Posted:** Posted Yesterday
 
-### [Meeting & Events Coordinator](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Meeting---Events-Coordinator_REQ536966) — Jones Lang LaSalle (JLL)
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** Posted 10 Days Ago
-
-### [Assistant Project Manager](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Assistant-Project-Manager_REQ535723) — Jones Lang LaSalle (JLL)
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** Posted 4 Days Ago
-
-### [Sales coordinator](https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Sales-coordinator_JR-0094123-1) — Dematic
-- 📍 **Location:** Atlanta, GA, United States
+### [Global Account Manager - HPE Financial Services (California)](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-California-United-States-of-America/Global-Account-Manager---HPE-Financial-Services--California-_1210715-2) — Hewlett Packard Enterprise
+- 📍 **Location:** Palo Alto, California, United States of America
 - 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Strategic Account Manager - East](https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Atlanta-GA-United-States/Expert-Sales_JR-0072086) — Dematic
-- 📍 **Location:** Atlanta, GA, United States
+### [SLED Enterprise Account Manager - NJ](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-New-Jersey-United-States-of-America/SLED-Enterprise-Account-Manager---NJ_1215332-2) — Hewlett Packard Enterprise
+- 📍 **Location:** Berkeley Heights, New Jersey, United States of America
+- 🕒 **Posted:** Posted 6 Days Ago
+
+### [Public Relations Manager](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Public-Relations-Manager_1210577-2) — Hewlett Packard Enterprise
+- 📍 **Location:** San Jose, California, United States of America
 - 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Strategic Account Manager - East](https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Atlanta-GA-United-States/Strategic-Account-Manager---East_JR-0088422) — Dematic
-- 📍 **Location:** Atlanta, GA, United States
+### [Account Coordinator](https://interpublic.wd5.myworkdayjobs.com/omc/job/New-York-New-York-United-States-of-America/Account-Coordinator_R14757) — Omnicom Group
+- 📍 **Location:** New York, New York, United States of America
+- 🕒 **Posted:** Posted Yesterday
+
+### [Account Coordinator](https://interpublic.wd5.myworkdayjobs.com/omc/job/New-York-New-York-United-States-of-America/Account-Supervisor_R11777) — Omnicom Group
+- 📍 **Location:** New York, New York, United States of America
+- 🕒 **Posted:** Posted 8 Days Ago
+
+### [Account Coordinator](https://interpublic.wd5.myworkdayjobs.com/omc/job/New-York-New-York-United-States-of-America/Account-Coordinator_R13456) — Omnicom Group
+- 📍 **Location:** New York, New York, United States of America
 - 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Account Manager - Flexible Automation - East Region](https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Account-Manager---Flexible-Automation---East-Region_JR-0087476) — Dematic
-- 📍 **Location:** Atlanta, GA, United States
-- 🕒 **Posted:** Posted 30+ Days Ago
+### [Project Coordinator](https://interpublic.wd5.myworkdayjobs.com/omc/job/New-York-New-York-United-States-of-America/Project-Coordinator_R14262) — Omnicom Group
+- 📍 **Location:** New York, New York, United States of America
+- 🕒 **Posted:** Posted 20 Days Ago
 
-### [Business Development Representative](https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Business-Development-Representative_JR-0095194) — Dematic
-- 📍 **Location:** Atlanta, GA, United States
-- 🕒 **Posted:** Posted 26 Days Ago
+### [Client Services Representative](https://interpublic.wd5.myworkdayjobs.com/omc/job/Atlanta-Georgia-United-States-of-America/Client-Services-Representative_R15378-1) — Omnicom Group
+- 📍 **Location:** Atlanta, Georgia, United States of America
+- 🕒 **Posted:** Posted Today
+
+### [Assistant Media Planner](https://interpublic.wd5.myworkdayjobs.com/omc/job/New-York-New-York-United-States-of-America/Assistant-Media-Planner_R14617) — Omnicom Group
+- 📍 **Location:** New York, New York, United States of America
+- 🕒 **Posted:** Posted 18 Days Ago
