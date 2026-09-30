@@ -1,136 +1,224 @@
 # 🗃 Direct ATS Registry — Marketing / Account Mgmt / Coordinator Roles
-*Last updated: 2026-09-29 19:13 UTC*
+*Last updated: 2026-09-30 18:56 UTC*
 
-**33 new role(s)** since last run · 78 total in current registry shard
+**55 new role(s)** since last run · 84 total in current registry shard
 
-### [Publicity Coordinator (Disney Entertainment Television)](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Publicity-Coordinator--Disney-Entertainment-Television-_10161368) — The Walt Disney Company
-- 📍 **Location:** Burbank, CA, USA
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Executive Assistant - Corporate/Investment Banking](https://cibc.wd3.myworkdayjobs.com/search/job/New-York-NY/Executive-Assistant---Corporate-Investment-Banking_2617507) — CIBC
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted 12 Days Ago
 
-### [COE Associate Project Manager](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/COE-Associate-Project-Manager_10161038) — The Walt Disney Company
-- 📍 **Location:** Burbank, CA, USA
-- 🕒 **Posted:** Posted 4 Days Ago
+### [Loan Operations Specialist IV](https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/Loan-Operations-Specialist-IV_2616955) — CIBC
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** Posted 16 Days Ago
 
-### [Junior Publicist A/Photo Editor](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Junior-Publicist-A-Photo-Editor_10160935-1) — The Walt Disney Company
-- 📍 **Location:** Burbank, CA, USA
-- 🕒 **Posted:** Posted 4 Days Ago
+### [Customer Experience Customer Success Specialist (Remote)](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Customer-Experience-Customer-Success-Specialist--Remote-_2024394-1) — Cisco
+- 📍 **Location:** San Jose, California, US
+- 🕒 **Posted:** Posted 9 Days Ago
 
-### [Executive Assistant- Marketing, Disney Entertainment – Studios](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Executive-Assistant--Marketing--Disney-Entertainment---Studios_10158224-1) — The Walt Disney Company
-- 📍 **Location:** Burbank, CA, USA
-- 🕒 **Posted:** Posted 5 Days Ago
-
-### [Publicity Coordinator (Disney Entertainment Television)](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Publicity-Coordinator--Disney-Entertainment-Television-_10161368-1) — The Walt Disney Company
-- 📍 **Location:** Burbank, CA, USA
-- 🕒 **Posted:** Posted 7 Days Ago
-
-### [Production Coordinator - Disney Television Animation](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Production-Coordinator---Disney-Television-Animation_10151463) — The Walt Disney Company
-- 📍 **Location:** Glendale, CA, USA
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Production Assistant](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Production-Assistant_10136120-2) — The Walt Disney Company
-- 📍 **Location:** Burbank, CA, USA
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Executive Assistant – Management Audit and Global Product & Labor Standards](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Executive-Assistant---Management-Audit-and-Global-Product---Labor-Standards_10160078-2) — The Walt Disney Company
-- 📍 **Location:** Glendale, CA, USA
-- 🕒 **Posted:** Posted 8 Days Ago
-
-### [Executive Assistant (PH)](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Executive-Assistant--PH-_10142808-1) — The Walt Disney Company
-- 📍 **Location:** Glendale, CA, USA
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Compensation Operations Specialist](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Compensation-Operations-Specialist_Job_Req_55573-1) — Dow Jones
-- 📍 **Location:** NYC - 1211 Ave of the Americas
-- 🕒 **Posted:** Posted Yesterday
-
-### [Commercial Account Manager - Inside Sales (Dow Jones Energy)](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/Houston-TX---OPIS/Commercial-Account-Manager---Inside-Sales--Dow-jones_Job_Req_54592) — Dow Jones
-- 📍 **Location:** NYC - 1211 Ave of the Americas
-- 🕒 **Posted:** Posted Yesterday
-
-### [Account Manager, Corporate Subscriptions](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Account-Manager--Corporate-Subscriptions_Job_Req_55485-1) — Dow Jones
-- 📍 **Location:** NYC - 1211 Ave of the Americas
-- 🕒 **Posted:** Posted 6 Days Ago
-
-### [Manager, Business Operations — WSJ Leadership Institute](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Manager--Business-Operations---WSJ-Leadership-Institute_Job_Req_55081) — Dow Jones
-- 📍 **Location:** NYC - 1211 Ave of the Americas
-- 🕒 **Posted:** Posted 20 Days Ago
-
-### [Account Manager](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Account-Manager_Job_Req_54468) — Dow Jones
-- 📍 **Location:** NYC - 1211 Ave of the Americas
-- 🕒 **Posted:** Posted 21 Days Ago
-
-### [Account Manager, GRI](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Account-Manager--GRI_Job_Req_54883) — Dow Jones
-- 📍 **Location:** NYC - 1211 Ave of the Americas
-- 🕒 **Posted:** Posted 21 Days Ago
-
-### [Manager, Account Management](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Manager--Account-Management_Job_Req_52902) — Dow Jones
-- 📍 **Location:** NYC - 1211 Ave of the Americas
-- 🕒 **Posted:** Posted 28 Days Ago
-
-### [Account Manager](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Account-Manager_Job_Req_53984) — Dow Jones
-- 📍 **Location:** NYC - 1211 Ave of the Americas
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Manager, Account Management](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Manager--Account-Management_Job_Req_52853) — Dow Jones
-- 📍 **Location:** NYC - 1211 Ave of the Americas
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Manager, Integrated Marketing - The Wall Street Journal](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Manager--Integrated-Marketing---The-Wall-Street-Journal_Job_Req_55180) — Dow Jones
-- 📍 **Location:** NYC - 1211 Ave of the Americas
-- 🕒 **Posted:** Posted 15 Days Ago
-
-### [Sales Account Manager – Rail & IT](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Milan-Lombardy-Italy/Sales-Account-Manager---Rail---IT_R0143400) — Hitachi
-- 📍 **Location:** Milan, Lombardy, Italy
-- 🕒 **Posted:** Posted 21 Days Ago
-
-### [Account Manager - Data Centers Colocations](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HERemote_Santa-Clara-California/Account-Manager---Data-Centers-Colocations_R0045484) — Hitachi
-- 📍 **Location:** (HE)Remote_Santa Clara, California
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Sales Operations Analyst- Bilingual Japanese](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Sales-Operations-Analyst_R0142200) — Hitachi
-- 📍 **Location:** Santa Clara, California, United States
-- 🕒 **Posted:** Posted 7 Days Ago
-
-### [Executive Assistant](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Tlaquepaque-Jalisco-Mexico/Executive-Assistant_1214565) — Hewlett Packard Enterprise
-- 📍 **Location:** San Jose, San Jose, Costa Rica
-- 🕒 **Posted:** Posted Yesterday
-
-### [GMC Digital Marketing, Analytics & AI Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/GMC-Digital-Marketing--Analytics---AI-Intern_1213640) — Hewlett Packard Enterprise
-- 📍 **Location:** San Jose, California, United States of America
-- 🕒 **Posted:** Posted Yesterday
-
-### [Global Account Manager - HPE Financial Services (California)](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-California-United-States-of-America/Global-Account-Manager---HPE-Financial-Services--California-_1210715-2) — Hewlett Packard Enterprise
-- 📍 **Location:** Palo Alto, California, United States of America
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [SLED Enterprise Account Manager - NJ](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-New-Jersey-United-States-of-America/SLED-Enterprise-Account-Manager---NJ_1215332-2) — Hewlett Packard Enterprise
-- 📍 **Location:** Berkeley Heights, New Jersey, United States of America
-- 🕒 **Posted:** Posted 6 Days Ago
-
-### [Public Relations Manager](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Public-Relations-Manager_1210577-2) — Hewlett Packard Enterprise
-- 📍 **Location:** San Jose, California, United States of America
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Account Coordinator](https://interpublic.wd5.myworkdayjobs.com/omc/job/New-York-New-York-United-States-of-America/Account-Coordinator_R14757) — Omnicom Group
-- 📍 **Location:** New York, New York, United States of America
-- 🕒 **Posted:** Posted Yesterday
-
-### [Account Coordinator](https://interpublic.wd5.myworkdayjobs.com/omc/job/New-York-New-York-United-States-of-America/Account-Supervisor_R11777) — Omnicom Group
-- 📍 **Location:** New York, New York, United States of America
-- 🕒 **Posted:** Posted 8 Days Ago
-
-### [Account Coordinator](https://interpublic.wd5.myworkdayjobs.com/omc/job/New-York-New-York-United-States-of-America/Account-Coordinator_R13456) — Omnicom Group
-- 📍 **Location:** New York, New York, United States of America
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Project Coordinator](https://interpublic.wd5.myworkdayjobs.com/omc/job/New-York-New-York-United-States-of-America/Project-Coordinator_R14262) — Omnicom Group
-- 📍 **Location:** New York, New York, United States of America
-- 🕒 **Posted:** Posted 20 Days Ago
-
-### [Client Services Representative](https://interpublic.wd5.myworkdayjobs.com/omc/job/Atlanta-Georgia-United-States-of-America/Client-Services-Representative_R15378-1) — Omnicom Group
-- 📍 **Location:** Atlanta, Georgia, United States of America
+### [Lead Software Engineer, Account Management-ThousandEyes(Hybrid)](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Lead-Software-Engineer--Account-Management-ThousandEyes-Hybrid-_2023366-1) — Cisco
+- 📍 **Location:** San Francisco, California, US
 - 🕒 **Posted:** Posted Today
 
-### [Assistant Media Planner](https://interpublic.wd5.myworkdayjobs.com/omc/job/New-York-New-York-United-States-of-America/Assistant-Media-Planner_R14617) — Omnicom Group
-- 📍 **Location:** New York, New York, United States of America
-- 🕒 **Posted:** Posted 18 Days Ago
+### [Account Manager for Internal Creative Agency](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Account-Manager-for-Internal-Creative-Agency_26996368) — Citi
+- 📍 **Location:** Schaumburg Illinois United States
+- 🕒 **Posted:** Posted 5 Days Ago
+
+### [Client Services Manager - Middle Market/Construction](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Downers-Grove-IL-USA/Client-Services-Manager---National-Accounts_R-7538) — CNA Insurance
+- 📍 **Location:** Downers Grove, IL, USA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Sales Operations Manager](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Sales-Operations-Manager_R04664) — Cohesity
+- 📍 **Location:** Santa Clara, CA - USA (Office)
+- 🕒 **Posted:** Posted 13 Days Ago
+
+### [Client Services Associate - Santa Ana, CA (Onsite)](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Santa-Ana-CA/Client-Services-Associate---Santa-Ana--CA--Onsite-_JR104559) — Collectors
+- 📍 **Location:** Santa Ana, CA
+- 🕒 **Posted:** Posted 21 Days Ago
+
+### [Real Estate Project Coordinator](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Santa-Ana-CA/Real-Estate-Project-Coordinator_JR106560) — Collectors
+- 📍 **Location:** Santa Ana, CA
+- 🕒 **Posted:** Posted 26 Days Ago
+
+### [Executive Assistant](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Santa-Ana-CA/Executive-Assistant_JR106201) — Collectors
+- 📍 **Location:** Santa Ana, CA
+- 🕒 **Posted:** Posted 22 Days Ago
+
+### [Operations Associate, PSA (Temp-To-Hire) (Shift 1)](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Santa-Ana-CA/Operations-Associate---temp-to-hire---Shift-2-_JR103405) — Collectors
+- 📍 **Location:** Santa Ana, CA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Operations Associate, PSA (Temp-To-Hire) (Shift 2)](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Santa-Ana-CA/Operations-Associate--PSA--Temp-To-Hire---Shift-2-_JR103910-3) — Collectors
+- 📍 **Location:** Santa Ana, CA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Workplace Operations Associate (PM Shift)](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Santa-Ana-CA/Workplace-Operations-Associate--PM-Shift-_JR105480) — Collectors
+- 📍 **Location:** Santa Ana, CA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Workplace Operations Associate (AM Shift)](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Santa-Ana-CA/Workplace-Operations-Associate--AM-Shift-_JR105481) — Collectors
+- 📍 **Location:** Santa Ana, CA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Account Manager, Marketplace](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Santa-Ana-CA/Account-Manager--PSA-Offers_JR103964) — Collectors
+- 📍 **Location:** Santa Ana, CA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Sales Operations Manager, Marketplace](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Santa-Ana-CA/Sales-Operations-Manager--Marketplace_JR106117) — Collectors
+- 📍 **Location:** Santa Ana, CA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Marketplace Business Operations Program Manager](https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Santa-Ana-CA/Marketplace-Business-Operations-Program-Manager_JR106115) — Collectors
+- 📍 **Location:** Santa Ana, CA
+- 🕒 **Posted:** Posted 26 Days Ago
+
+### [Warranty Operations Coordinator](https://connect.wd1.myworkdayjobs.com/ztsystemscareers/job/Secaucus-NJ/Warranty-Operations-Coordinator_R-105189) — ZT Systems
+- 📍 **Location:** Secaucus, NJ
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Manager, Brand Marketing - CoStar Real Estate Manager & Visual Lease - Atlanta, GA](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-GA-Atlanta/Brand-and-Events-Manager--CoStar-Real-Estate-Manager---Visual-Lease_R39034) — CoStar Group
+- 📍 **Location:** US-GA Atlanta
+- 🕒 **Posted:** Posted 2 Days Ago
+
+### [Business Development Representative I - Real Estate Manager/ Visual Lease - Atlanta, GA](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-GA-Atlanta/Business-Development-Representative-I---Real-Estate-Manager--Visual-Lease---Atlanta--GA_R38694) — CoStar Group
+- 📍 **Location:** US-GA Atlanta
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Manager, Fleet Client Services](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Newark-NJ/Manager--Fleet-Client-Services_R202676582) — Cox
+- 📍 **Location:** Newark NJ
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Executive Assistant II](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Executive-Assistant-II_R202682864-1) — Cox
+- 📍 **Location:** Atlanta GA
+- 🕒 **Posted:** Posted 7 Days Ago
+
+### [Customer Account Manager](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Burbank-California/Customer-Account-Manager_JR102328) — Crane Co.
+- 📍 **Location:** Burbank, California
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Inside Sales Manager](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Bolingbrook-Illinois/Inside-Sales-Manager_JR101278) — Crane Co.
+- 📍 **Location:** Bolingbrook, Illinois
+- 🕒 **Posted:** Posted 22 Days Ago
+
+### [Executive Assistant (Hybrid, Sunnyvale)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Executive-Assistant--Hybrid--Sunnyvale-_R30103) — Crowdstrike
+- 📍 **Location:** USA - Sunnyvale, CA
+- 🕒 **Posted:** Posted 15 Days Ago
+
+### [Salesforce Project Coordinator](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Salesforce-Project-Coordinator_R-52331) — Crowe
+- 📍 **Location:** Chicago IL USA
+- 🕒 **Posted:** Posted Today
+
+### [MSFT AI Business Solutions Project Coordinator Campus](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/D365-ERP-Project-Coordinator_R-51937) — Crowe
+- 📍 **Location:** Chicago IL USA
+- 🕒 **Posted:** Posted 19 Days Ago
+
+### [MSFT AI Business Solutions Project Coordinator Intern](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/D365-ERP-Project-Coordinator-Intern_R-71038) — Crowe
+- 📍 **Location:** Chicago IL USA
+- 🕒 **Posted:** Posted 19 Days Ago
+
+### [AI Project Coordinator Intern](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/AI-Project-Coordinator-Intern_R-71007) — Crowe
+- 📍 **Location:** Chicago IL USA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [AI Project Coordinator](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/AI-Project-Coordinator_R-71011) — Crowe
+- 📍 **Location:** Chicago IL USA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Key Account Manager](https://csagroup.wd3.myworkdayjobs.com/csagroup/job/Atlanta/Key-Account-Manager_R004884) — CSA Group
+- 📍 **Location:** Atlanta
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [New Account Manager](https://csagroup.wd3.myworkdayjobs.com/csagroup/job/Chicago/New-Account-Manager_R004620) — CSA Group
+- 📍 **Location:** Chicago
+- 🕒 **Posted:** Posted 6 Days Ago
+
+### [Inside Sales Specialist](https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-CA-Brea-Nuclear/Inside-Sales-Specialist_JR13671-1) — Curtiss-Wright Corporation
+- 📍 **Location:** US-CA-Brea (Nuclear)
+- 🕒 **Posted:** Posted 7 Days Ago
+
+### [Field Beauty Sales Coordinator](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CA---Burbank/Field-Beauty-Sales-Consultant_R0987291) — CVS Health
+- 📍 **Location:** CA - Burbank
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Research Coordinator](https://cw.wd1.myworkdayjobs.com/external/job/Chicago-Illinois-USA/Research-Coordinator_R337075) — Cushman & Wakefield
+- 📍 **Location:** Chicago, Illinois, USA
+- 🕒 **Posted:** Posted 12 Days Ago
+
+### [Janitorial Account Manager](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Los-Angeles---5905-Wilshire-Blvd/Janitorial-Account-Manager_R336175-1) — Cushman & Wakefield
+- 📍 **Location:** Client Site - USA - CA - Los Angeles - 5905 Wilshire Blvd
+- 🕒 **Posted:** Posted Yesterday
+
+### [Operations Specialist](https://cw.wd1.myworkdayjobs.com/external/job/Atlanta-Georgia-USA/Operations-Specialist_R311312-1) — Cushman & Wakefield
+- 📍 **Location:** Atlanta, Georgia, USA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Operations Coordinator ( CRE )](https://cw.wd1.myworkdayjobs.com/external/job/New-York-New-York-USA/Operations-Coordinator---CRE--_R337059) — Cushman & Wakefield
+- 📍 **Location:** New York, New York, USA
+- 🕒 **Posted:** Posted 13 Days Ago
+
+### [Operations Specialist - Finance](https://cw.wd1.myworkdayjobs.com/external/job/Chicago-Illinois-USA/Operations-Specialist---Finance_R313315) — Cushman & Wakefield
+- 📍 **Location:** Chicago, Illinois, USA
+- 🕒 **Posted:** Posted 15 Days Ago
+
+### [Service Operations Coordinator Lead - ONSITE](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Deerfield-Illinois-United-States/Service-Operations-Coordinator-Lead---ONSITE_R1318383) — Danaher Corporation
+- 📍 **Location:** Deerfield, Illinois, United States
+- 🕒 **Posted:** Posted 12 Days Ago
+
+### [Biopharma Key Account Manager](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Philadelphia-Pennsylvania-United-States/Biopharma-Key-Account-Manager_R1319602) — Danaher Corporation
+- 📍 **Location:** Jersey City, New Jersey, United States
+- 🕒 **Posted:** Posted 6 Days Ago
+
+### [Event Coordinator](https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Concord-CA/Event-Coordinator_R-1013571) — Dave & Busters
+- 📍 **Location:** Concord, CA
+- 🕒 **Posted:** Posted 5 Days Ago
+
+### [Event Coordinator](https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Brooklyn-AS-NY/Event-Coordinator_R-1013641) — Dave & Busters
+- 📍 **Location:** Brooklyn AS, NY
+- 🕒 **Posted:** Posted Yesterday
+
+### [Visual Operations Coordinator](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Visual-Operations-Coordinator_R-101001) — David Yurman
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted 15 Days Ago
+
+### [Email Marketing Producer- Consultant](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Email-Marketing-Producer--Consultant_R-101061) — David Yurman
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted Today
+
+### [CLO & Private Credit Services - Account Manager (Evergreen)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/CaliforniaSanta-Ana/CLO---Private-Credit-Services---Account-Manager--Evergreen-_R0414456) — Deutsche Bank
+- 📍 **Location:** California/Santa Ana
+- 🕒 **Posted:** Posted 19 Days Ago
+
+### [Publicity Coordinator (PH), Searchlight Pictures](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Publicity-Coordinator--PH---Searchlight-Pictures_10161512-1) — The Walt Disney Company
+- 📍 **Location:** New York, NY, USA
+- 🕒 **Posted:** Posted Today
+
+### [Executive Assistant, Content & Inclusion](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Executive-Assistant--Content---Inclusion_10160613) — The Walt Disney Company
+- 📍 **Location:** Burbank, CA, USA
+- 🕒 **Posted:** Posted Yesterday
+
+### [FX Publicity Intern, Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/FX-Publicity-Intern--Spring-2027_10160493-1) — The Walt Disney Company
+- 📍 **Location:** Burbank, CA, USA
+- 🕒 **Posted:** Posted Today
+
+### [Publicity Coordinator (PH), Searchlight Pictures](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/Publicity-Coordinator--PH---Searchlight-Pictures_10161512) — The Walt Disney Company
+- 📍 **Location:** New York, NY, USA
+- 🕒 **Posted:** Posted Yesterday
+
+### [Executive Assistant, Content & Inclusion](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Executive-Assistant--Content---Inclusion_10160613-1) — The Walt Disney Company
+- 📍 **Location:** Burbank, CA, USA
+- 🕒 **Posted:** Posted Yesterday
+
+### [FX Publicity Intern, Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/FX-Publicity-Intern--Spring-2027_10160493-2) — The Walt Disney Company
+- 📍 **Location:** Burbank, CA, USA
+- 🕒 **Posted:** Posted Today
+
+### [Operations Coordinator](https://essex.wd5.myworkdayjobs.com/essexcareers/job/Bay-Area---Peninsula/Operations-Coordinator_R9452) — Essex
+- 📍 **Location:** Bay Area - Peninsula
+- 🕒 **Posted:** Posted Today
+
+### [Associate Account Manager](https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---San-Francisco/Associate-Account-Manager_R-106691) — Expedia Group
+- 📍 **Location:** USA - California - San Francisco
+- 🕒 **Posted:** Posted Yesterday
+
+### [Client Service Manager II - Clearing Client Management - Wealth Client Experience](https://fmr.wd1.myworkdayjobs.com/targeted/job/Smithfield-RI/Client-Service-Manager-II---Clearing-Client-Management---Wealth-Client-Experience_2055104) — Fidelity Investments
+- 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** Posted 6 Days Ago
