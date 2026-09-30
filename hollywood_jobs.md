@@ -1,16 +1,12 @@
 # 🎬 Entertainment — Studios / Agencies / Labels (direct ATS + LinkedIn allowlist)
-*Last updated: 2026-09-29 09:55 UTC*
+*Last updated: 2026-09-30 09:44 UTC*
 
-**3 new role(s)** since last run · 38 total in last 24h
+**2 new role(s)** since last run · 36 total in last 24h
 
-### [Executive Assistant](https://spe.wd1.myworkdayjobs.com/SonyPicturesEntertainment/job/Culver-City-California/Executive-Assistant_JR113432) — Sony Pictures Entertainment
-- 📍 **Location:** Culver City, California
+### [Executive Assistant, Content & Inclusion](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Executive-Assistant--Content---Inclusion_10160613) — The Walt Disney Company
+- 📍 **Location:** Burbank, CA, USA
 - 🕒 **Posted:** Posted Yesterday
 
-### [Creator Growth Marketing Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4373084097/) — TikTok
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-09-29
-
-### [Executive Assistant (Legal)](https://www.linkedin.com/jobs/view/4418010790/) — Mattel, Inc.
-- 📍 **Location:** El Segundo, CA
-- 🕒 **Posted:** 2026-09-28
+### [LN Concerts, Executive Assistant](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/LN-Concerts--Executive-Assistant_JR-93486) — Live Nation Entertainment
+- 📍 **Location:** Beverly Hills, CA, USA
+- 🕒 **Posted:** Posted Yesterday
