@@ -1,15 +1,15 @@
 {
-  "scraped_at": "2026-09-30 20:53 UTC",
-  "total": 6,
-  "new_count": 0,
+  "scraped_at": "2026-10-01 21:06 UTC",
+  "total": 3,
+  "new_count": 1,
   "jobs": [
     {
-      "company": "City of San Rafael",
-      "title": "Program Coordinator",
-      "location": "San Rafael, CA",
-      "url": "https://www.governmentjobs.com/jobs/151334-1/program-coordinator",
+      "company": "County of Los Angeles",
+      "title": "PARK PROJECT COORDINATOR",
+      "location": "Los Angeles County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5473925-0/park-project-coordinator",
       "date_posted": "",
-      "salary": "$6,381.00 - $7,756.00 Monthly",
+      "salary": "$88,823.04 - $113,376.00 Annually",
       "ats": "NEOGOV",
       "feeds": [
         "general"
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "company": "City of Cupertino",
-      "title": "Community Coordinator",
-      "location": "Cupertino, CA",
-      "url": "https://www.governmentjobs.com/jobs/5478961-0/community-coordinator",
-      "date_posted": "",
-      "salary": "$35.30 - $39.30 Hourly",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "County of Santa Clara",
       "title": "Parks Program Coordinator - Community Engagement",
       "location": "Throughout the County of Santa Clara, CA",
@@ -50,33 +38,22 @@
       "feeds": [
         "general"
       ]
-    },
+    }
+  ],
+  "new_jobs": [
     {
-      "company": "City of Westminster",
-      "title": "Communications Specialist",
-      "location": "City of Westminster, CA",
-      "url": "https://www.governmentjobs.com/jobs/5491014-0/communications-specialist",
+      "company": "County of Los Angeles",
+      "title": "PARK PROJECT COORDINATOR",
+      "location": "Los Angeles County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5473925-0/park-project-coordinator",
       "date_posted": "",
-      "salary": "$71,676.80 - $91,478.40 Annually",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Orange County Transportation Authority",
-      "title": "Marketing Specialist Associate",
-      "location": "Orange, CA",
-      "url": "https://www.governmentjobs.com/jobs/149776-1/marketing-specialist-associate",
-      "date_posted": "",
-      "salary": "$34.61 - $47.62 Hourly",
+      "salary": "$88,823.04 - $113,376.00 Annually",
       "ats": "NEOGOV",
       "feeds": [
         "general"
       ]
     }
   ],
-  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,

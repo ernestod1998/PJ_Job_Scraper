@@ -1,6 +1,8 @@
 # 🏛 NEOGOV — State & Local Government Roles
-*Last updated: 2026-09-30 20:53 UTC*
+*Last updated: 2026-10-01 21:06 UTC*
 
-**0 new role(s)** since last run · 6 total in recent GovernmentJobs postings
+**1 new role(s)** since last run · 3 total in recent GovernmentJobs postings
 
-No new state/local-gov roles since the last run.
+### [PARK PROJECT COORDINATOR](https://www.governmentjobs.com/jobs/5473925-0/park-project-coordinator) — County of Los Angeles
+- 📍 **Location:** Los Angeles County, CA
+- 💰 **Salary:** $88,823.04 - $113,376.00 Annually
