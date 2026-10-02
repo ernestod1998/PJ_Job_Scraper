@@ -1,8 +1,8 @@
 # 🏛 NEOGOV — State & Local Government Roles
-*Last updated: 2026-10-01 21:06 UTC*
+*Last updated: 2026-10-02 20:50 UTC*
 
-**1 new role(s)** since last run · 3 total in recent GovernmentJobs postings
+**1 new role(s)** since last run · 4 total in recent GovernmentJobs postings
 
-### [PARK PROJECT COORDINATOR](https://www.governmentjobs.com/jobs/5473925-0/park-project-coordinator) — County of Los Angeles
-- 📍 **Location:** Los Angeles County, CA
-- 💰 **Salary:** $88,823.04 - $113,376.00 Annually
+### [Marketing Specialist Associate](https://www.governmentjobs.com/jobs/149776-1/marketing-specialist-associate) — Orange County Transportation Authority
+- 📍 **Location:** Orange, CA
+- 💰 **Salary:** $34.61 - $47.62 Hourly

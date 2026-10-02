@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-01 21:06 UTC",
-  "total": 3,
+  "scraped_at": "2026-10-02 20:50 UTC",
+  "total": 4,
   "new_count": 1,
   "jobs": [
     {
@@ -38,16 +38,28 @@
       "feeds": [
         "general"
       ]
+    },
+    {
+      "company": "Orange County Transportation Authority",
+      "title": "Marketing Specialist Associate",
+      "location": "Orange, CA",
+      "url": "https://www.governmentjobs.com/jobs/149776-1/marketing-specialist-associate",
+      "date_posted": "",
+      "salary": "$34.61 - $47.62 Hourly",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
     }
   ],
   "new_jobs": [
     {
-      "company": "County of Los Angeles",
-      "title": "PARK PROJECT COORDINATOR",
-      "location": "Los Angeles County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5473925-0/park-project-coordinator",
+      "company": "Orange County Transportation Authority",
+      "title": "Marketing Specialist Associate",
+      "location": "Orange, CA",
+      "url": "https://www.governmentjobs.com/jobs/149776-1/marketing-specialist-associate",
       "date_posted": "",
-      "salary": "$88,823.04 - $113,376.00 Annually",
+      "salary": "$34.61 - $47.62 Hourly",
       "ats": "NEOGOV",
       "feeds": [
         "general"
