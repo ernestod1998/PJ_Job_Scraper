@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-02 20:50 UTC",
+  "scraped_at": "2026-10-03 19:18 UTC",
   "total": 4,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "County of Los Angeles",
@@ -52,20 +52,7 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Orange County Transportation Authority",
-      "title": "Marketing Specialist Associate",
-      "location": "Orange, CA",
-      "url": "https://www.governmentjobs.com/jobs/149776-1/marketing-specialist-associate",
-      "date_posted": "",
-      "salary": "$34.61 - $47.62 Hourly",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
