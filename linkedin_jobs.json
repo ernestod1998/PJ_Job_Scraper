@@ -1,14 +1,25 @@
 {
-  "scraped_at": "2026-10-04 06:46 UTC",
-  "total": 8,
-  "new_count": 8,
+  "scraped_at": "2026-10-04 07:26 UTC",
+  "total": 10,
+  "new_count": 2,
   "jobs": [
     {
       "company": "D3 Search",
       "title": "Marketing Communications Coordinator",
       "location": "Los Angeles, CA",
       "url": "https://www.linkedin.com/jobs/view/4472839047/",
-      "date_posted": "2026-10-03",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Aston Carter",
+      "title": "Recruiting Coordinator",
+      "location": "El Segundo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473475208/",
+      "date_posted": "2026-10-04",
       "ats": "LinkedIn",
       "feeds": [
         "general"
@@ -19,7 +30,7 @@
       "title": "Outreach Coordinator",
       "location": "Irvine, CA",
       "url": "https://www.linkedin.com/jobs/view/4473875497/",
-      "date_posted": "2026-10-03",
+      "date_posted": "2026-10-04",
       "ats": "LinkedIn",
       "feeds": [
         "general"
@@ -30,7 +41,7 @@
       "title": "Human Resources Operations Specialist",
       "location": "Los Angeles Metropolitan Area",
       "url": "https://www.linkedin.com/jobs/view/4475031934/",
-      "date_posted": "2026-10-03",
+      "date_posted": "2026-10-04",
       "ats": "LinkedIn",
       "salary": "$19.00/hr - $26.00/hr",
       "feeds": [
@@ -42,7 +53,7 @@
       "title": "Digital Marketing Manager",
       "location": "Manhattan Beach, CA",
       "url": "https://www.linkedin.com/jobs/view/4475357773/",
-      "date_posted": "2026-10-03",
+      "date_posted": "2026-10-04",
       "ats": "LinkedIn",
       "salary": "$85,000.00/yr - $100,000.00/yr",
       "feeds": [
@@ -54,9 +65,20 @@
       "title": "Inside Sales & Service Representative",
       "location": "Costa Mesa, CA",
       "url": "https://www.linkedin.com/jobs/view/4473478080/",
-      "date_posted": "2026-10-03",
+      "date_posted": "2026-10-04",
       "ats": "LinkedIn",
       "salary": "$20.00/hr - $30.00/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Helsi",
+      "title": "Digital Marketing Manager",
+      "location": "Monrovia, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473897109/",
+      "date_posted": "2026-10-04",
+      "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
@@ -66,7 +88,7 @@
       "title": "Sales Development Representative",
       "location": "New York City Metropolitan Area",
       "url": "https://www.linkedin.com/jobs/view/4451341992/",
-      "date_posted": "2026-10-03",
+      "date_posted": "2026-10-04",
       "ats": "LinkedIn",
       "salary": "$130.00/yr - $148.00/yr",
       "feeds": [
@@ -78,7 +100,7 @@
       "title": "Global Account Manager",
       "location": "New York, NY",
       "url": "https://www.linkedin.com/jobs/view/4475366493/",
-      "date_posted": "2026-10-03",
+      "date_posted": "2026-10-04",
       "ats": "LinkedIn",
       "feeds": [
         "general"
@@ -89,7 +111,7 @@
       "title": "Podcast Production Assistant",
       "location": "New York, NY",
       "url": "https://www.linkedin.com/jobs/view/4475364523/",
-      "date_posted": "2026-10-03",
+      "date_posted": "2026-10-04",
       "ats": "LinkedIn",
       "feeds": [
         "general"
@@ -98,92 +120,22 @@
   ],
   "new_jobs": [
     {
-      "company": "D3 Search",
-      "title": "Marketing Communications Coordinator",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472839047/",
-      "date_posted": "2026-10-03",
+      "company": "Aston Carter",
+      "title": "Recruiting Coordinator",
+      "location": "El Segundo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473475208/",
+      "date_posted": "2026-10-04",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Partners4Wellness",
-      "title": "Outreach Coordinator",
-      "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473875497/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Delta Computer Consulting",
-      "title": "Human Resources Operations Specialist",
-      "location": "Los Angeles Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4475031934/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn",
-      "salary": "$19.00/hr - $26.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Rock & Brews Restaurants",
+      "company": "Helsi",
       "title": "Digital Marketing Manager",
-      "location": "Manhattan Beach, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475357773/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn",
-      "salary": "$85,000.00/yr - $100,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hajoca Corporation",
-      "title": "Inside Sales & Service Representative",
-      "location": "Costa Mesa, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473478080/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn",
-      "salary": "$20.00/hr - $30.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Alice (Formerly ActiveFence)",
-      "title": "Sales Development Representative",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4451341992/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn",
-      "salary": "$130.00/yr - $148.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cogent Communications",
-      "title": "Global Account Manager",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4475366493/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Unruled Masses",
-      "title": "Podcast Production Assistant",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4475364523/",
-      "date_posted": "2026-10-03",
+      "location": "Monrovia, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473897109/",
+      "date_posted": "2026-10-04",
       "ats": "LinkedIn",
       "feeds": [
         "general"
