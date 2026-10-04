@@ -1,35 +1,13 @@
 {
-  "scraped_at": "2026-10-03 23:22 UTC",
-  "total": 21,
-  "new_count": 6,
+  "scraped_at": "2026-10-04 06:46 UTC",
+  "total": 8,
+  "new_count": 8,
   "jobs": [
     {
-      "company": "P3 Research",
-      "title": "Office Operations Coordinator",
-      "location": "Los Angeles Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4473567619/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "AskBobAI",
-      "title": "Social Media Marketing Specialist",
-      "location": "Huntington Beach, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473870593/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Vaccine Vets",
-      "title": "Public Relations Communications Intern",
+      "company": "D3 Search",
+      "title": "Marketing Communications Coordinator",
       "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473806237/",
+      "url": "https://www.linkedin.com/jobs/view/4472839047/",
       "date_posted": "2026-10-03",
       "ats": "LinkedIn",
       "feeds": [
@@ -37,10 +15,10 @@
       ]
     },
     {
-      "company": "Working Capital Network",
-      "title": "Junior Sales Representative",
-      "location": "Costa Mesa, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473875437/",
+      "company": "Partners4Wellness",
+      "title": "Outreach Coordinator",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473875497/",
       "date_posted": "2026-10-03",
       "ats": "LinkedIn",
       "feeds": [
@@ -48,99 +26,58 @@
       ]
     },
     {
-      "company": "Jacques Marie Mage",
-      "title": "R\u00e9serve Client Experience & Operations Coordinator",
+      "company": "Delta Computer Consulting",
+      "title": "Human Resources Operations Specialist",
       "location": "Los Angeles Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4475345582/",
+      "url": "https://www.linkedin.com/jobs/view/4475031934/",
       "date_posted": "2026-10-03",
       "ats": "LinkedIn",
+      "salary": "$19.00/hr - $26.00/hr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Spectrum Business",
-      "title": "Major Account Manager, Hospitality",
-      "location": "Cerritos, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475342677/",
+      "company": "Rock & Brews Restaurants",
+      "title": "Digital Marketing Manager",
+      "location": "Manhattan Beach, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475357773/",
       "date_posted": "2026-10-03",
       "ats": "LinkedIn",
-      "salary": "$69,000.00/yr - $136,600.00/yr",
+      "salary": "$85,000.00/yr - $100,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "CubeSmart",
-      "title": "Store Operations Associate",
-      "location": "Mission Viejo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475334934/",
+      "company": "Hajoca Corporation",
+      "title": "Inside Sales & Service Representative",
+      "location": "Costa Mesa, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473478080/",
       "date_posted": "2026-10-03",
       "ats": "LinkedIn",
+      "salary": "$20.00/hr - $30.00/hr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Analog Devices",
-      "title": "Associate Project Manager (Real Estate & Workplace Design)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412815873/",
+      "company": "Alice (Formerly ActiveFence)",
+      "title": "Sales Development Representative",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4451341992/",
       "date_posted": "2026-10-03",
       "ats": "LinkedIn",
+      "salary": "$130.00/yr - $148.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Tanium",
-      "title": "Revenue Operations Intern",
-      "location": "Emeryville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465114856/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Rexel USA",
-      "title": "Outside Sales Representative",
-      "location": "Livermore, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473447637/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Juno (YC P26)",
-      "title": "Social Media Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475343493/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Zip",
-      "title": "Commercial Account Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475354283/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "McAllister Towing",
-      "title": "Tug Logistics Coordinator (Night Shift)",
+      "company": "Cogent Communications",
+      "title": "Global Account Manager",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4404132154/",
+      "url": "https://www.linkedin.com/jobs/view/4475366493/",
       "date_posted": "2026-10-03",
       "ats": "LinkedIn",
       "feeds": [
@@ -148,87 +85,10 @@
       ]
     },
     {
-      "company": "Ascend Schools",
-      "title": "Operations Associate",
-      "location": "Brooklyn, NY",
-      "url": "https://www.linkedin.com/jobs/view/4473449546/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "KidStrong",
-      "title": "Operations Assistant",
+      "company": "Unruled Masses",
+      "title": "Podcast Production Assistant",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4473450431/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Groupe Dynamite",
-      "title": "GARAGE - Operations Associate PT - Soho",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4473449564/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Camp HBCYouth",
-      "title": "Executive Assistant Intern",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4475346501/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Casteel Heating, Cooling, Plumbing & Electrical",
-      "title": "HVAC Residential Sales Representative",
-      "location": "Lawrenceville, GA",
-      "url": "https://www.linkedin.com/jobs/view/4475350188/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "RoShay Services",
-      "title": "Assistant Manager - Sales Operations",
-      "location": "Alpharetta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4475357198/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Top House Foods",
-      "title": "Social Media Coordinator (Part-Time, Contract)",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4473860993/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Warner Bros. Discovery",
-      "title": "Inventory Operations Associate (REG PT) - Chicago",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4475355272/",
+      "url": "https://www.linkedin.com/jobs/view/4475364523/",
       "date_posted": "2026-10-03",
       "ats": "LinkedIn",
       "feeds": [
@@ -238,44 +98,80 @@
   ],
   "new_jobs": [
     {
-      "company": "Jacques Marie Mage",
-      "title": "R\u00e9serve Client Experience & Operations Coordinator",
+      "company": "D3 Search",
+      "title": "Marketing Communications Coordinator",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472839047/",
+      "date_posted": "2026-10-03",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Partners4Wellness",
+      "title": "Outreach Coordinator",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473875497/",
+      "date_posted": "2026-10-03",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Delta Computer Consulting",
+      "title": "Human Resources Operations Specialist",
       "location": "Los Angeles Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4475345582/",
+      "url": "https://www.linkedin.com/jobs/view/4475031934/",
       "date_posted": "2026-10-03",
       "ats": "LinkedIn",
+      "salary": "$19.00/hr - $26.00/hr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Spectrum Business",
-      "title": "Major Account Manager, Hospitality",
-      "location": "Cerritos, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475342677/",
+      "company": "Rock & Brews Restaurants",
+      "title": "Digital Marketing Manager",
+      "location": "Manhattan Beach, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475357773/",
       "date_posted": "2026-10-03",
       "ats": "LinkedIn",
-      "salary": "$69,000.00/yr - $136,600.00/yr",
+      "salary": "$85,000.00/yr - $100,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Tanium",
-      "title": "Revenue Operations Intern",
-      "location": "Emeryville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465114856/",
+      "company": "Hajoca Corporation",
+      "title": "Inside Sales & Service Representative",
+      "location": "Costa Mesa, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473478080/",
       "date_posted": "2026-10-03",
       "ats": "LinkedIn",
+      "salary": "$20.00/hr - $30.00/hr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Groupe Dynamite",
-      "title": "GARAGE - Operations Associate PT - Soho",
+      "company": "Alice (Formerly ActiveFence)",
+      "title": "Sales Development Representative",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4451341992/",
+      "date_posted": "2026-10-03",
+      "ats": "LinkedIn",
+      "salary": "$130.00/yr - $148.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cogent Communications",
+      "title": "Global Account Manager",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4473449564/",
+      "url": "https://www.linkedin.com/jobs/view/4475366493/",
       "date_posted": "2026-10-03",
       "ats": "LinkedIn",
       "feeds": [
@@ -283,21 +179,10 @@
       ]
     },
     {
-      "company": "Casteel Heating, Cooling, Plumbing & Electrical",
-      "title": "HVAC Residential Sales Representative",
-      "location": "Lawrenceville, GA",
-      "url": "https://www.linkedin.com/jobs/view/4475350188/",
-      "date_posted": "2026-10-03",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Warner Bros. Discovery",
-      "title": "Inventory Operations Associate (REG PT) - Chicago",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4475355272/",
+      "company": "Unruled Masses",
+      "title": "Podcast Production Assistant",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4475364523/",
       "date_posted": "2026-10-03",
       "ats": "LinkedIn",
       "feeds": [
@@ -309,7 +194,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 10,
+    "location": 7,
     "stale": 0
   }
 }

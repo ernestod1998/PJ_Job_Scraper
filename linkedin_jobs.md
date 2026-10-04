@@ -1,29 +1,40 @@
 # 🔥 LinkedIn — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-10-03 23:22 UTC*
+*Last updated: 2026-10-04 06:46 UTC*
 
-**6 new role(s)** since last run · 21 total in last 4h
+**8 new role(s)** since last run · 8 total in last 4h
 
-### [Réserve Client Experience & Operations Coordinator](https://www.linkedin.com/jobs/view/4475345582/) — Jacques Marie Mage
+### [Marketing Communications Coordinator](https://www.linkedin.com/jobs/view/4472839047/) — D3 Search
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-10-03
+
+### [Outreach Coordinator](https://www.linkedin.com/jobs/view/4473875497/) — Partners4Wellness
+- 📍 **Location:** Irvine, CA
+- 🕒 **Posted:** 2026-10-03
+
+### [Human Resources Operations Specialist](https://www.linkedin.com/jobs/view/4475031934/) — Delta Computer Consulting
 - 📍 **Location:** Los Angeles Metropolitan Area
+- 💰 **Salary:** $19.00/hr - $26.00/hr
 - 🕒 **Posted:** 2026-10-03
 
-### [Major Account Manager, Hospitality](https://www.linkedin.com/jobs/view/4475342677/) — Spectrum Business
-- 📍 **Location:** Cerritos, CA
-- 💰 **Salary:** $69,000.00/yr - $136,600.00/yr
+### [Digital Marketing Manager](https://www.linkedin.com/jobs/view/4475357773/) — Rock & Brews Restaurants
+- 📍 **Location:** Manhattan Beach, CA
+- 💰 **Salary:** $85,000.00/yr - $100,000.00/yr
 - 🕒 **Posted:** 2026-10-03
 
-### [Revenue Operations Intern](https://www.linkedin.com/jobs/view/4465114856/) — Tanium
-- 📍 **Location:** Emeryville, CA
+### [Inside Sales & Service Representative](https://www.linkedin.com/jobs/view/4473478080/) — Hajoca Corporation
+- 📍 **Location:** Costa Mesa, CA
+- 💰 **Salary:** $20.00/hr - $30.00/hr
 - 🕒 **Posted:** 2026-10-03
 
-### [GARAGE - Operations Associate PT - Soho](https://www.linkedin.com/jobs/view/4473449564/) — Groupe Dynamite
+### [Sales Development Representative](https://www.linkedin.com/jobs/view/4451341992/) — Alice (Formerly ActiveFence)
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $130.00/yr - $148.00/yr
+- 🕒 **Posted:** 2026-10-03
+
+### [Global Account Manager](https://www.linkedin.com/jobs/view/4475366493/) — Cogent Communications
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-03
 
-### [HVAC Residential Sales Representative](https://www.linkedin.com/jobs/view/4475350188/) — Casteel Heating, Cooling, Plumbing & Electrical
-- 📍 **Location:** Lawrenceville, GA
-- 🕒 **Posted:** 2026-10-03
-
-### [Inventory Operations Associate (REG PT) - Chicago](https://www.linkedin.com/jobs/view/4475355272/) — Warner Bros. Discovery
-- 📍 **Location:** Chicago, IL
+### [Podcast Production Assistant](https://www.linkedin.com/jobs/view/4475364523/) — Unruled Masses
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-03
