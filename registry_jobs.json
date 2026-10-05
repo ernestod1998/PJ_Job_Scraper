@@ -1,256 +1,14 @@
 {
-  "scraped_at": "2026-10-04 18:11 UTC",
-  "total": 76,
-  "new_count": 28,
+  "scraped_at": "2026-10-05 21:40 UTC",
+  "total": 90,
+  "new_count": 36,
   "jobs": [
-    {
-      "company": "FOX",
-      "title": "Content and Social Media Specialist",
-      "location": "US GA, Duluth",
-      "url": "https://foxfactory.wd1.myworkdayjobs.com/FOX/job/US-GA-Duluth/Content-and-Social-Media-Specialist_JR112911",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "GAP",
-      "title": "Executive Assistant, Athleta",
-      "location": "SF - 2 Folsom",
-      "url": "https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/SF---2-Folsom/Executive-Assistant--Athleta_R222138",
-      "date_posted": "Posted 4 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "GE Healthcare",
-      "title": "Customer Success Manager- icometrix (icobrain)",
-      "location": "Chicago",
-      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Chicago/Customer-Success-Manager--icometrix--icobrain-_R4046464",
-      "date_posted": "Posted 2 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Bank of America",
-      "title": "Merrill Market Client Relationship Manager",
-      "location": "Chicago",
-      "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Chicago/Merrill-Market-Client-Relationship-Manager_26023734",
-      "date_posted": "Posted 19 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Bank of America",
-      "title": "Market Client Relationship Manager",
-      "location": "Los Angeles",
-      "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Los-Angeles/Market-Client-Relationship-Manager_26017160-2",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "GlobalFoundries",
-      "title": "Sales Account Manager Intern, Electrical Engineering & Business (Summer 2027)",
-      "location": "USA - California - Santa Clara",
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Sales-Account-Manager-Intern--Electrical-Engineering---Business--Summer-2027-_JR-2604219",
-      "date_posted": "Posted 5 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "GlobalFoundries",
-      "title": "Sales Account Manager Intern, Electrical Engineering, Santa Clara (Summer 2027)",
-      "location": "USA - California - Santa Clara",
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Sales-Account-Manager-Intern--Electrical-Engineering--Santa-Clara--Summer-2027-_JR-2604217",
-      "date_posted": "Posted 4 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Goodwin",
-      "title": "Cash Operations Specialist",
-      "location": "Los Angeles",
-      "url": "https://goodwinprocter.wd5.myworkdayjobs.com/External_Careers/job/Los-Angeles/Cash-Operations-Specialist_R04426-1",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "GSK",
-      "title": "Oncology Account Manager (Solid Tumor) Orange County, CA",
-      "location": "USA - California - Orange County",
-      "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---California---Orange-County/Oncology-Account-Manager--Solid-Tumor--Orange-County--CA_447701",
-      "date_posted": "Posted 4 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "GSK",
-      "title": "Hepatology Account Manager - Newark, NJ",
-      "location": "USA - New Jersey - Newark",
-      "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---New-Jersey---Newark/Hepatology-Account-Manager---Newark--NJ_448920",
-      "date_posted": "Posted 4 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HD Supply",
-      "title": "Field Account Manager Redi Carpet",
-      "location": "IL048 - Des Plaines (Redi Carpet)_FM",
-      "url": "https://hdsupply.wd1.myworkdayjobs.com/External/job/IL048---Des-Plaines-Redi-Carpet_FM/Field-Account-Manager--Redi-Carpet_R26003536",
-      "date_posted": "Posted 24 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hitachi",
-      "title": "Sales Coordinator (Central Territory)",
-      "location": "(HIESA) Chicago",
-      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HIESA-Chicago/Sales-Coordinator--Central-Territory-_R0133103",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hitachi",
-      "title": "Sales & Marketing Specialist - engineering background",
-      "location": "Milan, Lombardy, Italy",
-      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Milan-Lombardy-Italy/Sales---Marketing-Specialist_R0134127",
-      "date_posted": "Posted 4 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hitachi",
-      "title": "Account Manager - Data Centers Colocations",
-      "location": "(HE)Remote_Santa Clara, California",
-      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HERemote_Santa-Clara-California/Account-Manager---Data-Centers-Colocations_R0045484",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hitachi",
-      "title": "EBC Client Success & Technology Specialist",
-      "location": "Santa Clara, California, United States",
-      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/EBC-Client-Success---Technology-Specialist_R0143402-2",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HNTB",
-      "title": "Project Coordinator",
-      "location": "Los Angeles, CA (LA International Airport)",
-      "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Los-Angeles-CA-LA-International-Airport/Project-Coordinator_R-31812",
-      "date_posted": "Posted 2 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HNTB",
-      "title": "Right-of-Way Project Coordinator",
-      "location": "Schaumburg, IL (IL DOT)",
-      "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Schaumburg-IL-IL-DOT/Right-of-Way-Project-Coordinator_R-31073",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hewlett Packard Enterprise",
-      "title": "SLED Enterprise Account Manager - NJ",
-      "location": "Berkeley Heights, New Jersey, United States of America",
-      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/All-New-Jersey-United-States-of-America/SLED-Enterprise-Account-Manager---NJ_1215332",
-      "date_posted": "Posted 11 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hewlett Packard Enterprise",
-      "title": "Account Manager - Tier 1 -  Cloud Service Provider - San Jose, CA",
-      "location": "San Jose, California, United States of America",
-      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/San-Jose-California-United-States-of-America/Account-Manager---Tier-1----Cloud-Service-Provider---San-Jose--CA_1215357",
-      "date_posted": "Posted 4 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hewlett Packard Enterprise",
-      "title": "Commercial Sales Representative",
-      "location": "Alpharetta, Georgia, United States of America",
-      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Alpharetta-Georgia-United-States-of-America/Commercial-Sales-Representative_1209723",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hewlett Packard Enterprise",
-      "title": "Public Relations Manager",
-      "location": "San Jose, California, United States of America",
-      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Public-Relations-Manager_1210577",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hewlett Packard Enterprise",
-      "title": "Executive Assistant",
-      "location": "San Jose, San Jose, Costa Rica",
-      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Tlaquepaque-Jalisco-Mexico/Executive-Assistant_1214565",
-      "date_posted": "Posted 6 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
     {
       "company": "Hewlett Packard Enterprise",
       "title": "GMC Digital Marketing, Analytics & AI Intern",
       "location": "San Jose, California, United States of America",
       "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/GMC-Digital-Marketing--Analytics---AI-Intern_1213640",
-      "date_posted": "Posted 6 Days Ago",
+      "date_posted": "Posted 7 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -261,7 +19,7 @@
       "title": "SLED Enterprise Account Manager - NJ",
       "location": "Berkeley Heights, New Jersey, United States of America",
       "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-New-Jersey-United-States-of-America/SLED-Enterprise-Account-Manager---NJ_1215332-2",
-      "date_posted": "Posted 11 Days Ago",
+      "date_posted": "Posted 12 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -272,7 +30,7 @@
       "title": "Account Manager - Tier 1 -  Cloud Service Provider - San Jose, CA",
       "location": "San Jose, California, United States of America",
       "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Account-Manager---Tier-1----Cloud-Service-Provider---San-Jose--CA_1215357-2",
-      "date_posted": "Posted 4 Days Ago",
+      "date_posted": "Posted 5 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -294,7 +52,7 @@
       "title": "Program Coordinator",
       "location": "New York, NY",
       "url": "https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/New-York-NY/Program-Coordinator_JR2026-104906",
-      "date_posted": "Posted 12 Days Ago",
+      "date_posted": "Posted 13 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -305,7 +63,7 @@
       "title": "Clinical Research Coordinator, HSS Center for Regenerative Medicine",
       "location": "New York, NY",
       "url": "https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/New-York-NY/Clinical-Research-Coordinator--HSS-Center-for-Regenerative-Medicine_JR2026-105512",
-      "date_posted": "Posted 30 Days Ago",
+      "date_posted": "Posted 30+ Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -316,7 +74,7 @@
       "title": "Associate Project Manager, Facilities Activation & Regulatory",
       "location": "New York, NY",
       "url": "https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/New-York-NY/Associate-Project-Manager--Facilities-Activation---Regulatory_JR2026-105913",
-      "date_posted": "Posted 30 Days Ago",
+      "date_posted": "Posted 30+ Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -327,7 +85,7 @@
       "title": "Manager Business Operations, Physiatry",
       "location": "New York, NY",
       "url": "https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/New-York-NY/Manager-Business-Operations--Physiatry_JR2026-106182",
-      "date_posted": "Posted 17 Days Ago",
+      "date_posted": "Posted 18 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -338,7 +96,7 @@
       "title": "Business Operations Manager, DOM",
       "location": "New York, NY",
       "url": "https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/New-York-NY/Business-Operations-Manager--Service-Lines_JR2026-106174",
-      "date_posted": "Posted 17 Days Ago",
+      "date_posted": "Posted 18 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -349,7 +107,7 @@
       "title": "Account Manager - Inventory Finance",
       "location": "Schaumburg, IL",
       "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Schaumburg-IL/Account-Manager---Inventory-Finance_R0075652",
-      "date_posted": "Posted 23 Days Ago",
+      "date_posted": "Posted 24 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -360,7 +118,7 @@
       "title": "Brand Coordinator",
       "location": "New York, New York, United States of America",
       "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/New-York-New-York-United-States-of-America/Brand-Coordinator_R13780",
-      "date_posted": "Posted 3 Days Ago",
+      "date_posted": "Posted 4 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -371,7 +129,7 @@
       "title": "Account Coordinator",
       "location": "New York, New York, United States of America",
       "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/New-York-New-York-United-States-of-America/Account-Coordinator_R14757",
-      "date_posted": "Posted 6 Days Ago",
+      "date_posted": "Posted 7 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -382,7 +140,7 @@
       "title": "Account Coordinator",
       "location": "New York, New York, United States of America",
       "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/New-York-New-York-United-States-of-America/Account-Supervisor_R11777",
-      "date_posted": "Posted 13 Days Ago",
+      "date_posted": "Posted 14 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -393,7 +151,18 @@
       "title": "Project Coordinator",
       "location": "New York, New York, United States of America",
       "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/New-York-New-York-United-States-of-America/Project-Coordinator_R14262",
-      "date_posted": "Posted 25 Days Ago",
+      "date_posted": "Posted 26 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Omnicom Group",
+      "title": "Account Manager, Paid Media",
+      "location": "New York, New York, United States of America",
+      "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/New-York-New-York-United-States-of-America/Account-Manager_R15319",
+      "date_posted": "Posted Today",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -404,7 +173,7 @@
       "title": "Account Manager, Business Leadership - Music & Entertainment",
       "location": "New York, New York, United States of America",
       "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/New-York-New-York-United-States-of-America/Manager--Business-Leadership_R15502",
-      "date_posted": "Posted 4 Days Ago",
+      "date_posted": "Posted 5 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -415,7 +184,7 @@
       "title": "Strategic Account Manager",
       "location": "New York, New York",
       "url": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Strategic-Account-Manager_R-14569",
-      "date_posted": "Posted 9 Days Ago",
+      "date_posted": "Posted 10 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -433,10 +202,10 @@
       ]
     },
     {
-      "company": "Jones Lang LaSalle (JLL)",
-      "title": "Sales Coordinator, Brokerage",
-      "location": "New York, NY",
-      "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Sales-Coordinator_REQ530779",
+      "company": "Johnson Controls",
+      "title": "Associate Customer Success Manager",
+      "location": "Chicago-Illinois-United States of America",
+      "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Chicago-Illinois-United-States-of-America/Associate-Customer-Success-Manager_WD30279160",
       "date_posted": "Posted 5 Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -444,11 +213,22 @@
       ]
     },
     {
+      "company": "Johnson Controls",
+      "title": "New PSA Service Sales Representative-Fire",
+      "location": "Arlington Heights-Illinois-United States of America",
+      "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Arlington-Heights-Illinois-United-States-of-America/New-PSA-Service-Sales-Representative-Fire_WD30281325",
+      "date_posted": "Posted 4 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Jones Lang LaSalle (JLL)",
-      "title": "Event Coordinator",
-      "location": "San Francisco, CA",
-      "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Francisco-CA/Event-Coordinator_REQ540114",
-      "date_posted": "Posted 2 Days Ago",
+      "title": "Sales Coordinator, Brokerage",
+      "location": "New York, NY",
+      "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Sales-Coordinator_REQ530779",
+      "date_posted": "Posted 6 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -459,6 +239,17 @@
       "title": "Project Coordinator",
       "location": "Chicago, IL",
       "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Charlotte-NC/Project-Coordinator_REQ538390",
+      "date_posted": "Posted Today",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jones Lang LaSalle (JLL)",
+      "title": "Event Coordinator",
+      "location": "San Francisco, CA",
+      "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Francisco-CA/Event-Coordinator_REQ540114",
       "date_posted": "Posted 3 Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -470,7 +261,7 @@
       "title": "Logistics Coordinator",
       "location": "Milpitas, CA",
       "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Milpitas-CA/Logistics-Coordinator_REQ534442",
-      "date_posted": "Posted 10 Days Ago",
+      "date_posted": "Posted 11 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -481,7 +272,7 @@
       "title": "Project Coordinator",
       "location": "Atlanta, GA",
       "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Atlanta-GA/Project-Coordinator_REQ535390",
-      "date_posted": "Posted 13 Days Ago",
+      "date_posted": "Posted 14 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -492,7 +283,7 @@
       "title": "Meeting & Events Coordinator",
       "location": "San Francisco, CA",
       "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Francisco-CA/Meeting---Events-Coordinator_REQ536981",
-      "date_posted": "Posted 13 Days Ago",
+      "date_posted": "Posted 14 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -503,7 +294,7 @@
       "title": "Meeting & Events Coordinator",
       "location": "New York, NY",
       "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Meeting---Events-Coordinator_REQ536980",
-      "date_posted": "Posted 13 Days Ago",
+      "date_posted": "Posted 14 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -514,7 +305,18 @@
       "title": "Meeting & Events Coordinator",
       "location": "Chicago, IL",
       "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Meeting---Events-Coordinator_REQ536966",
-      "date_posted": "Posted 16 Days Ago",
+      "date_posted": "Posted 17 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Kemper",
+      "title": "Marketing Specialist",
+      "location": "Chicago, Illinois",
+      "url": "https://kemper.wd5.myworkdayjobs.com/kemper_careers/job/Chicago-Illinois/Marketing-Specialist_R-26-0038572",
+      "date_posted": "Posted 3 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -624,7 +426,7 @@
       "title": "Sales Operations Analyst",
       "location": "Milpitas, CA",
       "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Sales-Operations-Analyst_2640084",
-      "date_posted": "Posted 4 Days Ago",
+      "date_posted": "Posted 5 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -635,7 +437,7 @@
       "title": "Sales Operations Analyst",
       "location": "Milpitas, CA",
       "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Sales-Operations-Analyst_2640084-2",
-      "date_posted": "Posted 4 Days Ago",
+      "date_posted": "Posted 5 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -646,7 +448,7 @@
       "title": "Internet Sales Coordinator",
       "location": "Alpharetta, GA (Job Posting Location)",
       "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Alpharetta-GA-Job-Posting-Location/HB---Internet-Sales-Coordinator_R26_0000003836",
-      "date_posted": "Posted 18 Days Ago",
+      "date_posted": "Posted 19 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -657,7 +459,249 @@
       "title": "Event Coordinator",
       "location": "Naperville",
       "url": "https://lifetime.wd1.myworkdayjobs.com/lifetime/job/Naperville/Event-Coordinator_R-168778",
-      "date_posted": "Posted 16 Days Ago",
+      "date_posted": "Posted 17 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "Insomniac - Marketing Coordinator",
+      "location": "Calabasas, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Marketing-Coordinator_JR-92541-1",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "Insomniac - Marketing Coordinator, Concerts",
+      "location": "Calabasas, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Marketing-Coordinator--Concerts_JR-91421-1",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "Partnership Marketing Coordinator, Warped Tour",
+      "location": "Calabasas, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Partnership-Marketing-Coordinator--Warped-Tour_JR-89797-1",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "LN Concerts, Tour Marketing Coordinator",
+      "location": "Beverly Hills, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/LN-Concerts--Tour-Marketing-Coordinator_JR-92983",
+      "date_posted": "Posted 26 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "LN Concerts, Regional Marketing Coordinator",
+      "location": "Chicago, IL, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Chicago-IL-USA/LN-Concerts--Regional-Marketing-Coordinator_JR-93526-1",
+      "date_posted": "Posted 3 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "LN Concerts, Regional Marketing Coordinator - California",
+      "location": "Santa Ana, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Santa-Ana-CA-USA/LN-Concerts--Regional-Marketing-Coordinator---California_JR-93003",
+      "date_posted": "Posted 17 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "Insomniac - Marketing Campaign Specialist, YouTube",
+      "location": "Calabasas, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Marketing-Campaign-Specialist--YouTube_JR-90781-1",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "Insomniac - PR Coordinator",
+      "location": "Calabasas, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---PR-Coordinator_JR-91024-4",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "E-Commerce Coordinator",
+      "location": "New York, NY, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/New-York-NY-USA/E-Commerce-Coordinator_JR-93163",
+      "date_posted": "Posted 20 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "Insomniac - Social Media Coordinator",
+      "location": "Calabasas, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Social-Media-Coordinator_JR-90544-4",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "Production Coordinator- Part Time",
+      "location": "Los Angeles, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Los-Angeles-CA-USA/Production-Coordinator--Part-Time_JR-79424-1",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "Insomniac - Creative Project Coordinator",
+      "location": "Calabasas, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Creative-Project-Coordinator_JR-92256-1",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "Artist Management & Operations Associate",
+      "location": "Beverly Hills, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/Artist-Management---Operations-Associate_JR-93256",
+      "date_posted": "Posted 12 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "Insomniac - Social Media Coordinator, Tiktok",
+      "location": "Calabasas, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Social-Media-Coordinator_JR-84019-2",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "LN Concerts, Executive Assistant",
+      "location": "Beverly Hills, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/LN-Concerts--Executive-Assistant_JR-93486",
+      "date_posted": "Posted 6 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "Insomniac - Executive Assistant",
+      "location": "Calabasas, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Executive-Assistant_JR-88780-1",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "Insomniac - Seasonal Production Coordinator (Procurement) 2026",
+      "location": "Calabasas, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/San-Bernardino-CA-USA/Insomniac---Seasonal-Procurement-Coordinator-2025_JR-76514-1",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "LN Concerts | Production Assistant",
+      "location": "San Francisco, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/San-Francisco-CA-USA/LN-Concerts---Production-Assistant_JR-73919",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "Production Assistant",
+      "location": "Atlanta, GA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Atlanta-GA-USA/Production-Assistant_JR-90189",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "Production Assistant- The Belasco",
+      "location": "Los Angeles, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Los-Angeles-CA-USA/Production-Assistant--The-Belasco_JR-91563",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "Executive Assistant / Personal Assistant",
+      "location": "Beverly Hills, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/Executive-Assistant---Personal-Assistant_JR-93505",
+      "date_posted": "Posted 5 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "LN Concerts, Executive Assistant",
+      "location": "Beverly Hills, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/LN-Concerts--Executive-Assistant_JR-92074-2",
+      "date_posted": "Posted 30+ Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -668,7 +712,7 @@
       "title": "Manager, Sales Operations (Food Services)",
       "location": "USA-Illinois-Chicago",
       "url": "https://mars.wd3.myworkdayjobs.com/external/job/USA-Illinois-Chicago/Manager--Sales-Operations--Food-Services-_R166421-1",
-      "date_posted": "Posted 3 Days Ago",
+      "date_posted": "Posted 4 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -679,7 +723,18 @@
       "title": "Executive Assistant - PO",
       "location": "USA-Illinois-Chicago",
       "url": "https://mars.wd3.myworkdayjobs.com/external/job/USA-Illinois-Chicago/Executive-Assistant---PO_R164041",
-      "date_posted": "Posted 25 Days Ago",
+      "date_posted": "Posted 26 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mars",
+      "title": "Executive Assistant - R&D",
+      "location": "USA-Illinois-Chicago",
+      "url": "https://mars.wd3.myworkdayjobs.com/external/job/USA-Illinois-Chicago/Executive-Assistant---R-D_R164043-2",
+      "date_posted": "Posted Today",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -690,7 +745,7 @@
       "title": "Executive Assistant - Sales",
       "location": "USA-Illinois-Chicago",
       "url": "https://mars.wd3.myworkdayjobs.com/external/job/USA-Illinois-Chicago/Executive-Assistant---Sales_R164038-1",
-      "date_posted": "Posted 26 Days Ago",
+      "date_posted": "Posted 27 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -701,7 +756,7 @@
       "title": "Account Manager",
       "location": "Fremont, NE",
       "url": "https://medimpact.wd5.myworkdayjobs.com/medimpact/job/Fremont-NE/Account-Manager_JR102868",
-      "date_posted": "Posted 9 Days Ago",
+      "date_posted": "Posted 10 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -712,7 +767,7 @@
       "title": "Supervisor, SavRx Account Management Service Center-ONSITE",
       "location": "Fremont, NE",
       "url": "https://medimpact.wd5.myworkdayjobs.com/medimpact/job/Fremont-NE/Supervisor--SavRx-Account-Management-Services_JR102825",
-      "date_posted": "Posted 23 Days Ago",
+      "date_posted": "Posted 24 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -742,10 +797,10 @@
     },
     {
       "company": "Marsh",
-      "title": "Business Development Associate",
-      "location": "San Francisco - 50 California",
-      "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/San-Francisco---50-California/Business-Development-Associate_R_367096",
-      "date_posted": "Posted 10 Days Ago",
+      "title": "Oliver Wyman - Executive Assistant  Actuarial - Chicago",
+      "location": "Chicago - 155 Wacker",
+      "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Chicago---155-Wacker/Oliver-Wyman---Executive-Assistant--Actuarial---Chicago_R_361262-1",
+      "date_posted": "Posted 30+ Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -753,10 +808,10 @@
     },
     {
       "company": "Marsh",
-      "title": "Oliver Wyman - Executive Assistant  Actuarial - Chicago",
-      "location": "Chicago - 155 Wacker",
-      "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Chicago---155-Wacker/Oliver-Wyman---Executive-Assistant--Actuarial---Chicago_R_361262-1",
-      "date_posted": "Posted 30+ Days Ago",
+      "title": "Business Development Associate",
+      "location": "San Francisco - 50 California",
+      "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/San-Francisco---50-California/Business-Development-Associate_R_367096",
+      "date_posted": "Posted 11 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -789,7 +844,7 @@
       "title": "Employee Benefits Account Manager",
       "location": "Schaumburg - Martingale",
       "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Orland-Park---Orland/Employee-Benefits-Account-Manager_R_352169",
-      "date_posted": "Posted 5 Days Ago",
+      "date_posted": "Posted 6 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -800,7 +855,7 @@
       "title": "Account Manager - Business Insurance (Select)",
       "location": "Schaumburg - Martingale",
       "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Schaumburg---Martingale/Account-Manager---Business-Insurance--Select-_R_349746",
-      "date_posted": "Posted 30+ Days Ago",
+      "date_posted": "Posted Today",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -818,11 +873,33 @@
       ]
     },
     {
+      "company": "Montage International",
+      "title": "Sales Coordinator",
+      "location": "USA - CA - Newport Beach",
+      "url": "https://montage.wd1.myworkdayjobs.com/Montage_International/job/USA---CA---Newport-Beach/Sales-Coordinator_R44413",
+      "date_posted": "Posted 13 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Morgan Stanley",
+      "title": "Advance Solutions Project Specialist, AVP",
+      "location": "Alpharetta, Georgia, United States of America",
+      "url": "https://ms.wd5.myworkdayjobs.com/External/job/545-LONG-WHARF-DRIVE/Advance-Solutions-Project-Specialist--AVP_PT-JR042333-1",
+      "date_posted": "Posted Today",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Morgan Stanley",
       "title": "Return To Work - Investment Banking Executive Assistant | Menlo Park, CA",
       "location": "Menlo Park, California, United States of America",
       "url": "https://ms.wd5.myworkdayjobs.com/External/job/Menlo-Park-California-United-States-of-America/Return-To-Work---Investment-Banking-Executive-Assistant---Menlo-Park--CA_JR043523",
-      "date_posted": "Posted 19 Days Ago",
+      "date_posted": "Posted 20 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -834,6 +911,83 @@
       "location": "1501 North Chicago IL",
       "url": "https://msiexpress.wd5.myworkdayjobs.com/MSI_Express_External_Careers/job/1501-North-Chicago-IL/Account-Manager_R-101750",
       "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DPR Family of Companies",
+      "title": "Project Coordinator",
+      "location": "San Francisco, CA",
+      "url": "https://mydpr.wd5.myworkdayjobs.com/11212017/job/San-Francisco-CA/Project-Coordinator_JR-16676",
+      "date_posted": "Posted 10 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DPR Family of Companies",
+      "title": "Key Customer Account Sales Representative",
+      "location": "Anaheim, CA",
+      "url": "https://mydpr.wd5.myworkdayjobs.com/11212017/job/Anaheim-CA/Key-Customer-Account-Sales-Representative_JR-16862",
+      "date_posted": "Posted Today",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DPR Family of Companies",
+      "title": "Lead Employee Communications Specialist",
+      "location": "Atlanta, GA",
+      "url": "https://mydpr.wd5.myworkdayjobs.com/11212017/job/Raleigh-Durham-NC/Lead-Employee-Communications-Specialist_JR-16948",
+      "date_posted": "Posted 3 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hyatt Vacation Club",
+      "title": "Event Coordinator Marketing and Sales",
+      "location": "Tustin AMS",
+      "url": "https://mymvw.wd5.myworkdayjobs.com/hvocareers/job/Tustin-AMS/Event-Coordinator-Marketing-and-Sales_JR93934",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Novanta",
+      "title": "Sales Account Manager - General Industry",
+      "location": "Irvine, CA",
+      "url": "https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Irvine-CA/Sales-Account-Manager---General-Industry_R009664",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Endeavor Health",
+      "title": "Research Coordinator-Infectious Disease",
+      "location": "NSO 9977 Woods Drive Skokie",
+      "url": "https://nshs.wd1.myworkdayjobs.com/ns-eeh/job/EVH-Evanston-Hospital/Research-Coordinator-Infectious-Disease_R47779-1",
+      "date_posted": "",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Endeavor Health",
+      "title": "Research Coordinator-Cardiology",
+      "location": "GBH Glenbrook Hospital Glenview",
+      "url": "https://nshs.wd1.myworkdayjobs.com/ns-eeh/job/GBH-Glenbrook-Hospital-Glenview/Research-Coordinator-Cardiology_R45362",
+      "date_posted": "",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -842,65 +996,21 @@
   ],
   "new_jobs": [
     {
-      "company": "FOX",
-      "title": "Content and Social Media Specialist",
-      "location": "US GA, Duluth",
-      "url": "https://foxfactory.wd1.myworkdayjobs.com/FOX/job/US-GA-Duluth/Content-and-Social-Media-Specialist_JR112911",
-      "date_posted": "Posted 30+ Days Ago",
+      "company": "Omnicom Group",
+      "title": "Account Manager, Paid Media",
+      "location": "New York, New York, United States of America",
+      "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/New-York-New-York-United-States-of-America/Account-Manager_R15319",
+      "date_posted": "Posted Today",
       "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "GAP",
-      "title": "Executive Assistant, Athleta",
-      "location": "SF - 2 Folsom",
-      "url": "https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/SF---2-Folsom/Executive-Assistant--Athleta_R222138",
-      "date_posted": "Posted 4 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "GE Healthcare",
-      "title": "Customer Success Manager- icometrix (icobrain)",
-      "location": "Chicago",
-      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Chicago/Customer-Success-Manager--icometrix--icobrain-_R4046464",
-      "date_posted": "Posted 2 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Bank of America",
-      "title": "Merrill Market Client Relationship Manager",
-      "location": "Chicago",
-      "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Chicago/Merrill-Market-Client-Relationship-Manager_26023734",
-      "date_posted": "Posted 19 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Bank of America",
-      "title": "Market Client Relationship Manager",
-      "location": "Los Angeles",
-      "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Los-Angeles/Market-Client-Relationship-Manager_26017160-2",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "GlobalFoundries",
-      "title": "Sales Account Manager Intern, Electrical Engineering & Business (Summer 2027)",
-      "location": "USA - California - Santa Clara",
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Sales-Account-Manager-Intern--Electrical-Engineering---Business--Summer-2027-_JR-2604219",
+      "company": "Johnson Controls",
+      "title": "Associate Customer Success Manager",
+      "location": "Chicago-Illinois-United States of America",
+      "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Chicago-Illinois-United-States-of-America/Associate-Customer-Success-Manager_WD30279160",
       "date_posted": "Posted 5 Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -908,10 +1018,10 @@
       ]
     },
     {
-      "company": "GlobalFoundries",
-      "title": "Sales Account Manager Intern, Electrical Engineering, Santa Clara (Summer 2027)",
-      "location": "USA - California - Santa Clara",
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Sales-Account-Manager-Intern--Electrical-Engineering--Santa-Clara--Summer-2027-_JR-2604217",
+      "company": "Johnson Controls",
+      "title": "New PSA Service Sales Representative-Fire",
+      "location": "Arlington Heights-Illinois-United States of America",
+      "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Arlington-Heights-Illinois-United-States-of-America/New-PSA-Service-Sales-Representative-Fire_WD30281325",
       "date_posted": "Posted 4 Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -919,10 +1029,21 @@
       ]
     },
     {
-      "company": "Goodwin",
-      "title": "Cash Operations Specialist",
-      "location": "Los Angeles",
-      "url": "https://goodwinprocter.wd5.myworkdayjobs.com/External_Careers/job/Los-Angeles/Cash-Operations-Specialist_R04426-1",
+      "company": "Kemper",
+      "title": "Marketing Specialist",
+      "location": "Chicago, Illinois",
+      "url": "https://kemper.wd5.myworkdayjobs.com/kemper_careers/job/Chicago-Illinois/Marketing-Specialist_R-26-0038572",
+      "date_posted": "Posted 3 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "Insomniac - Marketing Coordinator",
+      "location": "Calabasas, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Marketing-Coordinator_JR-92541-1",
       "date_posted": "Posted 30+ Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -930,43 +1051,10 @@
       ]
     },
     {
-      "company": "GSK",
-      "title": "Oncology Account Manager (Solid Tumor) Orange County, CA",
-      "location": "USA - California - Orange County",
-      "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---California---Orange-County/Oncology-Account-Manager--Solid-Tumor--Orange-County--CA_447701",
-      "date_posted": "Posted 4 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "GSK",
-      "title": "Hepatology Account Manager - Newark, NJ",
-      "location": "USA - New Jersey - Newark",
-      "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---New-Jersey---Newark/Hepatology-Account-Manager---Newark--NJ_448920",
-      "date_posted": "Posted 4 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HD Supply",
-      "title": "Field Account Manager Redi Carpet",
-      "location": "IL048 - Des Plaines (Redi Carpet)_FM",
-      "url": "https://hdsupply.wd1.myworkdayjobs.com/External/job/IL048---Des-Plaines-Redi-Carpet_FM/Field-Account-Manager--Redi-Carpet_R26003536",
-      "date_posted": "Posted 24 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hitachi",
-      "title": "Sales Coordinator (Central Territory)",
-      "location": "(HIESA) Chicago",
-      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HIESA-Chicago/Sales-Coordinator--Central-Territory-_R0133103",
+      "company": "Live Nation Entertainment",
+      "title": "Insomniac - Marketing Coordinator, Concerts",
+      "location": "Calabasas, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Marketing-Coordinator--Concerts_JR-91421-1",
       "date_posted": "Posted 30+ Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -974,21 +1062,10 @@
       ]
     },
     {
-      "company": "Hitachi",
-      "title": "Sales & Marketing Specialist - engineering background",
-      "location": "Milan, Lombardy, Italy",
-      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Milan-Lombardy-Italy/Sales---Marketing-Specialist_R0134127",
-      "date_posted": "Posted 4 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hitachi",
-      "title": "Account Manager - Data Centers Colocations",
-      "location": "(HE)Remote_Santa Clara, California",
-      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HERemote_Santa-Clara-California/Account-Manager---Data-Centers-Colocations_R0045484",
+      "company": "Live Nation Entertainment",
+      "title": "Partnership Marketing Coordinator, Warped Tour",
+      "location": "Calabasas, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Partnership-Marketing-Coordinator--Warped-Tour_JR-89797-1",
       "date_posted": "Posted 30+ Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -996,10 +1073,43 @@
       ]
     },
     {
-      "company": "Hitachi",
-      "title": "EBC Client Success & Technology Specialist",
-      "location": "Santa Clara, California, United States",
-      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/EBC-Client-Success---Technology-Specialist_R0143402-2",
+      "company": "Live Nation Entertainment",
+      "title": "LN Concerts, Tour Marketing Coordinator",
+      "location": "Beverly Hills, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/LN-Concerts--Tour-Marketing-Coordinator_JR-92983",
+      "date_posted": "Posted 26 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "LN Concerts, Regional Marketing Coordinator",
+      "location": "Chicago, IL, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Chicago-IL-USA/LN-Concerts--Regional-Marketing-Coordinator_JR-93526-1",
+      "date_posted": "Posted 3 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "LN Concerts, Regional Marketing Coordinator - California",
+      "location": "Santa Ana, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Santa-Ana-CA-USA/LN-Concerts--Regional-Marketing-Coordinator---California_JR-93003",
+      "date_posted": "Posted 17 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "Insomniac - Marketing Campaign Specialist, YouTube",
+      "location": "Calabasas, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Marketing-Campaign-Specialist--YouTube_JR-90781-1",
       "date_posted": "Posted 30+ Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -1007,21 +1117,10 @@
       ]
     },
     {
-      "company": "HNTB",
-      "title": "Project Coordinator",
-      "location": "Los Angeles, CA (LA International Airport)",
-      "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Los-Angeles-CA-LA-International-Airport/Project-Coordinator_R-31812",
-      "date_posted": "Posted 2 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HNTB",
-      "title": "Right-of-Way Project Coordinator",
-      "location": "Schaumburg, IL (IL DOT)",
-      "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Schaumburg-IL-IL-DOT/Right-of-Way-Project-Coordinator_R-31073",
+      "company": "Live Nation Entertainment",
+      "title": "Insomniac - PR Coordinator",
+      "location": "Calabasas, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---PR-Coordinator_JR-91024-4",
       "date_posted": "Posted 30+ Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -1029,43 +1128,21 @@
       ]
     },
     {
-      "company": "Hewlett Packard Enterprise",
-      "title": "Account Manager - Tier 1 -  Cloud Service Provider - San Jose, CA",
-      "location": "San Jose, California, United States of America",
-      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/San-Jose-California-United-States-of-America/Account-Manager---Tier-1----Cloud-Service-Provider---San-Jose--CA_1215357",
-      "date_posted": "Posted 4 Days Ago",
+      "company": "Live Nation Entertainment",
+      "title": "E-Commerce Coordinator",
+      "location": "New York, NY, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/New-York-NY-USA/E-Commerce-Coordinator_JR-93163",
+      "date_posted": "Posted 20 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Life Time",
-      "title": "Event Coordinator",
-      "location": "Naperville",
-      "url": "https://lifetime.wd1.myworkdayjobs.com/lifetime/job/Naperville/Event-Coordinator_R-168778",
-      "date_posted": "Posted 16 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Marsh",
-      "title": "Business Development Associate",
-      "location": "San Francisco - 50 California",
-      "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/San-Francisco---50-California/Business-Development-Associate_R_367096",
-      "date_posted": "Posted 10 Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Marsh",
-      "title": "Oliver Wyman - Executive Assistant  Actuarial - Chicago",
-      "location": "Chicago - 155 Wacker",
-      "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Chicago---155-Wacker/Oliver-Wyman---Executive-Assistant--Actuarial---Chicago_R_361262-1",
+      "company": "Live Nation Entertainment",
+      "title": "Insomniac - Social Media Coordinator",
+      "location": "Calabasas, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Social-Media-Coordinator_JR-90544-4",
       "date_posted": "Posted 30+ Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -1073,10 +1150,10 @@
       ]
     },
     {
-      "company": "Marsh",
-      "title": "AI Operations Specialist",
-      "location": "Chicago - 155 Wacker",
-      "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/AI-Operations-Specialist_R_357430-1",
+      "company": "Live Nation Entertainment",
+      "title": "Production Coordinator- Part Time",
+      "location": "Los Angeles, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Los-Angeles-CA-USA/Production-Coordinator--Part-Time_JR-79424-1",
       "date_posted": "Posted 30+ Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -1084,10 +1161,10 @@
       ]
     },
     {
-      "company": "Marsh",
-      "title": "Account Manager - Retirement Services",
-      "location": "Schaumburg - Martingale",
-      "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Schaumburg---Martingale/Account-Manager---Retirement-Services_R_350842",
+      "company": "Live Nation Entertainment",
+      "title": "Insomniac - Creative Project Coordinator",
+      "location": "Calabasas, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Creative-Project-Coordinator_JR-92256-1",
       "date_posted": "Posted 30+ Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -1095,10 +1172,98 @@
       ]
     },
     {
-      "company": "Marsh",
-      "title": "Employee Benefits Account Manager",
-      "location": "Schaumburg - Martingale",
-      "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Orland-Park---Orland/Employee-Benefits-Account-Manager_R_352169",
+      "company": "Live Nation Entertainment",
+      "title": "Artist Management & Operations Associate",
+      "location": "Beverly Hills, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/Artist-Management---Operations-Associate_JR-93256",
+      "date_posted": "Posted 12 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "Insomniac - Social Media Coordinator, Tiktok",
+      "location": "Calabasas, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Social-Media-Coordinator_JR-84019-2",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "LN Concerts, Executive Assistant",
+      "location": "Beverly Hills, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/LN-Concerts--Executive-Assistant_JR-93486",
+      "date_posted": "Posted 6 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "Insomniac - Executive Assistant",
+      "location": "Calabasas, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Executive-Assistant_JR-88780-1",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "Insomniac - Seasonal Production Coordinator (Procurement) 2026",
+      "location": "Calabasas, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/San-Bernardino-CA-USA/Insomniac---Seasonal-Procurement-Coordinator-2025_JR-76514-1",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "LN Concerts | Production Assistant",
+      "location": "San Francisco, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/San-Francisco-CA-USA/LN-Concerts---Production-Assistant_JR-73919",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "Production Assistant",
+      "location": "Atlanta, GA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Atlanta-GA-USA/Production-Assistant_JR-90189",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "Production Assistant- The Belasco",
+      "location": "Los Angeles, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Los-Angeles-CA-USA/Production-Assistant--The-Belasco_JR-91563",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Live Nation Entertainment",
+      "title": "Executive Assistant / Personal Assistant",
+      "location": "Beverly Hills, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/Executive-Assistant---Personal-Assistant_JR-93505",
       "date_posted": "Posted 5 Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -1106,10 +1271,10 @@
       ]
     },
     {
-      "company": "Marsh",
-      "title": "Account Manager - Business Insurance (Select)",
-      "location": "Schaumburg - Martingale",
-      "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Schaumburg---Martingale/Account-Manager---Business-Insurance--Select-_R_349746",
+      "company": "Live Nation Entertainment",
+      "title": "LN Concerts, Executive Assistant",
+      "location": "Beverly Hills, CA, USA",
+      "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/LN-Concerts--Executive-Assistant_JR-92074-2",
       "date_posted": "Posted 30+ Days Ago",
       "ats": "Workday",
       "feeds": [
@@ -1117,11 +1282,22 @@
       ]
     },
     {
-      "company": "Marsh",
-      "title": "Business Development Associate",
-      "location": "San Francisco - 50 California",
-      "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/San-Francisco---50-California/Business-Development-Associate_R_344061",
-      "date_posted": "Posted 30+ Days Ago",
+      "company": "Mars",
+      "title": "Executive Assistant - R&D",
+      "location": "USA-Illinois-Chicago",
+      "url": "https://mars.wd3.myworkdayjobs.com/external/job/USA-Illinois-Chicago/Executive-Assistant---R-D_R164043-2",
+      "date_posted": "Posted Today",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Montage International",
+      "title": "Sales Coordinator",
+      "location": "USA - CA - Newport Beach",
+      "url": "https://montage.wd1.myworkdayjobs.com/Montage_International/job/USA---CA---Newport-Beach/Sales-Coordinator_R44413",
+      "date_posted": "Posted 13 Days Ago",
       "ats": "Workday",
       "feeds": [
         "general"
@@ -1129,21 +1305,87 @@
     },
     {
       "company": "Morgan Stanley",
-      "title": "Return To Work - Investment Banking Executive Assistant | Menlo Park, CA",
-      "location": "Menlo Park, California, United States of America",
-      "url": "https://ms.wd5.myworkdayjobs.com/External/job/Menlo-Park-California-United-States-of-America/Return-To-Work---Investment-Banking-Executive-Assistant---Menlo-Park--CA_JR043523",
-      "date_posted": "Posted 19 Days Ago",
+      "title": "Advance Solutions Project Specialist, AVP",
+      "location": "Alpharetta, Georgia, United States of America",
+      "url": "https://ms.wd5.myworkdayjobs.com/External/job/545-LONG-WHARF-DRIVE/Advance-Solutions-Project-Specialist--AVP_PT-JR042333-1",
+      "date_posted": "Posted Today",
       "ats": "Workday",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "MSI Express",
-      "title": "Account Manager",
-      "location": "1501 North Chicago IL",
-      "url": "https://msiexpress.wd5.myworkdayjobs.com/MSI_Express_External_Careers/job/1501-North-Chicago-IL/Account-Manager_R-101750",
+      "company": "DPR Family of Companies",
+      "title": "Project Coordinator",
+      "location": "San Francisco, CA",
+      "url": "https://mydpr.wd5.myworkdayjobs.com/11212017/job/San-Francisco-CA/Project-Coordinator_JR-16676",
+      "date_posted": "Posted 10 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DPR Family of Companies",
+      "title": "Key Customer Account Sales Representative",
+      "location": "Anaheim, CA",
+      "url": "https://mydpr.wd5.myworkdayjobs.com/11212017/job/Anaheim-CA/Key-Customer-Account-Sales-Representative_JR-16862",
+      "date_posted": "Posted Today",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "DPR Family of Companies",
+      "title": "Lead Employee Communications Specialist",
+      "location": "Atlanta, GA",
+      "url": "https://mydpr.wd5.myworkdayjobs.com/11212017/job/Raleigh-Durham-NC/Lead-Employee-Communications-Specialist_JR-16948",
+      "date_posted": "Posted 3 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hyatt Vacation Club",
+      "title": "Event Coordinator Marketing and Sales",
+      "location": "Tustin AMS",
+      "url": "https://mymvw.wd5.myworkdayjobs.com/hvocareers/job/Tustin-AMS/Event-Coordinator-Marketing-and-Sales_JR93934",
       "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Novanta",
+      "title": "Sales Account Manager - General Industry",
+      "location": "Irvine, CA",
+      "url": "https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Irvine-CA/Sales-Account-Manager---General-Industry_R009664",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Endeavor Health",
+      "title": "Research Coordinator-Infectious Disease",
+      "location": "NSO 9977 Woods Drive Skokie",
+      "url": "https://nshs.wd1.myworkdayjobs.com/ns-eeh/job/EVH-Evanston-Hospital/Research-Coordinator-Infectious-Disease_R47779-1",
+      "date_posted": "",
+      "ats": "Workday",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Endeavor Health",
+      "title": "Research Coordinator-Cardiology",
+      "location": "GBH Glenbrook Hospital Glenview",
+      "url": "https://nshs.wd1.myworkdayjobs.com/ns-eeh/job/GBH-Glenbrook-Hospital-Glenview/Research-Coordinator-Cardiology_R45362",
+      "date_posted": "",
       "ats": "Workday",
       "feeds": [
         "general"

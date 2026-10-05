@@ -1,116 +1,146 @@
 # 🗃 Direct ATS Registry — Marketing / Account Mgmt / Coordinator Roles
-*Last updated: 2026-10-04 18:11 UTC*
+*Last updated: 2026-10-05 21:40 UTC*
 
-**28 new role(s)** since last run · 76 total in current registry shard
+**36 new role(s)** since last run · 90 total in current registry shard
 
-### [Content and Social Media Specialist](https://foxfactory.wd1.myworkdayjobs.com/FOX/job/US-GA-Duluth/Content-and-Social-Media-Specialist_JR112911) — FOX
-- 📍 **Location:** US GA, Duluth
-- 🕒 **Posted:** Posted 30+ Days Ago
+### [Account Manager, Paid Media](https://interpublic.wd5.myworkdayjobs.com/omc/job/New-York-New-York-United-States-of-America/Account-Manager_R15319) — Omnicom Group
+- 📍 **Location:** New York, New York, United States of America
+- 🕒 **Posted:** Posted Today
 
-### [Executive Assistant, Athleta](https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/SF---2-Folsom/Executive-Assistant--Athleta_R222138) — GAP
-- 📍 **Location:** SF - 2 Folsom
-- 🕒 **Posted:** Posted 4 Days Ago
-
-### [Customer Success Manager- icometrix (icobrain)](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Chicago/Customer-Success-Manager--icometrix--icobrain-_R4046464) — GE Healthcare
-- 📍 **Location:** Chicago
-- 🕒 **Posted:** Posted 2 Days Ago
-
-### [Merrill Market Client Relationship Manager](https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Chicago/Merrill-Market-Client-Relationship-Manager_26023734) — Bank of America
-- 📍 **Location:** Chicago
-- 🕒 **Posted:** Posted 19 Days Ago
-
-### [Market Client Relationship Manager](https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Los-Angeles/Market-Client-Relationship-Manager_26017160-2) — Bank of America
-- 📍 **Location:** Los Angeles
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Sales Account Manager Intern, Electrical Engineering & Business (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Sales-Account-Manager-Intern--Electrical-Engineering---Business--Summer-2027-_JR-2604219) — GlobalFoundries
-- 📍 **Location:** USA - California - Santa Clara
+### [Associate Customer Success Manager](https://jci.wd5.myworkdayjobs.com/JCI/job/Chicago-Illinois-United-States-of-America/Associate-Customer-Success-Manager_WD30279160) — Johnson Controls
+- 📍 **Location:** Chicago-Illinois-United States of America
 - 🕒 **Posted:** Posted 5 Days Ago
 
-### [Sales Account Manager Intern, Electrical Engineering, Santa Clara (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Sales-Account-Manager-Intern--Electrical-Engineering--Santa-Clara--Summer-2027-_JR-2604217) — GlobalFoundries
-- 📍 **Location:** USA - California - Santa Clara
+### [New PSA Service Sales Representative-Fire](https://jci.wd5.myworkdayjobs.com/JCI/job/Arlington-Heights-Illinois-United-States-of-America/New-PSA-Service-Sales-Representative-Fire_WD30281325) — Johnson Controls
+- 📍 **Location:** Arlington Heights-Illinois-United States of America
 - 🕒 **Posted:** Posted 4 Days Ago
 
-### [Cash Operations Specialist](https://goodwinprocter.wd5.myworkdayjobs.com/External_Careers/job/Los-Angeles/Cash-Operations-Specialist_R04426-1) — Goodwin
-- 📍 **Location:** Los Angeles
+### [Marketing Specialist](https://kemper.wd5.myworkdayjobs.com/kemper_careers/job/Chicago-Illinois/Marketing-Specialist_R-26-0038572) — Kemper
+- 📍 **Location:** Chicago, Illinois
+- 🕒 **Posted:** Posted 3 Days Ago
+
+### [Insomniac - Marketing Coordinator](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Marketing-Coordinator_JR-92541-1) — Live Nation Entertainment
+- 📍 **Location:** Calabasas, CA, USA
 - 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Oncology Account Manager (Solid Tumor) Orange County, CA](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---California---Orange-County/Oncology-Account-Manager--Solid-Tumor--Orange-County--CA_447701) — GSK
-- 📍 **Location:** USA - California - Orange County
-- 🕒 **Posted:** Posted 4 Days Ago
-
-### [Hepatology Account Manager - Newark, NJ](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---New-Jersey---Newark/Hepatology-Account-Manager---Newark--NJ_448920) — GSK
-- 📍 **Location:** USA - New Jersey - Newark
-- 🕒 **Posted:** Posted 4 Days Ago
-
-### [Field Account Manager Redi Carpet](https://hdsupply.wd1.myworkdayjobs.com/External/job/IL048---Des-Plaines-Redi-Carpet_FM/Field-Account-Manager--Redi-Carpet_R26003536) — HD Supply
-- 📍 **Location:** IL048 - Des Plaines (Redi Carpet)_FM
-- 🕒 **Posted:** Posted 24 Days Ago
-
-### [Sales Coordinator (Central Territory)](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HIESA-Chicago/Sales-Coordinator--Central-Territory-_R0133103) — Hitachi
-- 📍 **Location:** (HIESA) Chicago
+### [Insomniac - Marketing Coordinator, Concerts](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Marketing-Coordinator--Concerts_JR-91421-1) — Live Nation Entertainment
+- 📍 **Location:** Calabasas, CA, USA
 - 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Sales & Marketing Specialist - engineering background](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Milan-Lombardy-Italy/Sales---Marketing-Specialist_R0134127) — Hitachi
-- 📍 **Location:** Milan, Lombardy, Italy
-- 🕒 **Posted:** Posted 4 Days Ago
-
-### [Account Manager - Data Centers Colocations](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HERemote_Santa-Clara-California/Account-Manager---Data-Centers-Colocations_R0045484) — Hitachi
-- 📍 **Location:** (HE)Remote_Santa Clara, California
+### [Partnership Marketing Coordinator, Warped Tour](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Partnership-Marketing-Coordinator--Warped-Tour_JR-89797-1) — Live Nation Entertainment
+- 📍 **Location:** Calabasas, CA, USA
 - 🕒 **Posted:** Posted 30+ Days Ago
 
-### [EBC Client Success & Technology Specialist](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/EBC-Client-Success---Technology-Specialist_R0143402-2) — Hitachi
-- 📍 **Location:** Santa Clara, California, United States
+### [LN Concerts, Tour Marketing Coordinator](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/LN-Concerts--Tour-Marketing-Coordinator_JR-92983) — Live Nation Entertainment
+- 📍 **Location:** Beverly Hills, CA, USA
+- 🕒 **Posted:** Posted 26 Days Ago
+
+### [LN Concerts, Regional Marketing Coordinator](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Chicago-IL-USA/LN-Concerts--Regional-Marketing-Coordinator_JR-93526-1) — Live Nation Entertainment
+- 📍 **Location:** Chicago, IL, USA
+- 🕒 **Posted:** Posted 3 Days Ago
+
+### [LN Concerts, Regional Marketing Coordinator - California](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Santa-Ana-CA-USA/LN-Concerts--Regional-Marketing-Coordinator---California_JR-93003) — Live Nation Entertainment
+- 📍 **Location:** Santa Ana, CA, USA
+- 🕒 **Posted:** Posted 17 Days Ago
+
+### [Insomniac - Marketing Campaign Specialist, YouTube](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Marketing-Campaign-Specialist--YouTube_JR-90781-1) — Live Nation Entertainment
+- 📍 **Location:** Calabasas, CA, USA
 - 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Project Coordinator](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Los-Angeles-CA-LA-International-Airport/Project-Coordinator_R-31812) — HNTB
-- 📍 **Location:** Los Angeles, CA (LA International Airport)
-- 🕒 **Posted:** Posted 2 Days Ago
-
-### [Right-of-Way Project Coordinator](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Schaumburg-IL-IL-DOT/Right-of-Way-Project-Coordinator_R-31073) — HNTB
-- 📍 **Location:** Schaumburg, IL (IL DOT)
+### [Insomniac - PR Coordinator](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---PR-Coordinator_JR-91024-4) — Live Nation Entertainment
+- 📍 **Location:** Calabasas, CA, USA
 - 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Account Manager - Tier 1 -  Cloud Service Provider - San Jose, CA](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/San-Jose-California-United-States-of-America/Account-Manager---Tier-1----Cloud-Service-Provider---San-Jose--CA_1215357) — Hewlett Packard Enterprise
-- 📍 **Location:** San Jose, California, United States of America
-- 🕒 **Posted:** Posted 4 Days Ago
+### [E-Commerce Coordinator](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/New-York-NY-USA/E-Commerce-Coordinator_JR-93163) — Live Nation Entertainment
+- 📍 **Location:** New York, NY, USA
+- 🕒 **Posted:** Posted 20 Days Ago
 
-### [Event Coordinator](https://lifetime.wd1.myworkdayjobs.com/lifetime/job/Naperville/Event-Coordinator_R-168778) — Life Time
-- 📍 **Location:** Naperville
-- 🕒 **Posted:** Posted 16 Days Ago
+### [Insomniac - Social Media Coordinator](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Social-Media-Coordinator_JR-90544-4) — Live Nation Entertainment
+- 📍 **Location:** Calabasas, CA, USA
+- 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Business Development Associate](https://mmc.wd1.myworkdayjobs.com/mmc/job/San-Francisco---50-California/Business-Development-Associate_R_367096) — Marsh
-- 📍 **Location:** San Francisco - 50 California
+### [Production Coordinator- Part Time](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Los-Angeles-CA-USA/Production-Coordinator--Part-Time_JR-79424-1) — Live Nation Entertainment
+- 📍 **Location:** Los Angeles, CA, USA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Insomniac - Creative Project Coordinator](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Creative-Project-Coordinator_JR-92256-1) — Live Nation Entertainment
+- 📍 **Location:** Calabasas, CA, USA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Artist Management & Operations Associate](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/Artist-Management---Operations-Associate_JR-93256) — Live Nation Entertainment
+- 📍 **Location:** Beverly Hills, CA, USA
+- 🕒 **Posted:** Posted 12 Days Ago
+
+### [Insomniac - Social Media Coordinator, Tiktok](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Social-Media-Coordinator_JR-84019-2) — Live Nation Entertainment
+- 📍 **Location:** Calabasas, CA, USA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [LN Concerts, Executive Assistant](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/LN-Concerts--Executive-Assistant_JR-93486) — Live Nation Entertainment
+- 📍 **Location:** Beverly Hills, CA, USA
+- 🕒 **Posted:** Posted 6 Days Ago
+
+### [Insomniac - Executive Assistant](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Executive-Assistant_JR-88780-1) — Live Nation Entertainment
+- 📍 **Location:** Calabasas, CA, USA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Insomniac - Seasonal Production Coordinator (Procurement) 2026](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/San-Bernardino-CA-USA/Insomniac---Seasonal-Procurement-Coordinator-2025_JR-76514-1) — Live Nation Entertainment
+- 📍 **Location:** Calabasas, CA, USA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [LN Concerts | Production Assistant](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/San-Francisco-CA-USA/LN-Concerts---Production-Assistant_JR-73919) — Live Nation Entertainment
+- 📍 **Location:** San Francisco, CA, USA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Production Assistant](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Atlanta-GA-USA/Production-Assistant_JR-90189) — Live Nation Entertainment
+- 📍 **Location:** Atlanta, GA, USA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Production Assistant- The Belasco](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Los-Angeles-CA-USA/Production-Assistant--The-Belasco_JR-91563) — Live Nation Entertainment
+- 📍 **Location:** Los Angeles, CA, USA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Executive Assistant / Personal Assistant](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/Executive-Assistant---Personal-Assistant_JR-93505) — Live Nation Entertainment
+- 📍 **Location:** Beverly Hills, CA, USA
+- 🕒 **Posted:** Posted 5 Days Ago
+
+### [LN Concerts, Executive Assistant](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/LN-Concerts--Executive-Assistant_JR-92074-2) — Live Nation Entertainment
+- 📍 **Location:** Beverly Hills, CA, USA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Executive Assistant - R&D](https://mars.wd3.myworkdayjobs.com/external/job/USA-Illinois-Chicago/Executive-Assistant---R-D_R164043-2) — Mars
+- 📍 **Location:** USA-Illinois-Chicago
+- 🕒 **Posted:** Posted Today
+
+### [Sales Coordinator](https://montage.wd1.myworkdayjobs.com/Montage_International/job/USA---CA---Newport-Beach/Sales-Coordinator_R44413) — Montage International
+- 📍 **Location:** USA - CA - Newport Beach
+- 🕒 **Posted:** Posted 13 Days Ago
+
+### [Advance Solutions Project Specialist, AVP](https://ms.wd5.myworkdayjobs.com/External/job/545-LONG-WHARF-DRIVE/Advance-Solutions-Project-Specialist--AVP_PT-JR042333-1) — Morgan Stanley
+- 📍 **Location:** Alpharetta, Georgia, United States of America
+- 🕒 **Posted:** Posted Today
+
+### [Project Coordinator](https://mydpr.wd5.myworkdayjobs.com/11212017/job/San-Francisco-CA/Project-Coordinator_JR-16676) — DPR Family of Companies
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** Posted 10 Days Ago
 
-### [Oliver Wyman - Executive Assistant  Actuarial - Chicago](https://mmc.wd1.myworkdayjobs.com/mmc/job/Chicago---155-Wacker/Oliver-Wyman---Executive-Assistant--Actuarial---Chicago_R_361262-1) — Marsh
-- 📍 **Location:** Chicago - 155 Wacker
+### [Key Customer Account Sales Representative](https://mydpr.wd5.myworkdayjobs.com/11212017/job/Anaheim-CA/Key-Customer-Account-Sales-Representative_JR-16862) — DPR Family of Companies
+- 📍 **Location:** Anaheim, CA
+- 🕒 **Posted:** Posted Today
+
+### [Lead Employee Communications Specialist](https://mydpr.wd5.myworkdayjobs.com/11212017/job/Raleigh-Durham-NC/Lead-Employee-Communications-Specialist_JR-16948) — DPR Family of Companies
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** Posted 3 Days Ago
+
+### [Event Coordinator Marketing and Sales](https://mymvw.wd5.myworkdayjobs.com/hvocareers/job/Tustin-AMS/Event-Coordinator-Marketing-and-Sales_JR93934) — Hyatt Vacation Club
+- 📍 **Location:** Tustin AMS
 - 🕒 **Posted:** Posted 30+ Days Ago
 
-### [AI Operations Specialist](https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/AI-Operations-Specialist_R_357430-1) — Marsh
-- 📍 **Location:** Chicago - 155 Wacker
+### [Sales Account Manager - General Industry](https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Irvine-CA/Sales-Account-Manager---General-Industry_R009664) — Novanta
+- 📍 **Location:** Irvine, CA
 - 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Account Manager - Retirement Services](https://mmc.wd1.myworkdayjobs.com/mmc/job/Schaumburg---Martingale/Account-Manager---Retirement-Services_R_350842) — Marsh
-- 📍 **Location:** Schaumburg - Martingale
-- 🕒 **Posted:** Posted 30+ Days Ago
+### [Research Coordinator-Infectious Disease](https://nshs.wd1.myworkdayjobs.com/ns-eeh/job/EVH-Evanston-Hospital/Research-Coordinator-Infectious-Disease_R47779-1) — Endeavor Health
+- 📍 **Location:** NSO 9977 Woods Drive Skokie
 
-### [Employee Benefits Account Manager](https://mmc.wd1.myworkdayjobs.com/mmc/job/Orland-Park---Orland/Employee-Benefits-Account-Manager_R_352169) — Marsh
-- 📍 **Location:** Schaumburg - Martingale
-- 🕒 **Posted:** Posted 5 Days Ago
-
-### [Account Manager - Business Insurance (Select)](https://mmc.wd1.myworkdayjobs.com/mmc/job/Schaumburg---Martingale/Account-Manager---Business-Insurance--Select-_R_349746) — Marsh
-- 📍 **Location:** Schaumburg - Martingale
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Business Development Associate](https://mmc.wd1.myworkdayjobs.com/mmc/job/San-Francisco---50-California/Business-Development-Associate_R_344061) — Marsh
-- 📍 **Location:** San Francisco - 50 California
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Return To Work - Investment Banking Executive Assistant | Menlo Park, CA](https://ms.wd5.myworkdayjobs.com/External/job/Menlo-Park-California-United-States-of-America/Return-To-Work---Investment-Banking-Executive-Assistant---Menlo-Park--CA_JR043523) — Morgan Stanley
-- 📍 **Location:** Menlo Park, California, United States of America
-- 🕒 **Posted:** Posted 19 Days Ago
-
-### [Account Manager](https://msiexpress.wd5.myworkdayjobs.com/MSI_Express_External_Careers/job/1501-North-Chicago-IL/Account-Manager_R-101750) — MSI Express
-- 📍 **Location:** 1501 North Chicago IL
-- 🕒 **Posted:** Posted 30+ Days Ago
+### [Research Coordinator-Cardiology](https://nshs.wd1.myworkdayjobs.com/ns-eeh/job/GBH-Glenbrook-Hospital-Glenview/Research-Coordinator-Cardiology_R45362) — Endeavor Health
+- 📍 **Location:** GBH Glenbrook Hospital Glenview
