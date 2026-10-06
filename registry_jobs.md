@@ -1,146 +1,92 @@
 # 🗃 Direct ATS Registry — Marketing / Account Mgmt / Coordinator Roles
-*Last updated: 2026-10-05 21:40 UTC*
+*Last updated: 2026-10-06 19:26 UTC*
 
-**36 new role(s)** since last run · 90 total in current registry shard
+**22 new role(s)** since last run · 98 total in current registry shard
 
-### [Account Manager, Paid Media](https://interpublic.wd5.myworkdayjobs.com/omc/job/New-York-New-York-United-States-of-America/Account-Manager_R15319) — Omnicom Group
-- 📍 **Location:** New York, New York, United States of America
-- 🕒 **Posted:** Posted Today
-
-### [Associate Customer Success Manager](https://jci.wd5.myworkdayjobs.com/JCI/job/Chicago-Illinois-United-States-of-America/Associate-Customer-Success-Manager_WD30279160) — Johnson Controls
-- 📍 **Location:** Chicago-Illinois-United States of America
-- 🕒 **Posted:** Posted 5 Days Ago
-
-### [New PSA Service Sales Representative-Fire](https://jci.wd5.myworkdayjobs.com/JCI/job/Arlington-Heights-Illinois-United-States-of-America/New-PSA-Service-Sales-Representative-Fire_WD30281325) — Johnson Controls
-- 📍 **Location:** Arlington Heights-Illinois-United States of America
-- 🕒 **Posted:** Posted 4 Days Ago
-
-### [Marketing Specialist](https://kemper.wd5.myworkdayjobs.com/kemper_careers/job/Chicago-Illinois/Marketing-Specialist_R-26-0038572) — Kemper
-- 📍 **Location:** Chicago, Illinois
-- 🕒 **Posted:** Posted 3 Days Ago
-
-### [Insomniac - Marketing Coordinator](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Marketing-Coordinator_JR-92541-1) — Live Nation Entertainment
-- 📍 **Location:** Calabasas, CA, USA
+### [Sales Coordinator (Central Territory)](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HIESA-Chicago/Sales-Coordinator--Central-Territory-_R0133103) — Hitachi
+- 📍 **Location:** (HIESA) Chicago
 - 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Insomniac - Marketing Coordinator, Concerts](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Marketing-Coordinator--Concerts_JR-91421-1) — Live Nation Entertainment
-- 📍 **Location:** Calabasas, CA, USA
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Partnership Marketing Coordinator, Warped Tour](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Partnership-Marketing-Coordinator--Warped-Tour_JR-89797-1) — Live Nation Entertainment
-- 📍 **Location:** Calabasas, CA, USA
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [LN Concerts, Tour Marketing Coordinator](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/LN-Concerts--Tour-Marketing-Coordinator_JR-92983) — Live Nation Entertainment
-- 📍 **Location:** Beverly Hills, CA, USA
-- 🕒 **Posted:** Posted 26 Days Ago
-
-### [LN Concerts, Regional Marketing Coordinator](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Chicago-IL-USA/LN-Concerts--Regional-Marketing-Coordinator_JR-93526-1) — Live Nation Entertainment
-- 📍 **Location:** Chicago, IL, USA
-- 🕒 **Posted:** Posted 3 Days Ago
-
-### [LN Concerts, Regional Marketing Coordinator - California](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Santa-Ana-CA-USA/LN-Concerts--Regional-Marketing-Coordinator---California_JR-93003) — Live Nation Entertainment
-- 📍 **Location:** Santa Ana, CA, USA
-- 🕒 **Posted:** Posted 17 Days Ago
-
-### [Insomniac - Marketing Campaign Specialist, YouTube](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Marketing-Campaign-Specialist--YouTube_JR-90781-1) — Live Nation Entertainment
-- 📍 **Location:** Calabasas, CA, USA
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Insomniac - PR Coordinator](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---PR-Coordinator_JR-91024-4) — Live Nation Entertainment
-- 📍 **Location:** Calabasas, CA, USA
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [E-Commerce Coordinator](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/New-York-NY-USA/E-Commerce-Coordinator_JR-93163) — Live Nation Entertainment
-- 📍 **Location:** New York, NY, USA
-- 🕒 **Posted:** Posted 20 Days Ago
-
-### [Insomniac - Social Media Coordinator](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Social-Media-Coordinator_JR-90544-4) — Live Nation Entertainment
-- 📍 **Location:** Calabasas, CA, USA
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Production Coordinator- Part Time](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Los-Angeles-CA-USA/Production-Coordinator--Part-Time_JR-79424-1) — Live Nation Entertainment
-- 📍 **Location:** Los Angeles, CA, USA
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Insomniac - Creative Project Coordinator](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Creative-Project-Coordinator_JR-92256-1) — Live Nation Entertainment
-- 📍 **Location:** Calabasas, CA, USA
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Artist Management & Operations Associate](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/Artist-Management---Operations-Associate_JR-93256) — Live Nation Entertainment
-- 📍 **Location:** Beverly Hills, CA, USA
-- 🕒 **Posted:** Posted 12 Days Ago
-
-### [Insomniac - Social Media Coordinator, Tiktok](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Social-Media-Coordinator_JR-84019-2) — Live Nation Entertainment
-- 📍 **Location:** Calabasas, CA, USA
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [LN Concerts, Executive Assistant](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/LN-Concerts--Executive-Assistant_JR-93486) — Live Nation Entertainment
-- 📍 **Location:** Beverly Hills, CA, USA
+### [Sales & Marketing Specialist - engineering background](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Milan-Lombardy-Italy/Sales---Marketing-Specialist_R0134127) — Hitachi
+- 📍 **Location:** Milan, Lombardy, Italy
 - 🕒 **Posted:** Posted 6 Days Ago
 
-### [Insomniac - Executive Assistant](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Executive-Assistant_JR-88780-1) — Live Nation Entertainment
-- 📍 **Location:** Calabasas, CA, USA
+### [Account Manager - Data Centers Colocations](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HERemote_Santa-Clara-California/Account-Manager---Data-Centers-Colocations_R0045484) — Hitachi
+- 📍 **Location:** (HE)Remote_Santa Clara, California
 - 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Insomniac - Seasonal Production Coordinator (Procurement) 2026](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/San-Bernardino-CA-USA/Insomniac---Seasonal-Procurement-Coordinator-2025_JR-76514-1) — Live Nation Entertainment
-- 📍 **Location:** Calabasas, CA, USA
+### [EBC Client Success & Technology Specialist](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/EBC-Client-Success---Technology-Specialist_R0143402-2) — Hitachi
+- 📍 **Location:** Santa Clara, California, United States
 - 🕒 **Posted:** Posted 30+ Days Ago
 
-### [LN Concerts | Production Assistant](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/San-Francisco-CA-USA/LN-Concerts---Production-Assistant_JR-73919) — Live Nation Entertainment
-- 📍 **Location:** San Francisco, CA, USA
+### [Project Coordinator](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Los-Angeles-CA-LA-International-Airport/Project-Coordinator_R-31812) — HNTB
+- 📍 **Location:** Los Angeles, CA (LA International Airport)
+- 🕒 **Posted:** Posted 4 Days Ago
+
+### [Right-of-Way Project Coordinator](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Schaumburg-IL-IL-DOT/Right-of-Way-Project-Coordinator_R-31073) — HNTB
+- 📍 **Location:** Schaumburg, IL (IL DOT)
 - 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Production Assistant](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Atlanta-GA-USA/Production-Assistant_JR-90189) — Live Nation Entertainment
-- 📍 **Location:** Atlanta, GA, USA
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Production Assistant- The Belasco](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Los-Angeles-CA-USA/Production-Assistant--The-Belasco_JR-91563) — Live Nation Entertainment
-- 📍 **Location:** Los Angeles, CA, USA
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Executive Assistant / Personal Assistant](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/Executive-Assistant---Personal-Assistant_JR-93505) — Live Nation Entertainment
-- 📍 **Location:** Beverly Hills, CA, USA
-- 🕒 **Posted:** Posted 5 Days Ago
-
-### [LN Concerts, Executive Assistant](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/LN-Concerts--Executive-Assistant_JR-92074-2) — Live Nation Entertainment
-- 📍 **Location:** Beverly Hills, CA, USA
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Executive Assistant - R&D](https://mars.wd3.myworkdayjobs.com/external/job/USA-Illinois-Chicago/Executive-Assistant---R-D_R164043-2) — Mars
-- 📍 **Location:** USA-Illinois-Chicago
-- 🕒 **Posted:** Posted Today
-
-### [Sales Coordinator](https://montage.wd1.myworkdayjobs.com/Montage_International/job/USA---CA---Newport-Beach/Sales-Coordinator_R44413) — Montage International
-- 📍 **Location:** USA - CA - Newport Beach
+### [SLED Enterprise Account Manager - NJ](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/All-New-Jersey-United-States-of-America/SLED-Enterprise-Account-Manager---NJ_1215332) — Hewlett Packard Enterprise
+- 📍 **Location:** Berkeley Heights, New Jersey, United States of America
 - 🕒 **Posted:** Posted 13 Days Ago
 
-### [Advance Solutions Project Specialist, AVP](https://ms.wd5.myworkdayjobs.com/External/job/545-LONG-WHARF-DRIVE/Advance-Solutions-Project-Specialist--AVP_PT-JR042333-1) — Morgan Stanley
-- 📍 **Location:** Alpharetta, Georgia, United States of America
+### [Public Relations Manager](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Public-Relations-Manager_1210577) — Hewlett Packard Enterprise
+- 📍 **Location:** San Jose, California, United States of America
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Executive Assistant](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Tlaquepaque-Jalisco-Mexico/Executive-Assistant_1214565) — Hewlett Packard Enterprise
+- 📍 **Location:** San Jose, San Jose, Costa Rica
+- 🕒 **Posted:** Posted 8 Days Ago
+
+### [Meeting & Events Coordinator](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Meeting---Events-Coordinator_REQ537307) — Jones Lang LaSalle (JLL)
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** Posted Yesterday
+
+### [KLA Service Field Marketing Manager](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/KLA-Service-Field-Marketing-Manager_2639612) — KLA Corporation
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** Posted Yesterday
+
+### [Sales Consultant - Account Management](https://kone.wd3.myworkdayjobs.com/careers/job/Marietta-GA/Sales-Consultant---Account-Management_R0664950) — KONE
+- 📍 **Location:** Marietta GA
+- 🕒 **Posted:** Posted 11 Days Ago
+
+### [Digital Marketing Coordinator](https://kslaw.wd1.myworkdayjobs.com/careers/job/New-York-City-New-York/Digital-Marketing-Coordinator_R556) — King & Spalding
+- 📍 **Location:** New York City, New York
 - 🕒 **Posted:** Posted Today
 
-### [Project Coordinator](https://mydpr.wd5.myworkdayjobs.com/11212017/job/San-Francisco-CA/Project-Coordinator_JR-16676) — DPR Family of Companies
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** Posted 10 Days Ago
+### [Business Development Coordinator](https://kslaw.wd1.myworkdayjobs.com/careers/job/New-York-City-New-York/Business-Development-Coordinator_R463) — King & Spalding
+- 📍 **Location:** New York City, New York
+- 🕒 **Posted:** Posted 25 Days Ago
 
-### [Key Customer Account Sales Representative](https://mydpr.wd5.myworkdayjobs.com/11212017/job/Anaheim-CA/Key-Customer-Account-Sales-Representative_JR-16862) — DPR Family of Companies
-- 📍 **Location:** Anaheim, CA
-- 🕒 **Posted:** Posted Today
+### [Business Development Coordinator](https://kslaw.wd1.myworkdayjobs.com/careers/job/New-York-City-New-York/Business-Development-Coordinator_R314) — King & Spalding
+- 📍 **Location:** New York City, New York
+- 🕒 **Posted:** Posted 25 Days Ago
 
-### [Lead Employee Communications Specialist](https://mydpr.wd5.myworkdayjobs.com/11212017/job/Raleigh-Durham-NC/Lead-Employee-Communications-Specialist_JR-16948) — DPR Family of Companies
+### [Lateral Partner Recruiting Coordinator](https://kslaw.wd1.myworkdayjobs.com/careers/job/Atlanta-Georgia/Lateral-Partner-Recruiting-Coordinator_R493) — King & Spalding
+- 📍 **Location:** Atlanta, Georgia
+- 🕒 **Posted:** Posted 25 Days Ago
+
+### [Technology Communications Specialist](https://kslaw.wd1.myworkdayjobs.com/careers/job/Atlanta-Georgia/Technology-Communications-Specialist_R445) — King & Spalding
+- 📍 **Location:** Atlanta, Georgia
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Feed Sales Representative](https://landolakes.wd1.myworkdayjobs.com/landolakes/job/Virtual-USA/Feed-Sales-Representative_R-39908) — Land O'Lakes
+- 📍 **Location:** Fremont, NE (USA)
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Associate Project Manager](https://leidos.wd5.myworkdayjobs.com/External/job/Atlanta-GA/Associate-Project-Manager_R-00190602) — Leidos
 - 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** Posted 3 Days Ago
+- 🕒 **Posted:** Posted Yesterday
 
-### [Event Coordinator Marketing and Sales](https://mymvw.wd5.myworkdayjobs.com/hvocareers/job/Tustin-AMS/Event-Coordinator-Marketing-and-Sales_JR93934) — Hyatt Vacation Club
-- 📍 **Location:** Tustin AMS
+### [Strategic Account Manager – Cloud and AI](https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Sales-Account-Manager_2026821) — Lumentum
+- 📍 **Location:** USA - CA - San Jose (Ridder)
 - 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Sales Account Manager - General Industry](https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Irvine-CA/Sales-Account-Manager---General-Industry_R009664) — Novanta
-- 📍 **Location:** Irvine, CA
-- 🕒 **Posted:** Posted 30+ Days Ago
+### [Strategic Account Manager](https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Strategic-Account-Manager_20261459) — Lumentum
+- 📍 **Location:** USA - CA - San Jose (Ridder)
+- 🕒 **Posted:** Posted Yesterday
 
-### [Research Coordinator-Infectious Disease](https://nshs.wd1.myworkdayjobs.com/ns-eeh/job/EVH-Evanston-Hospital/Research-Coordinator-Infectious-Disease_R47779-1) — Endeavor Health
-- 📍 **Location:** NSO 9977 Woods Drive Skokie
-
-### [Research Coordinator-Cardiology](https://nshs.wd1.myworkdayjobs.com/ns-eeh/job/GBH-Glenbrook-Hospital-Glenview/Research-Coordinator-Cardiology_R45362) — Endeavor Health
-- 📍 **Location:** GBH Glenbrook Hospital Glenview
+### [Executive Search Program Coordinator (Contract)](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Executive-Search-Program-Coordinator--Contract-_JR113302) — Micron Technology
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** Posted 13 Days Ago
