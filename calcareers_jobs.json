@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-05 22:56 UTC",
+  "scraped_at": "2026-10-06 21:17 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "CA State Lottery",
@@ -16,25 +16,12 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "CA State Lottery",
-      "title": "District Sales Representative - Milpitas DO",
-      "location": "Santa Clara County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534266",
-      "date_posted": "2026-10-05",
-      "salary": "$4842.00 - $6058.00",
-      "ats": "CalCareers",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 3,
+    "location": 5,
     "stale": 0
   }
 }
