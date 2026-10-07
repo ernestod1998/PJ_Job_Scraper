@@ -1,28 +1,20 @@
 # 🎬 Entertainment — Studios / Agencies / Labels (direct ATS + LinkedIn allowlist)
-*Last updated: 2026-10-06 10:25 UTC*
+*Last updated: 2026-10-07 10:20 UTC*
 
-**6 new role(s)** since last run · 45 total in last 24h
+**4 new role(s)** since last run · 44 total in last 24h
 
-### [Assistant Media Planner](https://job-boards.greenhouse.io/rpa/jobs/4740108005) — RPA
-- 📍 **Location:** Santa Monica, CA - Hybrid
-- 🕒 **Posted:** 2026-10-05
-
-### [Coordinator, North America and Executive Assistant](https://umusic.wd5.myworkdayjobs.com/UMGUS/job/Los-Angeles-California/Coordinator--North-America-and-Executive-Assistant_UMG-27763-1) — Universal Music Group
-- 📍 **Location:** Los Angeles, California
+### [Business Partner Account Manager](https://umusic.wd5.myworkdayjobs.com/UMGUS/job/Woodland-Hills-California/Business-Partner-Account-Manager_UMG-26793) — Universal Music Group
+- 📍 **Location:** Woodland Hills, California
 - 🕒 **Posted:** Posted Yesterday
 
-### [Publicist](https://www.linkedin.com/jobs/view/4453161806/) — NBCUniversal
+### [Coordinator, Global Publicity](https://www.linkedin.com/jobs/view/4476341439/) — NBCUniversal
 - 📍 **Location:** Universal City, CA
-- 🕒 **Posted:** 2026-10-05
+- 🕒 **Posted:** 2026-10-06
 
-### [Manager, Publicity](https://www.linkedin.com/jobs/view/4475821874/) — NBCUniversal
-- 📍 **Location:** Universal City, CA
-- 🕒 **Posted:** 2026-10-05
+### [Community Operations Specialist (Lead Generation) - TikTok LIVE](https://www.linkedin.com/jobs/view/4475101598/) — TikTok
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-10-06
 
-### [Production Coordinator](https://www.linkedin.com/jobs/view/4475853066/) — NBCUniversal
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-05
-
-### [Account Manager - CPG Care - Global Business Solutions](https://www.linkedin.com/jobs/view/4474626058/) — TikTok
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-10-05
+### [Executive Assistant, Design](https://www.linkedin.com/jobs/view/4476357797/) — Paramount
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-06
