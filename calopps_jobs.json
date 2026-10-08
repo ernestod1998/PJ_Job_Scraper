@@ -1,8 +1,20 @@
 {
-  "scraped_at": "2026-10-07 21:23 UTC",
+  "scraped_at": "2026-10-08 21:25 UTC",
   "total": 3,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "San Mateo",
+      "title": "Per Diem Recreation Program Specialist- Afterschool",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/san-mateo/job-20783554",
+      "date_posted": "",
+      "salary": "$28.26-$33.71 Hourly",
+      "ats": "CalOpps",
+      "feeds": [
+        "general"
+      ]
+    },
     {
       "company": "Golden Gate Bridge Highway And Transportation District",
       "title": "Program Manager, Electronic Revenue Operations",
@@ -26,21 +38,22 @@
       "feeds": [
         "general"
       ]
-    },
+    }
+  ],
+  "new_jobs": [
     {
-      "company": "Daly City",
-      "title": "Support Dog Program Coordinator",
+      "company": "San Mateo",
+      "title": "Per Diem Recreation Program Specialist- Afterschool",
       "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/daly-city/job-20749975",
+      "url": "https://www.calopps.org/san-mateo/job-20783554",
       "date_posted": "",
-      "salary": "$7,808.00-$9,492.00 Monthly",
+      "salary": "$28.26-$33.71 Hourly",
       "ats": "CalOpps",
       "feeds": [
         "general"
       ]
     }
   ],
-  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
