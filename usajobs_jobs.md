@@ -1,6 +1,14 @@
 # 🇺🇸 USAJOBS — Federal Roles
-*Last updated: 2026-10-07 20:44 UTC*
+*Last updated: 2026-10-08 20:47 UTC*
 
-**0 new role(s)** since last run · 0 total in current USAJOBS postings
+**2 new role(s)** since last run · 2 total in current USAJOBS postings
 
-No new federal roles since the last run.
+### [Supervisory Social Worker (Program Coordinator - Whole Health Food Hub Manager)](https://www.usajobs.gov/job/888080700) — Veterans Health Administration
+- 📍 **Location:** Los Angeles, California
+- 💰 **Salary:** Starting at $114,695 Per year (GS 12)
+- 🕒 **Posted:** 2026-10-07
+
+### [Supervisory Social Worker (Program Coordinator - CERS Peer Center)](https://www.usajobs.gov/job/888080100) — Veterans Health Administration
+- 📍 **Location:** Los Angeles, California
+- 💰 **Salary:** Starting at $114,695 Per year (GS 12)
+- 🕒 **Posted:** 2026-10-07
