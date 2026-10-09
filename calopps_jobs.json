@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-08 21:25 UTC",
+  "scraped_at": "2026-10-09 21:02 UTC",
   "total": 3,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "San Mateo",
@@ -40,20 +40,7 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "San Mateo",
-      "title": "Per Diem Recreation Program Specialist- Afterschool",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/san-mateo/job-20783554",
-      "date_posted": "",
-      "salary": "$28.26-$33.71 Hourly",
-      "ats": "CalOpps",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
