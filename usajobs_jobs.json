@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-08 20:47 UTC",
+  "scraped_at": "2026-10-09 20:18 UTC",
   "total": 2,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Veterans Health Administration",
@@ -28,37 +28,12 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Veterans Health Administration",
-      "title": "Supervisory Social Worker (Program Coordinator - Whole Health Food Hub Manager)",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov/job/888080700",
-      "date_posted": "2026-10-07",
-      "salary": "Starting at $114,695 Per year (GS 12)",
-      "ats": "USAJOBS",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Supervisory Social Worker (Program Coordinator - CERS Peer Center)",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov/job/888080100",
-      "date_posted": "2026-10-07",
-      "salary": "Starting at $114,695 Per year (GS 12)",
-      "ats": "USAJOBS",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 22,
+    "location": 21,
     "stale": 0
   }
 }
