@@ -1,33 +1,34 @@
 # 🟦 Indeed — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-10-11 07:47 UTC*
+*Last updated: 2026-10-11 19:09 UTC*
 
-**6 new role(s)** since last run · 29 total in last 24h
+**6 new role(s)** since last run · 14 total in last 24h
 
-### [Marketing Coordinator](https://www.indeed.com/viewjob?jk=fb80433b346e9334) — OSI Systems, Inc
-- 📍 **Location:** Hawthorne, CA, USA
-- 💰 **Salary:** $24–$25/hr
-- 🕒 **Posted:** 2026-10-10
-
-### [Customer Sales Representative](https://www.indeed.com/viewjob?jk=190b000142f6671c) — Elysian Consultants
-- 📍 **Location:** Buena Park, CA, USA
-- 💰 **Salary:** $950–$1100/wk
+### [Executive Assistant](https://www.indeed.com/viewjob?jk=a62604cf20e22de3) — Apple
+- 📍 **Location:** Cupertino, CA, USA
+- 💰 **Salary:** $50.66–$76.05/hr
 - 🕒 **Posted:** 2026-10-11
 
-### [Inside Sales Representative](https://www.indeed.com/viewjob?jk=87178f6e4580170a) — GiraffeBuilder
-- 📍 **Location:** Woodland Hills, CA, USA
-- 💰 **Salary:** $59k–$71k/yr
+### [Event Operations & Setup Attendant](https://www.indeed.com/viewjob?jk=c335cdf79f335918) — Convene Hospitality Group
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $21/hr
 - 🕒 **Posted:** 2026-10-11
 
-### [On- Site Inside Sales Representative- NO CAP COMMISSIONS!!](https://www.indeed.com/viewjob?jk=f043850ea121f167) — All Star Rents
-- 📍 **Location:** San Rafael, CA, USA
-- 💰 **Salary:** $22–$26/hr
-- 🕒 **Posted:** 2026-10-10
-
-### [Account Management & Relationships — Founder-in-Training](https://www.indeed.com/viewjob?jk=5cea0943bf77c784) — Playbook Sports
-- 📍 **Location:** Hoboken, NJ, USA
+### [Business Sales Representative](https://www.indeed.com/viewjob?jk=75763f4d34156860) — Evoluna Empire
+- 📍 **Location:** Manhattan, NY, USA
+- 💰 **Salary:** $3500–$6000/mo
 - 🕒 **Posted:** 2026-10-11
 
-### [Assistant Community Manager](https://www.indeed.com/viewjob?jk=7404c4572347f11a) — Related
-- 📍 **Location:** Chicago, IL, USA
-- 💰 **Salary:** $25–$26/hr
-- 🕒 **Posted:** 2026-10-10
+### [Veterinary Business Operations Assistant](https://www.indeed.com/viewjob?jk=80c92688e7023a9e) — Animal Hospital of Morris Park
+- 📍 **Location:** Bronx, NY, USA
+- 💰 **Salary:** $18–$22/hr
+- 🕒 **Posted:** 2026-10-11
+
+### [Receptionist & Sales Coordinator](https://www.indeed.com/viewjob?jk=b578e94ab49794a2) — Pose Aesthetics
+- 📍 **Location:** Atlanta, GA, USA
+- 💰 **Salary:** $12.80–$13.20/hr
+- 🕒 **Posted:** 2026-10-11
+
+### [Government Account Manager 2, Enterprise Direct Sales](https://www.indeed.com/viewjob?jk=3e5a55143e07e52e) — Comcast
+- 📍 **Location:** Schaumburg, IL, USA
+- 💰 **Salary:** $85k–$142k/yr
+- 🕒 **Posted:** 2026-10-11
