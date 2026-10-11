@@ -1,34 +1,39 @@
 # 🟦 Indeed — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-10-11 19:09 UTC*
+*Last updated: 2026-10-11 23:55 UTC*
 
-**6 new role(s)** since last run · 14 total in last 24h
+**7 new role(s)** since last run · 15 total in last 24h
 
-### [Executive Assistant](https://www.indeed.com/viewjob?jk=a62604cf20e22de3) — Apple
-- 📍 **Location:** Cupertino, CA, USA
-- 💰 **Salary:** $50.66–$76.05/hr
+### [Account Manager - Jewelry Industry](https://www.indeed.com/viewjob?jk=1dd4887f32435ca9) — Dia-Co
+- 📍 **Location:** Los Angeles, CA, USA
+- 💰 **Salary:** $27–$31/hr
 - 🕒 **Posted:** 2026-10-11
 
-### [Event Operations & Setup Attendant](https://www.indeed.com/viewjob?jk=c335cdf79f335918) — Convene Hospitality Group
+### [AVP, Customer Success - Enterprise and Strategic Accounts](https://www.indeed.com/viewjob?jk=f6be5b5af6285b17) — Motive
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $254k–$438k/yr
+- 🕒 **Posted:** 2026-10-11
+
+### [Child Development Assistant](https://www.indeed.com/viewjob?jk=4808e8231dc4ccd2) — Kung Fu Kids Newark
+- 📍 **Location:** Newark, CA, USA
+- 💰 **Salary:** $23–$34/hr
+- 🕒 **Posted:** 2026-10-11
+
+### [Client Experience & Operations Coordinator](https://www.indeed.com/viewjob?jk=1516da40d5ea2583) — Paint N Pour
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $21/hr
+- 💰 **Salary:** $45k–$58k/yr
 - 🕒 **Posted:** 2026-10-11
 
-### [Business Sales Representative](https://www.indeed.com/viewjob?jk=75763f4d34156860) — Evoluna Empire
-- 📍 **Location:** Manhattan, NY, USA
-- 💰 **Salary:** $3500–$6000/mo
+### [Sales Representative](https://www.indeed.com/viewjob?jk=7b64584e3fca55e5) — Cosmos
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $100k–$150k/yr
 - 🕒 **Posted:** 2026-10-11
 
-### [Veterinary Business Operations Assistant](https://www.indeed.com/viewjob?jk=80c92688e7023a9e) — Animal Hospital of Morris Park
-- 📍 **Location:** Bronx, NY, USA
-- 💰 **Salary:** $18–$22/hr
+### [Customer Success & Supply Chain Associate](https://www.indeed.com/viewjob?jk=5b851292343f5cac) — VR Expert
+- 📍 **Location:** Brooklyn, NY, USA
+- 💰 **Salary:** $55k–$60k/yr
 - 🕒 **Posted:** 2026-10-11
 
-### [Receptionist & Sales Coordinator](https://www.indeed.com/viewjob?jk=b578e94ab49794a2) — Pose Aesthetics
-- 📍 **Location:** Atlanta, GA, USA
-- 💰 **Salary:** $12.80–$13.20/hr
-- 🕒 **Posted:** 2026-10-11
-
-### [Government Account Manager 2, Enterprise Direct Sales](https://www.indeed.com/viewjob?jk=3e5a55143e07e52e) — Comcast
-- 📍 **Location:** Schaumburg, IL, USA
-- 💰 **Salary:** $85k–$142k/yr
+### [Account Manager - State Farm Agent Team Member](https://www.indeed.com/viewjob?jk=8c83cc071eca7d96) — State Farm
+- 📍 **Location:** Marietta, GA, USA
+- 💰 **Salary:** $45k–$65k/yr
 - 🕒 **Posted:** 2026-10-11
