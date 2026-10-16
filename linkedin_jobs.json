@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-16 05:48 UTC",
-  "total": 86,
-  "new_count": 86,
+  "scraped_at": "2026-10-16 06:29 UTC",
+  "total": 88,
+  "new_count": 5,
   "jobs": [
     {
       "company": "Equity Residential",
@@ -26,12 +26,36 @@
       ]
     },
     {
+      "company": "InterHealth Select",
+      "title": "Business Operations Specialist",
+      "location": "Pasadena, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479317705/",
+      "date_posted": "2026-10-15",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Crossover",
+      "title": "Reading Program Coordinator, Alpha - $120,000/year USD",
+      "location": "Pasadena, CA",
+      "url": "https://www.linkedin.com/jobs/view/4478153763/",
+      "date_posted": "2026-10-15",
+      "ats": "LinkedIn",
+      "salary": "$120,000.00/yr - $120,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Open Bank",
       "title": "Corporate Communications Specialist II",
       "location": "Los Angeles Metropolitan Area",
       "url": "https://www.linkedin.com/jobs/view/4477335869/",
       "date_posted": "2026-10-15",
       "ats": "LinkedIn",
+      "salary": "$24.00/yr - $26.00/yr",
       "feeds": [
         "general"
       ]
@@ -41,17 +65,6 @@
       "title": "Trainee, Talent Relations and Publicity, Sony Pictures Television - Spring 2027",
       "location": "Culver City, CA",
       "url": "https://www.linkedin.com/jobs/view/4480300419/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Focus Features",
-      "title": "Manager, Publicity - Focus Features",
-      "location": "Universal City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477347516/",
       "date_posted": "2026-10-15",
       "ats": "LinkedIn",
       "feeds": [
@@ -76,6 +89,7 @@
       "url": "https://www.linkedin.com/jobs/view/4480317695/",
       "date_posted": "2026-10-15",
       "ats": "LinkedIn",
+      "salary": "$33,200.00/yr - $66,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -96,17 +110,6 @@
       "title": "Assistant Account Manager, Commercial Lines",
       "location": "Newport Beach, CA",
       "url": "https://www.linkedin.com/jobs/view/4477344536/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "InterHealth Select",
-      "title": "Business Operations Specialist",
-      "location": "Pasadena, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479317705/",
       "date_posted": "2026-10-15",
       "ats": "LinkedIn",
       "feeds": [
@@ -147,10 +150,22 @@
       ]
     },
     {
-      "company": "Wells Fargo",
-      "title": "Branch Operations Associate Manager Torrance",
-      "location": "Torrance, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480315582/",
+      "company": "Allied Universal",
+      "title": "Social Media Manager",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480326373/",
+      "date_posted": "2026-10-15",
+      "ats": "LinkedIn",
+      "salary": "$75,000.00/yr - $90,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Focus Features",
+      "title": "Manager, Publicity - Focus Features",
+      "location": "Universal City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477347516/",
       "date_posted": "2026-10-15",
       "ats": "LinkedIn",
       "feeds": [
@@ -313,17 +328,6 @@
       ]
     },
     {
-      "company": "Haystack",
-      "title": "Social Media Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4479306914/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "HP",
       "title": "Marketing Research & Intelligence",
       "location": "Palo Alto, CA",
@@ -434,6 +438,17 @@
       ]
     },
     {
+      "company": "Haystack",
+      "title": "Social Media Manager",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4479306914/",
+      "date_posted": "2026-10-15",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Form Energy",
       "title": "Warehouse Operations Associate",
       "location": "Berkeley, CA",
@@ -490,10 +505,10 @@
       ]
     },
     {
-      "company": "NPAworldwide",
-      "title": "Client Services Associate (Fintech)",
+      "company": "The Walt Disney Company",
+      "title": "Publicity Coordinator (PH), Searchlight Pictures",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4477954882/",
+      "url": "https://www.linkedin.com/jobs/view/4479314921/",
       "date_posted": "2026-10-15",
       "ats": "LinkedIn",
       "feeds": [
@@ -501,10 +516,10 @@
       ]
     },
     {
-      "company": "The Walt Disney Company",
-      "title": "Publicity Coordinator (PH), Searchlight Pictures",
+      "company": "NPAworldwide",
+      "title": "Client Services Associate (Fintech)",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4479314921/",
+      "url": "https://www.linkedin.com/jobs/view/4477954882/",
       "date_posted": "2026-10-15",
       "ats": "LinkedIn",
       "feeds": [
@@ -527,6 +542,39 @@
       "title": "Executive Assistant",
       "location": "New York, NY",
       "url": "https://www.linkedin.com/jobs/view/4477332938/",
+      "date_posted": "2026-10-15",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fashion Institute of Technology",
+      "title": "Part-Time Marketing & Social Media Coordinator, Center for Precollege Programs",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4480318894/",
+      "date_posted": "2026-10-15",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Wix",
+      "title": "Social Media Manager",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4477145684/",
+      "date_posted": "2026-10-15",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fashion Institute of Technology",
+      "title": "Part-Time Scholarship & Outreach Coordinator, Center for Precollege Programs",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4480317902/",
       "date_posted": "2026-10-15",
       "ats": "LinkedIn",
       "feeds": [
@@ -567,12 +615,36 @@
       ]
     },
     {
-      "company": "Wix",
-      "title": "Social Media Manager",
+      "company": "Dealpath",
+      "title": "Sales Development Representative",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4477145684/",
+      "url": "https://www.linkedin.com/jobs/view/4480310365/",
       "date_posted": "2026-10-15",
       "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Spectrum",
+      "title": "Sales Representative (Non Driving)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4480329028/",
+      "date_posted": "2026-10-15",
+      "ats": "LinkedIn",
+      "salary": "$33,200.00/yr - $66,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Sysco",
+      "title": "Sales Representative II",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4480306929/",
+      "date_posted": "2026-10-15",
+      "ats": "LinkedIn",
+      "salary": "$68,600.00/yr - $68,600.00/yr",
       "feeds": [
         "general"
       ]
@@ -633,56 +705,10 @@
       ]
     },
     {
-      "company": "Sysco",
-      "title": "Sales Representative II",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4480306929/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "salary": "$68,600.00/yr - $68,600.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Abbott",
-      "title": "Direct Sales Representative \u2013 Implantable Cardiac Monitoring - Manhattan, NY",
-      "location": "Manhattan, NY",
-      "url": "https://www.linkedin.com/jobs/view/4480312835/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Dealpath",
-      "title": "Sales Development Representative",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4480310365/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Spectrum",
-      "title": "Sales Representative (Non Driving)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4480329028/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "salary": "$33,200.00/yr - $66,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Orkin",
-      "title": "Outside Sales Representative",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4480195891/",
+      "company": "Sports Warehouse, Inc.",
+      "title": "Marketing & Web Content Coordinator 1 - Padel Warehouse - Alpharetta, GA",
+      "location": "Alpharetta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4480317002/",
       "date_posted": "2026-10-15",
       "ats": "LinkedIn",
       "feeds": [
@@ -697,17 +723,6 @@
       "date_posted": "2026-10-15",
       "ats": "LinkedIn",
       "salary": "$80,000.00/yr - $95,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Sports Warehouse, Inc.",
-      "title": "Marketing & Web Content Coordinator 1 - Padel Warehouse - Alpharetta, GA",
-      "location": "Alpharetta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4480317002/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
@@ -758,17 +773,6 @@
       ]
     },
     {
-      "company": "Recruita Hire",
-      "title": "Executive Assistant",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480321510/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "Baker Tilly US",
       "title": "Temporary Recruiting Coordinator",
       "location": "Chicago, IL",
@@ -784,6 +788,28 @@
       "title": "Personal Risk, Account Manager (Chicago - hybrid)",
       "location": "Chicago, IL",
       "url": "https://www.linkedin.com/jobs/view/4480325333/",
+      "date_posted": "2026-10-15",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NFP, an Aon company",
+      "title": "Personal Risk, Account Manager (Chicago - hybrid)",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4480330159/",
+      "date_posted": "2026-10-15",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Recruita Hire",
+      "title": "Executive Assistant",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4480321510/",
       "date_posted": "2026-10-15",
       "ats": "LinkedIn",
       "feeds": [
@@ -824,83 +850,6 @@
       ]
     },
     {
-      "company": "Orkin",
-      "title": "Outside Sales Representative",
-      "location": "Chicago Heights, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480197757/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Orkin",
-      "title": "Outside Sales Representative",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480314211/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Orkin",
-      "title": "Outside Sales Representative",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480307347/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Orkin",
-      "title": "Outside Sales Representative",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480304502/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Orkin",
-      "title": "Outside Sales Representative",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480313257/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Orkin",
-      "title": "Outside Sales Representative",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480309333/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Orkin",
-      "title": "Outside Sales Representative",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480196889/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "Hyatt",
       "title": "Associate Manager, Field Marketing - Americas (Remote)",
       "location": "Chicago, IL",
@@ -934,10 +883,10 @@
       ]
     },
     {
-      "company": "NFP, an Aon company",
-      "title": "Personal Risk, Account Manager (Chicago - hybrid)",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480330159/",
+      "company": "Chervon North America, Inc",
+      "title": "Key Account Manager",
+      "location": "Naperville, IL",
+      "url": "https://www.linkedin.com/jobs/view/4480303762/",
       "date_posted": "2026-10-15",
       "ats": "LinkedIn",
       "feeds": [
@@ -945,10 +894,87 @@
       ]
     },
     {
-      "company": "Chervon North America, Inc",
-      "title": "Key Account Manager",
-      "location": "Naperville, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480303762/",
+      "company": "Check Point Software",
+      "title": "Territory Account Manager, Exposure Management (Central)",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4479311465/",
+      "date_posted": "2026-10-15",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Orkin",
+      "title": "Outside Sales Representative",
+      "location": "Chicago Heights, IL",
+      "url": "https://www.linkedin.com/jobs/view/4480197757/",
+      "date_posted": "2026-10-15",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Orkin",
+      "title": "Outside Sales Representative",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4480307347/",
+      "date_posted": "2026-10-15",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Orkin",
+      "title": "Outside Sales Representative",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4480314211/",
+      "date_posted": "2026-10-15",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Orkin",
+      "title": "Outside Sales Representative",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4480313257/",
+      "date_posted": "2026-10-15",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Orkin",
+      "title": "Outside Sales Representative",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4480304502/",
+      "date_posted": "2026-10-15",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Orkin",
+      "title": "Outside Sales Representative",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4480196889/",
+      "date_posted": "2026-10-15",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Orkin",
+      "title": "Outside Sales Representative",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4480309333/",
       "date_posted": "2026-10-15",
       "ats": "LinkedIn",
       "feeds": [
@@ -958,518 +984,34 @@
   ],
   "new_jobs": [
     {
-      "company": "Equity Residential",
-      "title": "Capital Project Coordinator I",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480195875/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "USC Auxiliary Services",
-      "title": "Program Specialist - Fellowship Programs",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479323391/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Open Bank",
-      "title": "Corporate Communications Specialist II",
-      "location": "Los Angeles Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4477335869/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Sony Pictures Entertainment",
-      "title": "Trainee, Talent Relations and Publicity, Sony Pictures Television - Spring 2027",
-      "location": "Culver City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480300419/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Focus Features",
-      "title": "Manager, Publicity - Focus Features",
-      "location": "Universal City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477347516/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Wellness Equity Alliance",
-      "title": "Talent Coordinator",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480309240/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Spectrum",
-      "title": "Sales Representative (Bilingual Spanish)",
-      "location": "Anaheim, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480317695/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stryker",
-      "title": "Surgical Care Sales Representative - Los Angeles, CA - Orthopaedic Instruments",
-      "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479120987/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HUB International",
-      "title": "Assistant Account Manager, Commercial Lines",
-      "location": "Newport Beach, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477344536/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "InterHealth Select",
-      "title": "Business Operations Specialist",
+      "company": "Crossover",
+      "title": "Reading Program Coordinator, Alpha - $120,000/year USD",
       "location": "Pasadena, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479317705/",
+      "url": "https://www.linkedin.com/jobs/view/4478153763/",
       "date_posted": "2026-10-15",
       "ats": "LinkedIn",
+      "salary": "$120,000.00/yr - $120,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "HUB International",
-      "title": "Account Manager II, Commercial Lines",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477340652/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Arrow Electronics",
-      "title": "Field Sales Representative II - IP&E",
+      "company": "Allied Universal",
+      "title": "Social Media Manager",
       "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480306400/",
+      "url": "https://www.linkedin.com/jobs/view/4480326373/",
       "date_posted": "2026-10-15",
       "ats": "LinkedIn",
+      "salary": "$75,000.00/yr - $90,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Stryker",
-      "title": "Surgical Care Sales Representative - Los Angeles, CA - Orthopaedic Instruments",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479135237/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Wells Fargo",
-      "title": "Branch Operations Associate Manager Torrance",
-      "location": "Torrance, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480315582/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Joseph J. Albanese",
-      "title": "Construction Project Coordinator",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477341966/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "University of California, San Francisco",
-      "title": "Clinical Research Coordinator",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478716000/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "University of California, San Francisco",
-      "title": "Neuroscience Program Coordinator",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480312824/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "The Walt Disney Company",
-      "title": "Post-Production Assistant (PH) - Lucasfilm Animation (San Francisco)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479334175/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Genentech",
-      "title": "Event Operations Manager, Speaker Programs",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480303510/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Avantor",
-      "title": "Onsite Service Operations Specialist -  San Francisco Bay Area",
-      "location": "Livermore, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479566451/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "4Twenty Consulting",
-      "title": "Customer Onboarding Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4478186081/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "salary": "$90,000.00/yr - $120,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Avantor",
-      "title": "Onsite Service Operations Specialist -  San Francisco Bay Area",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479570272/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "University of California, Berkeley",
-      "title": "Executive Assistant to the Dean, School of Education (4702C) #89532",
-      "location": "Berkeley, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480306297/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "University of California, San Francisco",
-      "title": "Executive Assistant III",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480327081/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "PayPal",
-      "title": "Executive Assistant Business Partner",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480199931/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "AllSpice.io",
-      "title": "Business Development Representative (BDR)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480304471/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "American Family Care",
-      "title": "Sales Development Representative - Healthcare / Urgent Care",
-      "location": "Concord, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480300582/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Wholehearted Lifestyle",
-      "title": "Education Program Marketing Specialist  | Remote Career Transition",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4477353096/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Haystack",
-      "title": "Social Media Manager",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4479306914/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HP",
-      "title": "Marketing Research & Intelligence",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480306982/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Applied Medical",
-      "title": "Account Manager Associate - San Jose, Ca",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480300920/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cintas",
-      "title": "Key Account Manager - Rental",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480313061/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "The Jonus Group",
-      "title": "Employee Benefits Account Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467970596/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Check Point Software",
-      "title": "Major Account Manager, Northern California",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479317446/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Keysight Technologies",
-      "title": "Account Manager",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473687289/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Check Point Software",
-      "title": "Major Account Manager, SLED",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479313460/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "GSK",
-      "title": "Territory Account Manager - San Francisco, CA",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4435910688/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Corridor",
-      "title": "Customer Success Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477351475/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Haystack",
-      "title": "Customer Success Lead",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4479308752/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Form Energy",
-      "title": "Warehouse Operations Associate",
-      "location": "Berkeley, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468504181/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "salary": "$31.00/hr - $38.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NARS Cosmetics",
-      "title": "Coordinator, Brand Marketing (NARS)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4479315371/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Rutgers University",
-      "title": "Clinical Research Coordinator I",
-      "location": "Newark, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4480305518/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Sony Pictures Entertainment",
-      "title": "Production Coordinator",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4480308155/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Sony Pictures Entertainment",
-      "title": "Creative Coordinator",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4480306263/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NPAworldwide",
-      "title": "Client Services Associate (Fintech)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4477954882/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "The Walt Disney Company",
-      "title": "Publicity Coordinator (PH), Searchlight Pictures",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4479314921/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Haystack",
-      "title": "Customer Success Associate",
+      "company": "Fashion Institute of Technology",
+      "title": "Part-Time Marketing & Social Media Coordinator, Center for Precollege Programs",
       "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4479319483/",
+      "url": "https://www.linkedin.com/jobs/view/4480318894/",
       "date_posted": "2026-10-15",
       "ats": "LinkedIn",
       "feeds": [
@@ -1477,54 +1019,10 @@
       ]
     },
     {
-      "company": "Prestigious Investment Firm",
-      "title": "Executive Assistant",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4477332938/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Altana",
-      "title": "Executive Assistant",
-      "location": "Brooklyn, NY",
-      "url": "https://www.linkedin.com/jobs/view/4477340639/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Maven Recruiting Group",
-      "title": "Executive Assistant",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4479305602/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Ivalua",
-      "title": "Field Marketing Manager",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4480311443/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Wix",
-      "title": "Social Media Manager",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4477145684/",
+      "company": "Fashion Institute of Technology",
+      "title": "Part-Time Scholarship & Outreach Coordinator, Center for Precollege Programs",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4480317902/",
       "date_posted": "2026-10-15",
       "ats": "LinkedIn",
       "feeds": [
@@ -1533,376 +1031,9 @@
     },
     {
       "company": "Check Point Software",
-      "title": "Major Account Manager, New York",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4479307582/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Check Point Software",
-      "title": "Major Account Manager, SLED",
-      "location": "Newark, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4479311464/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Siemens",
-      "title": "Account Manager - Russelectric Field Service, Northeast/ Mid-Atlantic",
-      "location": "Newark, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4479307846/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Dealpath",
-      "title": "Customer Success Manager, Enterprise",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4480303580/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Thomson Reuters",
-      "title": "Customer Success Manager - Global Trade",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4479302672/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Sysco",
-      "title": "Sales Representative II",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4480306929/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "salary": "$68,600.00/yr - $68,600.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Abbott",
-      "title": "Direct Sales Representative \u2013 Implantable Cardiac Monitoring - Manhattan, NY",
-      "location": "Manhattan, NY",
-      "url": "https://www.linkedin.com/jobs/view/4480312835/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Dealpath",
-      "title": "Sales Development Representative",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4480310365/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Spectrum",
-      "title": "Sales Representative (Non Driving)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4480329028/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "salary": "$33,200.00/yr - $66,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Orkin",
-      "title": "Outside Sales Representative",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4480195891/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Michael Page",
-      "title": "Assistant Project Manager - Light Industrial Construction",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4480301378/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "salary": "$80,000.00/yr - $95,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Sports Warehouse, Inc.",
-      "title": "Marketing & Web Content Coordinator 1 - Padel Warehouse - Alpharetta, GA",
-      "location": "Alpharetta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4480317002/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "The TJX Companies, Inc.",
-      "title": "Merchandise Coordinator",
-      "location": "Sandy Springs, GA",
-      "url": "https://www.linkedin.com/jobs/view/4479308331/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Check Point Software",
-      "title": "Territory Account Manager, Exposure Management (Southeast)",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4479323074/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Wattch",
-      "title": "Customer Success Operations Manager",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4480199485/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Actalent",
-      "title": "Assistant Project Manager",
-      "location": "Aurora, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480198513/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "salary": "$33.00/hr - $40.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Recruita Hire",
-      "title": "Executive Assistant",
+      "title": "Territory Account Manager, Exposure Management (Central)",
       "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480321510/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Baker Tilly US",
-      "title": "Temporary Recruiting Coordinator",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4477350165/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NFP, an Aon company",
-      "title": "Personal Risk, Account Manager (Chicago - hybrid)",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480325333/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Gentiva",
-      "title": "Entry Level Healthcare Sales Representative \u2013 Hospice",
-      "location": "Arlington Heights, IL",
-      "url": "https://www.linkedin.com/jobs/view/4479310454/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Modern Stack Systems",
-      "title": "Business Development Representative, Salesforce & AI Services",
-      "location": "Greater Chicago Area",
-      "url": "https://www.linkedin.com/jobs/view/4479308758/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Apria Healthcare",
-      "title": "Executive Sales Representative",
-      "location": "Bolingbrook, IL",
-      "url": "https://www.linkedin.com/jobs/view/4479148239/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Orkin",
-      "title": "Outside Sales Representative",
-      "location": "Chicago Heights, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480197757/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Orkin",
-      "title": "Outside Sales Representative",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480314211/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Orkin",
-      "title": "Outside Sales Representative",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480307347/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Orkin",
-      "title": "Outside Sales Representative",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480304502/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Orkin",
-      "title": "Outside Sales Representative",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480313257/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Orkin",
-      "title": "Outside Sales Representative",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480309333/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Orkin",
-      "title": "Outside Sales Representative",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480196889/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hyatt",
-      "title": "Associate Manager, Field Marketing - Americas (Remote)",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480314250/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "ADP",
-      "title": "Account Manager",
-      "location": "Schaumburg, IL",
-      "url": "https://www.linkedin.com/jobs/view/4477359441/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "C.H. Robinson",
-      "title": "Customer Success Intern",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480315720/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NFP, an Aon company",
-      "title": "Personal Risk, Account Manager (Chicago - hybrid)",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480330159/",
-      "date_posted": "2026-10-15",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Chervon North America, Inc",
-      "title": "Key Account Manager",
-      "location": "Naperville, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480303762/",
+      "url": "https://www.linkedin.com/jobs/view/4479311465/",
       "date_posted": "2026-10-15",
       "ats": "LinkedIn",
       "feeds": [
@@ -1914,7 +1045,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 31,
+    "location": 28,
     "stale": 0
   }
 }
