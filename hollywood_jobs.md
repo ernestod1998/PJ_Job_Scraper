@@ -1,24 +1,32 @@
 # 🎬 Entertainment — Studios / Agencies / Labels (direct ATS + LinkedIn allowlist)
-*Last updated: 2026-10-15 08:25 UTC*
+*Last updated: 2026-10-16 08:16 UTC*
 
-**5 new role(s)** since last run · 46 total in last 24h
+**7 new role(s)** since last run · 48 total in last 24h
 
-### [Production Coordinator](https://spe.wd1.myworkdayjobs.com/SonyPicturesEntertainment/job/New-York-New-York/Production-Coordinator_JR114875) — Sony Pictures Entertainment
-- 📍 **Location:** New York, New York
+### [Publicity Coordinator (PH), Searchlight Pictures](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Publicity-Coordinator--PH---Searchlight-Pictures_10161512-1) — The Walt Disney Company
+- 📍 **Location:** New York, NY, USA
 - 🕒 **Posted:** Posted Yesterday
 
-### [Trainee, Talent Relations and Publicity, Sony Pictures Television - Spring 2027](https://spe.wd1.myworkdayjobs.com/SonyPicturesEntertainment/job/Culver-City-California/Trainee--Talent-Relations-and-Publicity--Sony-Pictures-Television---Spring-2027_JR114879) — Sony Pictures Entertainment
-- 📍 **Location:** Culver City, California
-- 🕒 **Posted:** Posted Yesterday
+### [Post-Production Assistant (PH) - Lucasfilm Animation (San Francisco)](https://www.linkedin.com/jobs/view/4479334175/) — The Walt Disney Company
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-16
 
-### [Manager, Client Success](https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Chicago-IL/Manager--Client-Success_Req39498-4) — iHeartMedia
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** Posted Yesterday
+### [Creative Coordinator](https://www.linkedin.com/jobs/view/4480306263/) — Sony Pictures Entertainment
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-16
 
-### [Intern, Digital Marketing - Spring 2027](https://www.linkedin.com/jobs/view/4479543212/) — Legendary Entertainment
+### [Marketing Coordinator - Goldenvoice](https://www.linkedin.com/jobs/view/4480167872/) — AEG
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-10-15
+
+### [Executive Assistant, Marketing (Disney Entertainment Television)](https://www.linkedin.com/jobs/view/4479199254/) — The Walt Disney Company
 - 📍 **Location:** Burbank, CA
-- 🕒 **Posted:** 2026-10-14
+- 🕒 **Posted:** 2026-10-15
 
-### [Multi-Platform Marketing Specialist, Telemundo Area de la Bahia  48](https://www.linkedin.com/jobs/view/4470494463/) — NBCUniversal
+### [HR Project Coordinator - E-Commerce - San Jose (Third-Party Associate)](https://www.linkedin.com/jobs/view/4469732112/) — TikTok
 - 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-14
+- 🕒 **Posted:** 2026-10-15
+
+### [Executive Assistant, Ad Sales](https://www.linkedin.com/jobs/view/4462464272/) — Fox Corporation
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-15
