@@ -1,8 +1,20 @@
 {
-  "scraped_at": "2026-10-16 18:57 UTC",
-  "total": 1,
-  "new_count": 0,
+  "scraped_at": "2026-10-17 17:55 UTC",
+  "total": 2,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker (Program Coordinator)",
+      "location": "Bronx, New York",
+      "url": "https://www.usajobs.gov/job/889108300",
+      "date_posted": "2026-10-16",
+      "salary": "Starting at $125,431 Per year (GS 12)",
+      "ats": "USAJOBS",
+      "feeds": [
+        "general"
+      ]
+    },
     {
       "company": "Veterans Health Administration",
       "title": "Supervisory Social Worker (Program Coordinator - CERS Peer Center)",
@@ -16,7 +28,20 @@
       ]
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker (Program Coordinator)",
+      "location": "Bronx, New York",
+      "url": "https://www.usajobs.gov/job/889108300",
+      "date_posted": "2026-10-16",
+      "salary": "Starting at $125,431 Per year (GS 12)",
+      "ats": "USAJOBS",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
