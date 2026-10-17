@@ -1,8 +1,6 @@
 # 🏛 NEOGOV — State & Local Government Roles
-*Last updated: 2026-10-16 19:37 UTC*
+*Last updated: 2026-10-17 18:35 UTC*
 
-**1 new role(s)** since last run · 2 total in recent GovernmentJobs postings
+**0 new role(s)** since last run · 2 total in recent GovernmentJobs postings
 
-### [Events Coordinator I](https://www.governmentjobs.com/jobs/5517691-0/events-coordinator-i) — City of Long Beach
-- 📍 **Location:** City of Long Beach, CA
-- 💰 **Salary:** $26.99 - $36.66 Hourly
+No new state/local-gov roles since the last run.
