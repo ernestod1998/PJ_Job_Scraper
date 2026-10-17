@@ -1,32 +1,24 @@
 # 🎬 Entertainment — Studios / Agencies / Labels (direct ATS + LinkedIn allowlist)
-*Last updated: 2026-10-16 08:16 UTC*
+*Last updated: 2026-10-17 07:51 UTC*
 
-**7 new role(s)** since last run · 48 total in last 24h
+**5 new role(s)** since last run · 7 total in last 24h
 
-### [Publicity Coordinator (PH), Searchlight Pictures](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Publicity-Coordinator--PH---Searchlight-Pictures_10161512-1) — The Walt Disney Company
-- 📍 **Location:** New York, NY, USA
-- 🕒 **Posted:** Posted Yesterday
-
-### [Post-Production Assistant (PH) - Lucasfilm Animation (San Francisco)](https://www.linkedin.com/jobs/view/4479334175/) — The Walt Disney Company
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [Creative Coordinator](https://www.linkedin.com/jobs/view/4480306263/) — Sony Pictures Entertainment
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-16
-
-### [Marketing Coordinator - Goldenvoice](https://www.linkedin.com/jobs/view/4480167872/) — AEG
+### [Partnerships Operations Specialist](https://www.linkedin.com/jobs/view/4471818200/) — Snap Inc.
 - 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-10-15
+- 🕒 **Posted:** 2026-10-16
 
-### [Executive Assistant, Marketing (Disney Entertainment Television)](https://www.linkedin.com/jobs/view/4479199254/) — The Walt Disney Company
-- 📍 **Location:** Burbank, CA
-- 🕒 **Posted:** 2026-10-15
+### [Coordinator, Digital Marketing](https://www.linkedin.com/jobs/view/4471699796/) — NBCUniversal
+- 📍 **Location:** Universal City, CA
+- 🕒 **Posted:** 2026-10-16
 
-### [HR Project Coordinator - E-Commerce - San Jose (Third-Party Associate)](https://www.linkedin.com/jobs/view/4469732112/) — TikTok
+### [Executive Assistant, Business Affairs](https://www.linkedin.com/jobs/view/4471824761/) — Paramount Pictures
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-10-16
+
+### [Food Program Specialist, AMS](https://www.linkedin.com/jobs/view/4479620318/) — TikTok
 - 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-15
+- 🕒 **Posted:** 2026-10-16
 
-### [Executive Assistant, Ad Sales](https://www.linkedin.com/jobs/view/4462464272/) — Fox Corporation
+### [Administrative Coordinator, Corporate Legal Affairs](https://www.linkedin.com/jobs/view/4480513512/) — NBCUniversal
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-15
+- 🕒 **Posted:** 2026-10-16
