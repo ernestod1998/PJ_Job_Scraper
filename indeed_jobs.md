@@ -1,34 +1,27 @@
 # 🟦 Indeed — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-10-17 22:37 UTC*
+*Last updated: 2026-10-18 00:28 UTC*
 
-**6 new role(s)** since last run · 79 total in last 24h
+**5 new role(s)** since last run · 67 total in last 24h
 
-### [Operations Associate – Mandarin Fluency Required](https://www.indeed.com/viewjob?jk=f073227f22f7aa26) — Annie Aesthetic
-- 📍 **Location:** Los Angeles, CA, USA
-- 💰 **Salary:** $65k–$75k/yr
+### [Executive Assistant to the CEO](https://www.indeed.com/viewjob?jk=3c8f199809af7b39) — The Giving Spirit
+- 📍 **Location:** Santa Monica, CA, USA
+- 💰 **Salary:** $60k/yr
 - 🕒 **Posted:** 2026-10-17
 
-### [Community Manager](https://www.indeed.com/viewjob?jk=264dc60a4db19e09) — Satellite Management Co
-- 📍 **Location:** Orange, CA, USA
-- 💰 **Salary:** $24–$27/hr
-- 🕒 **Posted:** 2026-10-17
-
-### [Customer Success Manager, Enterprise Tech](https://www.indeed.com/viewjob?jk=30d6894c08580327) — Anthropic
+### [Customer Experience Specialist](https://www.indeed.com/viewjob?jk=104fb29e8f05944e) — Air Canada
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $200k–$265k/yr
+- 💰 **Salary:** $23.84/hr
 - 🕒 **Posted:** 2026-10-17
 
-### [Sales Representative - US East](https://www.indeed.com/viewjob?jk=dd5ea009811cd567) — Ansa Biotechnologies
+### [Sales Representative - US West](https://www.indeed.com/viewjob?jk=5a50f5bd0626291f) — Ansa Biotechnologies
 - 📍 **Location:** Emeryville, CA, USA
 - 💰 **Salary:** $140k–$150k/yr
 - 🕒 **Posted:** 2026-10-17
 
-### [Growth Marketing Lead](https://www.indeed.com/viewjob?jk=5c2541c2805bfdef) — HARRY'S
-- 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $177k–$250k/yr
-- 🕒 **Posted:** 2026-10-16
+### [Womens Health Sales Representative](https://www.indeed.com/viewjob?jk=8f7d53d3496c448d) — Syneos Health Commercial Solutions
+- 📍 **Location:** Manhattan, NY, USA
+- 🕒 **Posted:** 2026-10-17
 
-### [Medical Assistant/Hair Transplant Technician & Clinical Operations Coordinator](https://www.indeed.com/viewjob?jk=7ebf598338d2940c) — Vivaan Health
-- 📍 **Location:** Staten Island, NY, USA
-- 💰 **Salary:** $18/hr
+### [Enterprise Customer Success Manager](https://www.indeed.com/viewjob?jk=481f21f1554ff032) — HirexHire
+- 📍 **Location:** Chicago, IL, USA
 - 🕒 **Posted:** 2026-10-17
