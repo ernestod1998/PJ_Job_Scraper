@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-18 05:45 UTC",
-  "total": 24,
-  "new_count": 24,
+  "scraped_at": "2026-10-18 06:39 UTC",
+  "total": 28,
+  "new_count": 4,
   "jobs": [
     {
       "company": "Hays",
@@ -93,6 +93,17 @@
       ]
     },
     {
+      "company": "Amgen",
+      "title": "National Account Manager- Employer Engagement",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480862732/",
+      "date_posted": "2026-10-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "KDK Home LLC",
       "title": "Bilingual Sales Representative (English & Spanish)",
       "location": "Los Angeles Metropolitan Area",
@@ -188,7 +199,6 @@
       "url": "https://www.linkedin.com/jobs/view/4462779304/",
       "date_posted": "2026-10-17",
       "ats": "LinkedIn",
-      "salary": "$56,280.00/yr - $93,720.00/yr",
       "feeds": [
         "general"
       ]
@@ -210,6 +220,17 @@
       "title": "Digital Marketing & Content Manager",
       "location": "Brooklyn, NY",
       "url": "https://www.linkedin.com/jobs/view/4479908728/",
+      "date_posted": "2026-10-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Highwire",
+      "title": "Account Executive, Public Relations (Cybersecurity)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4480859943/",
       "date_posted": "2026-10-17",
       "ats": "LinkedIn",
       "feeds": [
@@ -267,6 +288,29 @@
       "url": "https://www.linkedin.com/jobs/view/4479901591/",
       "date_posted": "2026-10-17",
       "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "CubeSmart",
+      "title": "Store Operations Associate",
+      "location": "Lombard, IL",
+      "url": "https://www.linkedin.com/jobs/view/4480875354/",
+      "date_posted": "2026-10-17",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mohawk Global",
+      "title": "Account Manager - Inland / Final Mile",
+      "location": "Itasca, IL",
+      "url": "https://www.linkedin.com/jobs/view/4478208474/",
+      "date_posted": "2026-10-17",
+      "ats": "LinkedIn",
+      "salary": "$65,000.00/yr - $85,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -274,10 +318,10 @@
   ],
   "new_jobs": [
     {
-      "company": "Hays",
-      "title": "Assistant Project Manager - Multifamily Construction",
+      "company": "Amgen",
+      "title": "National Account Manager- Employer Engagement",
       "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480858647/",
+      "url": "https://www.linkedin.com/jobs/view/4480862732/",
       "date_posted": "2026-10-17",
       "ats": "LinkedIn",
       "feeds": [
@@ -285,155 +329,10 @@
       ]
     },
     {
-      "company": "Engineering Management Student Association (EMSA)",
-      "title": "Distance Education Operations Specialist",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477793750/",
-      "date_posted": "2026-10-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Beauty Consulting",
-      "title": "Account Manager",
-      "location": "Los Angeles Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4479904482/",
-      "date_posted": "2026-10-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "University of Southern California",
-      "title": "Distance Education Operations Specialist",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480858677/",
-      "date_posted": "2026-10-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "BLEHEALTH",
-      "title": "Marketing Specialist \u2013 Social Media and Community Outreach",
-      "location": "Pomona, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479900904/",
-      "date_posted": "2026-10-17",
-      "ats": "LinkedIn",
-      "salary": "$24.00/hr - $30.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "UCI Health",
-      "title": "Communications Specialist",
-      "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480857960/",
-      "date_posted": "2026-10-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "UC Irvine",
-      "title": "Communications Specialist",
-      "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480860722/",
-      "date_posted": "2026-10-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "C.H. Robinson",
-      "title": "Client Relations Specialist - Fast Track Opportunity to Freight Broker",
-      "location": "Orange, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479698879/",
-      "date_posted": "2026-10-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "KDK Home LLC",
-      "title": "Bilingual Sales Representative (English & Spanish)",
-      "location": "Los Angeles Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4479688511/",
-      "date_posted": "2026-10-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Abaka AI",
-      "title": "Event Marketing Associate",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480875398/",
-      "date_posted": "2026-10-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Sales Operations Analyst",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479900615/",
-      "date_posted": "2026-10-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Zyric Grid",
-      "title": "Business Development Representative",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477791254/",
-      "date_posted": "2026-10-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cogent Communications",
-      "title": "National Account Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480858827/",
-      "date_posted": "2026-10-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Bloomingdale's",
-      "title": "Digital Merchandise Coordinator (TEMP)",
+      "company": "Highwire",
+      "title": "Account Executive, Public Relations (Cybersecurity)",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4467974082/",
-      "date_posted": "2026-10-17",
-      "ats": "LinkedIn",
-      "salary": "$56,280.00/yr - $93,720.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "LaSante Health Center",
-      "title": "Digital Marketing Coordinator",
-      "location": "Brooklyn, NY",
-      "url": "https://www.linkedin.com/jobs/view/4479914488/",
+      "url": "https://www.linkedin.com/jobs/view/4480859943/",
       "date_posted": "2026-10-17",
       "ats": "LinkedIn",
       "feeds": [
@@ -441,10 +340,10 @@
       ]
     },
     {
-      "company": "Sunkeeper Solar",
-      "title": "Human Resource and Operations Specialist",
-      "location": "Brooklyn, NY",
-      "url": "https://www.linkedin.com/jobs/view/4480875361/",
+      "company": "CubeSmart",
+      "title": "Store Operations Associate",
+      "location": "Lombard, IL",
+      "url": "https://www.linkedin.com/jobs/view/4480875354/",
       "date_posted": "2026-10-17",
       "ats": "LinkedIn",
       "feeds": [
@@ -452,91 +351,13 @@
       ]
     },
     {
-      "company": "Macy's",
-      "title": "Beauty Account Coordinator - Estee Lauder",
-      "location": "Brooklyn, NY",
-      "url": "https://www.linkedin.com/jobs/view/4462779304/",
+      "company": "Mohawk Global",
+      "title": "Account Manager - Inland / Final Mile",
+      "location": "Itasca, IL",
+      "url": "https://www.linkedin.com/jobs/view/4478208474/",
       "date_posted": "2026-10-17",
       "ats": "LinkedIn",
-      "salary": "$56,280.00/yr - $93,720.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Addition Management",
-      "title": "Executive Assistant",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4480866630/",
-      "date_posted": "2026-10-17",
-      "ats": "LinkedIn",
-      "salary": "$85,000.00/yr - $95,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "LaSante Health Center",
-      "title": "Digital Marketing & Content Manager",
-      "location": "Brooklyn, NY",
-      "url": "https://www.linkedin.com/jobs/view/4479908728/",
-      "date_posted": "2026-10-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Corevanta Labs",
-      "title": "Business Development Representative",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4479694456/",
-      "date_posted": "2026-10-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Avancer Homes LLC - Genesis Day Training Center LLC",
-      "title": "Production Assistant  Garment Industry OW , SW",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4479915375/",
-      "date_posted": "2026-10-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NextGen Impact Georgia",
-      "title": "Business Development Assistant",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4480837185/",
-      "date_posted": "2026-10-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Honeywell Technologies",
-      "title": "Inside Sales Representative I",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4480859703/",
-      "date_posted": "2026-10-17",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NPAworldwide",
-      "title": "Office & Administrative Coordinator Chicago NW Suburbs",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4479901591/",
-      "date_posted": "2026-10-17",
-      "ats": "LinkedIn",
+      "salary": "$65,000.00/yr - $85,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -546,7 +367,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 4,
+    "location": 5,
     "stale": 0
   }
 }
