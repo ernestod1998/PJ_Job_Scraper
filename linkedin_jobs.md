@@ -1,84 +1,64 @@
 # 🔥 LinkedIn — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-10-17 22:13 UTC*
+*Last updated: 2026-10-18 00:26 UTC*
 
-**19 new role(s)** since last run · 39 total in last 4h
+**15 new role(s)** since last run · 24 total in last 4h
 
-### [Business Development Representative](https://www.linkedin.com/jobs/view/4479909010/) — Quince
+### [Logistics Coordinator](https://www.linkedin.com/jobs/view/4480863127/) — Renaissance Recovery
+- 📍 **Location:** Newport Beach, CA
+- 🕒 **Posted:** 2026-10-17
+
+### [Sales Representative — Home Design, Architectural & Structural Engineering Services](https://www.linkedin.com/jobs/view/4479690904/) — Pacific Sands
+- 📍 **Location:** Los Angeles Metropolitan Area
+- 🕒 **Posted:** 2026-10-17
+
+### [Inside Sales Merchant Services Payment Consultant](https://www.linkedin.com/jobs/view/4480861097/) — Hankey Group
 - 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-10-17
 
-### [Inside Sales Rep](https://www.linkedin.com/jobs/view/4480847680/) — Herc Rentals
-- 📍 **Location:** Lake Forest, CA
+### [Construction Project Coordinator](https://www.linkedin.com/jobs/view/4480845860/) — Precision General Commercial Contractors, Inc. | Certified B Corporation
+- 📍 **Location:** Sausalito, CA
 - 🕒 **Posted:** 2026-10-17
 
-### [Global Account Manager](https://www.linkedin.com/jobs/view/4480841950/) — Cogent Communications
-- 📍 **Location:** Pasadena, CA
-- 🕒 **Posted:** 2026-10-17
-
-### [Remote Sales Representative](https://www.linkedin.com/jobs/view/4457602952/) — The Edson Agency
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $80,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-10-17
-
-### [Business Development Representative](https://www.linkedin.com/jobs/view/4479906110/) — Quince
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-10-17
-
-### [Business Development Representative](https://www.linkedin.com/jobs/view/4479687921/) — Quince
+### [Clinical Research Coordinator](https://www.linkedin.com/jobs/view/4479697623/) — Kinetic Systems
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-17
 
-### [Account Manager (Commercial Landscaping)](https://www.linkedin.com/jobs/view/4479907140/) — LandCare LLC
+### [Bilingual (English/Cantonese) Outreach Coordinator / Instructor in East Bay, CA](https://www.linkedin.com/jobs/view/4480849723/) — digitalLIFT
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-10-17
+
+### [Spec 2, Marketing Communication & Digital Marketing](https://www.linkedin.com/jobs/view/4480859262/) — MillenniumSoft Inc
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** 2026-10-17
+
+### [Retail Merchandise Coordinator](https://www.linkedin.com/jobs/view/4479911154/) — The TJX Companies, Inc.
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-17
 
-### [CRM Coordinator](https://www.linkedin.com/jobs/view/4480845668/) — Moda Operandi, Inc
+### [Outside Sales Representative (NorCal Region-San Jose)](https://www.linkedin.com/jobs/view/4480856486/) — LGH USA
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-17
+
+### [Executive Assistant, Brand & Events](https://www.linkedin.com/jobs/view/4480863105/) — Confiz
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-17
+
+### [Business Development Representative - Winter 2026 Cohort](https://www.linkedin.com/jobs/view/4464267268/) — Topline Pro
 - 📍 **Location:** Brooklyn, NY
 - 🕒 **Posted:** 2026-10-17
 
-### [People Operations Specialist](https://www.linkedin.com/jobs/view/4462013760/) — swipejobs
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $45.00/hr - $45.00/hr
+### [Business Development Representative - 2026](https://www.linkedin.com/jobs/view/4307286990/) — Topline Pro
+- 📍 **Location:** Brooklyn, NY
 - 🕒 **Posted:** 2026-10-17
 
-### [Strategy & Operations Associate](https://www.linkedin.com/jobs/view/4469618504/) — Nitra
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-17
-
-### [Social Media Manager Intern](https://www.linkedin.com/jobs/view/4480843846/) — Inlight
+### [Medical Sales Representative](https://www.linkedin.com/jobs/view/4479900399/) — GWR Medical, Inc.
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-17
 
-### [Executive Assistant to the Cofounders](https://www.linkedin.com/jobs/view/4478805845/) — Nitra
-- 📍 **Location:** New York, NY
+### [Technical Sales Representative](https://www.linkedin.com/jobs/view/4477787821/) — Tremco CPG Inc.
+- 📍 **Location:** Greater Chicago Area
 - 🕒 **Posted:** 2026-10-17
 
-### [Executive Assistant, Identity](https://www.linkedin.com/jobs/view/4480842751/) — Cyera
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-17
-
-### [Business Development Representative](https://www.linkedin.com/jobs/view/4479907070/) — Quince
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-17
-
-### [Business Development Representative - Enterprise](https://www.linkedin.com/jobs/view/4480843758/) — Spade
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $110,000.00/yr - $150,000.00/yr
-- 🕒 **Posted:** 2026-10-17
-
-### [Sales Development Representative Manager](https://www.linkedin.com/jobs/view/4460091328/) — Nitra
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-17
-
-### [Remote Sales Representative](https://www.linkedin.com/jobs/view/4456878839/) — The Edson Agency
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $80,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-10-17
-
-### [Business Development Representative](https://www.linkedin.com/jobs/view/4479902167/) — Quince
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-10-17
-
-### [Global Account Manager](https://www.linkedin.com/jobs/view/4480855360/) — Cogent Communications
+### [Experienced Carrier Sales Representative](https://www.linkedin.com/jobs/view/4478200338/) — Avenue Logistics
 - 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-10-17
