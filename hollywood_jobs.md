@@ -1,12 +1,8 @@
 # 🎬 Entertainment — Studios / Agencies / Labels (direct ATS + LinkedIn allowlist)
-*Last updated: 2026-10-20 08:38 UTC*
+*Last updated: 2026-10-21 08:41 UTC*
 
-**2 new role(s)** since last run · 43 total in last 24h
+**1 new role(s)** since last run · 40 total in last 24h
 
-### [Publicist-CNN Morning Programming](https://www.linkedin.com/jobs/view/4481517889/) — Warner Bros. Discovery
-- 📍 **Location:** New York, NY
+### [Event Marketing Project Intern (TikTok Shop - US Operation) - 2026 Start](https://www.linkedin.com/jobs/view/4452195114/) — TikTok
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-10-20
-
-### [Data Account Manager](https://www.linkedin.com/jobs/view/4480230890/) — INNOCEAN USA
-- 📍 **Location:** Huntington Beach, CA
-- 🕒 **Posted:** 2026-10-19
