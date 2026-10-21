@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-20 20:03 UTC",
-  "total": 2,
+  "scraped_at": "2026-10-21 20:15 UTC",
+  "total": 3,
   "new_count": 1,
   "jobs": [
     {
@@ -26,16 +26,28 @@
       "feeds": [
         "general"
       ]
+    },
+    {
+      "company": "City of Long Beach",
+      "title": "Events Coordinator I",
+      "location": "City of Long Beach, CA",
+      "url": "https://www.governmentjobs.com/jobs/5517691-0/events-coordinator-i",
+      "date_posted": "",
+      "salary": "$26.99 - $36.66 Hourly",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
     }
   ],
   "new_jobs": [
     {
-      "company": "City of El Segundo",
-      "title": "Communications Coordinator",
-      "location": "El Segundo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5521181-0/communications-coordinator",
+      "company": "City of Long Beach",
+      "title": "Events Coordinator I",
+      "location": "City of Long Beach, CA",
+      "url": "https://www.governmentjobs.com/jobs/5517691-0/events-coordinator-i",
       "date_posted": "",
-      "salary": "$59,869.80 - $72,772.08 Annually",
+      "salary": "$26.99 - $36.66 Hourly",
       "ats": "NEOGOV",
       "feeds": [
         "general"
