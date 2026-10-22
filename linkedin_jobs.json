@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-22 06:03 UTC",
-  "total": 75,
-  "new_count": 73,
+  "scraped_at": "2026-10-22 06:41 UTC",
+  "total": 78,
+  "new_count": 3,
   "jobs": [
     {
       "company": "Cedars-Sinai",
@@ -60,6 +60,17 @@
       ]
     },
     {
+      "company": "HUB International",
+      "title": "Account Manager, Commercial Lines",
+      "location": "Newport Beach, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472660501/",
+      "date_posted": "2026-10-21",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "ZipRecruiter",
       "title": "Inside Sales - Account Executive, Acquisition",
       "location": "Los Angeles, CA",
@@ -108,17 +119,6 @@
       "title": "TikTop Shop Account Manager - Beauty & Fragrances Category",
       "location": "Beverly Hills, CA",
       "url": "https://www.linkedin.com/jobs/view/4481191192/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HUB International",
-      "title": "Account Manager, Commercial Lines",
-      "location": "Newport Beach, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472660501/",
       "date_posted": "2026-10-21",
       "ats": "LinkedIn",
       "feeds": [
@@ -230,6 +230,17 @@
       "title": "OCDAO - Client Experiences Lead (Manager) - Innovation_Delivery_Transformation",
       "location": "Costa Mesa, CA",
       "url": "https://www.linkedin.com/jobs/view/4482197319/",
+      "date_posted": "2026-10-21",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AAA Auto Club Enterprises",
+      "title": "Inside Sales Agent",
+      "location": "Costa Mesa, CA",
+      "url": "https://www.linkedin.com/jobs/view/4479493420/",
       "date_posted": "2026-10-21",
       "ats": "LinkedIn",
       "feeds": [
@@ -719,6 +730,28 @@
       "title": "OCDAO - Client Experiences Lead (Manager) - Innovation_Delivery_Transformation",
       "location": "Atlanta, GA",
       "url": "https://www.linkedin.com/jobs/view/4482400259/",
+      "date_posted": "2026-10-21",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "TK Elevator",
+      "title": "Technical Sales Representative",
+      "location": "Marietta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4477932714/",
+      "date_posted": "2026-10-21",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cogent Communications",
+      "title": "Global Account Manager",
+      "location": "Atlanta Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4482451030/",
       "date_posted": "2026-10-21",
       "ats": "LinkedIn",
       "feeds": [
@@ -839,221 +872,10 @@
   ],
   "new_jobs": [
     {
-      "company": "Cedars-Sinai",
-      "title": "Clinical Research Coordinator II - Surgery Chair",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479495175/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "salary": "$60,028.00/yr - $102,044.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Bloom Ads Global Media Group",
-      "title": "Ad and Data Operations Coordinator",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481181812/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Marriott Vacations Worldwide",
-      "title": "Events Coordinator",
-      "location": "Newport Beach, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480752477/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Verra Mobility",
-      "title": "Strategic Client Success Manager",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482410325/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Platinum Commerce",
-      "title": "Executive Assistant - Live Auction (TikTok Shop)",
-      "location": "Beverly Hills, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481180549/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "ZipRecruiter",
-      "title": "Inside Sales - Account Executive, Acquisition",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4434150367/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "AST Defeasance",
-      "title": "Sales Representative (Business Development)",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482412919/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "C.H. Robinson",
-      "title": "Client Relations Specialist - Fast Track Opportunity to Freight Broker",
-      "location": "Orange, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481184124/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Platinum Commerce",
-      "title": "TikTop Shop Account Manager - Toys & Home Category",
-      "location": "Beverly Hills, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481188367/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Platinum Commerce",
-      "title": "TikTop Shop Account Manager - Beauty & Fragrances Category",
-      "location": "Beverly Hills, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481191192/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HUB International",
-      "title": "Account Manager, Commercial Lines",
-      "location": "Newport Beach, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472660501/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HUB International",
-      "title": "Account Manager, Commercial Lines",
-      "location": "Culver City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472668217/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HUB International",
-      "title": "Account Manager, Commercial Lines",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472649905/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Platinum Commerce",
-      "title": "TikTop Shop Account Manager - Electronics Category",
-      "location": "Beverly Hills, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481176721/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "BioSpace",
-      "title": "National Account Manager- Employer Engagement",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482413863/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Casa Pisano",
-      "title": "Associate Manager, Customer Success",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482425250/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Orkin",
-      "title": "Outside Sales Representative",
-      "location": "Fountain Valley, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482404693/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jitsu",
-      "title": "Revenue Operations Analyst",
-      "location": "Santa Monica, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473682557/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "salary": "$80,000.00/yr - $97,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Deloitte",
-      "title": "OCDAO - Client Experiences Lead (Manager) - Innovation_Delivery_Transformation",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482406108/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Deloitte",
-      "title": "OCDAO - Client Experiences Lead (Manager) - Innovation_Delivery_Transformation",
+      "company": "AAA Auto Club Enterprises",
+      "title": "Inside Sales Agent",
       "location": "Costa Mesa, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482197319/",
+      "url": "https://www.linkedin.com/jobs/view/4479493420/",
       "date_posted": "2026-10-21",
       "ats": "LinkedIn",
       "feeds": [
@@ -1061,10 +883,10 @@
       ]
     },
     {
-      "company": "Unitek Learning",
-      "title": "Program Coordinator - LVN or RN license required",
-      "location": "Concord, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475095247/",
+      "company": "TK Elevator",
+      "title": "Technical Sales Representative",
+      "location": "Marietta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4477932714/",
       "date_posted": "2026-10-21",
       "ats": "LinkedIn",
       "feeds": [
@@ -1072,577 +894,10 @@
       ]
     },
     {
-      "company": "University of California, San Francisco",
-      "title": "Clinical Research Coordinator - Division of HIV",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482422664/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Marin Community Clinics",
-      "title": "Credentialing and Licensing Coordinator",
-      "location": "Novato, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476484500/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "California People Search, Inc.",
-      "title": "Executive Assistant",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481192089/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Bobyard",
-      "title": "Finance Operations Associate",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4474123087/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "salary": "$95,000.00/yr - $120,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cywarden Inc.",
-      "title": "IT and Cybersecuirty SDR",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4481191461/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Akraya, Inc.",
-      "title": "Marketing Researcher II: 26-02260",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479827629/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Breakthru Beverage Group",
-      "title": "Sales Representative - Chains - East Bay",
-      "location": "Concord, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482426908/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "PACE Supply Corp.",
-      "title": "Inside Sales",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481192364/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Breakthru Beverage Group",
-      "title": "Sales Representative - Chains - South East Bay",
-      "location": "Hayward, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482443057/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Allied Universal",
-      "title": "Account Manager",
-      "location": "Millbrae, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482425912/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Oracle",
-      "title": "NA Sales Representative, Data Platform - Healthcare",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479493259/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Deloitte",
-      "title": "OCDAO - Client Experiences Lead (Manager) - Innovation_Delivery_Transformation",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482184966/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Deloitte",
-      "title": "OCDAO - Client Experiences Lead (Manager) - Innovation_Delivery_Transformation",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482188488/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NYU Langone Health",
-      "title": "Project Coordinator",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4481194347/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Kobre & Kim",
-      "title": "Operations Coordinator - Procurement, Records Management, and Matter Logistics",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4481173764/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Albert Einstein College of Medicine",
-      "title": "Consortium and Outreach Coordinator - Healthy Start",
-      "location": "Bronx, NY",
-      "url": "https://www.linkedin.com/jobs/view/4479473846/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Gregory + Vine",
-      "title": "Communications Account Coordinator",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4481193208/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Robal Agency",
-      "title": "Creative Production & Operations Assistant",
-      "location": "Manhattan, NY",
-      "url": "https://www.linkedin.com/jobs/view/4481186364/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "SPORTFIVE",
-      "title": "Account Manager, Sports Marketing",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4481191190/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "C-P Flexible Packaging",
-      "title": "Customer Account Representative/Account Manager",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4481189434/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NYU Langone Health",
-      "title": "Clinical Research Coordinator * Must have experience with oncology clinical trials *",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4481198161/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "SUNY Downstate Health Sciences University",
-      "title": "Learning & Development Assistant",
-      "location": "Brooklyn, NY",
-      "url": "https://www.linkedin.com/jobs/view/4482419108/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "GC AI",
-      "title": "Recruiting Coordinator",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4482419349/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "salary": "$80,000.00/yr - $110,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Bonhams",
-      "title": "Client Services Administrator, NY",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4482432395/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TheLacrosseApp",
-      "title": "Marketing Specialist",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4482128271/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "LegalOn",
-      "title": "Business Development Representative (Fides)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4482433330/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Casa Pisano",
-      "title": "Sales Development Representative \u2013 New York",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4482424278/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hyphenate (formerly Maximor)",
-      "title": "Business Development Representative",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4481197400/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Open Talent",
-      "title": "SDR / Top 10 NYC Fintech / $250,000 OTE & equity / NYC",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4473169368/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "salary": "$100,000.00/yr - $250,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Open Talent",
-      "title": "SDR (fast track to AE) / Top 10 Fintech / $160,000+ OTE + equity / NYC",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4475785333/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "salary": "$140,000.00/yr - $160,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Akraya, Inc.",
-      "title": "Marketing Researcher II: 26-02260",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4479840056/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Allied Universal",
-      "title": "Account Manager - Corporate Building",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4482429792/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "salary": "$90,000.00/yr - $95,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Oracle",
-      "title": "NA Sales Representative, Data Platform - Professional Services Industry",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4479482755/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Abbott",
-      "title": "Direct Sales Representative \u2013 Implantable Cardiac Monitoring - New Jersey",
-      "location": "Newark, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4479220084/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Deloitte",
-      "title": "OCDAO - Client Experiences Lead (Manager) - Innovation_Delivery_Transformation",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4482199224/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Pearson",
-      "title": "Advanced Specialist, Implementation Specialist",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4481187252/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Halcyon Haus Creative",
-      "title": "Social Media Account Manager",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4481191649/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Sell Your Way To Cash\u00ae\ufe0f",
-      "title": "Personal Executive Assistant to the CEO",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4479485720/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "C.H. Robinson",
-      "title": "Account Manager \u2013 Full Time Roles Starting Spring/Summer 2027",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4482424563/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Salesforce",
-      "title": "Customer Success Manager - Marketing Cloud",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4482198505/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "WSP in the U.S.",
-      "title": "Account Manager, Rail and Environmental",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4481178659/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Oracle",
-      "title": "NA Sales Representative, Data Platform - Professional Services Industry",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4479479914/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Deloitte",
-      "title": "OCDAO - Client Experiences Lead (Manager) - Innovation_Delivery_Transformation",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4482400259/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NPAworldwide",
-      "title": "Office & Administrative Coordinator Chicago NW Suburbs",
-      "location": "Elk Grove Village, IL",
-      "url": "https://www.linkedin.com/jobs/view/4479901591/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "GC AI",
-      "title": "Recruiting Coordinator",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4482412550/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "salary": "$80,000.00/yr - $110,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Vizient",
-      "title": "Client Access & CRM Operations Associate",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480276585/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Morgan Stanley",
-      "title": "Registered Client Relationship Analyst",
-      "location": "Oak Brook, IL",
-      "url": "https://www.linkedin.com/jobs/view/4481184804/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Vizient",
-      "title": "Executive Assistant - Data & Digital (Operations)",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480282327/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Salesforce",
-      "title": "Customer Success Manager - Marketing Cloud",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4482193630/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "WSP in the U.S.",
-      "title": "Account Manager, Rail and Environmental",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4481187289/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Oracle",
-      "title": "NA Sales Representative, Data Platform - Professional Services Industry",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4479481842/",
-      "date_posted": "2026-10-21",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Deloitte",
-      "title": "OCDAO - Client Experiences Lead (Manager) - Innovation_Delivery_Transformation",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4482194376/",
+      "company": "Cogent Communications",
+      "title": "Global Account Manager",
+      "location": "Atlanta Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4482451030/",
       "date_posted": "2026-10-21",
       "ats": "LinkedIn",
       "feeds": [
@@ -1654,7 +909,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 27,
+    "location": 26,
     "stale": 0
   }
 }
