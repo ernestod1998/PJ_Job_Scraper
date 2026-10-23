@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-22 20:13 UTC",
-  "total": 1,
-  "new_count": 0,
+  "scraped_at": "2026-10-23 19:59 UTC",
+  "total": 3,
+  "new_count": 2,
   "jobs": [
     {
       "company": "City of El Segundo",
@@ -14,9 +14,58 @@
       "feeds": [
         "general"
       ]
+    },
+    {
+      "company": "City of Santa Monica",
+      "title": "Event Coordinator (As-Needed)",
+      "location": "City of Santa Monica, CA",
+      "url": "https://www.governmentjobs.com/jobs/5518356-0/event-coordinator-as-needed",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "City of Long Beach",
+      "title": "Events Coordinator I",
+      "location": "City of Long Beach, CA",
+      "url": "https://www.governmentjobs.com/jobs/5517691-0/events-coordinator-i",
+      "date_posted": "",
+      "salary": "$26.99 - $36.66 Hourly",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "City of Santa Monica",
+      "title": "Event Coordinator (As-Needed)",
+      "location": "City of Santa Monica, CA",
+      "url": "https://www.governmentjobs.com/jobs/5518356-0/event-coordinator-as-needed",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "City of Long Beach",
+      "title": "Events Coordinator I",
+      "location": "City of Long Beach, CA",
+      "url": "https://www.governmentjobs.com/jobs/5517691-0/events-coordinator-i",
+      "date_posted": "",
+      "salary": "$26.99 - $36.66 Hourly",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
