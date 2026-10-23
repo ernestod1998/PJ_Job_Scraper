@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-23 05:58 UTC",
-  "total": 25,
-  "new_count": 24,
+  "scraped_at": "2026-10-23 06:34 UTC",
+  "total": 29,
+  "new_count": 4,
   "jobs": [
     {
       "company": "L.A. Care Health Plan",
@@ -96,6 +96,40 @@
       "title": "Sales Operations Specialist, San Francisco ($100K\u2013$150K + Equity) at a Series A GPU Cloud Building Its US GTM Team",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4478856083/",
+      "date_posted": "2026-10-22",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Employer.com",
+      "title": "Safeguards Enforcement Operations Specialist (Account Access & Integrity) - (Contract A1420)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480605900/",
+      "date_posted": "2026-10-22",
+      "ats": "LinkedIn",
+      "salary": "$120.00/hr - $120.00/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Eden Housing, Inc.",
+      "title": "Community Manager II -Owl's Landing and Arroyo De Valle, Livermore CA",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481661243/",
+      "date_posted": "2026-10-22",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Eden Housing, Inc.",
+      "title": "Community Manager II and Night Manager - Faith Tennyson, Hayward CA",
+      "location": "Hayward, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476876422/",
       "date_posted": "2026-10-22",
       "ats": "LinkedIn",
       "feeds": [
@@ -252,7 +286,6 @@
       "url": "https://www.linkedin.com/jobs/view/4481635760/",
       "date_posted": "2026-10-22",
       "ats": "LinkedIn",
-      "salary": "$85,000.00/yr - $130,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -262,6 +295,17 @@
       "title": "North Star JCB - Inside Sales Representative",
       "location": "Chicago, IL",
       "url": "https://www.linkedin.com/jobs/view/4480613629/",
+      "date_posted": "2026-10-22",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "click5 Interactive LLC",
+      "title": "Account Manager",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4480627180/",
       "date_posted": "2026-10-22",
       "ats": "LinkedIn",
       "feeds": [
@@ -282,76 +326,22 @@
   ],
   "new_jobs": [
     {
-      "company": "L.A. Care Health Plan",
-      "title": "Network Operations Specialist II",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476604624/",
-      "date_posted": "2026-10-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Halcyon Haus Creative",
-      "title": "Social Media Manager",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481648292/",
-      "date_posted": "2026-10-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "DoorDash",
-      "title": "Account Manager, CPG",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480601407/",
-      "date_posted": "2026-10-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Avantor",
-      "title": "Sales Representative (Los Angeles)",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479574248/",
-      "date_posted": "2026-10-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "SMCP \u2013 Sandro, Maje, Claudie Pierlot, Fursac",
-      "title": "Retail Operations Associate Sandro/Maje, Bloomingdale's, Beverly Center",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479083865/",
-      "date_posted": "2026-10-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Toyota North America",
-      "title": "Warehouse Operations Specialist",
-      "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481648052/",
-      "date_posted": "2026-10-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "San Francisco State University",
-      "title": "Administrative Coordinator - (Administrative Support Coordinator II, Range II) - AVP, Enrollment Management",
+      "company": "Employer.com",
+      "title": "Safeguards Enforcement Operations Specialist (Account Access & Integrity) - (Contract A1420)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481634835/",
+      "url": "https://www.linkedin.com/jobs/view/4480605900/",
+      "date_posted": "2026-10-22",
+      "ats": "LinkedIn",
+      "salary": "$120.00/hr - $120.00/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Eden Housing, Inc.",
+      "title": "Community Manager II -Owl's Landing and Arroyo De Valle, Livermore CA",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481661243/",
       "date_posted": "2026-10-22",
       "ats": "LinkedIn",
       "feeds": [
@@ -359,187 +349,21 @@
       ]
     },
     {
-      "company": "Internet Brands",
+      "company": "Eden Housing, Inc.",
+      "title": "Community Manager II and Night Manager - Faith Tennyson, Hayward CA",
+      "location": "Hayward, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476876422/",
+      "date_posted": "2026-10-22",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "click5 Interactive LLC",
       "title": "Account Manager",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480612527/",
-      "date_posted": "2026-10-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Harper",
-      "title": "Sales Operations Specialist, San Francisco ($100K\u2013$150K + Equity) at a Series A GPU Cloud Building Its US GTM Team",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478856083/",
-      "date_posted": "2026-10-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NYU Langone Health",
-      "title": "Project Coordinator-HB North Training",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4481652155/",
-      "date_posted": "2026-10-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cumulus Coffee",
-      "title": "Sales & Marketing Coordinator",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4481638725/",
-      "date_posted": "2026-10-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Aegis Ventures",
-      "title": "Executive Assistant (Part-Time)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4481783631/",
-      "date_posted": "2026-10-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "WITHIN",
-      "title": "Community Manager (Freelancer)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4481644477/",
-      "date_posted": "2026-10-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Core Elite",
-      "title": "ENTRY LEVEL MARKETING ASSISTANT",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4479109866/",
-      "date_posted": "2026-10-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Core Elite",
-      "title": "Entry Level Account Manager",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4479130062/",
-      "date_posted": "2026-10-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Pasona N A, Inc.",
-      "title": "Junior Business Development Associate",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4475031748/",
-      "date_posted": "2026-10-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CJ",
-      "title": "Campaign Specialist, Influencer Management",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4481635932/",
-      "date_posted": "2026-10-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Spiralyze",
-      "title": "Executive Assistant to the Founder (Entry Level)",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4481653133/",
-      "date_posted": "2026-10-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Accenture",
-      "title": "Sales Development Representative Associate",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4481643617/",
-      "date_posted": "2026-10-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "IQVIA",
-      "title": "Pharmaceutical Sales Representative - Athens, GA",
-      "location": "Lawrenceville, GA",
-      "url": "https://www.linkedin.com/jobs/view/4481657189/",
-      "date_posted": "2026-10-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Molex",
-      "title": "Customer Success Manager",
-      "location": "Lisle, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480612732/",
-      "date_posted": "2026-10-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "The Dorne Region",
-      "title": "Business Development Associate - No Degree Required (Oakbrook Terrace) | $85,000-$130,000",
-      "location": "Oakbrook Terrace, IL",
-      "url": "https://www.linkedin.com/jobs/view/4481635760/",
-      "date_posted": "2026-10-22",
-      "ats": "LinkedIn",
-      "salary": "$85,000.00/yr - $130,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "JCB North America",
-      "title": "North Star JCB - Inside Sales Representative",
       "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480613629/",
-      "date_posted": "2026-10-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stripe",
-      "title": "Manager, Customer Success Manager",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4468804824/",
+      "url": "https://www.linkedin.com/jobs/view/4480627180/",
       "date_posted": "2026-10-22",
       "ats": "LinkedIn",
       "feeds": [
@@ -551,7 +375,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 5,
+    "location": 4,
     "stale": 0
   }
 }
