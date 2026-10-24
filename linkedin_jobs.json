@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-24 05:42 UTC",
+  "scraped_at": "2026-10-24 06:32 UTC",
   "total": 56,
-  "new_count": 54,
+  "new_count": 5,
   "jobs": [
     {
       "company": "Barton Integration",
@@ -26,12 +26,24 @@
       ]
     },
     {
+      "company": "HUB International",
+      "title": "Account Manager, Employee Benefits",
+      "location": "Newport Beach, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472665262/",
+      "date_posted": "2026-10-23",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "St. John's Community Health",
       "title": "Government Affairs & Communications Coordinator",
       "location": "Los Angeles, CA",
       "url": "https://www.linkedin.com/jobs/view/4479602091/",
       "date_posted": "2026-10-23",
       "ats": "LinkedIn",
+      "salary": "$85,000.00/yr - $85,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -41,17 +53,6 @@
       "title": "Executive Assistant",
       "location": "Aliso Viejo, CA",
       "url": "https://www.linkedin.com/jobs/view/4482347053/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HUB International",
-      "title": "Account Manager, Employee Benefits",
-      "location": "Newport Beach, CA",
-      "url": "https://www.linkedin.com/jobs/view/4472665262/",
       "date_posted": "2026-10-23",
       "ats": "LinkedIn",
       "feeds": [
@@ -82,10 +83,10 @@
       ]
     },
     {
-      "company": "Hibu",
-      "title": "Outside Sales Representatives",
-      "location": "Huntington Beach, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483196329/",
+      "company": "HUB International",
+      "title": "Account Manager, Employee Benefits",
+      "location": "Newport Beach, CA",
+      "url": "https://www.linkedin.com/jobs/view/4481018210/",
       "date_posted": "2026-10-23",
       "ats": "LinkedIn",
       "feeds": [
@@ -97,17 +98,6 @@
       "title": "Account Manager - North Orange County - Peripheral Vascular",
       "location": "Irvine, CA",
       "url": "https://www.linkedin.com/jobs/view/4478416081/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HUB International",
-      "title": "Account Manager, Employee Benefits",
-      "location": "Newport Beach, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481018210/",
       "date_posted": "2026-10-23",
       "ats": "LinkedIn",
       "feeds": [
@@ -148,28 +138,6 @@
       ]
     },
     {
-      "company": "Stryker",
-      "title": "Surgical Care Sales Representative - Los Angeles, CA - Orthopaedic Instruments",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480202124/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stryker",
-      "title": "Trauma Sales Representative - Orange County, CA",
-      "location": "Tustin, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482386078/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "Mechanics Bank",
       "title": "Treasury Operations Specialist",
       "location": "Irvine, CA",
@@ -187,18 +155,6 @@
       "url": "https://www.linkedin.com/jobs/view/4483313171/",
       "date_posted": "2026-10-23",
       "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "OpenAI",
-      "title": "Procurement Operations Specialist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482387712/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "salary": "$162,000.00/yr - $180,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -227,12 +183,13 @@
       ]
     },
     {
-      "company": "Oshman Family JCC",
-      "title": "Membership Sales Representative",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483194237/",
+      "company": "OpenAI",
+      "title": "Procurement Operations Specialist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482387712/",
       "date_posted": "2026-10-23",
       "ats": "LinkedIn",
+      "salary": "$162,000.00/yr - $180,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -271,10 +228,44 @@
       ]
     },
     {
+      "company": "Archer",
+      "title": "Customer Success Manager - SF",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482603409/",
+      "date_posted": "2026-10-23",
+      "ats": "LinkedIn",
+      "salary": "$80,000.00/yr - $150,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Stryker",
       "title": "Associate Sales Representative - San Francisco Bay Area, CA - Enabling Technologies",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4482374267/",
+      "date_posted": "2026-10-23",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Harper",
+      "title": "Sales Operations Specialist, San Francisco ($100K\u2013$150K + Equity) at a Series A GPU Cloud Building Its US GTM Team",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4478856083/",
+      "date_posted": "2026-10-23",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Oshman Family JCC",
+      "title": "Membership Sales Representative",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4483194237/",
       "date_posted": "2026-10-23",
       "ats": "LinkedIn",
       "feeds": [
@@ -293,10 +284,10 @@
       ]
     },
     {
-      "company": "Hudson Regional Health",
-      "title": "Program Coordinator, LPN",
-      "location": "Secaucus, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4482370780/",
+      "company": "Rutgers University",
+      "title": "Clinical Research Coordinator III",
+      "location": "Newark, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4483301681/",
       "date_posted": "2026-10-23",
       "ats": "LinkedIn",
       "feeds": [
@@ -315,10 +306,22 @@
       ]
     },
     {
-      "company": "Sony Pictures Entertainment",
-      "title": "Creative Coordinator - Kids TV, Animation - NY",
+      "company": "Hudson Regional Health",
+      "title": "Program Coordinator, LPN",
+      "location": "Secaucus, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4482370780/",
+      "date_posted": "2026-10-23",
+      "ats": "LinkedIn",
+      "salary": "$75,000.00/yr - $85,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NPAworldwide",
+      "title": "Client Services Associate (Fintech)",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4483184766/",
+      "url": "https://www.linkedin.com/jobs/view/4482390455/",
       "date_posted": "2026-10-23",
       "ats": "LinkedIn",
       "feeds": [
@@ -326,21 +329,10 @@
       ]
     },
     {
-      "company": "Sony Pictures Entertainment",
-      "title": "Production Coordinator - Kids TV, Animation - NY",
+      "company": "TD Securities",
+      "title": "Operations Specialist, TDS Global Asset Servicing",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4483191431/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Rutgers University",
-      "title": "Clinical Research Coordinator III",
-      "location": "Newark, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4483301681/",
+      "url": "https://www.linkedin.com/jobs/view/4483187986/",
       "date_posted": "2026-10-23",
       "ats": "LinkedIn",
       "feeds": [
@@ -355,28 +347,6 @@
       "date_posted": "2026-10-23",
       "ats": "LinkedIn",
       "salary": "$40.00/hr - $50.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "AID FOR AIDS International",
-      "title": "Community Outreach Worker | AID FOR AIDS / AID FOR LIFE",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4315889405/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Nausicaa Nyc",
-      "title": "Marketing Assistant",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4483199226/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
@@ -393,583 +363,12 @@
       ]
     },
     {
-      "company": "EvenUp",
-      "title": "Sales Development Representative I Northeast",
-      "location": "Newark, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4482320941/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "EvenUp",
-      "title": "Sales Development Representative I Northeast",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4482332643/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "salary": "$60,000.00/yr - $60,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NYU Langone Health",
-      "title": "Logistics Coordinator (Inventory Control Quality Assurance (ICQA) Associate) (Mon-Fri 8am-4pm)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4482382348/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NPAworldwide",
-      "title": "Client Services Associate (Fintech)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4482390455/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Too Good To Go",
-      "title": "Enterprise Customer Success Manager",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4481976966/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TD Securities",
-      "title": "Operations Specialist, TDS Global Asset Servicing",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4483187986/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Children's Healthcare of Atlanta",
-      "title": "Practice Operations Coordinator- Endocrinology",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4482776388/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "The TJX Companies, Inc.",
-      "title": "Retail Merchandise Coordinator",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4482325651/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "EvenUp",
-      "title": "Sales Development Representative I Southeast",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4482336605/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "salary": "$60,000.00/yr - $60,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Trenton Systems",
-      "title": "Strategic Account Manager",
-      "location": "Duluth, GA",
-      "url": "https://www.linkedin.com/jobs/view/4483190616/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Bekaert",
-      "title": "Key Account Manager",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4481036047/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Glytec",
-      "title": "Customer Success Manager",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4483199308/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stryker",
-      "title": "Associate Project Manager - Chicago",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4478164845/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Actalent",
-      "title": "Assistant Project Manager",
-      "location": "Aurora, IL",
-      "url": "https://www.linkedin.com/jobs/view/4483184755/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "salary": "$33.00/hr - $40.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "BioSpace",
-      "title": "TA Systems & Operations Specialist",
-      "location": "North Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4483312208/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Lyric Opera of Chicago",
-      "title": "Public Relations and Marketing Coordinator",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4483180844/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "EvenUp",
-      "title": "Sales Development Representative I Midwest",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4482342103/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "salary": "$60,000.00/yr - $60,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stryker",
-      "title": "Associate Sales Representative - Windy River - Injury/Infection Prevention",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4482366655/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Blue Wheel",
-      "title": "Amazon Account Manager (Remote)",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4483199435/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Too Good To Go",
-      "title": "Enterprise Customer Success Manager",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4481985824/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Alteryx",
-      "title": "Manager of Inside Sales Team ( remote based USA)",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4454790687/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Barton Integration",
-      "title": "Sales Coordinator",
-      "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483199307/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Ticketure",
-      "title": "Event & Field Marketing Specialist",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483193343/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "St. John's Community Health",
-      "title": "Government Affairs & Communications Coordinator",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479602091/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "RxSight, Inc.",
-      "title": "Executive Assistant",
-      "location": "Aliso Viejo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482347053/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "EvenUp",
-      "title": "Sales Development Representative I West",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482331683/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "salary": "$60,000.00/yr - $60,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Journal Technologies",
-      "title": "Intermediate Business Development Representative",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483308487/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hibu",
-      "title": "Outside Sales Representatives",
-      "location": "Huntington Beach, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483196329/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stryker",
-      "title": "Account Manager - North Orange County - Peripheral Vascular",
-      "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478416081/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HUB International",
-      "title": "Account Manager, Employee Benefits",
-      "location": "Newport Beach, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481018210/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stryker",
-      "title": "Associate Sales Representative - Southern California - Enabling Technologies",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482368555/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HUB International",
-      "title": "Account Manager, Employee Benefits",
-      "location": "Culver City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481018208/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "HUB International",
-      "title": "Account Manager, Employee Benefits",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481022106/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stryker",
-      "title": "Surgical Care Sales Representative - Los Angeles, CA - Orthopaedic Instruments",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480202124/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stryker",
-      "title": "Trauma Sales Representative - Orange County, CA",
-      "location": "Tustin, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482386078/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Mechanics Bank",
-      "title": "Treasury Operations Specialist",
-      "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483302092/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "University of California, San Francisco",
-      "title": "Medical Student Program Coordinator",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483313171/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "OpenAI",
-      "title": "Procurement Operations Specialist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482387712/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "salary": "$162,000.00/yr - $180,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "depthfirst",
-      "title": "Field Marketing",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481019141/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "EvenUp",
-      "title": "Sales Development Representative I West",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482336610/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "salary": "$60,000.00/yr - $60,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Oshman Family JCC",
-      "title": "Membership Sales Representative",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483194237/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "BrightView Landscapes",
-      "title": "Account Manager",
-      "location": "Hayward, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482387763/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stripe",
-      "title": "Technical Account Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483198188/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Neo.Tax",
-      "title": "Customer Success Manager",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483199129/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stryker",
-      "title": "Associate Sales Representative - San Francisco Bay Area, CA - Enabling Technologies",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482374267/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stryker",
-      "title": "Field Operations Associate",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482363980/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hudson Regional Health",
-      "title": "Program Coordinator, LPN",
-      "location": "Secaucus, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4482370780/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NYU Langone Health",
-      "title": "Research Coordinator, Obstetrics and Gynecology (OBGYN)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4482383360/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "Sony Pictures Entertainment",
       "title": "Creative Coordinator - Kids TV, Animation - NY",
       "location": "New York, NY",
       "url": "https://www.linkedin.com/jobs/view/4483184766/",
       "date_posted": "2026-10-23",
       "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Sony Pictures Entertainment",
-      "title": "Production Coordinator - Kids TV, Animation - NY",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4483191431/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Rutgers University",
-      "title": "Clinical Research Coordinator III",
-      "location": "Newark, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4483301681/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Manhattan Youth",
-      "title": "Content Specialist",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4481033030/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "salary": "$40.00/hr - $50.00/hr",
       "feeds": [
         "general"
       ]
@@ -1003,6 +402,7 @@
       "url": "https://www.linkedin.com/jobs/view/4482320941/",
       "date_posted": "2026-10-23",
       "ats": "LinkedIn",
+      "salary": "$60,000.00/yr - $60,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -1031,10 +431,10 @@
       ]
     },
     {
-      "company": "NPAworldwide",
-      "title": "Client Services Associate (Fintech)",
+      "company": "Sony Pictures Entertainment",
+      "title": "Production Coordinator - Kids TV, Animation - NY",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4482390455/",
+      "url": "https://www.linkedin.com/jobs/view/4483191431/",
       "date_posted": "2026-10-23",
       "ats": "LinkedIn",
       "feeds": [
@@ -1053,10 +453,32 @@
       ]
     },
     {
-      "company": "TD Securities",
-      "title": "Operations Specialist, TDS Global Asset Servicing",
+      "company": "Stryker",
+      "title": "Sales Representative - NYC - Interventional Spine (IVS)",
+      "location": "Hoboken, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4482369453/",
+      "date_posted": "2026-10-23",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Stryker",
+      "title": "Sales Representative - NYC - Interventional Spine (IVS)",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4483187986/",
+      "url": "https://www.linkedin.com/jobs/view/4482380148/",
+      "date_posted": "2026-10-23",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Stryker",
+      "title": "Trauma Sales Representative - Manhattan / Westchester, NY",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4479990593/",
       "date_posted": "2026-10-23",
       "ats": "LinkedIn",
       "feeds": [
@@ -1068,17 +490,6 @@
       "title": "Practice Operations Coordinator- Endocrinology",
       "location": "Atlanta, GA",
       "url": "https://www.linkedin.com/jobs/view/4482776388/",
-      "date_posted": "2026-10-23",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "The TJX Companies, Inc.",
-      "title": "Retail Merchandise Coordinator",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4482325651/",
       "date_posted": "2026-10-23",
       "ats": "LinkedIn",
       "feeds": [
@@ -1219,12 +630,59 @@
       "feeds": [
         "general"
       ]
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Archer",
+      "title": "Customer Success Manager - SF",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4482603409/",
+      "date_posted": "2026-10-23",
+      "ats": "LinkedIn",
+      "salary": "$80,000.00/yr - $150,000.00/yr",
+      "feeds": [
+        "general"
+      ]
     },
     {
-      "company": "Alteryx",
-      "title": "Manager of Inside Sales Team ( remote based USA)",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4454790687/",
+      "company": "Harper",
+      "title": "Sales Operations Specialist, San Francisco ($100K\u2013$150K + Equity) at a Series A GPU Cloud Building Its US GTM Team",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4478856083/",
+      "date_posted": "2026-10-23",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Stryker",
+      "title": "Sales Representative - NYC - Interventional Spine (IVS)",
+      "location": "Hoboken, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4482369453/",
+      "date_posted": "2026-10-23",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Stryker",
+      "title": "Sales Representative - NYC - Interventional Spine (IVS)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4482380148/",
+      "date_posted": "2026-10-23",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Stryker",
+      "title": "Trauma Sales Representative - Manhattan / Westchester, NY",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4479990593/",
       "date_posted": "2026-10-23",
       "ats": "LinkedIn",
       "feeds": [
@@ -1236,7 +694,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 26,
+    "location": 24,
     "stale": 0
   }
 }
