@@ -1,48 +1,28 @@
 # 🎬 Entertainment — Studios / Agencies / Labels (direct ATS + LinkedIn allowlist)
-*Last updated: 2026-10-23 08:40 UTC*
+*Last updated: 2026-10-24 08:12 UTC*
 
-**11 new role(s)** since last run · 44 total in last 24h
+**6 new role(s)** since last run · 40 total in last 24h
 
-### [Production Coordinator - Kids TV, Animation - NY](https://spe.wd1.myworkdayjobs.com/SonyPicturesEntertainment/job/New-York-New-York/Production-Coordinator_JR114875) — Sony Pictures Entertainment
-- 📍 **Location:** New York, New York
-- 🕒 **Posted:** Posted Yesterday
-
-### [Business Operations Analyst, AI & Innovation - Brand Consulting](https://caa.wd1.myworkdayjobs.com/Careers/job/New-York-NY/Business-Operations-Analyst--Data-Science---Innovation---Brand-Consulting_JR9301) — Creative Artists Agency
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** Posted Yesterday
-
-### [Retail Production Coordinator - Ceremony Of Roses](https://www.linkedin.com/jobs/view/4481610515/) — Sony Music Entertainment
+### [Executive Assistant](https://www.linkedin.com/jobs/view/4483173881/) — Skydance
 - 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-10-22
+- 🕒 **Posted:** 2026-10-24
 
-### [TikTok Shop - Account Manager, Collectibles](https://www.linkedin.com/jobs/view/4481387952/) — TikTok
+### [Creative Coordinator - Kids TV, Animation - NY](https://www.linkedin.com/jobs/view/4483184766/) — Sony Pictures Entertainment
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-24
+
+### [Account Manager, Programmatic Sales](https://www.linkedin.com/jobs/view/4483192173/) — Skydance
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-24
+
+### [Account Manager, SMC](https://www.linkedin.com/jobs/view/4474364507/) — Snap Inc.
 - 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-10-22
+- 🕒 **Posted:** 2026-10-23
 
-### [Integrated Marketing & Promotion Manager Intern (TikTok Shop - Operations) - 2027 Summer (MBA)](https://www.linkedin.com/jobs/view/4447905378/) — TikTok
+### [Account Manager](https://www.linkedin.com/jobs/view/4474361527/) — Snap Inc.
 - 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-10-22
+- 🕒 **Posted:** 2026-10-23
 
-### [Business Operations Project Intern (TikTok-Operations-Operations Strategy) - 2026 Start](https://www.linkedin.com/jobs/view/4446023217/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Executive Assistant, Finance Procurement Operations](https://www.linkedin.com/jobs/view/4453473377/) — Netflix
-- 📍 **Location:** Los Gatos, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Account Manager, SMC](https://www.linkedin.com/jobs/view/4474360570/) — Snap Inc.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-22
-
-### [Administrative Coordinator, Corporate Legal Affairs](https://www.linkedin.com/jobs/view/4482485976/) — NBCUniversal
+### [Manager, Brand Marketing & Global Events](https://www.linkedin.com/jobs/view/4474521010/) — Paramount+
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-22
-
-### [Account Manager, One Platform Ad Sales](https://www.linkedin.com/jobs/view/4482744981/) — NBCUniversal
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-22
-
-### [Account Manager](https://www.linkedin.com/jobs/view/4474357683/) — Snap Inc.
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-22
+- 🕒 **Posted:** 2026-10-23
