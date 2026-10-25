@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-25 05:56 UTC",
+  "scraped_at": "2026-10-25 06:56 UTC",
   "total": 14,
-  "new_count": 14,
+  "new_count": 0,
   "jobs": [
     {
       "company": "heytea",
@@ -10,7 +10,6 @@
       "url": "https://www.linkedin.com/jobs/view/4483369233/",
       "date_posted": "2026-10-24",
       "ats": "LinkedIn",
-      "salary": "$25.00/hr - $32.00/hr",
       "feeds": [
         "general"
       ]
@@ -73,9 +72,9 @@
     },
     {
       "company": "Boost Company",
-      "title": "Marketing Assistant",
+      "title": "Communications Assistant",
       "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4483359899/",
+      "url": "https://www.linkedin.com/jobs/view/4483377141/",
       "date_posted": "2026-10-24",
       "ats": "LinkedIn",
       "feeds": [
@@ -84,9 +83,9 @@
     },
     {
       "company": "Boost Company",
-      "title": "Communications Assistant",
+      "title": "Marketing Assistant",
       "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4483377141/",
+      "url": "https://www.linkedin.com/jobs/view/4483359899/",
       "date_posted": "2026-10-24",
       "ats": "LinkedIn",
       "feeds": [
@@ -160,164 +159,7 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "heytea",
-      "title": "Business Development Coordinator",
-      "location": "Los Angeles County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483369233/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "salary": "$25.00/hr - $32.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "RoShay Services",
-      "title": "Outside Sales Representative",
-      "location": "Beverly Hills, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483371139/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Applied Medical",
-      "title": "Account Manager Associate - San Jose, Ca",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483350994/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Harper",
-      "title": "Sales Operations Specialist, San Francisco ($100K\u2013$150K + Equity) at a Series A GPU Cloud Building Its US GTM Team",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4478856083/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CB2",
-      "title": "Operations Associate",
-      "location": "Berkeley, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483371048/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "salary": "$19.61/hr - $22.50/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "S&P Global",
-      "title": "Marketing Specialist- Enterprise Solution",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4482672402/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Boost Company",
-      "title": "Marketing Assistant",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4483359899/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Boost Company",
-      "title": "Communications Assistant",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4483377141/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Happy African tropical Foods",
-      "title": "Systems and Operations Assistant",
-      "location": "Alpharetta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4482887323/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "RoShay Services",
-      "title": "Customer Success Representative (Entry-Level)",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4483367187/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "LS Solutions",
-      "title": "Outside Sales Representative",
-      "location": "Kennesaw, GA",
-      "url": "https://www.linkedin.com/jobs/view/4483372170/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "RG&T Solutions",
-      "title": "Recruiting Coordinator",
-      "location": "Joliet, IL",
-      "url": "https://www.linkedin.com/jobs/view/4482676502/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "RoShay Services",
-      "title": "Field Sales Representative",
-      "location": "Skokie, IL",
-      "url": "https://www.linkedin.com/jobs/view/4483377063/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amcor",
-      "title": "Account Manager II - Healthcare",
-      "location": "Deerfield, IL",
-      "url": "https://www.linkedin.com/jobs/view/4476326919/",
-      "date_posted": "2026-10-24",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
