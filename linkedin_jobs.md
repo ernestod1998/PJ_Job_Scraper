@@ -1,124 +1,80 @@
 # 🔥 LinkedIn — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-10-26 06:01 UTC*
+*Last updated: 2026-10-26 07:04 UTC*
 
-**29 new role(s)** since last run · 29 total in last 4h
+**17 new role(s)** since last run · 44 total in last 4h
 
-### [Recruiting Coordinator (#581121)](https://www.linkedin.com/jobs/view/4477736313/) — Horizontal Talent
+### [Digital Marketing Coordinator](https://www.linkedin.com/jobs/view/4482922182/) — LA Furniture
 - 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-10-25
+- 🕒 **Posted:** 2026-10-26
 
-### [Business Development Representative](https://www.linkedin.com/jobs/view/4483530321/) — Total Warehouse
-- 📍 **Location:** Anaheim, CA
-- 🕒 **Posted:** 2026-10-25
+### [Reading Program Coordinator, Alpha - $120,000/year USD](https://www.linkedin.com/jobs/view/4481904135/) — Crossover
+- 📍 **Location:** Pasadena, CA
+- 💰 **Salary:** $120,000.00/yr - $120,000.00/yr
+- 🕒 **Posted:** 2026-10-26
 
-### [Enterprise Account Manager](https://www.linkedin.com/jobs/view/4483531300/) — Hewlett Packard Enterprise
+### [Reading Program Coordinator, Alpha - $120,000/year USD](https://www.linkedin.com/jobs/view/4481901195/) — Crossover
+- 📍 **Location:** Inglewood, CA
+- 💰 **Salary:** $120,000.00/yr - $120,000.00/yr
+- 🕒 **Posted:** 2026-10-26
+
+### [Campus Operations Coordinator, Alpha - $90,000/year USD](https://www.linkedin.com/jobs/view/4481687928/) — Crossover
+- 📍 **Location:** Torrance, CA
+- 💰 **Salary:** $90,000.00/yr - $90,000.00/yr
+- 🕒 **Posted:** 2026-10-26
+
+### [School Operations Coordinator, Alpha - $90,000/year USD](https://www.linkedin.com/jobs/view/4481902183/) — Crossover
+- 📍 **Location:** Torrance, CA
+- 💰 **Salary:** $90,000.00/yr - $90,000.00/yr
+- 🕒 **Posted:** 2026-10-26
+
+### [Global Account Manager](https://www.linkedin.com/jobs/view/4483535320/) — Cogent Communications
+- 📍 **Location:** Pasadena, CA
+- 🕒 **Posted:** 2026-10-26
+
+### [Sales Representative (Los Angeles)](https://www.linkedin.com/jobs/view/4479574248/) — Avantor
 - 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-10-25
+- 🕒 **Posted:** 2026-10-26
 
-### [Store Operations Associate](https://www.linkedin.com/jobs/view/4483508983/) — CubeSmart
-- 📍 **Location:** Mission Viejo, CA
-- 🕒 **Posted:** 2026-10-25
-
-### [Remote Payroll Operations Specialist](https://www.linkedin.com/jobs/view/4482914879/) — SonicJobs
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-10-25
-
-### [Labs Strategy and Operations Program Specialist (Milpitas, CA)](https://www.linkedin.com/jobs/view/4483517757/) — Hewlett Packard Enterprise
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-10-25
-
-### [Privacy Operations Specialist](https://www.linkedin.com/jobs/view/4483521282/) — TikTok USDS Joint Venture
+### [Associate Sales Operations Analyst 4](https://www.linkedin.com/jobs/view/4482928493/) — Cypress HCM
 - 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-25
+- 🕒 **Posted:** 2026-10-26
 
-### [Customer Experience Specialist](https://www.linkedin.com/jobs/view/4481155865/) — Nortia Staffing - Human Resources, Accounting and Administrative Staffing
-- 📍 **Location:** Emeryville, CA
-- 🕒 **Posted:** 2026-10-25
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4483536230/) — Digivance Solutions
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-26
 
-### [Remote Payroll Operations Specialist](https://www.linkedin.com/jobs/view/4482920575/) — SonicJobs
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-25
-
-### [Business Development Representative](https://www.linkedin.com/jobs/view/4483516643/) — BioRender
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-25
-
-### [Business Development Representative, Inbound](https://www.linkedin.com/jobs/view/4483527415/) — BioRender
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-25
-
-### [Account Manager Associate - San Jose, Ca](https://www.linkedin.com/jobs/view/4483531176/) — Applied Medical
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-25
-
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4482924396/) — interface.ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-25
-
-### [Executive Assistant (E-commerce)](https://www.linkedin.com/jobs/view/4483518488/) — EPI Networking
-- 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $75,000.00/yr - $100,000.00/yr
-- 🕒 **Posted:** 2026-10-25
-
-### [Marketing Assistant](https://www.linkedin.com/jobs/view/4482913608/) — The Gold Recruiter
+### [Marketing Assistant/Coordinator [SK-23961]](https://www.linkedin.com/jobs/view/4481430056/) — Skill
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $60,000.00/yr - $70,000.00/yr
-- 🕒 **Posted:** 2026-10-25
+- 💰 **Salary:** $31.00/hr - $34.00/hr
+- 🕒 **Posted:** 2026-10-26
 
-### [Business Development Representative](https://www.linkedin.com/jobs/view/4483510879/) — Right Choice Resources
+### [Associate Sales Operations Analyst 4](https://www.linkedin.com/jobs/view/4482934416/) — Cypress HCM
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-25
+- 🕒 **Posted:** 2026-10-26
 
-### [Sales Development Representative](https://www.linkedin.com/jobs/view/4483519728/) — Right Choice Resources
+### [Brand Communications & Marketing Specialist](https://www.linkedin.com/jobs/view/4483533277/) — Mallow Hire
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-25
+- 🕒 **Posted:** 2026-10-26
 
-### [Essential Plan Account Manager, NY](https://www.linkedin.com/jobs/view/4482914353/) — UHC
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-25
+### [PL Underwriting Sales Representative](https://www.linkedin.com/jobs/view/4482935384/) — Archer
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $100,000.00/yr - $130,000.00/yr
+- 🕒 **Posted:** 2026-10-26
 
-### [Social Media Manager, Video](https://www.linkedin.com/jobs/view/4483525396/) — Talution Group
-- 📍 **Location:** Brooklyn, NY
-- 🕒 **Posted:** 2026-10-25
-
-### [Account Manager - Canada Sell-Side](https://www.linkedin.com/jobs/view/4482932023/) — S&P Global
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-25
-
-### [Customer Success Manager](https://www.linkedin.com/jobs/view/4482914693/) — Katapult
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $85,000.00/yr - $105,000.00/yr
-- 🕒 **Posted:** 2026-10-25
-
-### [Remote Payroll Operations Specialist](https://www.linkedin.com/jobs/view/4482933297/) — SonicJobs
-- 📍 **Location:** Bronx, NY
-- 🕒 **Posted:** 2026-10-25
-
-### [Remote Payroll Operations Specialist](https://www.linkedin.com/jobs/view/4482917763/) — SonicJobs
-- 📍 **Location:** Brooklyn, NY
-- 🕒 **Posted:** 2026-10-25
-
-### [Remote Payroll Operations Specialist](https://www.linkedin.com/jobs/view/4482932283/) — SonicJobs
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-25
-
-### [Nonprofit Community Outreach](https://www.linkedin.com/jobs/view/4482905944/) — Enlightened ATL
-- 📍 **Location:** Atlanta Metropolitan Area
-- 🕒 **Posted:** 2026-10-25
-
-### [Remote Payroll Operations Specialist](https://www.linkedin.com/jobs/view/4482936181/) — SonicJobs
+### [Literacy Program Coordinator, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4481905127/) — Crossover
 - 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-10-25
+- 💰 **Salary:** $100,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-10-26
 
-### [Third Party Manufacturing, Account Manager, External Manufacturing Medical Devise](https://www.linkedin.com/jobs/view/4483529487/) — BioSpace
-- 📍 **Location:** North Chicago, IL
-- 🕒 **Posted:** 2026-10-25
-
-### [National Sales Account Manager](https://www.linkedin.com/jobs/view/4482910990/) — Tecta America Commercial Roofing
-- 📍 **Location:** Rosemont, IL
-- 💰 **Salary:** $80,000.00/yr - $120,000.00/yr
-- 🕒 **Posted:** 2026-10-25
-
-### [Remote Payroll Operations Specialist](https://www.linkedin.com/jobs/view/4482914888/) — SonicJobs
+### [Content Marketing Manager- SEO/AEO [SK-23954]](https://www.linkedin.com/jobs/view/4481414616/) — Skill
 - 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-10-25
+- 💰 **Salary:** $45.00/hr - $50.00/hr
+- 🕒 **Posted:** 2026-10-26
+
+### [Customer Success Advisor](https://www.linkedin.com/jobs/view/4482929495/) — Cypress HCM
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-26
+
+### [Customer Success Advisor](https://www.linkedin.com/jobs/view/4482915929/) — Cypress HCM
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-26
