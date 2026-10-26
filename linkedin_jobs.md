@@ -1,93 +1,124 @@
 # 🔥 LinkedIn — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-10-26 00:48 UTC*
+*Last updated: 2026-10-26 06:01 UTC*
 
-**21 new role(s)** since last run · 38 total in last 4h
+**29 new role(s)** since last run · 29 total in last 4h
 
-### [Program Coordinator, Cancer Research and Training](https://www.linkedin.com/jobs/view/4483511516/) — UC Irvine
-- 📍 **Location:** Irvine, CA
+### [Recruiting Coordinator (#581121)](https://www.linkedin.com/jobs/view/4477736313/) — Horizontal Talent
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-10-25
 
-### [Program Coordinator, Cancer Research and Training](https://www.linkedin.com/jobs/view/4483505822/) — UCI Health
-- 📍 **Location:** Irvine, CA
-- 🕒 **Posted:** 2026-10-25
-
-### [Sales Operations Specialist](https://www.linkedin.com/jobs/view/4482907481/) — Sunrise Produce Company
+### [Business Development Representative](https://www.linkedin.com/jobs/view/4483530321/) — Total Warehouse
 - 📍 **Location:** Anaheim, CA
 - 🕒 **Posted:** 2026-10-25
 
-### [Space Licensing Manager - Brand Marketing](https://www.linkedin.com/jobs/view/4482910449/) — Sanrio, Inc.
-- 📍 **Location:** Torrance, CA
-- 💰 **Salary:** $95,000.00/yr - $110,000.00/yr
+### [Enterprise Account Manager](https://www.linkedin.com/jobs/view/4483531300/) — Hewlett Packard Enterprise
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-10-25
 
-### [Associate Project Manager](https://www.linkedin.com/jobs/view/4482693760/) — Omnicom Health Medical Communications
+### [Store Operations Associate](https://www.linkedin.com/jobs/view/4483508983/) — CubeSmart
+- 📍 **Location:** Mission Viejo, CA
+- 🕒 **Posted:** 2026-10-25
+
+### [Remote Payroll Operations Specialist](https://www.linkedin.com/jobs/view/4482914879/) — SonicJobs
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-10-25
+
+### [Labs Strategy and Operations Program Specialist (Milpitas, CA)](https://www.linkedin.com/jobs/view/4483517757/) — Hewlett Packard Enterprise
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** 2026-10-25
+
+### [Privacy Operations Specialist](https://www.linkedin.com/jobs/view/4483521282/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-25
+
+### [Customer Experience Specialist](https://www.linkedin.com/jobs/view/4481155865/) — Nortia Staffing - Human Resources, Accounting and Administrative Staffing
+- 📍 **Location:** Emeryville, CA
+- 🕒 **Posted:** 2026-10-25
+
+### [Remote Payroll Operations Specialist](https://www.linkedin.com/jobs/view/4482920575/) — SonicJobs
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-25
+
+### [Business Development Representative](https://www.linkedin.com/jobs/view/4483516643/) — BioRender
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-25
+
+### [Business Development Representative, Inbound](https://www.linkedin.com/jobs/view/4483527415/) — BioRender
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-25
+
+### [Account Manager Associate - San Jose, Ca](https://www.linkedin.com/jobs/view/4483531176/) — Applied Medical
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-25
+
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4482924396/) — interface.ai
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-25
+
+### [Executive Assistant (E-commerce)](https://www.linkedin.com/jobs/view/4483518488/) — EPI Networking
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $75,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-10-25
+
+### [Marketing Assistant](https://www.linkedin.com/jobs/view/4482913608/) — The Gold Recruiter
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $60,000.00/yr - $70,000.00/yr
+- 🕒 **Posted:** 2026-10-25
+
+### [Business Development Representative](https://www.linkedin.com/jobs/view/4483510879/) — Right Choice Resources
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-25
 
-### [Entry-Level Marketing Associate](https://www.linkedin.com/jobs/view/4481099876/) — Pinnacle Collective Inc
-- 📍 **Location:** North Bergen, NJ
+### [Sales Development Representative](https://www.linkedin.com/jobs/view/4483519728/) — Right Choice Resources
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-25
 
-### [Entry-Level Sales Development Representative – Banking & Insurance](https://www.linkedin.com/jobs/view/4482911444/) — Boulder Connect
-- 📍 **Location:** Newark, NJ
+### [Essential Plan Account Manager, NY](https://www.linkedin.com/jobs/view/4482914353/) — UHC
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-25
 
-### [Retail Marketing Campaign Specialist](https://www.linkedin.com/jobs/view/4481411317/) — Pinnacle Collective Inc
-- 📍 **Location:** North Bergen, NJ
+### [Social Media Manager, Video](https://www.linkedin.com/jobs/view/4483525396/) — Talution Group
+- 📍 **Location:** Brooklyn, NY
 - 🕒 **Posted:** 2026-10-25
 
-### [Inside Sales Representative](https://www.linkedin.com/jobs/view/4482695750/) — Samuel, Son & Co.
-- 📍 **Location:** Alpharetta, GA
+### [Account Manager - Canada Sell-Side](https://www.linkedin.com/jobs/view/4482932023/) — S&P Global
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-25
 
-### [Entry Level Marketing Campaign Specialist](https://www.linkedin.com/jobs/view/4481412259/) — Social Standard Inc.
-- 📍 **Location:** Chicago, IL
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4482914693/) — Katapult
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $85,000.00/yr - $105,000.00/yr
 - 🕒 **Posted:** 2026-10-25
 
-### [Executive Assistant to the CEO](https://www.linkedin.com/jobs/view/4482908379/) — Enigma Technologies, Inc.
-- 📍 **Location:** Los Angeles Metropolitan Area
+### [Remote Payroll Operations Specialist](https://www.linkedin.com/jobs/view/4482933297/) — SonicJobs
+- 📍 **Location:** Bronx, NY
+- 🕒 **Posted:** 2026-10-25
+
+### [Remote Payroll Operations Specialist](https://www.linkedin.com/jobs/view/4482917763/) — SonicJobs
+- 📍 **Location:** Brooklyn, NY
+- 🕒 **Posted:** 2026-10-25
+
+### [Remote Payroll Operations Specialist](https://www.linkedin.com/jobs/view/4482932283/) — SonicJobs
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-25
+
+### [Nonprofit Community Outreach](https://www.linkedin.com/jobs/view/4482905944/) — Enlightened ATL
+- 📍 **Location:** Atlanta Metropolitan Area
+- 🕒 **Posted:** 2026-10-25
+
+### [Remote Payroll Operations Specialist](https://www.linkedin.com/jobs/view/4482936181/) — SonicJobs
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-10-25
+
+### [Third Party Manufacturing, Account Manager, External Manufacturing Medical Devise](https://www.linkedin.com/jobs/view/4483529487/) — BioSpace
+- 📍 **Location:** North Chicago, IL
+- 🕒 **Posted:** 2026-10-25
+
+### [National Sales Account Manager](https://www.linkedin.com/jobs/view/4482910990/) — Tecta America Commercial Roofing
+- 📍 **Location:** Rosemont, IL
 - 💰 **Salary:** $80,000.00/yr - $120,000.00/yr
 - 🕒 **Posted:** 2026-10-25
 
-### [Entry-Level Marketing Associate](https://www.linkedin.com/jobs/view/4478617349/) — Next Target Inc.
-- 📍 **Location:** Long Beach, CA
-- 🕒 **Posted:** 2026-10-25
-
-### [Business Development Representative - Hospitality/Hotel Experience](https://www.linkedin.com/jobs/view/4482797246/) — Talently
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $35,000.00/yr - $150,000.00/yr
-- 🕒 **Posted:** 2026-10-25
-
-### [Entry Level Brand Marketing Associate](https://www.linkedin.com/jobs/view/4478617317/) — Next Target Inc.
-- 📍 **Location:** Long Beach, CA
-- 🕒 **Posted:** 2026-10-25
-
-### [Boutique Wholesale Sales & Account Manager](https://www.linkedin.com/jobs/view/4482900552/) — Ettika
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-10-25
-
-### [Entry Level Client Relations Associate](https://www.linkedin.com/jobs/view/4478621185/) — Next Target Inc.
-- 📍 **Location:** Santa Ana, CA
-- 🕒 **Posted:** 2026-10-25
-
-### [Insurance Sales Representative](https://www.linkedin.com/jobs/view/4482908336/) — Calion Wealth Group
-- 📍 **Location:** Costa Mesa, CA
-- 🕒 **Posted:** 2026-10-25
-
-### [Insurance Sales Representative](https://www.linkedin.com/jobs/view/4482696601/) — Calion Wealth Group
-- 📍 **Location:** Downey, CA
-- 💰 **Salary:** $75,000.00/yr - $275,000.00/yr
-- 🕒 **Posted:** 2026-10-25
-
-### [Inside Sales-Japanese Bilingual](https://www.linkedin.com/jobs/view/4474107600/) — Pasona N A, Inc.
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-10-25
-
-### [Business Development Representative - Hospitality/Hotel Experience](https://www.linkedin.com/jobs/view/4482786521/) — Talently
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $35,000.00/yr - $150,000.00/yr
-- 🕒 **Posted:** 2026-10-25
-
-### [Office & Events Coordinator](https://www.linkedin.com/jobs/view/4481911164/) — Emanuel Congregation: Reform Synagogue Chicago
+### [Remote Payroll Operations Specialist](https://www.linkedin.com/jobs/view/4482914888/) — SonicJobs
 - 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-10-25
