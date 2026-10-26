@@ -1,19 +1,19 @@
 # 🟦 Indeed — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-10-25 22:46 UTC*
+*Last updated: 2026-10-26 00:49 UTC*
 
-**3 new role(s)** since last run · 11 total in last 24h
+**3 new role(s)** since last run · 12 total in last 24h
 
-### [Account Opener | Business Development Representative](https://www.indeed.com/viewjob?jk=dd452aa91e1bfd7b) — Colonial Life & Accident Insurance Co.
-- 📍 **Location:** Brea, CA, USA
-- 💰 **Salary:** $60k–$160k/yr
+### [Outreach Coordinator](https://www.indeed.com/viewjob?jk=e9c5760a9a17b596) — Partners4Wellness
+- 📍 **Location:** Irvine, CA, USA
+- 💰 **Salary:** $24–$25/hr
 - 🕒 **Posted:** 2026-10-25
 
-### [Italian Food Procurement Coordinator](https://www.indeed.com/viewjob?jk=274a5a19786903d0) — Varuni Napoli
-- 📍 **Location:** Brooklyn, NY, USA
-- 💰 **Salary:** $20–$23/yr
+### [Customer Success Manager](https://www.indeed.com/viewjob?jk=66abc3aeaf1323bc) — Weave
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $120k–$150k/yr
 - 🕒 **Posted:** 2026-10-25
 
-### [Account Manager](https://www.indeed.com/viewjob?jk=95e1efa6484f78d1) — Datagist LLC
-- 📍 **Location:** Alpharetta, GA, USA
-- 💰 **Salary:** $58k–$70k/yr
+### [Bilingual Digital Marketing Manager (Spanish)— Relocation to Indiana](https://www.indeed.com/viewjob?jk=584b91927432447d) — AMADOR JEWELERS LLC
+- 📍 **Location:** East Chicago, IN, USA
+- 💰 **Salary:** $53k–$58k/yr
 - 🕒 **Posted:** 2026-10-25
