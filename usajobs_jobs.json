@@ -1,8 +1,20 @@
 {
-  "scraped_at": "2026-10-26 20:42 UTC",
+  "scraped_at": "2026-10-27 20:12 UTC",
   "total": 2,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Bureau of Prisons/Federal Prison System",
+      "title": "Correctional Treatment Specialist (Special Population Program Coordinator)",
+      "location": "Chicago, Illinois",
+      "url": "https://www.usajobs.gov/job/890415300",
+      "date_posted": "2026-10-27",
+      "salary": "Starting at $83,482 Per year (GS 11)",
+      "ats": "USAJOBS",
+      "feeds": [
+        "general"
+      ]
+    },
     {
       "company": "Veterans Health Administration",
       "title": "Social Worker (Program Coordinator)",
@@ -14,26 +26,27 @@
       "feeds": [
         "general"
       ]
-    },
+    }
+  ],
+  "new_jobs": [
     {
-      "company": "Veterans Health Administration",
-      "title": "Supervisory Social Worker (Program Coordinator - CERS Peer Center)",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov/job/888080100",
-      "date_posted": "2026-10-07",
-      "salary": "Starting at $114,695 Per year (GS 12)",
+      "company": "Bureau of Prisons/Federal Prison System",
+      "title": "Correctional Treatment Specialist (Special Population Program Coordinator)",
+      "location": "Chicago, Illinois",
+      "url": "https://www.usajobs.gov/job/890415300",
+      "date_posted": "2026-10-27",
+      "salary": "Starting at $83,482 Per year (GS 11)",
       "ats": "USAJOBS",
       "feeds": [
         "general"
       ]
     }
   ],
-  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 11,
+    "location": 14,
     "stale": 0
   }
 }
