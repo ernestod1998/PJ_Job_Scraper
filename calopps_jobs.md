@@ -1,8 +1,6 @@
 # 🏛 CalOpps — California Local-Agency Roles
-*Last updated: 2026-10-26 21:06 UTC*
+*Last updated: 2026-10-27 20:48 UTC*
 
-**1 new role(s)** since last run · 7 total in recent CalOpps postings
+**0 new role(s)** since last run · 7 total in recent CalOpps postings
 
-### [Environmental Program Coordinator](https://www.calopps.org/millbrae/job-20787108) — Millbrae
-- 📍 **Location:** San Francisco/Peninsula
-- 💰 **Salary:** $74,241.00-$100,225.00 Annually
+No new CalOpps roles since the last run.
