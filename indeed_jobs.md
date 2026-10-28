@@ -1,237 +1,371 @@
 # 🟦 Indeed — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-10-28 07:19 UTC*
+*Last updated: 2026-10-28 19:50 UTC*
 
-**48 new role(s)** since last run · 174 total in last 24h
+**75 new role(s)** since last run · 165 total in last 24h
 
-### [Project Coordinator](https://www.indeed.com/viewjob?jk=4b42746758c2bdab) — UCLA Health
+### [Marketing Coordinator](https://www.indeed.com/viewjob?jk=3a5e79fb7bd6def7) — Bank of Hope
 - 📍 **Location:** Los Angeles, CA, USA
-- 💰 **Salary:** $38.65–$80.70/hr
+- 💰 **Salary:** $28.85–$33.66/hr
 - 🕒 **Posted:** 2026-10-28
 
-### [Agency Marketing Coordinator](https://www.indeed.com/viewjob?jk=5b64fa2d979b9c83) — Konnect Agency
+### [Inside Sales Account Executive - Entry Level Welcome](https://www.indeed.com/viewjob?jk=f98f3b283fdaf434) — Humina Resource
+- 📍 **Location:** Torrance, CA, USA
+- 💰 **Salary:** $50k–$60k/yr
+- 🕒 **Posted:** 2026-10-28
+
+### [ACCOUNT MANAGER](https://www.indeed.com/viewjob?jk=887e2e2914a91168) — PS Business Management
 - 📍 **Location:** Los Angeles, CA, USA
-- 💰 **Salary:** $55k–$65k/yr
+- 💰 **Salary:** $90k–$125k/yr
 - 🕒 **Posted:** 2026-10-28
 
-### [ACCOUNT COORDINATOR (PART-TIME, NIGHTTIME)](https://www.indeed.com/viewjob?jk=e75c7f8433fc5cd1) — Little Dot Studios
-- 📍 **Location:** Los Angeles, CA, USA
-- 💰 **Salary:** $19.23–$24.04/hr
+### [Enterprise Account Manager](https://www.indeed.com/viewjob?jk=c96a4984f1ba932f) — Bay Alarm
+- 📍 **Location:** Gardena, CA, USA
+- 💰 **Salary:** $60k/yr
 - 🕒 **Posted:** 2026-10-28
 
-### [ACCOUNT COORDINATOR (PART-TIME, DAYTIME)](https://www.indeed.com/viewjob?jk=ccd18fd01ec09650) — Little Dot Studios
-- 📍 **Location:** Los Angeles, CA, USA
-- 💰 **Salary:** $19.23–$24.04/hr
-- 🕒 **Posted:** 2026-10-28
-
-### [Office Operations Coordinator](https://www.indeed.com/viewjob?jk=89dc7d0edf0a92d0) — Forte Tools
-- 📍 **Location:** South El Monte, CA, USA
-- 💰 **Salary:** $24–$35/hr
-- 🕒 **Posted:** 2026-10-28
-
-### [Event Coordinator (Temporary)](https://www.indeed.com/viewjob?jk=c08f7df91e684a45) — Seen Health
-- 📍 **Location:** Los Angeles, CA, USA
-- 💰 **Salary:** $22–$25/hr
-- 🕒 **Posted:** 2026-10-28
-
-### [Procurement Coordinator](https://www.indeed.com/viewjob?jk=ad02ae6995844cc1) — Osiopack
-- 📍 **Location:** Anaheim, CA, USA
-- 💰 **Salary:** $24.50–$33.75/hr
-- 🕒 **Posted:** 2026-10-28
-
-### [Account Manager - Commercial Insurance (Construction/Contractors)](https://www.indeed.com/viewjob?jk=49761c7ff5e5d5df) — Insurance Office of America
-- 📍 **Location:** Encino, CA, USA
+### [Account Manager - Commercial Insurance (Construction/Contractors)](https://www.indeed.com/viewjob?jk=0c0180c93e324ef4) — Insurance Office of America
+- 📍 **Location:** Burbank, CA, USA
 - 💰 **Salary:** $60k–$115k/yr
 - 🕒 **Posted:** 2026-10-27
 
-### [Business Development Representative Commission](https://www.indeed.com/viewjob?jk=b838b20c5d06463b) — Marvelous Plumbing
-- 📍 **Location:** Brea, CA, USA
-- 💰 **Salary:** $25–$40/hr
+### [Sales and Digital Marketing Division Specialist](https://www.indeed.com/viewjob?jk=1b90b029f2de62aa) — HBOT Pro
+- 📍 **Location:** Anaheim, CA, USA
+- 💰 **Salary:** $18–$23/hr
 - 🕒 **Posted:** 2026-10-28
 
-### [People Operations Coordinator](https://www.indeed.com/viewjob?jk=5aed269b60fc9eac) — Hollywood Park Management Company, LLC.
-- 📍 **Location:** Inglewood, CA, USA
-- 💰 **Salary:** $60k–$72k/yr
+### [Sales and Digital Marketing Division Specialist](https://www.indeed.com/viewjob?jk=314fc937e59f9487) — DFX Powerball
+- 📍 **Location:** Anaheim, CA, USA
+- 💰 **Salary:** $18–$22/hr
 - 🕒 **Posted:** 2026-10-28
 
-### [On Premise Sales Representative- Newport Beach](https://www.indeed.com/viewjob?jk=ef6fab822ae1fc3f) — Regal Wine Company
-- 📍 **Location:** Newport Beach, CA, USA
-- 💰 **Salary:** $75k–$95k/yr
+### [Production Coordinator](https://www.indeed.com/viewjob?jk=f5f233b0485dc19c) — Print System
+- 📍 **Location:** Los Angeles, CA, USA
+- 💰 **Salary:** $24–$29/hr
 - 🕒 **Posted:** 2026-10-28
 
-### [Territory Sales Representative - Neurovascular - Orange County, CA](https://www.indeed.com/viewjob?jk=9f4e425341cd8955) — Stryker
+### [Assistant Community Manager - Towne at Glendale](https://www.indeed.com/viewjob?jk=aa2dfd1e5d008042) — Greystar
+- 📍 **Location:** Glendale, CA, USA
+- 💰 **Salary:** $23–$25/hr
+- 🕒 **Posted:** 2026-10-28
+
+### [Assistant Community Manager - The Hudson](https://www.indeed.com/viewjob?jk=39f6e2ee41bfa95e) — Greystar
+- 📍 **Location:** Pasadena, CA, USA
+- 💰 **Salary:** $31–$33/hr
+- 🕒 **Posted:** 2026-10-28
+
+### [AI-First Administrative Coordinator](https://www.indeed.com/viewjob?jk=9944716039268bbe) — Elite Education International
 - 📍 **Location:** Irvine, CA, USA
-- 💰 **Salary:** $160k/yr
+- 💰 **Salary:** $35k–$45k/yr
 - 🕒 **Posted:** 2026-10-28
 
-### [Project Coordinator, Optimus](https://www.indeed.com/viewjob?jk=081dd081751fac21) — Tesla
-- 📍 **Location:** Palo Alto, CA, USA
-- 💰 **Salary:** $18.40–$48/hr
+### [Event Coordinator (Part-Time)](https://www.indeed.com/viewjob?jk=66c235d1ba8bed7f) — Fooda
+- 📍 **Location:** Costa Mesa, CA, USA
+- 💰 **Salary:** $22/hr
+- 🕒 **Posted:** 2026-10-28
+
+### [Account Management Associate IV](https://www.indeed.com/viewjob?jk=0e5ed1fe79eb0a49) — Kaiser Permanente
+- 📍 **Location:** Santa Ana, CA, USA
+- 💰 **Salary:** $41.92–$54.20/hr
+- 🕒 **Posted:** 2026-10-28
+
+### [Inside Sales Account Manager, West](https://www.indeed.com/viewjob?jk=1daf6e933394a3cf) — Axis Communications
+- 📍 **Location:** Irvine, CA, USA
+- 💰 **Salary:** $80k–$90k/yr
+- 🕒 **Posted:** 2026-10-28
+
+### [Implementation Specialist](https://www.indeed.com/viewjob?jk=544a11f95f39fa86) — Restaurant365
+- 📍 **Location:** Irvine, CA, USA
+- 💰 **Salary:** $70k–$84k/yr
+- 🕒 **Posted:** 2026-10-28
+
+### [B2B Outside Sales Representative](https://www.indeed.com/viewjob?jk=b3e0bb3af6df3f71) — Orkin
+- 📍 **Location:** Lake Forest, CA, USA
+- 💰 **Salary:** $60k–$120k/yr
+- 🕒 **Posted:** 2026-10-28
+
+### [Fixture Design Project Coordinator](https://www.indeed.com/viewjob?jk=b39f7213e85bbc6f) — Infotron
+- 📍 **Location:** Dublin, CA, USA
+- 💰 **Salary:** $80k/yr
+- 🕒 **Posted:** 2026-10-28
+
+### [Construction Project Coordinator](https://www.indeed.com/viewjob?jk=7b3f2300096ac479) — Reva Murphy Associates
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $60k–$75k/yr
+- 🕒 **Posted:** 2026-10-28
+
+### [Program Coordinator - CalWORKs](https://www.indeed.com/viewjob?jk=a861ae545df1fcb9) — Chabot-Las Positas Community College District
+- 📍 **Location:** Livermore, CA, USA
+- 💰 **Salary:** $6665.92–$7006.42/mo
+- 🕒 **Posted:** 2026-10-28
+
+### [Account manager (door to door sales)](https://www.indeed.com/viewjob?jk=deea438b7ad22f18) — Max Electric 
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $25–$30/hr
+- 🕒 **Posted:** 2026-10-28
+
+### [Account Manager - Commercial Insurance (Construction/Contractors)](https://www.indeed.com/viewjob?jk=b5f2e36a5c68eaf2) — Insurance Office of America
+- 📍 **Location:** Concord, CA, USA
+- 💰 **Salary:** $60k–$115k/yr
 - 🕒 **Posted:** 2026-10-27
 
-### [Gender Affirming Program Coordinator](https://www.indeed.com/viewjob?jk=65ba2856735c7d49) — Horizons Unlimited of San Francisco Inc.
+### [Recruiting Coordinator](https://www.indeed.com/viewjob?jk=486dbe245ca0ccc3) — SpaceXSI
+- 📍 **Location:** Palo Alto, CA, USA
+- 💰 **Salary:** $80k–$100k/yr
+- 🕒 **Posted:** 2026-10-28
+
+### [Account Manager - Commercial Insurance (Construction/Contractors)](https://www.indeed.com/viewjob?jk=4a30987604f26708) — Insurance Office of America
+- 📍 **Location:** Union City, CA, USA
+- 💰 **Salary:** $60k–$115k/yr
+- 🕒 **Posted:** 2026-10-27
+
+### [Sales Development Representative](https://www.indeed.com/viewjob?jk=3935c7c95ec4b642) — Premier Global Links
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $28.73–$29.22/hr
+- 💰 **Salary:** $75k/yr
 - 🕒 **Posted:** 2026-10-28
 
-### [Sales Development Representative](https://www.indeed.com/viewjob?jk=a51269d1fa98cc95) — Swayable
+### [P&C Operations Coordinator](https://www.indeed.com/viewjob?jk=6a77b6eee6b68349) — IKEA
+- 📍 **Location:** Emeryville, CA, USA
+- 💰 **Salary:** $89k–$128k/yr
+- 🕒 **Posted:** 2026-10-28
+
+### [Logistics Coordinator/Shipping and receiving/Material/Warehouse/Inventory/Data Center Logistics](https://www.indeed.com/viewjob?jk=9752e8525d05dedc) — Cloud Destinations
+- 📍 **Location:** Santa Clara, CA, USA
+- 💰 **Salary:** $25–$30/hr
+- 🕒 **Posted:** 2026-10-28
+
+### [Executive Assistant III](https://www.indeed.com/viewjob?jk=5cf43fccae6e06a4) — Metropolitan Transportation Commission
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $65k–$75k/yr
 - 🕒 **Posted:** 2026-10-28
 
-### [Sales Development Representative (SDR/BDR)](https://www.indeed.com/viewjob?jk=f67238e1960f6bde) — Trellis AI
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $94k–$114k/yr
+### [Assistant Community Manager - South Shore](https://www.indeed.com/viewjob?jk=4bbb26108dde4b60) — Greystar
+- 📍 **Location:** Alameda, CA, USA
+- 💰 **Salary:** $25–$30/hr
 - 🕒 **Posted:** 2026-10-28
 
-### [Community Liaison - Home Health (Sales Representative/Account Executive)](https://www.indeed.com/viewjob?jk=93c1d175d769e593) — HealthFlex Home Health and Hospice
-- 📍 **Location:** Oakland, CA, USA
+### [Project Coordinator, School Safety, RIS](https://www.indeed.com/viewjob?jk=2fd445200f55bdb2) — New York City Department of Transportation
+- 📍 **Location:** Manhattan, NY, USA
+- 💰 **Salary:** $76k–$112k/yr
 - 🕒 **Posted:** 2026-10-28
 
-### [Logistics Coordinator II](https://www.indeed.com/viewjob?jk=18573bda9d304c39) — SEIU
-- 📍 **Location:** San Jose, CA, USA
-- 💰 **Salary:** $28.47–$36.33/hr
+### [Project Coordinator, School Safety, RIS](https://www.indeed.com/viewjob?jk=632e2d29bd3419b4) — New York City Department of Transportation
+- 📍 **Location:** Manhattan, NY, USA
+- 💰 **Salary:** $79k–$114k/yr
 - 🕒 **Posted:** 2026-10-28
 
-### [ASAP Academic Program Specialist (Academic ASAP Student Advisor)](https://www.indeed.com/viewjob?jk=46760da7b6826e6b) — City University of New York
-- 📍 **Location:** Queens, NY, USA
-- 💰 **Salary:** $64k–$73k/yr
+### [Workplace Experience Program Specialist - New York City](https://www.indeed.com/viewjob?jk=17bf852edf11d47c) — Rocket Travel, Inc.
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $110k–$123k/yr
 - 🕒 **Posted:** 2026-10-28
 
-### [Program Coordinator](https://www.indeed.com/viewjob?jk=44392e86e857c321) — 92nd Street Y
+### [Workplace Experience Program Specialist - New York City](https://www.indeed.com/viewjob?jk=93434781829398dc) — Agoda
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $110k–$123k/yr
+- 🕒 **Posted:** 2026-10-28
+
+### [Operations Program Specialist – Interventional Psychiatry](https://www.indeed.com/viewjob?jk=e961d9b94d1f38d9) — Weill Cornell Medicine
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $34.51–$39.62/hr
+- 🕒 **Posted:** 2026-10-28
+
+### [Communications Broadcast & Multimedia Production Coordinator (aHEO) - OIACER](https://www.indeed.com/viewjob?jk=250c5fab06a34bda) — City University of New York
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $90k–$93k/yr
+- 🕒 **Posted:** 2026-10-28
+
+### [Account Coordinator](https://www.indeed.com/viewjob?jk=84ebbc5029a6335d) — SourceCode Communications
 - 📍 **Location:** New York, NY, USA
 - 💰 **Salary:** $50k–$55k/yr
 - 🕒 **Posted:** 2026-10-28
 
-### [EMPLOYEE ASSISTANCE PROGRAM SPECIALIST](https://www.indeed.com/viewjob?jk=6d3166c64e509fbf) — FIRE DEPARTMENT
+### [Social Media & Business Development Coordinator](https://www.indeed.com/viewjob?jk=beb577c353051e93) — Jalani LLC
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $64k–$115k/yr
-- 🕒 **Posted:** 2026-10-27
+- 💰 **Salary:** $25–$30/hr
+- 🕒 **Posted:** 2026-10-28
 
-### [Community Outreach & Enrollment Coordinator](https://www.indeed.com/viewjob?jk=39030e6f2bbebd0e) — The childcare Hub, Inc.
+### [Business Operations Coordinator](https://www.indeed.com/viewjob?jk=4db2759b75e54ee1) — Biz Of vion
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $54k–$60k/yr
+- 💰 **Salary:** $26–$29/hr
 - 🕒 **Posted:** 2026-10-28
 
-### [Commercial Account Manager - NYC](https://www.indeed.com/viewjob?jk=7fa4e82e7c85ee3e) — Nutanix
+### [Administrative Coordinator](https://www.indeed.com/viewjob?jk=b3a8e0c9a529e96e) — NYC Administration for Children's Services
+- 📍 **Location:** Manhattan, NY, USA
+- 💰 **Salary:** $68k–$104k/yr
+- 🕒 **Posted:** 2026-10-28
+
+### [Part-Time Birthday Parties & Events Coordinator](https://www.indeed.com/viewjob?jk=555e4fa28ecd52a2) — Brooklyn Children's Museum
+- 📍 **Location:** Brooklyn, NY, USA
+- 💰 **Salary:** $23–$26/hr
+- 🕒 **Posted:** 2026-10-28
+
+### [COMMUNITY COORDINATOR](https://www.indeed.com/viewjob?jk=4e905b5f0ba1891e) — NYC Housing Authority
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $254k–$380k/yr
+- 💰 **Salary:** $63k–$98k/yr
 - 🕒 **Posted:** 2026-10-28
 
-### [Personal Lines Account Manager](https://www.indeed.com/viewjob?jk=4cbbeec8f52b51a3) — Acrisure LLC
+### [Programmatic Account Manager](https://www.indeed.com/viewjob?jk=20bc1f059dbb3243) — Wunderkind
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $40k–$75k/yr
+- 💰 **Salary:** $80k–$88k/yr
 - 🕒 **Posted:** 2026-10-28
 
-### [Digital Marketing & Social Media Manager](https://www.indeed.com/viewjob?jk=5550b42d41350ae0) — Chumber Law Firm
-- 📍 **Location:** Queens, NY, USA
-- 💰 **Salary:** $55k–$70k/yr
+### [Walk Sales Representative](https://www.indeed.com/viewjob?jk=cf72384c79a09f06) — S Katzman Produce
+- 📍 **Location:** Bronx, NY, USA
+- 💰 **Salary:** $70k–$90k/yr
 - 🕒 **Posted:** 2026-10-28
 
-### [Enterprise Sales Development Representative (2)](https://www.indeed.com/viewjob?jk=f84ede356c492592) — Carv.com B.V.
+### [Digital Marketing Specialist](https://www.indeed.com/viewjob?jk=361309f5253b1416) — Techsvantage LLC
+- 📍 **Location:** Bronx, NY, USA
+- 💰 **Salary:** $30–$36/hr
+- 🕒 **Posted:** 2026-10-28
+
+### [Inside Sales Representative](https://www.indeed.com/viewjob?jk=574e6f754f566d15) — ALRO Products International
+- 📍 **Location:** Brooklyn, NY, USA
+- 💰 **Salary:** $70k–$90k/yr
+- 🕒 **Posted:** 2026-10-28
+
+### [Independent Sales Representative](https://www.indeed.com/viewjob?jk=b28839ad598c14fb) — AV Laretti
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $65k–$75k/yr
+- 💰 **Salary:** $20–$30/hr
 - 🕒 **Posted:** 2026-10-28
 
-### [Business Development Representative](https://www.indeed.com/viewjob?jk=b5250051d87c7067) — Premier Global Links
+### [Development Assistant, Trustee Giving and Campaign Operations](https://www.indeed.com/viewjob?jk=aa016e908fdf8feb) — The Museum of Modern Art
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $90k/yr
+- 💰 **Salary:** $62k/yr
 - 🕒 **Posted:** 2026-10-28
 
-### [Retail Inventory & Operations Coordinator](https://www.indeed.com/viewjob?jk=08229418ed3c2f5f) — Wolford Retail Stores
+### [Assistant Project Manager](https://www.indeed.com/viewjob?jk=55e9c1f92e266c27) — Services For The Underserved
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $28–$30/hr
+- 💰 **Salary:** $60k–$70k/yr
 - 🕒 **Posted:** 2026-10-28
 
-### [Executive Assistant](https://www.indeed.com/viewjob?jk=668540802b8f4371) — Millennium Management
-- 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $70k–$160k/yr
+### [Marketing Communication Project Coordinator](https://www.indeed.com/viewjob?jk=818e4d78a6752dd6) — Northwest Exterminating
+- 📍 **Location:** Marietta, GA, USA
+- 💰 **Salary:** $21–$22/hr
 - 🕒 **Posted:** 2026-10-28
 
-### [Executive Assistant & Trustee Liaison](https://www.indeed.com/viewjob?jk=d3dc7f18396152cb) — The New-York Historical Society
-- 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $80k–$90k/yr
-- 🕒 **Posted:** 2026-10-28
-
-### [Program Coordinator - Part Time Temporary - Community and Professional Education](https://www.indeed.com/viewjob?jk=555f9acc20ff45ec) — Kennesaw State University
-- 📍 **Location:** Kennesaw, GA, USA
-- 💰 **Salary:** $20/hr
-- 🕒 **Posted:** 2026-10-28
-
-### [Partner Operations Program Coordinator](https://www.indeed.com/viewjob?jk=f593735dcd338606) — Manhattan Associates
+### [Intake & Outreach Coordinator](https://www.indeed.com/viewjob?jk=c94abc463162b4cd) — Achievements ABA Therapy
 - 📍 **Location:** Atlanta, GA, USA
+- 💰 **Salary:** $25/hr
 - 🕒 **Posted:** 2026-10-28
 
-### [Regional Account Manager- Print Sales](https://www.indeed.com/viewjob?jk=ec9feb4615411bf8) — FedEx
+### [Inside Sales Account Executive (Kennesaw, GA)](https://www.indeed.com/viewjob?jk=6838b2fdce5d1dce) — LendSure Mortgage Corp
+- 📍 **Location:** Kennesaw, GA, USA
+- 💰 **Salary:** $48k–$250k/yr
+- 🕒 **Posted:** 2026-10-28
+
+### [Regional Account Manager- Print Sales](https://www.indeed.com/viewjob?jk=87ce44d5b725b5cb) — FedEx
 - 📍 **Location:** Atlanta, GA, USA
 - 💰 **Salary:** $5960.29–$9834.48/mo
 - 🕒 **Posted:** 2026-10-28
 
-### [Account Manager, Immunology - South Atlanta, GA](https://www.indeed.com/viewjob?jk=653f0fb55d663ffa) — Galderma
-- 📍 **Location:** Atlanta, GA, USA
-- 🕒 **Posted:** 2026-10-28
-
-### [Account Manager - Atlanta, GA](https://www.indeed.com/viewjob?jk=53856a03c7bf8037) — Advanced Sterilization Products
-- 📍 **Location:** Atlanta, GA, USA
-- 💰 **Salary:** $141k–$235k/yr
-- 🕒 **Posted:** 2026-10-27
-
-### [Business Development Representative](https://www.indeed.com/viewjob?jk=25dd8ab0683dae3c) — New Carbon Company LLC
-- 📍 **Location:** Atlanta, GA, USA
-- 💰 **Salary:** $90k–$100k/yr
-- 🕒 **Posted:** 2026-10-28
-
-### [Assistant Community Manager - The Windward](https://www.indeed.com/viewjob?jk=b9218100215ae918) — TAM Residential, LLC
-- 📍 **Location:** Alpharetta, GA, USA
-- 🕒 **Posted:** 2026-10-28
-
-### [Construction HVAC Sales Representative](https://www.indeed.com/viewjob?jk=30baf6e9510e747e) — FIRSTCALL MECHANICAL GROUP LLC
+### [Account Manager - Commercial Insurance (Construction/Contractors)](https://www.indeed.com/viewjob?jk=3e31762e4e1572c5) — Insurance Office of America
 - 📍 **Location:** Lawrenceville, GA, USA
+- 💰 **Salary:** $60k–$115k/yr
+- 🕒 **Posted:** 2026-10-27
+
+### [Community Manager](https://www.indeed.com/viewjob?jk=06969e9dc8d97256) — Asset Living
+- 📍 **Location:** Atlanta, GA, USA
+- 💰 **Salary:** $91k–$96k/yr
 - 🕒 **Posted:** 2026-10-28
 
-### [Medical Sales Representative](https://www.indeed.com/viewjob?jk=fe7cae5f4a365533) — Center for Vein Restoration
-- 📍 **Location:** Lawrenceville, GA, USA
-- 💰 **Salary:** $55k–$100k/yr
+### [Sales Representative](https://www.indeed.com/viewjob?jk=6b8bdfc24a4912ea) — Graybar
+- 📍 **Location:** Norcross, GA, USA
+- 💰 **Salary:** $21.63/hr
 - 🕒 **Posted:** 2026-10-28
 
-### [Sales Representative - Fire](https://www.indeed.com/viewjob?jk=789d51ec24451ffc) — Cintas
+### [Customer Success Specialist](https://www.indeed.com/viewjob?jk=599189eb57d7dc33) — ServIT Inc
+- 📍 **Location:** Kennesaw, GA, USA
+- 💰 **Salary:** $75k/yr
+- 🕒 **Posted:** 2026-10-28
+
+### [Client Relationship Specialist - Atlanta (Cobb County)](https://www.indeed.com/viewjob?jk=9d831e595e5effb5) — Charles Schwab
+- 📍 **Location:** Atlanta, GA, USA
+- 💰 **Salary:** $24.47–$35.05/hr
+- 🕒 **Posted:** 2026-10-27
+
+### [Account Manager - Commercial Insurance (Construction/Contractors)](https://www.indeed.com/viewjob?jk=a25fe97a9d6965d2) — Insurance Office of America
+- 📍 **Location:** Norcross, GA, USA
+- 💰 **Salary:** $60k–$115k/yr
+- 🕒 **Posted:** 2026-10-27
+
+### [Sales Representative](https://www.indeed.com/viewjob?jk=1d83f8e4a293e08e) — Dubor USA LLC
+- 📍 **Location:** Atlanta, GA, USA
+- 💰 **Salary:** $70k–$80k/yr
+- 🕒 **Posted:** 2026-10-28
+
+### [Inside Sales Representative](https://www.indeed.com/viewjob?jk=b0ed0d608a6eb447) — QXO
+- 📍 **Location:** Kennesaw, GA, USA
+- 🕒 **Posted:** 2026-10-28
+
+### [Respiratory Sales Representative](https://www.indeed.com/viewjob?jk=f18ff3946258c43e) — VieMed, LLC
+- 📍 **Location:** Marietta, GA, USA
+- 🕒 **Posted:** 2026-10-28
+
+### [Sales Development Representative](https://www.indeed.com/viewjob?jk=09f987481c716006) — Gallagher Group
+- 📍 **Location:** Atlanta, GA, USA
+- 🕒 **Posted:** 2026-10-27
+
+### [Outside Sales Representative](https://www.indeed.com/viewjob?jk=d7fd96b8d78e5daf) — Uline
+- 📍 **Location:** Atlanta, GA, USA
+- 🕒 **Posted:** 2026-10-27
+
+### [Assistant Community Manager](https://www.indeed.com/viewjob?jk=8ccb6f9e031db552) — RPM Living
 - 📍 **Location:** Atlanta, GA, USA
 - 🕒 **Posted:** 2026-10-28
 
-### [Logistics Coordinator](https://www.indeed.com/viewjob?jk=6ef00eeba172bc2e) — Georgia-Pacific
-- 📍 **Location:** Atlanta, GA, USA
-- 💰 **Salary:** $65k–$90k/yr
+### [Studio Experience & Marketing Coordinator](https://www.indeed.com/viewjob?jk=500c45f025ccd746) — The Lagree Society
+- 📍 **Location:** Lisle, IL, USA
+- 💰 **Salary:** $20–$25/hr
+- 🕒 **Posted:** 2026-10-28
+
+### [Entry Level Account Manager](https://www.indeed.com/viewjob?jk=afd8839ce084e495) — US Energy Company
+- 📍 **Location:** Oakbrook Terrace, IL, USA
+- 💰 **Salary:** $50k–$60k/yr
+- 🕒 **Posted:** 2026-10-28
+
+### [Technical Account Manager](https://www.indeed.com/viewjob?jk=9125f1d034702874) — Copado
+- 📍 **Location:** Chicago, IL, USA
+- 💰 **Salary:** $120k–$145k/yr
+- 🕒 **Posted:** 2026-10-28
+
+### [Account Manager](https://www.indeed.com/viewjob?jk=c1af7ffe73c3ed14) — Qualtrics
+- 📍 **Location:** Chicago, IL, USA
+- 💰 **Salary:** $60k–$74k/yr
+- 🕒 **Posted:** 2026-10-28
+
+### [Regional Account Manager](https://www.indeed.com/viewjob?jk=66c7a45ef875f719) — ABM Industries Inc.
+- 📍 **Location:** Chicago, IL, USA
+- 💰 **Salary:** $79k–$114k/yr
+- 🕒 **Posted:** 2026-10-28
+
+### [Connect Account Manager (Chicago)](https://www.indeed.com/viewjob?jk=8f8f24a42a65126e) — AVEVA
+- 📍 **Location:** Chicago, IL, USA
+- 💰 **Salary:** $219k–$365k/yr
+- 🕒 **Posted:** 2026-10-28
+
+### [Account Manager - Commercial Insurance (Construction/Contractors)](https://www.indeed.com/viewjob?jk=1be9a88b9d1fefc6) — Insurance Office of America
+- 📍 **Location:** Chicago, IL, USA
+- 💰 **Salary:** $60k–$115k/yr
 - 🕒 **Posted:** 2026-10-27
 
-### [Community Outreach Manager](https://www.indeed.com/viewjob?jk=c3c49359174b1e75) — Anixter Center
+### [Sales Operations Support Specialist](https://www.indeed.com/viewjob?jk=ed4a242a369749ad) — UPS
 - 📍 **Location:** Chicago, IL, USA
-- 💰 **Salary:** $65k–$80k/yr
+- 💰 **Salary:** $26.25–$49/hr
 - 🕒 **Posted:** 2026-10-27
 
-### [Media Coordinator - National/DTC Media](https://www.indeed.com/viewjob?jk=9a80e5e31729c3d7) — Chamberlain Group
-- 📍 **Location:** Oak Brook, IL, USA
-- 💰 **Salary:** $64k–$103k/yr
-- 🕒 **Posted:** 2026-10-28
-
-### [Media Coordinator - Retail Media (Amazon)](https://www.indeed.com/viewjob?jk=b030ef1e2f569dec) — Chamberlain Group
-- 📍 **Location:** Oak Brook, IL, USA
-- 💰 **Salary:** $64k–$103k/yr
-- 🕒 **Posted:** 2026-10-28
-
-### [Account Management Coordinator](https://www.indeed.com/viewjob?jk=974694dde3ce5610) — Access One, Inc.
+### [Sales Representative (Chicago)](https://www.indeed.com/viewjob?jk=1d2a2fd28403c929) — Exoticca
 - 📍 **Location:** Chicago, IL, USA
-- 💰 **Salary:** $65k–$70k/yr
 - 🕒 **Posted:** 2026-10-28
 
-### [Account Manager - Hybrid (Chicago, IL)](https://www.indeed.com/viewjob?jk=cd596cc0972b78b8) — OneDigital
+### [Operations Associate - Material Handler / Driver / Yard Helper / Coordinator](https://www.indeed.com/viewjob?jk=93f6ef1be8a561e2) — Peerless Fence Group
+- 📍 **Location:** West Chicago, IL, USA
+- 🕒 **Posted:** 2026-10-28
+
+### [Executive Assistant](https://www.indeed.com/viewjob?jk=f7f20eff54f7d2ce) — Fairlife, LLC
 - 📍 **Location:** Chicago, IL, USA
-- 💰 **Salary:** $80k–$85k/yr
+- 💰 **Salary:** $90k–$110k/yr
 - 🕒 **Posted:** 2026-10-28
 
-### [Social Media Manager (CHI)](https://www.indeed.com/viewjob?jk=c8e41351a8cc62ac) — Bread & Butter PR
+### [Assistant Project Manager](https://www.indeed.com/viewjob?jk=8b671a6d262c5e36) — Clune Construction
 - 📍 **Location:** Chicago, IL, USA
-- 💰 **Salary:** $65k–$75k/yr
-- 🕒 **Posted:** 2026-10-28
-
-### [Territory Sales Representative - Entry Level / Full Time](https://www.indeed.com/viewjob?jk=b83ac632fda6cec7) — Impact Bio
-- 📍 **Location:** Arlington Heights, IL, USA
+- 💰 **Salary:** $82k–$94k/yr
 - 🕒 **Posted:** 2026-10-28
