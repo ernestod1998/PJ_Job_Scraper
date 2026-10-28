@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-27 20:48 UTC",
-  "total": 2,
-  "new_count": 1,
+  "scraped_at": "2026-10-28 21:11 UTC",
+  "total": 4,
+  "new_count": 2,
   "jobs": [
     {
       "company": "State of South Carolina",
@@ -26,16 +26,52 @@
       "feeds": [
         "general"
       ]
+    },
+    {
+      "company": "City of Santa Monica",
+      "title": "Event Coordinator (As-Needed)",
+      "location": "City of Santa Monica, CA",
+      "url": "https://www.governmentjobs.com/jobs/5518356-0/event-coordinator-as-needed",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "City of Long Beach",
+      "title": "Events Coordinator I",
+      "location": "City of Long Beach, CA",
+      "url": "https://www.governmentjobs.com/jobs/5517691-0/events-coordinator-i",
+      "date_posted": "",
+      "salary": "$26.99 - $36.66 Hourly",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
     }
   ],
   "new_jobs": [
     {
-      "company": "State of South Carolina",
-      "title": "Program Coordinator II - Berkeley",
-      "location": "Berkeley County, SC",
-      "url": "https://www.governmentjobs.com/jobs/5521954-0/program-coordinator-ii-berkeley",
+      "company": "City of Santa Monica",
+      "title": "Event Coordinator (As-Needed)",
+      "location": "City of Santa Monica, CA",
+      "url": "https://www.governmentjobs.com/jobs/5518356-0/event-coordinator-as-needed",
       "date_posted": "",
-      "salary": "$51,039.00 - $59,622.00 Annually",
+      "salary": "",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "City of Long Beach",
+      "title": "Events Coordinator I",
+      "location": "City of Long Beach, CA",
+      "url": "https://www.governmentjobs.com/jobs/5517691-0/events-coordinator-i",
+      "date_posted": "",
+      "salary": "$26.99 - $36.66 Hourly",
       "ats": "NEOGOV",
       "feeds": [
         "general"
