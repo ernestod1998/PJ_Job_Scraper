@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-28 21:12 UTC",
+  "scraped_at": "2026-10-29 21:15 UTC",
   "total": 8,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Metropolitan Transportation Commission Mtc",
@@ -100,20 +100,7 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Metropolitan Transportation Commission Mtc",
-      "title": "Executive Assistant III",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/metropolitan-transportation-commission-mtc/job-20788366",
-      "date_posted": "",
-      "salary": "$112,139.72-$142,220.28 Annually",
-      "ats": "CalOpps",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
