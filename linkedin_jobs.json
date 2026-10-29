@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-29 07:00 UTC",
-  "total": 64,
-  "new_count": 60,
+  "scraped_at": "2026-10-29 07:44 UTC",
+  "total": 61,
+  "new_count": 1,
   "jobs": [
     {
       "company": "RUN IT Women's Workforce",
@@ -60,17 +60,6 @@
       ]
     },
     {
-      "company": "Amazon",
-      "title": "Executive Assistant, MGM Theatrical",
-      "location": "Culver City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484779217/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "Stryker",
       "title": "Marketing Associate, DVT",
       "location": "Irvine, CA",
@@ -82,13 +71,34 @@
       ]
     },
     {
-      "company": "National Federation of Independent Business (NFIB)",
-      "title": "Outside Sales Representative",
-      "location": "Gardena, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484760201/",
+      "company": "Amazon",
+      "title": "Executive Assistant, MGM Theatrical",
+      "location": "Culver City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484779217/",
       "date_posted": "2026-10-29",
       "ats": "LinkedIn",
-      "salary": "$70,000.00/yr - $200,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Dentsply Sirona",
+      "title": "Territory Sales Representative, Dental Implants MIS",
+      "location": "Anaheim, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484905712/",
+      "date_posted": "2026-10-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Dentsply Sirona",
+      "title": "Territory Sales Representative, Dental Implants MIS",
+      "location": "Long Beach, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484913220/",
+      "date_posted": "2026-10-29",
+      "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
@@ -106,23 +116,13 @@
       ]
     },
     {
-      "company": "Dentsply Sirona",
-      "title": "Territory Sales Representative, Dental Implants MIS",
-      "location": "Long Beach, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484913220/",
+      "company": "National Federation of Independent Business (NFIB)",
+      "title": "Outside Sales Representative",
+      "location": "Gardena, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484760201/",
       "date_posted": "2026-10-29",
       "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Dentsply Sirona",
-      "title": "Territory Sales Representative, Dental Implants MIS",
-      "location": "Anaheim, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484905712/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
+      "salary": "$70,000.00/yr - $200,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -263,13 +263,12 @@
       ]
     },
     {
-      "company": "National Federation of Independent Business (NFIB)",
-      "title": "Outside Sales Representative",
-      "location": "Vacaville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484744884/",
+      "company": "Securitas Security Services USA, Inc.",
+      "title": "Account Manager",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473448168/",
       "date_posted": "2026-10-29",
       "ats": "LinkedIn",
-      "salary": "$70,000.00/yr - $200,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -279,17 +278,6 @@
       "title": "Assistant Account Manager",
       "location": "Oakland, CA",
       "url": "https://www.linkedin.com/jobs/view/4473407906/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Securitas Security Services USA, Inc.",
-      "title": "Account Manager",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473448168/",
       "date_posted": "2026-10-29",
       "ats": "LinkedIn",
       "feeds": [
@@ -331,55 +319,22 @@
       ]
     },
     {
+      "company": "National Federation of Independent Business (NFIB)",
+      "title": "Outside Sales Representative",
+      "location": "Vacaville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4484744884/",
+      "date_posted": "2026-10-29",
+      "ats": "LinkedIn",
+      "salary": "$70,000.00/yr - $200,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Evlo AI",
       "title": "Social Media Manager",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4483667864/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CB2",
-      "title": "Operations Associate",
-      "location": "Berkeley, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483371048/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "salary": "$19.61/hr - $22.50/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Gopuff",
-      "title": "Operations Associate - Distribution Center, Richmond",
-      "location": "Richmond, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484783766/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Neiman Marcus",
-      "title": "Seasonal Operations Associate (15 Hours)",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484740469/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Related Affordable",
-      "title": "Community Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477898176/",
       "date_posted": "2026-10-29",
       "ats": "LinkedIn",
       "feeds": [
@@ -431,66 +386,10 @@
       ]
     },
     {
-      "company": "Stefanini North America and APAC",
-      "title": "Energy Efficiency Business Development Representative",
-      "location": "Newark, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4484900017/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "Electro",
       "title": "Sorority Marketing Coordinator Intern",
       "location": "New York, NY",
       "url": "https://www.linkedin.com/jobs/view/4484793237/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Uber",
-      "title": "Account Manager I, Eats SMB",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4484797189/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "National Federation of Independent Business (NFIB)",
-      "title": "Outside Sales Representative",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4484748612/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "salary": "$70,000.00/yr - $200,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Fortinet",
-      "title": "Inside Territory Account Manager, SLED",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4484920013/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Voya Financial",
-      "title": "Client Relationship Manager",
-      "location": "Newark, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4484761429/",
       "date_posted": "2026-10-29",
       "ats": "LinkedIn",
       "feeds": [
@@ -520,10 +419,54 @@
       ]
     },
     {
+      "company": "Daisy",
+      "title": "Account Coordinator",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4444358177/",
+      "date_posted": "2026-10-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Uber",
+      "title": "Account Manager I, Eats SMB",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4484797189/",
+      "date_posted": "2026-10-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Voya Financial",
+      "title": "Client Relationship Manager",
+      "location": "Newark, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4484761429/",
+      "date_posted": "2026-10-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Stryker",
       "title": "Arterial Account Manager - New York Metro - Peripheral Vascular",
       "location": "New York, NY",
       "url": "https://www.linkedin.com/jobs/view/4480200940/",
+      "date_posted": "2026-10-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Fortinet",
+      "title": "Inside Territory Account Manager, SLED",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4484920013/",
       "date_posted": "2026-10-29",
       "ats": "LinkedIn",
       "feeds": [
@@ -542,6 +485,17 @@
       ]
     },
     {
+      "company": "Stefanini North America and APAC",
+      "title": "Energy Efficiency Business Development Representative",
+      "location": "Newark, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4484900017/",
+      "date_posted": "2026-10-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Colangelo & Partners",
       "title": "Digital Marketing Manager",
       "location": "New York, NY",
@@ -549,6 +503,18 @@
       "date_posted": "2026-10-29",
       "ats": "LinkedIn",
       "salary": "$70,000.00/yr - $95,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "National Federation of Independent Business (NFIB)",
+      "title": "Outside Sales Representative",
+      "location": "Jersey City, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4484748612/",
+      "date_posted": "2026-10-29",
+      "ats": "LinkedIn",
+      "salary": "$70,000.00/yr - $200,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -582,7 +548,6 @@
       "url": "https://www.linkedin.com/jobs/view/4483752209/",
       "date_posted": "2026-10-29",
       "ats": "LinkedIn",
-      "salary": "$14,705.00/mo - $20,760.00/mo",
       "feeds": [
         "general"
       ]
@@ -665,28 +630,6 @@
       ]
     },
     {
-      "company": "Voya Financial",
-      "title": "Client Relationship Manager - 401k",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4484753594/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Datadog",
-      "title": "Major Account Manager",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4484770250/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "Ketch",
       "title": "Enterprise/Strategic Customer Success Lead",
       "location": "Chicago, IL",
@@ -698,10 +641,32 @@
       ]
     },
     {
+      "company": "Voya Financial",
+      "title": "Client Relationship Manager - 401k",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4484753594/",
+      "date_posted": "2026-10-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Medtronic",
       "title": "AiBLE Strategic Sales Representative 3 - Chicago,, IL",
       "location": "Chicago, IL",
       "url": "https://www.linkedin.com/jobs/view/4484903088/",
+      "date_posted": "2026-10-29",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Datadog",
+      "title": "Major Account Manager",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4484770250/",
       "date_posted": "2026-10-29",
       "ats": "LinkedIn",
       "feeds": [
@@ -722,670 +687,10 @@
   ],
   "new_jobs": [
     {
-      "company": "RUN IT Women's Workforce",
-      "title": "Administrative Assistant Project Coordinator",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484914093/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cedars-Sinai",
-      "title": "Clinical Research Coordinator II, Hybrid",
-      "location": "Beverly Hills, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484914061/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "salary": "$28.86/hr - $49.06/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "StubHub",
-      "title": "Marketing Operations Associate, Direct Marketing",
-      "location": "Aliso Viejo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484780953/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "StubHub",
-      "title": "Marketing Operations Associate, Direct Marketing",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484787761/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Chroma ATE, Inc. (USA)",
-      "title": "Marketing Specialist",
-      "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484799635/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Amazon",
-      "title": "Executive Assistant, MGM Theatrical",
-      "location": "Culver City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484779217/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stryker",
-      "title": "Marketing Associate, DVT",
-      "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484903693/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "National Federation of Independent Business (NFIB)",
-      "title": "Outside Sales Representative",
-      "location": "Gardena, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484760201/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "salary": "$70,000.00/yr - $200,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Vaco by Highspring",
-      "title": "Retainer Specialist (Inside Sales)",
-      "location": "Glendale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484905149/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "salary": "$40.00/hr - $45.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Dentsply Sirona",
-      "title": "Territory Sales Representative, Dental Implants MIS",
-      "location": "Long Beach, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484913220/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Dentsply Sirona",
-      "title": "Territory Sales Representative, Dental Implants MIS",
-      "location": "Anaheim, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484905712/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Dentsply Sirona",
-      "title": "Territory Sales Representative, Dental Implants MIS",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484799854/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CubeSmart",
-      "title": "Store Operations Associate",
-      "location": "Mission Viejo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484788669/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Wells Fargo",
-      "title": "Branch Operations Associate Manager Marina Del Rey",
-      "location": "Marina del Rey, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484791824/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "University of California, San Francisco",
-      "title": "Medical Student Program Coordinator",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483313171/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "OHG Brands",
-      "title": "Franchise Field Marketing Coordinator",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4482035067/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "xTool Official",
-      "title": "Part-Time Marketing Operations Coordinator",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484922053/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stripe",
-      "title": "Customer Success Enablement Business Partner",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484910012/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Rysein",
-      "title": "Customer Success Enablement Business Partner",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4484912575/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Securitas Security Services USA, Inc.",
-      "title": "Assistant Account Manager",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4474059716/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Career Group",
-      "title": "Executive Assistant to CMO - Hybrid",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484797431/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "salary": "$120,000.00/yr - $130,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Apex Systems",
-      "title": "Executive Assistant",
-      "location": "San Rafael, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484772049/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "salary": "$30.00/hr - $35.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "National Federation of Independent Business (NFIB)",
-      "title": "Outside Sales Representative",
-      "location": "Danville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484758370/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "salary": "$70,000.00/yr - $200,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "National Federation of Independent Business (NFIB)",
-      "title": "Outside Sales Representative",
-      "location": "Vacaville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484744884/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "salary": "$70,000.00/yr - $200,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Securitas Security Services USA, Inc.",
-      "title": "Account Manager",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473448168/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Ketch",
-      "title": "Enterprise/Strategic Customer Success Lead",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484793483/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Gamma",
-      "title": "Customer Success Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4403253750/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Aquent",
-      "title": "Marketing Specialist (III) [AQ-24403]",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484906679/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "salary": "$71.00/hr - $81.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Evlo AI",
-      "title": "Social Media Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483667864/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "CB2",
-      "title": "Operations Associate",
-      "location": "Berkeley, CA",
-      "url": "https://www.linkedin.com/jobs/view/4483371048/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "salary": "$19.61/hr - $22.50/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Gopuff",
-      "title": "Operations Associate - Distribution Center, Richmond",
-      "location": "Richmond, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484783766/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Neiman Marcus",
-      "title": "Seasonal Operations Associate (15 Hours)",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484740469/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Related Affordable",
-      "title": "Community Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4477898176/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "StubHub",
-      "title": "Marketing Operations Associate, Direct Marketing",
+      "company": "Daisy",
+      "title": "Account Coordinator",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4484777979/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "BNP Paribas Asset Management",
-      "title": "Marketing Specialist - Americas",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4477410282/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NPAworldwide",
-      "title": "Bilingual Insurance Account Manager (Mandarin & English)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4483270589/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "hello82",
-      "title": "NYC Fan Space Community Manager",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4484910605/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stefanini North America and APAC",
-      "title": "Energy Efficiency Business Development Representative",
-      "location": "Newark, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4484900017/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Electro",
-      "title": "Sorority Marketing Coordinator Intern",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4484793237/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Uber",
-      "title": "Account Manager I, Eats SMB",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4484797189/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Fortinet",
-      "title": "Inside Territory Account Manager, SLED",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4484920013/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Voya Financial",
-      "title": "Client Relationship Manager",
-      "location": "Newark, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4484761429/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Evlo AI",
-      "title": "Social Media Manager",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4483679603/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "JOLT",
-      "title": "Account Manager, Media Sales",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4482594046/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Stryker",
-      "title": "Arterial Account Manager - New York Metro - Peripheral Vascular",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4480200940/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Ketch",
-      "title": "Enterprise/Strategic Customer Success Lead",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4484796280/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Colangelo & Partners",
-      "title": "Digital Marketing Manager",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4484795683/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "salary": "$70,000.00/yr - $95,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Kennesaw State University",
-      "title": "Program Coordinator, CARE Services",
-      "location": "Kennesaw, GA",
-      "url": "https://www.linkedin.com/jobs/view/4441054773/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hewlett Packard Enterprise",
-      "title": "Customer Success Manager Intern",
-      "location": "Alpharetta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4484418675/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Alignerr",
-      "title": "Frontier Data Lead \u2013 Client Success & AI Partnerships",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4483752209/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "salary": "$14,705.00/mo - $20,760.00/mo",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Arrow Electronics",
-      "title": "Sales Operations Associate II",
-      "location": "Alpharetta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4484906089/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "RS Americas",
-      "title": "Key Account Manager Business Development - Atlanta, GA",
-      "location": "Suwanee, GA",
-      "url": "https://www.linkedin.com/jobs/view/4379662690/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Ketch",
-      "title": "Enterprise/Strategic Customer Success Lead",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4484785961/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Lyric Opera of Chicago",
-      "title": "Institutional Partnerships Associate",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4484783937/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Evlo AI",
-      "title": "Digital Marketing Specialist",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4483676555/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Alkira, Inc.",
-      "title": "Channel Account Manager - Chicago",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4484913195/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Evlo AI",
-      "title": "Social Media Manager",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4483673685/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Ketch",
-      "title": "Enterprise/Strategic Customer Success Lead",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4484787886/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Medtronic",
-      "title": "AiBLE Strategic Sales Representative 3 - Chicago,, IL",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4484903088/",
-      "date_posted": "2026-10-29",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "BioSpace",
-      "title": "Operations Coordinator, Materials Management Operations",
-      "location": "North Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4484908491/",
+      "url": "https://www.linkedin.com/jobs/view/4444358177/",
       "date_posted": "2026-10-29",
       "ats": "LinkedIn",
       "feeds": [
