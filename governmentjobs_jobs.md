@@ -1,6 +1,7 @@
 # 🏛 NEOGOV — State & Local Government Roles
-*Last updated: 2026-10-29 21:14 UTC*
+*Last updated: 2026-10-30 20:54 UTC*
 
-**0 new role(s)** since last run · 2 total in recent GovernmentJobs postings
+**1 new role(s)** since last run · 3 total in recent GovernmentJobs postings
 
-No new state/local-gov roles since the last run.
+### [Event Coordinator (As-Needed)](https://www.governmentjobs.com/jobs/5518356-0/event-coordinator-as-needed) — City of Santa Monica
+- 📍 **Location:** City of Santa Monica, CA
