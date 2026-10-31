@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-30 20:54 UTC",
-  "total": 3,
-  "new_count": 1,
+  "scraped_at": "2026-10-31 20:06 UTC",
+  "total": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "State of South Carolina",
@@ -26,34 +26,9 @@
       "feeds": [
         "general"
       ]
-    },
-    {
-      "company": "City of Santa Monica",
-      "title": "Event Coordinator (As-Needed)",
-      "location": "City of Santa Monica, CA",
-      "url": "https://www.governmentjobs.com/jobs/5518356-0/event-coordinator-as-needed",
-      "date_posted": "",
-      "salary": "",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "City of Santa Monica",
-      "title": "Event Coordinator (As-Needed)",
-      "location": "City of Santa Monica, CA",
-      "url": "https://www.governmentjobs.com/jobs/5518356-0/event-coordinator-as-needed",
-      "date_posted": "",
-      "salary": "",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
