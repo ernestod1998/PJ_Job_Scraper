@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-30 20:04 UTC",
+  "scraped_at": "2026-10-31 19:29 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Veterans Health Administration",
@@ -16,25 +16,12 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker (Program Coordinator)",
-      "location": "New York, New York",
-      "url": "https://www.usajobs.gov/job/891032100",
-      "date_posted": "2026-10-30",
-      "salary": "Starting at $105,481 Per year (GS 12)",
-      "ats": "USAJOBS",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 19,
+    "location": 17,
     "stale": 0
   }
 }
