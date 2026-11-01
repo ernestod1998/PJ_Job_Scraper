@@ -1,73 +1,84 @@
 # 🔥 LinkedIn — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-10-31 23:18 UTC*
+*Last updated: 2026-11-01 07:24 UTC*
 
-**16 new role(s)** since last run · 16 total in last 4h
+**19 new role(s)** since last run · 19 total in last 4h
 
-### [CRM Coordinator](https://www.linkedin.com/jobs/view/4483958267/) — Creative Circle
-- 📍 **Location:** Burbank, CA
-- 💰 **Salary:** $35.00/hr - $38.98/hr
-- 🕒 **Posted:** 2026-10-31
-
-### [Sales & Growth Marketing Coordinator](https://www.linkedin.com/jobs/view/4482846142/) — Mama Bijoux
+### [Operations Coordinator](https://www.linkedin.com/jobs/view/4485180803/) — TEC Group, Inc.
 - 📍 **Location:** Costa Mesa, CA
-- 🕒 **Posted:** 2026-10-31
+- 🕒 **Posted:** 2026-11-01
 
-### [Public Relations Specialist](https://www.linkedin.com/jobs/view/4483960291/) — HGA
-- 📍 **Location:** Santa Monica, CA
-- 🕒 **Posted:** 2026-10-31
+### [Inside Sales Engineer - Level II (Data Center)](https://www.linkedin.com/jobs/view/4485194578/) — Air Treatment Corporation
+- 📍 **Location:** Brea, CA
+- 🕒 **Posted:** 2026-11-01
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4484095274/) — Suddath
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-31
+### [Healthcare Sales Representative](https://www.linkedin.com/jobs/view/4485196459/) — Arohana Tech Solutions Private Limited
+- 📍 **Location:** Pasadena, CA
+- 💰 **Salary:** $75,000.00/yr - $75,000.00/yr
+- 🕒 **Posted:** 2026-11-01
 
-### [Public Relations Specialist](https://www.linkedin.com/jobs/view/4483947863/) — HGA
+### [Healthcare Sales Representative](https://www.linkedin.com/jobs/view/4485187572/) — Arohana Tech Solutions Private Limited
+- 📍 **Location:** Carson, CA
+- 💰 **Salary:** $75,000.00/yr - $75,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [Sales Development Representative](https://www.linkedin.com/jobs/view/4470719250/) — WeShare Health
+- 📍 **Location:** Orange, CA
+- 🕒 **Posted:** 2026-11-01
+
+### [Account Manager In Training](https://www.linkedin.com/jobs/view/4485196624/) — MOC Products Company, Inc.
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-11-01
+
+### [Experienced Aerospace Fastener Sales Representative](https://www.linkedin.com/jobs/view/4485199553/) — Align Aerospace
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-11-01
+
+### [Moncler Regional Client Relations Manager, West Coast](https://www.linkedin.com/jobs/view/4485176378/) — BoF Careers
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-11-01
+
+### [Geo Marketing Specialist](https://www.linkedin.com/jobs/view/4476464321/) — Cooley LLP
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-31
+- 🕒 **Posted:** 2026-11-01
 
-### [Customer Service Sales Representative](https://www.linkedin.com/jobs/view/4485924230/) — ABB Northwest
-- 📍 **Location:** Hayward, CA
-- 🕒 **Posted:** 2026-10-31
+### [Recruiting Coordinator & Scheduler – 6 month contract](https://www.linkedin.com/jobs/view/4485934696/) — Rezolute, Inc.
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-11-01
 
-### [Executive Assistant](https://www.linkedin.com/jobs/view/4483957374/) — TBG | The Bachrach Group
+### [Recruiting Operations Specialist](https://www.linkedin.com/jobs/view/4485925678/) — Baseten
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $80,000.00/yr - $110,000.00/yr
+- 🕒 **Posted:** 2026-11-01
+
+### [Content Specialist &amp; Visual Designer [AQ-24826]](https://www.linkedin.com/jobs/view/4483961905/) — Aquent
+- 📍 **Location:** Cupertino, CA
+- 💰 **Salary:** $34.00/hr - $38.00/hr
+- 🕒 **Posted:** 2026-11-01
+
+### [Sales Development Representative](https://www.linkedin.com/jobs/view/4485193572/) — Bayworks
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-01
+
+### [PRADA Retail Merchandising Coordinator, Men's FTW](https://www.linkedin.com/jobs/view/4485199020/) — BoF Careers
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $175,000.00/yr - $225,000.00/yr
-- 🕒 **Posted:** 2026-10-31
+- 🕒 **Posted:** 2026-11-01
 
-### [Inside Sales Representative](https://www.linkedin.com/jobs/view/4485919794/) — United Auto Film
-- 📍 **Location:** Queens, NY
-- 🕒 **Posted:** 2026-10-31
+### [Cleaning Supervisor/Account Coordinator](https://www.linkedin.com/jobs/view/4485194271/) — Imperial Cleaning
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-01
 
-### [Sales Development Representative](https://www.linkedin.com/jobs/view/4483950554/) — ADWEEK
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-31
+### [Cleaning Supervisor/Account Coordinator (Bi-Lingual English/Spanish)](https://www.linkedin.com/jobs/view/4485179477/) — Imperial Cleaning
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-01
 
-### [National Account Manager - Construction & Facilities](https://www.linkedin.com/jobs/view/4478292748/) — CORE GROUP NA
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-31
+### [Global Account Manager](https://www.linkedin.com/jobs/view/4485935755/) — Cogent Communications
+- 📍 **Location:** Atlanta Metropolitan Area
+- 🕒 **Posted:** 2026-11-01
 
-### [Client Services Onsite Support Engineer](https://www.linkedin.com/jobs/view/4472832235/) — LISS Technologies
-- 📍 **Location:** Manhattan, NY
-- 💰 **Salary:** $65,000.00/yr - $80,000.00/yr
-- 🕒 **Posted:** 2026-10-31
+### [Social & Creative Coordinator](https://www.linkedin.com/jobs/view/4485400142/) — Lifeway Mobility
+- 📍 **Location:** Arlington Heights, IL
+- 🕒 **Posted:** 2026-11-01
 
-### [Scheduling & Operations Assistant | Remote](https://www.linkedin.com/jobs/view/4485920563/) — Premier Destination Group
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $45,000.00/yr - $65,000.00/yr
-- 🕒 **Posted:** 2026-10-31
-
-### [Remote Inside Sales Rep - AI-Enabled, Flexible Hours (Independent Contractor)](https://www.linkedin.com/jobs/view/4485921608/) — Sellfire
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-10-31
-
-### [Executive Assistant - Consulting](https://www.linkedin.com/jobs/view/4484134980/) — Vizient
+### [Customer Success Intern (Summer 2027)](https://www.linkedin.com/jobs/view/4479320943/) — C.H. Robinson
 - 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-10-31
-
-### [Remote Inside Sales Rep - AI-Enabled, Flexible Hours (Independent Contractor)](https://www.linkedin.com/jobs/view/4485918744/) — Sellfire
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-10-31
-
-### [National Sales Representative (A&D lighting)](https://www.linkedin.com/jobs/view/4485920575/) — Impact Partners Group
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $150,000.00/yr - $225,000.00/yr
-- 🕒 **Posted:** 2026-10-31
+- 🕒 **Posted:** 2026-11-01
