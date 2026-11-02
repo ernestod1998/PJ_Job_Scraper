@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-01 20:37 UTC",
-  "total": 3,
+  "scraped_at": "2026-11-02 23:37 UTC",
+  "total": 4,
   "new_count": 1,
   "jobs": [
     {
@@ -28,6 +28,18 @@
       ]
     },
     {
+      "company": "Los Angeles City Attorney's Office (CA)",
+      "title": "Administrative Coordinator I",
+      "location": "Los Angeles City Hall - East",
+      "url": "https://www.governmentjobs.com/jobs/5537177-0/administrative-coordinator-i",
+      "date_posted": "",
+      "salary": "$77,903.00 - $113,900.00 Annually",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "City of Santa Monica",
       "title": "Event Coordinator (As-Needed)",
       "location": "City of Santa Monica, CA",
@@ -42,12 +54,12 @@
   ],
   "new_jobs": [
     {
-      "company": "City of Santa Monica",
-      "title": "Event Coordinator (As-Needed)",
-      "location": "City of Santa Monica, CA",
-      "url": "https://www.governmentjobs.com/jobs/5518356-0/event-coordinator-as-needed",
+      "company": "Los Angeles City Attorney's Office (CA)",
+      "title": "Administrative Coordinator I",
+      "location": "Los Angeles City Hall - East",
+      "url": "https://www.governmentjobs.com/jobs/5537177-0/administrative-coordinator-i",
       "date_posted": "",
-      "salary": "",
+      "salary": "$77,903.00 - $113,900.00 Annually",
       "ats": "NEOGOV",
       "feeds": [
         "general"
