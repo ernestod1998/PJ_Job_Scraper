@@ -1,27 +1,38 @@
 # 🟦 Indeed — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-11-01 23:50 UTC*
+*Last updated: 2026-11-02 08:12 UTC*
 
-**5 new role(s)** since last run · 17 total in last 24h
+**7 new role(s)** since last run · 20 total in last 24h
 
-### [Restoration Sales Representative](https://www.indeed.com/viewjob?jk=32d21a0aa40921f2) — Bright Horizon Care
-- 📍 **Location:** Huntington Beach, CA, USA
-- 💰 **Salary:** $30k/yr
-- 🕒 **Posted:** 2026-11-01
+### [Administrative Coordinator - YouTube Theater](https://www.indeed.com/viewjob?jk=62e8c1a01b074142) — Hollywood Park Management Company, LLC.
+- 📍 **Location:** Inglewood, CA, USA
+- 💰 **Salary:** $25–$28/hr
+- 🕒 **Posted:** 2026-11-02
 
-### [Executive Assistant & Content Producer to the CEO (Beauty Tech Startup, Full-Time)](https://www.indeed.com/viewjob?jk=6471ea67eb290177) — Seoul Beauty Club
-- 📍 **Location:** Irvine, CA, USA
-- 💰 **Salary:** $60k–$78k/yr
-- 🕒 **Posted:** 2026-11-01
+### [Community Outreach Coordinator](https://www.indeed.com/viewjob?jk=a128efe200f87696) — Fleet Feet
+- 📍 **Location:** Laguna Niguel, CA, USA
+- 💰 **Salary:** $20–$24/hr
+- 🕒 **Posted:** 2026-11-02
 
-### [Part-Time Project Coordinator & Client Representative](https://www.indeed.com/viewjob?jk=6baf49a9b6539bf6) — SIGNS VISUAL INDUSTRIES OF NEW YORK, INC.
+### [Customer Sales Representative](https://www.indeed.com/viewjob?jk=0fc612143824433b) — Elysian Consultants
+- 📍 **Location:** Santa Ana, CA, USA
+- 💰 **Salary:** $1000–$1500/wk
+- 🕒 **Posted:** 2026-11-02
+
+### [Customer Success Manager I](https://www.indeed.com/viewjob?jk=f67d459836797aaf) — Everlaw
+- 📍 **Location:** Oakland, CA, USA
+- 💰 **Salary:** $116k–$148k/yr
+- 🕒 **Posted:** 2026-11-02
+
+### [Sales Development Representative](https://www.indeed.com/viewjob?jk=987b47b015c9edd7) — Chisel Industries
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $60k/yr
+- 🕒 **Posted:** 2026-11-02
+
+### [Hotel Partnerships & Business Development Representative](https://www.indeed.com/viewjob?jk=df2825e67d51f258) — Bagzee
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $20–$25/hr
-- 🕒 **Posted:** 2026-11-01
+- 💰 **Salary:** $40k–$125k/yr
+- 🕒 **Posted:** 2026-11-02
 
-### [Technical Project Coordinator - Modular Secondary Steel Construction (m / f / d)](https://www.indeed.com/viewjob?jk=6cd6d3201a7c8029) — SIKLA
-- 📍 **Location:** Suwanee, GA, USA
-- 🕒 **Posted:** 2026-11-01
-
-### [Social Media Manager & Content Creator — Full-Time](https://www.indeed.com/viewjob?jk=5b8515884a063ffe) — Remodel Republic
+### [Program Specialist, Project Thrive](https://www.indeed.com/viewjob?jk=96f4428d92320498) — Fulton County Schools
 - 📍 **Location:** Atlanta, GA, USA
-- 🕒 **Posted:** 2026-11-01
+- 🕒 **Posted:** 2026-11-02
