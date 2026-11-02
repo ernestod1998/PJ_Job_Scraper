@@ -1,648 +1,262 @@
 # 🗃 Direct ATS Registry — Marketing / Account Mgmt / Coordinator Roles
-*Last updated: 2026-11-01 18:35 UTC*
+*Last updated: 2026-11-02 22:48 UTC*
 
-**161 new role(s)** since last run · 163 total in current registry shard
+**65 new role(s)** since last run · 65 total in current registry shard
 
-### [Operations Associate (Day Shift)](https://jobs.ashbyhq.com/triumph-arcade/89f66367-caee-4394-8183-db77ba114e72) — Triumph
-- 📍 **Location:** Fremont
-- 🕒 **Posted:** 2026-10-20
+### [Product Marketing Specialist - Accessories](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Product-Marketing-Specialist---Accessories_R69014) — Motorola
+- 📍 **Location:** Chicago, IL, More...
+- 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Operations Associate (Night Shift)](https://jobs.ashbyhq.com/triumph-arcade/0dc00586-9039-4424-a0c5-d2ee00379db2) — Triumph
-- 📍 **Location:** Fremont
-- 🕒 **Posted:** 2026-10-20
+### [Communications Specialist, Strategy & Operations](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Communications-Specialist--Strategy---Operations_R68745) — Motorola
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Sales Development Representative, Enterprise](https://jobs.ashbyhq.com/vanta/c4652ceb-a50d-4dad-ab08-a386617a53f5) — Vanta
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-15
+### [Communications Specialist](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Communications-Specialist_R68305) — Motorola
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Sales Development Representative, Enterprise](https://jobs.ashbyhq.com/vanta/ed31b882-0d92-4bcd-a0e7-bed3a7d04ec4) — Vanta
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-15
-
-### [Customer Success Manager](https://jobs.ashbyhq.com/veritus/006e1f3c-e8c5-484c-a6fa-cb07b0b88606) — Veritus
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-29
-
-### [Operations Associate (University Hire) ](https://jobs.ashbyhq.com/voleon/6953e829-c69d-43dc-9b39-49ab1b487b2d) — The Voleon Group
-- 📍 **Location:** Berkeley, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Technical Account Manager, Institutional](https://jobs.ashbyhq.com/wealth-com/a19c054b-0c79-4f67-b9b0-844bbf605cb3) — Wealth.com
-- 📍 **Location:** New York, New York
-- 🕒 **Posted:** 2026-10-01
-
-### [Account Manager, Institutional ](https://jobs.ashbyhq.com/wealth-com/834d7679-9f74-454e-96ec-b9d53eb02f2d) — Wealth.com
-- 📍 **Location:** New York, New York
-- 🕒 **Posted:** 2026-10-20
-
-### [Account Manager](https://jobs.ashbyhq.com/zip/1bbcaf79-2f1b-460e-a1e2-001734012f1a) — Zip
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-10-14
-
-### [Business Operations Manager](https://jobs.ashbyhq.com/zip/e7f5d4ff-22d7-4617-8fbd-ba8865e51490) — Zip
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-14
-
-### [Commercial Account Manager](https://jobs.ashbyhq.com/zip/a680403b-9f1d-4cad-8861-4e4ff81681e2) — Zip
-- 📍 **Location:** New York City
-- 🕒 **Posted:** 2026-08-18
-
-### [Recruiting Coordinator](https://jobs.ashbyhq.com/zip/09c4c0b7-164a-4c9d-8bd6-7203f3aa3f83) — Zip
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-03
-
-### [Paid Public Relations & Marketing Internship](https://617mediagroup.com/careers/?gh_jid=8839014002) — 617mediagroup
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-23
-
-### [Business Development Representative - NYC](https://job-boards.greenhouse.io/addepar1/jobs/8842072002) — Addepar
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-07
-
-### [Manager, Field Marketing Lead](https://job-boards.greenhouse.io/addepar1/jobs/8594212002) — Addepar
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-07
-
-### [Customer Success Associate](https://job-boards.greenhouse.io/alphasense/jobs/8600929002) — AlphaSense
-- 📍 **Location:** IL Chicago; New York, New York, United States
-- 🕒 **Posted:** 2026-10-30
-
-### [Customer Success Manager, Corporate](https://job-boards.greenhouse.io/alphasense/jobs/8191964002) — AlphaSense
-- 📍 **Location:** Chicago; New York, New York, United States
-- 🕒 **Posted:** 2026-10-16
-
-### [Sales Development Representative ](https://job-boards.greenhouse.io/alphasense/jobs/8609652002) — AlphaSense
-- 📍 **Location:** New York, New York, United States
-- 🕒 **Posted:** 2026-10-16
-
-### [2027 Business Operations Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007) — Anduril
-- 📍 **Location:** Ashville, Ohio, United States; Costa Mesa, California, United States
-- 🕒 **Posted:** 2026-10-30
-
-### [2027 Business Operations Intern](https://boards.greenhouse.io/andurilindustries/jobs/5271826007?gh_jid=5271826007) — Anduril
-- 📍 **Location:** Costa Mesa, California, United States; Seattle, Washington, United States
-- 🕒 **Posted:** 2026-10-30
-
-### [2027 Early Career Business Operations Associate](https://boards.greenhouse.io/andurilindustries/jobs/5271811007?gh_jid=5271811007) — Anduril
-- 📍 **Location:** Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States
-- 🕒 **Posted:** 2026-10-30
-
-### [Business Operations, Air Dominance & Strike](https://boards.greenhouse.io/andurilindustries/jobs/5155193007?gh_jid=5155193007) — Anduril
-- 📍 **Location:** Costa Mesa, California, United States
-- 🕒 **Posted:** 2026-10-30
-
-### [Business Operations, Air Dominance & Strike](https://boards.greenhouse.io/andurilindustries/jobs/4790841007?gh_jid=4790841007) — Anduril
-- 📍 **Location:** Costa Mesa, California, United States
-- 🕒 **Posted:** 2026-10-30
-
-### [Business Operations, Anduril](https://boards.greenhouse.io/andurilindustries/jobs/5219004007?gh_jid=5219004007) — Anduril
-- 📍 **Location:** Costa Mesa, California, United States
-- 🕒 **Posted:** 2026-10-30
-
-### [Business Operations Associate](https://boards.greenhouse.io/andurilindustries/jobs/4951316007?gh_jid=4951316007) — Anduril
-- 📍 **Location:** Costa Mesa, California, United States
-- 🕒 **Posted:** 2026-10-30
-
-### [Business Operations Associate, Production](https://boards.greenhouse.io/andurilindustries/jobs/4619191007?gh_jid=4619191007) — Anduril
-- 📍 **Location:** Costa Mesa, California, United States
-- 🕒 **Posted:** 2026-10-30
-
-### [Business Operations Associate - Technical Projects](https://boards.greenhouse.io/andurilindustries/jobs/4951318007?gh_jid=4951318007) — Anduril
-- 📍 **Location:** Costa Mesa, California, United States
-- 🕒 **Posted:** 2026-10-30
-
-### [Business Operations Engineer, Air Dominance & Strike ](https://boards.greenhouse.io/andurilindustries/jobs/5111193007?gh_jid=5111193007) — Anduril
-- 📍 **Location:** Costa Mesa, California, United States
-- 🕒 **Posted:** 2026-10-30
-
-### [Business Operations Lead](https://boards.greenhouse.io/andurilindustries/jobs/4951325007?gh_jid=4951325007) — Anduril
-- 📍 **Location:** Costa Mesa, California, United States
-- 🕒 **Posted:** 2026-10-30
-
-### [Business Operations Lead - Technical Projects](https://boards.greenhouse.io/andurilindustries/jobs/5117374007?gh_jid=5117374007) — Anduril
-- 📍 **Location:** Costa Mesa, California, United States
-- 🕒 **Posted:** 2026-10-30
-
-### [Business Operations, Production](https://boards.greenhouse.io/andurilindustries/jobs/5195711007?gh_jid=5195711007) — Anduril
-- 📍 **Location:** Costa Mesa, California, United States
-- 🕒 **Posted:** 2026-10-30
-
-### [Manager, Business Operations, Air Defense](https://boards.greenhouse.io/andurilindustries/jobs/5195990007?gh_jid=5195990007) — Anduril
-- 📍 **Location:** Irvine, California, United States
-- 🕒 **Posted:** 2026-10-30
-
-### [Production Coordinator (2nd Shift)](https://boards.greenhouse.io/andurilindustries/jobs/5239794007?gh_jid=5239794007) — Anduril
-- 📍 **Location:** Atlanta, Georgia, United States
-- 🕒 **Posted:** 2026-10-30
-
-### [Production Coordinator, Core Tech](https://boards.greenhouse.io/andurilindustries/jobs/5155164007?gh_jid=5155164007) — Anduril
-- 📍 **Location:** Santa Ana, California, United States
-- 🕒 **Posted:** 2026-10-30
-
-### [Production Coordinator, Electromagnetic Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5124708007?gh_jid=5124708007) — Anduril
-- 📍 **Location:** Irvine, California, United States
-- 🕒 **Posted:** 2026-10-30
-
-### [Production Coordinator, Intelligence Systems ](https://boards.greenhouse.io/andurilindustries/jobs/5109193007?gh_jid=5109193007) — Anduril
-- 📍 **Location:** Santa Ana, California, United States
-- 🕒 **Posted:** 2026-10-30
-
-### [Project Coordinator, Manufacturing Automation](https://boards.greenhouse.io/andurilindustries/jobs/5267621007?gh_jid=5267621007) — Anduril
-- 📍 **Location:** Costa Mesa, California, United States
-- 🕒 **Posted:** 2026-10-30
-
-### [Recruiting Coordinator (Contractor)](https://boards.greenhouse.io/andurilindustries/jobs/4190079007?gh_jid=4190079007) — Anduril
-- 📍 **Location:** Costa Mesa, California, United States
-- 🕒 **Posted:** 2026-10-30
-
-### [Strategic Supply Chain, Business Operations](https://boards.greenhouse.io/andurilindustries/jobs/5165934007?gh_jid=5165934007) — Anduril
-- 📍 **Location:** Costa Mesa, California, United States
-- 🕒 **Posted:** 2026-10-30
-
-### [Talent Acquisition Operations Coordinator](https://boards.greenhouse.io/andurilindustries/jobs/5258734007?gh_jid=5258734007) — Anduril
-- 📍 **Location:** Costa Mesa, California, United States
-- 🕒 **Posted:** 2026-10-30
-
-### [Winter 2027 Business Operations Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5271686007?gh_jid=5271686007) — Anduril
-- 📍 **Location:** Ashville, Ohio, United States; Costa Mesa, California, United States
-- 🕒 **Posted:** 2026-10-30
-
-### [AV Operations Specialist](https://job-boards.greenhouse.io/anthropic/jobs/5383710008) — Anthropic
-- 📍 **Location:** New York City, NY
-- 🕒 **Posted:** 2026-09-22
-
-### [Business Development Representative](https://job-boards.greenhouse.io/anthropic/jobs/5396186008) — Anthropic
-- 📍 **Location:** San Francisco, CA | New York City, NY
-- 🕒 **Posted:** 2026-10-22
-
-### [Customer Success Manager, Beneficial Deployments - Life Sciences](https://job-boards.greenhouse.io/anthropic/jobs/5416026008) — Anthropic
-- 📍 **Location:** San Francisco, CA | New York City, NY
-- 🕒 **Posted:** 2026-10-19
-
-### [Customer Success Manager, Commercial ](https://job-boards.greenhouse.io/anthropic/jobs/5421558008) — Anthropic
-- 📍 **Location:** San Francisco, CA | New York City, NY
-- 🕒 **Posted:** 2026-09-16
-
-### [Customer Success Manager, Enterprise Tech](https://job-boards.greenhouse.io/anthropic/jobs/5454800008) — Anthropic
-- 📍 **Location:** San Francisco, CA | New York City, NY
-- 🕒 **Posted:** 2026-10-16
-
-### [Customer Success Manager, Industries](https://job-boards.greenhouse.io/anthropic/jobs/5068570008) — Anthropic
-- 📍 **Location:** New York City, NY
-- 🕒 **Posted:** 2026-08-21
-
-### [Customer Success Manager, Top Accounts](https://job-boards.greenhouse.io/anthropic/jobs/5392957008) — Anthropic
-- 📍 **Location:** San Francisco, CA; Seattle, WA
-- 🕒 **Posted:** 2026-09-10
-
-### [Discovery Technical Operations Specialist ](https://job-boards.greenhouse.io/anthropic/jobs/5441896008) — Anthropic
-- 📍 **Location:** San Francisco, CA | New York City, NY
-- 🕒 **Posted:** 2026-10-06
-
-### [Field Marketing Lead, Cybersecurity ](https://job-boards.greenhouse.io/anthropic/jobs/5444773008) — Anthropic
-- 📍 **Location:** San Francisco, CA | New York City, NY
-- 🕒 **Posted:** 2026-10-06
-
-### [Field Marketing Lead, Public Sector](https://job-boards.greenhouse.io/anthropic/jobs/5344577008) — Anthropic
-- 📍 **Location:** San Francisco, CA | Washington, DC
-- 🕒 **Posted:** 2026-09-09
-
-### [Growth Marketing Lead](https://job-boards.greenhouse.io/anthropic/jobs/5444769008) — Anthropic
-- 📍 **Location:** San Francisco, CA | New York City, NY | Seattle, WA
-- 🕒 **Posted:** 2026-10-07
-
-### [Manager, Customer Success – Cyber](https://job-boards.greenhouse.io/anthropic/jobs/5421541008) — Anthropic
-- 📍 **Location:** Boston, MA; San Francisco, CA | New York City, NY; Seattle, WA; Washington, DC
-- 🕒 **Posted:** 2026-10-01
-
-### [Partner Account Manager, AI-Native/Boutique SI Partners](https://job-boards.greenhouse.io/anthropic/jobs/5452909008) — Anthropic
-- 📍 **Location:** San Francisco, CA | New York City, NY
-- 🕒 **Posted:** 2026-10-14
-
-### [Program Specialist, M&A](https://job-boards.greenhouse.io/anthropic/jobs/5382617008) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-02
-
-### [Business Development Associate](https://boards.greenhouse.io/applovin/jobs/4622998006?gh_jid=4622998006) — AppLovin
-- 📍 **Location:** Los Angeles/Santa Monica, CA
-- 🕒 **Posted:** 2026-10-30
-
-### [Business Operations Analyst](https://boards.greenhouse.io/applovin/jobs/4723320006?gh_jid=4723320006) — AppLovin
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-10-30
-
-### [Content Marketing Manager  - Growth Marketing](https://boards.greenhouse.io/applovin/jobs/4715902006?gh_jid=4715902006) — AppLovin
-- 📍 **Location:** Los Angeles/Santa Monica, CA
-- 🕒 **Posted:** 2026-10-30
-
-### [Content Marketing Manager  - Growth Marketing](https://boards.greenhouse.io/applovin/jobs/4715903006?gh_jid=4715903006) — AppLovin
-- 📍 **Location:** New York City, NY
-- 🕒 **Posted:** 2026-10-30
-
-### [Content Marketing Manager - Growth Marketing](https://boards.greenhouse.io/applovin/jobs/4706446006?gh_jid=4706446006) — AppLovin
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-10-30
-
-### [Creative Producer, Growth Marketing](https://boards.greenhouse.io/applovin/jobs/4723285006?gh_jid=4723285006) — AppLovin
-- 📍 **Location:** New York City, NY
-- 🕒 **Posted:** 2026-10-30
-
-### [CRM & Lifecycle Marketing Specialist - Growth Marketing](https://boards.greenhouse.io/applovin/jobs/4697888006?gh_jid=4697888006) — AppLovin
-- 📍 **Location:** New York City, NY
-- 🕒 **Posted:** 2026-10-30
-
-### [Media Buyer, Emerging Channels - Growth Marketing](https://boards.greenhouse.io/applovin/jobs/4698111006?gh_jid=4698111006) — AppLovin
-- 📍 **Location:** Los Angeles/Santa Monica, CA
-- 🕒 **Posted:** 2026-10-30
-
-### [Media Buyer, Emerging Channels - Growth Marketing](https://boards.greenhouse.io/applovin/jobs/4697910006?gh_jid=4697910006) — AppLovin
-- 📍 **Location:** New York City, NY
-- 🕒 **Posted:** 2026-10-30
-
-### [Social Media Manager](https://boards.greenhouse.io/applovin/jobs/4725685006?gh_jid=4725685006) — AppLovin
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-10-30
-
-### [Social Media Manager, Growth Marketing](https://boards.greenhouse.io/applovin/jobs/4681220006?gh_jid=4681220006) — AppLovin
-- 📍 **Location:** Los Angeles/Santa Monica, CA
-- 🕒 **Posted:** 2026-10-30
-
-### [Brand Marketing Intern](https://job-boards.greenhouse.io/arcboatcompany/jobs/5446659008) — Arc
-- 📍 **Location:** Torrance, CA
-- 🕒 **Posted:** 2026-10-20
-
-### [Customer Success Specialist](https://job-boards.greenhouse.io/arenaclub/jobs/4460097009) — Arena Club
-- 📍 **Location:** Los Angeles
-- 🕒 **Posted:** 2026-10-21
-
-### [Paid Media Coordinator](https://job-boards.greenhouse.io/arenaclub/jobs/4378760009) — Arena Club
+### [Operations Coordinator](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Operations-Coordinator_R68772) — Motorola
 - 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-09-09
+- 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Procurement Operations Specialist Intern](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731993005) — Astera Labs
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-28
+### [Inside Sales Manager](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Inside-Sales-Manager_R69009) — Motorola
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** Posted 3 Days Ago
 
-### [Business Development Associate](https://job-boards.greenhouse.io/astranis/jobs/4716161006) — Astranis
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-10-13
+### [Client Onboarding & Implementation Specialist, AVP](https://ms.wd5.myworkdayjobs.com/External/job/Alpharetta-Georgia-United-States-of-America/Onboarding-Data-Architect--AVP_PT-JR045774-1) — Morgan Stanley
+- 📍 **Location:** Alpharetta, Georgia, United States of America
+- 🕒 **Posted:** Posted 4 Days Ago
 
-### [Electrical Engineer- SDR Hardware ](https://job-boards.greenhouse.io/astranis/jobs/4607847006) — Astranis
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-10-30
+### [Advance Solutions Project Specialist, AVP](https://ms.wd5.myworkdayjobs.com/External/job/545-LONG-WHARF-DRIVE/Advance-Solutions-Project-Specialist--AVP_PT-JR042333-1) — Morgan Stanley
+- 📍 **Location:** Alpharetta, Georgia, United States of America
+- 🕒 **Posted:** Posted 28 Days Ago
 
-### [Recruiting Coordinator Associate](https://job-boards.greenhouse.io/astranis/jobs/4609432006) — Astranis
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-10-15
+### [LEAF Inside Sales Account Executive](https://mtb.wd5.myworkdayjobs.com/MTB/job/Orange-CA/LEAF-Inside-Sales-Exploratory-Interviews_R89605) — M&T Bank
+- 📍 **Location:** Orange, CA
+- 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Executive Assistant](https://job-boards.greenhouse.io/atomicmachines/jobs/4450432009) — Atomic Machines
-- 📍 **Location:** Emeryville, California
-- 🕒 **Posted:** 2026-10-30
+### [Client Services Analyst - Japanese Corporate Banking](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/New-York-NY/Client-Services-Analyst---Japanese-Corporate-Banking_10079392-WD) — MUFG
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Specialty Account Manager, Symbravo (San Jose, CA)](https://job-boards.greenhouse.io/axsometherapeutics/jobs/5983738004) — Axsome Therapeutics Inc
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-08
-
-### [Enterprise Account Manager, SLED](https://job-boards.greenhouse.io/beyondtrust/jobs/8279438) — BeyondTrust
-- 📍 **Location:** Remote Chicago, IL | Remote Detroit, MI | Remote Columbus, OH | Remote Indianapolis, IN
-- 🕒 **Posted:** 2026-10-16
-
-### [Client Services Associate I, Oncology](https://job-boards.greenhouse.io/billiontoone/jobs/4716882005) — BillionToOne
-- 📍 **Location:** Union City, CA
-- 🕒 **Posted:** 2026-10-20
-
-### [Administrative Coordinator ](https://job-boards.greenhouse.io/bpcs/jobs/8179093) — Blueprint Technologies
+### [Project Coordinator](https://mydpr.wd5.myworkdayjobs.com/11212017/job/San-Francisco-CA/Project-Coordinator_JR-16676) — DPR Family of Companies
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-23
+- 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Business Development Representative ](https://job-boards.greenhouse.io/breezecash/jobs/5426182008) — Breeze.cash
-- 📍 **Location:** New York City 
-- 🕒 **Posted:** 2026-09-30
+### [Event Coordinator Marketing and Sales](https://mymvw.wd5.myworkdayjobs.com/hvocareers/job/Tustin-AMS/Event-Coordinator-Marketing-and-Sales_JR93934) — Hyatt Vacation Club
+- 📍 **Location:** Tustin AMS
+- 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Program Coordinator, Investor Talent](https://job-boards.greenhouse.io/bridgewater89/jobs/8925104002) — Bridgewater Associates
-- 📍 **Location:** New York City
-- 🕒 **Posted:** 2026-10-30
-
-### [Client Relations Coordinator (Forensic Services practice)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8156369) — Charles River Associates (CRA)
-- 📍 **Location:** Boston, MA, United States; Chicago, IL, United States; Dallas, Texas, United States; Houston, Texas, United States; New York, NY, United States; Washington, DC, United States
-- 🕒 **Posted:** 2026-10-29
-
-### [Campus Recruiting Coordinator](https://job-boards.greenhouse.io/chicagotrading/jobs/4725292005) — Chicago Trading Company
-- 📍 **Location:** Chicago, Illinois, United States
-- 🕒 **Posted:** 2026-10-27
-
-### [Recruiting Coordinator](https://job-boards.greenhouse.io/chicagotrading/jobs/4726246005) — Chicago Trading Company
-- 📍 **Location:** New York, New York, United States
-- 🕒 **Posted:** 2026-10-27
-
-### [Key Account Customer Success Associate_Chineses Vertical](https://job-boards.greenhouse.io/chowbus/jobs/7753996003) — ChowBus
-- 📍 **Location:** Chicago
-- 🕒 **Posted:** 2026-10-06
-
-### [Manager, Strategy & Revenue Operations](https://job-boards.greenhouse.io/chowbus/jobs/8086815003) — ChowBus
-- 📍 **Location:** Chicago
-- 🕒 **Posted:** 2026-10-29
-
-### [Business Development Representative, Healthcare (C1 - B2B)](https://job-boards.greenhouse.io/clear/jobs/8279306) — CLEAR
-- 📍 **Location:** New York, New York, United States
-- 🕒 **Posted:** 2026-10-16
-
-### [Sales Development Representative, Healthcare (C1 - B2B)](https://job-boards.greenhouse.io/clear/jobs/8279305) — CLEAR
-- 📍 **Location:** New York, New York, United States
-- 🕒 **Posted:** 2026-10-16
-
-### [Assistant Project Manager Pre-Construction, Solar-BESS](https://job-boards.greenhouse.io/clearwayjobs/jobs/5232351007) — Clearway Energy
-- 📍 **Location:** San Francisco, California, United States
-- 🕒 **Posted:** 2026-09-23
-
-### [Account Manager](https://job-boards.greenhouse.io/creatorsworkhere/jobs/4079725009) — Adorama
+### [Technical Product Manager - Client Onboarding](https://nb.wd1.myworkdayjobs.com/NBCareers/job/New-York-NY/Technical-Product-Manager---Client-Onboarding_R0012090) — Neuberger Berman
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-04-14
+- 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Business Development Representative](https://job-boards.greenhouse.io/creatorsworkhere/jobs/4003650009) — Adorama
+### [Program Associate – Private Investment Portfolios and Co-Investment (“PIPCO”) Infrastructure](https://nb.wd1.myworkdayjobs.com/NBCareers/job/New-York-NY/Program-Associate---Private-Investment-Portfolios-and-Co-Investment---PIPCO---Infrastructure_R0012757) — Neuberger Berman
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-05
+- 🕒 **Posted:** Posted Today
 
-### [Phone Sales Representative – Camera & Electronics](https://job-boards.greenhouse.io/creatorsworkhere/jobs/4108073009) — Adorama
+### [Production Assistant](https://nexstar.wd5.myworkdayjobs.com/nexstar/job/CA-Los-Angeles5800-Sunset-Blvd-Tribune-KTLA/Production-Assistant_REQ-43046) — Nexstar
+- 📍 **Location:** CA-Los Angeles;5800 Sunset Blvd (Tribune-KTLA)
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Seasonal Customer Experience Specialist - Nordstrom Local Danville](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Danville-CA/Seasonal-Customer-Experience-Specialist---Nordstrom-Local-Danville_R-893070) — Nordstrom
+- 📍 **Location:** Danville, CA
+- 🕒 **Posted:** Posted 5 Days Ago
+
+### [Seasonal Customer Experience Specialist - Nordstrom Local Santa Monica](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Santa-Monica-CA/Seasonal-Customer-Experience-Specialist---Nordstrom-Local-Santa-Monica_R-889024) — Nordstrom
+- 📍 **Location:** Santa Monica, CA
+- 🕒 **Posted:** Posted 14 Days Ago
+
+### [Seasonal Customer Experience Specialist - Nordstrom Local Newport Beach](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Newport-Beach-CA/Seasonal-Customer-Experience-Specialist---Nordstrom-Local-Newport-Beach_R-891919) — Nordstrom
+- 📍 **Location:** Newport Beach, CA
+- 🕒 **Posted:** Posted 7 Days Ago
+
+### [Research Coordinator- Dermatology](https://nshs.wd1.myworkdayjobs.com/ns-eeh/job/NSO-9933-Woods-Drive-Skokie/Research-Coordinator--Dermatology_R48631) — Endeavor Health
+- 📍 **Location:** NSO 9933 Woods Drive Skokie
+
+### [Research Coordinator-Cardiology](https://nshs.wd1.myworkdayjobs.com/ns-eeh/job/GBH-Glenbrook-Hospital-Glenview/Research-Coordinator-Cardiology_R45362) — Endeavor Health
+- 📍 **Location:** GBH Glenbrook Hospital Glenview
+
+### [Strategic Identity Account Manager](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/San-Francisco-United-States-of-America/Strategic-Identity-Account-Manager_JR-023886) — Palo Alto Networks
+- 📍 **Location:** San Francisco, United States of America
+- 🕒 **Posted:** Posted 7 Days Ago
+
+### [Pfizer CentreOne Commercial Development & Marketing Associate](https://pfizer.wd1.myworkdayjobs.com/internaljobs/job/United-States---New-York---New-York-City/Pfizer-CentreOne-Commercial-Development---Marketing-Associate_4966454) — Pfizer
+- 📍 **Location:** United States - New York - New York City
+- 🕒 **Posted:** Posted 4 Days Ago
+
+### [Client Operations Specialist](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Client-Operations-Specialist_R107065) — PIMCO
+- 📍 **Location:** Newport Beach, CA USA
+- 🕒 **Posted:** Posted 10 Days Ago
+
+### [Account Manager, Strategic Accounts – RIA Aggregators](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/New-York-NY-USA/Account-Manager--Strategic-Accounts---RIA-Aggregators_R106300) — PIMCO
+- 📍 **Location:** New York, NY USA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Account Manager, Latin America](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/New-York-NY-USA/Account-Manager--Latin-America_R107011) — PIMCO
+- 📍 **Location:** New York, NY USA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Intermediary Account Manager - Growth Markets](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/New-York-NY-USA/Intermediary-Account-Manager---Growth-Markets_R106842) — PIMCO
+- 📍 **Location:** New York, NY USA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Account Manager, Alternatives Investment Specialist (West Region)](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Account-Manager--Alternatives-Investment-Specialist--West-Region-_R105794) — PIMCO
+- 📍 **Location:** Newport Beach, CA USA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [2027 MBA Summer Intern – Account Manager, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-MBA-Summer-Intern---Account-Manager--US_R106826) — PIMCO
+- 📍 **Location:** Newport Beach, CA USA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Account Manager - Financial Wellness Solutions](https://pnc.wd5.myworkdayjobs.com/External/job/CA---San-Francisco-94105/Account-Manager---Financial-Wellness-Solutions_R225730-1) — PNC Financial Services
+- 📍 **Location:** CA - San Francisco (94105)
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Account Manager I - Sales Support Specialist](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Cincinnati-45202/Account-Manager-I---Sales-Support-Specialist_R239629) — PNC Financial Services
+- 📍 **Location:** Los Angeles - Constellation Blvd (CA314)
+- 🕒 **Posted:** Posted 4 Days Ago
+
+### [Account Manager II - Financial Wellness Solutions](https://pnc.wd5.myworkdayjobs.com/External/job/Chicago-Main-Office-ILM03/Account-Manager---Financial-Wellness-Solutions---Large-Corporate-and-Vertical_R216741-2) — PNC Financial Services
+- 📍 **Location:** Chicago Main Office (ILM03)
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Account Manager - Financial Wellness Solutions - Large Corporate and Vertical](https://pnc.wd5.myworkdayjobs.com/External/job/GA---Atlanta-30309/Account-Manager---Financial-Wellness-Solutions---Large-Corporate-and-Vertical_R216739-2) — PNC Financial Services
+- 📍 **Location:** GA - Atlanta (30309)
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Executive Assistant to Regional President](https://pnc.wd5.myworkdayjobs.com/External/job/CA---San-Francisco-94105/Executive-Assistant-to-Regional-President_R238416-1) — PNC Financial Services
+- 📍 **Location:** CA - San Francisco (94105)
+- 🕒 **Posted:** Posted 17 Days Ago
+
+### [Strategic Global Account Manager (REMOTE)](https://procore.wd12.myworkdayjobs.com/Procore_External_Careers/job/US---New-York---NYC/Strategic-Global-Account-Manager--REMOTE-_R0018887) — Procore Technologies
+- 📍 **Location:** US - New York - NYC
+- 🕒 **Posted:** Posted 18 Days Ago
+
+### [Account Manager - Sunnyvale, CA](https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Sunnyvale-CA/Account-Manager_R14838) — Proofpoint
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** Posted 25 Days Ago
+
+### [Account Manager - Sunnyvale](https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Sunnyvale-CA/Account-Manager---Sunnyvale_R14862) — Proofpoint
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** Posted 12 Days Ago
+
+### [Account Manager - Sunnyvale, CA](https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Sunnyvale-CA/Account-Manager---Sunnyvale--CA_R14908) — Proofpoint
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** Posted 7 Days Ago
+
+### [PGIM Quantitative Solutions, Executive Assistant (Hybrid)](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM-Quantitative-Solutions--Executive-Assistant--Hybrid-_R-124933) — PGIM
+- 📍 **Location:** Newark, NJ, USA
+- 🕒 **Posted:** Posted 12 Days Ago
+
+### [Procurement Coordinator](https://pultegroup.wd1.myworkdayjobs.com/PGI/job/Alpharetta-GA/Procurement-Coordinator_JR8944) — PulteGroup
+- 📍 **Location:** Alpharetta, GA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [AI Studio Operations Associate - Calvin Klein](https://pvh.wd1.myworkdayjobs.com/PVH_Careers/job/New-York-NY-Calvin-Klein-Office/AI-Studio-Operations-Associate---Calvin-Klein_R61818) — PVH
+- 📍 **Location:** New York, NY Calvin Klein Office
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Executive Assistant - Calvin Klein](https://pvh.wd1.myworkdayjobs.com/PVH_Careers/job/New-York-NY-Calvin-Klein-Office/Executive-Assistant---Calvin-Klein_R61801) — PVH
+- 📍 **Location:** New York, NY Calvin Klein Office
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Federal Reserve Financial Services Systems Operations Specialist I \ II](https://rb.wd5.myworkdayjobs.com/FRS/job/Remote---Georgia/Federal-Reserve-Financial-Services-Systems-Operations-Specialist-I---II_R-0000033831-1) — The Federal Reserve System
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** Posted 10 Days Ago
+
+### [Project Coordinator Intern](https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Alpharetta-GA-Alderman/Project-Coordinator-Intern_R118906) — LexisNexis Risk Solutions
+- 📍 **Location:** Alpharetta, GA (Alderman)
+- 🕒 **Posted:** Posted Today
+
+### [Product Operations Coordinator](https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Duluth-GA/Product-Operations-Coordinator_R120299) — LexisNexis Risk Solutions
+- 📍 **Location:** Duluth, GA
+- 🕒 **Posted:** Posted 10 Days Ago
+
+### [Product Operations Coordinator](https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Duluth-GA/Product-Operations-Coordinator_R119494) — LexisNexis Risk Solutions
+- 📍 **Location:** Duluth, GA
+- 🕒 **Posted:** Posted 4 Days Ago
+
+### [Executive Assistant](https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Alpharetta-GA/Executive-Assistant_R119927) — LexisNexis Risk Solutions
+- 📍 **Location:** Alpharetta, GA
+- 🕒 **Posted:** Posted 7 Days Ago
+
+### [Communications and Media Relations Coordinator](https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/Bronx-New-York/Communications-and-Media-Relations-Coordinator_JR3527) — RFCUNY
+- 📍 **Location:** Bronx, New York
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [CUNY Cultural Corps Program Coordinator](https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/CUNY-Cultural-Corps-Program-Coordinator_JR3773) — RFCUNY
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-06-02
+- 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Business Development Associate](https://job-boards.greenhouse.io/cssmerge/jobs/8900307002) — Atoms
+### [Administrative Coordinator](https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/Staten-Island-New-York/Administrative-Coordinator_JR3101) — RFCUNY
+- 📍 **Location:** Staten Island, New York
+- 🕒 **Posted:** Posted 20 Days Ago
+
+### [Administrative Coordinator](https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/Bronx-New-York/Administrative-Coordinator_JR5141) — RFCUNY
+- 📍 **Location:** Bronx, New York
+- 🕒 **Posted:** Posted 3 Days Ago
+
+### [Research Coordinator (Bilingual French)](https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Research-Coordinator--Bilingual-French-_JR4989) — RFCUNY
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-21
+- 🕒 **Posted:** Posted 17 Days Ago
 
-### [Executive Recruiting Coordinator](https://job-boards.greenhouse.io/cssmerge/jobs/8895813002) — Atoms
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-21
-
-### [IT Operations Specialist](https://job-boards.greenhouse.io/cssmerge/jobs/8868618002) — Atoms
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-21
-
-### [Sales Operations Manager](https://job-boards.greenhouse.io/cssmerge/jobs/8853773002) — Atoms
+### [Photonics Initiative Administrative Coordinator](https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Photonics-Initiative-Administrative-Coordinator_JR159) — RFCUNY
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-21
+- 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Finance Operations Specialist](https://job-boards.greenhouse.io/datacor/jobs/5252619007) — Datacor
+### [Program Operations Specialist](https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Program-Operations-Specialist_JR4215) — RFCUNY
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Program Operations Assistant](https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Program-Operations-Assistant_JR4894) — RFCUNY
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted 7 Days Ago
+
+### [Content Review Operations Specialist](https://roche.wd3.myworkdayjobs.com/roche-ext/job/San-Jose-Costa-Rica/Content-Review-Operations-Specialist_202610-127168) — Roche
 - 📍 **Location:** San Jose, Costa Rica
-- 🕒 **Posted:** 2026-09-30
-
-### [Outside Automatic Door Commercial Sales Representative-Must Have Door Experience!](https://job-boards.greenhouse.io/dhpace/jobs/5457680008) — DH Pace
-- 📍 **Location:** Atlanta GA
-- 🕒 **Posted:** 2026-10-19
-
-### [Client Success Manager](https://job-boards.greenhouse.io/diligentrobotics/jobs/8108117003) — Diligent Robotics
-- 📍 **Location:** Chicago, IL 
-- 🕒 **Posted:** 2026-10-30
-
-### [Account Manager, CPG](https://job-boards.greenhouse.io/doordashusa/jobs/7612643) — DoorDash
-- 📍 **Location:** New York, NY; San Francisco, CA; Los Angeles, CA; Chicago, IL; Atlanta, GA
-- 🕒 **Posted:** 2026-10-30
-
-### [Account Manager, Platform Innovation](https://job-boards.greenhouse.io/doordashusa/jobs/7958917) — DoorDash
-- 📍 **Location:** Chicago, IL; Detroit, MI
-- 🕒 **Posted:** 2026-10-30
-
-### [Associate Manager, Customer Success](https://job-boards.greenhouse.io/doordashusa/jobs/8306624) — DoorDash
-- 📍 **Location:** Los Angeles, CA; San francisco, CA
-- 🕒 **Posted:** 2026-10-30
-
-### [Associate Manager, Integrated Marketing - Strategic Bets](https://job-boards.greenhouse.io/doordashusa/jobs/8314149) — DoorDash
-- 📍 **Location:** New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Chicago, IL; Austin, TX; Denver, CO; Atlanta, GA; Miami, FL; Boston, MA;  Washington, D.C.
-- 🕒 **Posted:** 2026-10-30
-
-### [Audience Insights Manager](https://job-boards.greenhouse.io/doordashusa/jobs/8160437) — DoorDash
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-30
-
-### [Client Success Manager, Scale, DoorDash for Business](https://job-boards.greenhouse.io/doordashusa/jobs/8257063) — DoorDash
-- 📍 **Location:** Atlanta, GA; Tempe, AZ; Charlotte, NC; Las Vegas, NV; Detroit, MI; Phoenix, AZ; Dallas, TX; Houston, TX; Kansas City, MO; Cincinatti, OH; Cleveland, OH; Nashville, TN
-- 🕒 **Posted:** 2026-10-30
-
-### [Customer Success Specialist](https://job-boards.greenhouse.io/doordashusa/jobs/7984775) — DoorDash
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-10-30
-
-### [Manager, Paid Growth Marketing ](https://job-boards.greenhouse.io/doordashusa/jobs/8261345) — DoorDash
-- 📍 **Location:** New York, NY; San Francisco, CA; Los Angeles, CA; Sunnyvale, CA; Seattle, WA; Chicago, IL; Austin, TX; Denver, CO; Atlanta, GA; Miami, FL; Boston, MA; Tempe, AZ, Washington, D.C.
-- 🕒 **Posted:** 2026-10-30
-
-### [Operations Specialist, Robot - DoorDash Dot](https://job-boards.greenhouse.io/doordashusa/jobs/6813973) — DoorDash
-- 📍 **Location:** Dublin, CA; San Francisco, CA
-- 🕒 **Posted:** 2026-10-30
-
-### [Sales Development Representative ](https://job-boards.greenhouse.io/doordashusa/jobs/7797762) — DoorDash
-- 📍 **Location:** Atlanta, GA; Richmond, VA; Jacksonville, FL; Columbus, OH; Dallas, TX; Houston, TX ; Nashville, TN; Kansas City, MO; St. Louis, MO; Salt Lake City, UT; Charleston, SC; Louisville, KY; Cincinatti, OH; Tampa, FL; Las Vegas, NV
-- 🕒 **Posted:** 2026-10-30
-
-### [Sales Development Representative - Mandarin Speaking DR](https://job-boards.greenhouse.io/doordashusa/jobs/7951899) — DoorDash
-- 📍 **Location:** Atlanta, GA; Richmond, VA; Jacksonville, FL; Columbus, OH; Dallas, TX; Houston, TX ; Nashville, TN; Kansas City, MO; St. Louis, MO; Salt Lake City, UT; Charleston, SC; Louisville, KY; Cincinatti, OH; Tampa, FL; Las Vegas, NV
-- 🕒 **Posted:** 2026-10-30
-
-### [Sales Development Representative - New York](https://job-boards.greenhouse.io/doordashusa/jobs/8304190) — DoorDash
-- 📍 **Location:** New York, NY 
-- 🕒 **Posted:** 2026-10-30
-
-### [Strategic Account Manager](https://job-boards.greenhouse.io/doordashusa/jobs/8227575) — DoorDash
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-30
-
-### [Strategic Sales Development Representative](https://job-boards.greenhouse.io/doordashusa/jobs/7812245) — DoorDash
-- 📍 **Location:** Atlanta, GA; Dallas, TX; San Diego, CA; Portland, OR; Phoenix, AZ; Houston, TX; Minneapolis, MN ; Kansas City, MO; St. Louis, MO; Austin, TX; Chicago, IL; Philadelphia, PA; Bakersfield, CA; Denver, CO; Las Vegas, NV
-- 🕒 **Posted:** 2026-10-30
-
-### [UAS Operations Specialist - Ground Support](https://job-boards.greenhouse.io/doordashusa/jobs/8263786) — DoorDash
-- 📍 **Location:** Bay Point, CA; Concord, CA 
-- 🕒 **Posted:** 2026-10-30
-
-### [UAS Operations Specialist, Labs](https://job-boards.greenhouse.io/doordashusa/jobs/8243739) — DoorDash
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-30
-
-### [UAS Operations Specialist - Pilot](https://job-boards.greenhouse.io/doordashusa/jobs/8244483) — DoorDash
-- 📍 **Location:** Concord, CA; Bay Point, CA
-- 🕒 **Posted:** 2026-10-30
-
-### [Executive Assistant to the CEO](https://job-boards.greenhouse.io/drweng/jobs/8240482) — DRW
-- 📍 **Location:** Chicago
-- 🕒 **Posted:** 2026-10-30
-
-### [Strategic Account Manager ](https://job-boards.greenhouse.io/dv01/jobs/8693977002) — dv01
-- 📍 **Location:** New York, NY, US
-- 🕒 **Posted:** 2026-10-05
-
-### [Business Development Associate](https://job-boards.greenhouse.io/eaglebusinesscredit/jobs/8078180002) — eaglebusinesscredit
-- 📍 **Location:** Woodstock, GA
-- 🕒 **Posted:** 2026-10-09
-
-### [Commercial Insurance Account Manager - OCIPs / CCIPs / Builder's Risk](https://job-boards.greenhouse.io/edgewoodpartnersinsurancecenter/jobs/8885092002) — EPIC Insurance Brokers & Consultants
-- 📍 **Location:** 12444 Powerscourt Drive,  Suite 360, St. Louis, MO 63131; 125 S Wacker Dr, Suite 3150, Chicago, IL 60606; 3780 Mansell Road, Ste 370, Alpharetta, GA 30022
-- 🕒 **Posted:** 2026-10-30
-
-### [SkillBridge Account Manager](https://job-boards.greenhouse.io/edgewoodpartnersinsurancecenter/jobs/7803483002) — EPIC Insurance Brokers & Consultants
-- 📍 **Location:** 1140 Avenue of the Americas 8th Floor,  New York, NY 10036; 11711 North Meridan St, 7th Fl, Carmel, IN 46032; 3780 Mansell Road, Ste 370, Alpharetta, GA 30022; 40 Marcus Drive 3rd Floor,  Melville, NY 11747; 4675 MacArthur Court, Suite 750, Newport Beach, CA 92660; Z - 311 South Wacker Dr Suite 3280,  Chicago, IL 60606
-- 🕒 **Posted:** 2026-10-30
-
-### [Data Operations Associate](https://job-boards.greenhouse.io/enigmaio/jobs/6803803) — Enigma
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-09
-
-### [ISO Account Manager (Hybrid)](https://job-boards.greenhouse.io/enova/jobs/7032290) — Enova
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-30
-
-### [Customer Success Manager - Digital Paid Media - AI and Automation First](https://job-boards.greenhouse.io/eulerity/jobs/4721560006) — Eulerity
-- 📍 **Location:** New York, New York
-- 🕒 **Posted:** 2026-10-13
-
-### [Digital Marketing Intern - Technical AI & Automation](https://job-boards.greenhouse.io/eulerity/jobs/4708258006) — Eulerity
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-21
-
-### [Sales Development Representative](https://job-boards.greenhouse.io/everlaw/jobs/4695387006) — Everlaw
-- 📍 **Location:** Oakland, California, United States
-- 🕒 **Posted:** 2026-09-28
-
-### [Account Manager](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4459012009) — Fanatics
-- 📍 **Location:** Los Angeles, CA, United States; New York, NY, United States
-- 🕒 **Posted:** 2026-10-27
-
-### [AI Enablement & Business Operations Associate](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4317524009) — Fanatics
-- 📍 **Location:** Los Angeles, CA, United States; New York, NY, United States
-- 🕒 **Posted:** 2026-10-27
-
-### [Manager, Strategic Finance – Growth Marketing](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4456685009) — Fanatics
-- 📍 **Location:** New York, NY, United States
-- 🕒 **Posted:** 2026-10-27
-
-### [Supply Chain & Strategic Operations Associate](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4222317009) — Fanatics
-- 📍 **Location:** Sunnyvale, TX, United States
-- 🕒 **Posted:** 2026-10-27
-
-### [Customer Success Manager - Figma Weave (New York, United States)](https://boards.greenhouse.io/figma/jobs/6232541004?gh_jid=6232541004) — Figma
-- 📍 **Location:** New York, NY • United States
-- 🕒 **Posted:** 2026-10-30
-
-### [Early Career, Inside Sales Representative (2027)](https://boards.greenhouse.io/figma/jobs/6174190004?gh_jid=6174190004) — Figma
-- 📍 **Location:** San Francisco, CA • New York, NY
-- 🕒 **Posted:** 2026-10-27
-
-### [Executive Assistant, Growth Marketing](https://boards.greenhouse.io/figma/jobs/6199185004?gh_jid=6199185004) — Figma
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Executive Assistant, People](https://boards.greenhouse.io/figma/jobs/5969046004?gh_jid=5969046004) — Figma
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Sales Operations Manager](https://boards.greenhouse.io/figma/jobs/6235320004?gh_jid=6235320004) — Figma
-- 📍 **Location:** New York, NY • United States
-- 🕒 **Posted:** 2026-10-30
-
-### [AV Operations Specialist](https://job-boards.greenhouse.io/figureai/jobs/4717486006) — Figure
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-28
-
-### [Commercial Operations Associate](https://job-boards.greenhouse.io/figureai/jobs/4719239006) — Figure
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-28
-
-### [Account Manager III, Fulfillment](https://job-boards.greenhouse.io/flexport/jobs/8325948) — Flexport
-- 📍 **Location:** Atlanta, Georgia, United States; Chicago, Illinois, United States; Dallas, Texas, United States; Los Angeles, California, United States
-- 🕒 **Posted:** 2026-10-26
-
-### [Business Operations Manager, Office of the CEO](https://job-boards.greenhouse.io/flexport/jobs/7166036) — Flexport
-- 📍 **Location:** San Francisco, California, United States
-- 🕒 **Posted:** 2026-10-13
-
-### [Global Operations Associate](https://job-boards.greenhouse.io/flexport/jobs/7450540) — Flexport
-- 📍 **Location:** San Francisco, California, United States
-- 🕒 **Posted:** 2026-10-30
-
-### [Global Operations Associate](https://job-boards.greenhouse.io/flexport/jobs/7450530) — Flexport
-- 📍 **Location:** Atlanta, Georgia, United States
-- 🕒 **Posted:** 2026-10-29
-
-### [Inbound Sales Development Representative](https://job-boards.greenhouse.io/flexport/jobs/8084124) — Flexport
-- 📍 **Location:** Chicago, Illinois, United States
-- 🕒 **Posted:** 2026-10-14
-
-### [Inbound Sales Development Representative - New Grad](https://job-boards.greenhouse.io/flexport/jobs/5850324) — Flexport
-- 📍 **Location:** Chicago, Illinois, United States
-- 🕒 **Posted:** 2026-10-14
-
-### [Operations Associate - Join Our Talent Community](https://job-boards.greenhouse.io/flexport/jobs/7904839) — Flexport
-- 📍 **Location:** Atlanta, Georgia, United States; Bellevue, Washington, United States; Chicago, Illinois, United States; Dallas, Texas, United States; Denver, Colorado, United States; Los Angeles, California, United States; New York City, New York, United States; San Francisco, California, United States
-- 🕒 **Posted:** 2026-10-13
-
-### [Operations Specialist - Join Our Talent Community ](https://job-boards.greenhouse.io/flexport/jobs/7909078) — Flexport
-- 📍 **Location:** Atlanta, Georgia, United States; Bellevue, Washington, United States; Chicago, Illinois, United States; Dallas, Texas, United States; Denver, Colorado, United States; Los Angeles, California, United States; New York City, New York, United States; San Francisco, California, United States
-- 🕒 **Posted:** 2026-10-13
-
-### [Sales Development Representative](https://job-boards.greenhouse.io/flexport/jobs/8084123) — Flexport
-- 📍 **Location:** Chicago, Illinois, United States
-- 🕒 **Posted:** 2026-10-14
-
-### [Sales Development Representative - New Grad](https://job-boards.greenhouse.io/flexport/jobs/8084127) — Flexport
-- 📍 **Location:** Chicago, Illinois, United States
-- 🕒 **Posted:** 2026-10-14
-
-### [Customer Success Manager](https://job-boards.greenhouse.io/flip/jobs/5156195008) — Flip
-- 📍 **Location:** Los Angeles
-- 🕒 **Posted:** 2026-08-18
-
-### [Account Manager - Rugs](https://job-boards.greenhouse.io/fschumacherco/jobs/5391421008) — F. Schumacher & Co.
-- 📍 **Location:** West Hollywood, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Media Operations Assistant ](https://job-boards.greenhouse.io/fschumacherco/jobs/5459618008) — F. Schumacher & Co.
-- 📍 **Location:** New York, New York 
-- 🕒 **Posted:** 2026-10-27
-
-### [Procurement Coordinator](https://job-boards.greenhouse.io/fschumacherco/jobs/5435384008) — F. Schumacher & Co.
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-27
-
-### [Email Marketing Manager](https://job-boards.greenhouse.io/garnerhealth/jobs/6211071004) — Garner Health
-- 📍 **Location:** New York City, New York
-- 🕒 **Posted:** 2026-10-05
-
-### [Executive Assistant](https://job-boards.greenhouse.io/generalmatter/jobs/5255607008) — General Matter
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-10-20
-
-### [People Operations Coordinator](https://job-boards.greenhouse.io/generalmatter/jobs/5378752008) — General Matter
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-10-20
-
-### [Recruiting Coordinator](https://job-boards.greenhouse.io/generalmatter/jobs/5274048008) — General Matter
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-10-20
-
-### [Business Development Associate - Transportation and Logistics](https://job-boards.greenhouse.io/geotab/jobs/5440939008) — Geotab
-- 📍 **Location:** Atlanta, Georgia - USA
-- 🕒 **Posted:** 2026-10-28
-
-### [Sales Development Representative ](https://job-boards.greenhouse.io/globalwebindex/jobs/8863991002) — Global Web Index
-- 📍 **Location:** New York City, USA
-- 🕒 **Posted:** 2026-10-30
-
-### [Sales Development Representative - Future Opportunities](https://job-boards.greenhouse.io/globalwebindex/jobs/8388371002) — Global Web Index
-- 📍 **Location:** London, UK; New York City, USA
-- 🕒 **Posted:** 2026-10-30
-
-### [Sales Operations Manager](https://job-boards.greenhouse.io/gotion/jobs/8163096002) — Gotion
-- 📍 **Location:** Fremont, California
-- 🕒 **Posted:** 2026-10-21
-
-### [Partner Account Manager - Atlanta](https://job-boards.greenhouse.io/humaninterest/jobs/8165305) — Human Interest
-- 📍 **Location:** Atlanta, GA Remote
-- 🕒 **Posted:** 2026-10-30
-
-### [Partner Account Manager - Los Angeles (Santa Clarita)](https://job-boards.greenhouse.io/humaninterest/jobs/8165315) — Human Interest
-- 📍 **Location:** Santa Clarita, CA
-- 🕒 **Posted:** 2026-10-30
-
-### [Partner Account Manager - New York City](https://job-boards.greenhouse.io/humaninterest/jobs/8165366) — Human Interest
-- 📍 **Location:** New York City, NY Remote
-- 🕒 **Posted:** 2026-10-30
+- 🕒 **Posted:** Posted 12 Days Ago
+
+### [Content Review Operations Coordinator](https://roche.wd3.myworkdayjobs.com/roche-ext/job/San-Jose-Costa-Rica/Content-Review-Operations-Coordinator_202609-123348) — Roche
+- 📍 **Location:** San Jose, Costa Rica
+- 🕒 **Posted:** Posted 25 Days Ago
+
+### [Carrier Sales Representative](https://rxo.wd501.myworkdayjobs.com/rxojobs/job/USIL-Chicago6-2869/Carrier-Sales-Specialist_JR103594) — RXO
+- 📍 **Location:** USIL-Chicago6 (2869)
+- 🕒 **Posted:** Posted 12 Days Ago
+
+### [Carrier Sales Representative](https://rxo.wd501.myworkdayjobs.com/rxojobs/job/USIL-Chicago6-2869/Carrier-Sales-Representative_JR104892) — RXO
+- 📍 **Location:** USIL-Chicago6 (2869)
+- 🕒 **Posted:** Posted 13 Days Ago
+
+### [Carrier Sales Representative](https://rxo.wd501.myworkdayjobs.com/rxojobs/job/USIL-Chicago6-2869/Carrier-Sales-Representative_JR104926-1) — RXO
+- 📍 **Location:** USIL-Chicago6 (2869)
+- 🕒 **Posted:** Posted 14 Days Ago
+
+### [Customer Success Manager - Core (Sales & Service) Clouds](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Customer-Success-Manager---Core--Sales---Service--Clouds_JR366805) — Salesforce
+- 📍 **Location:** California - Palo Alto
+- 🕒 **Posted:** Posted Today
+
+### [Customer Success Manager (Informatica)](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Customer-Success-Manager--Informatica-_JR340890) — Salesforce
+- 📍 **Location:** Illinois - Chicago
+- 🕒 **Posted:** Posted Today
+
+### [Customer Success Manager - Core (Sales & Service) Clouds](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Customer-Success-Manager---Core--Sales---Service--Clouds_JR332336-1) — Salesforce
+- 📍 **Location:** California - Palo Alto
+- 🕒 **Posted:** Posted Yesterday
+
+### [Business Development Representative – Data Foundation (Atlanta)](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Georgia---Atlanta/Business-Development-Representative---Data-Foundation--Atlanta-_JR366002-1) — Salesforce
+- 📍 **Location:** Georgia - Atlanta
+- 🕒 **Posted:** Posted Today
+
+### [Business Development Representative – Data Foundation (San Francisco)](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Business-Development-Representative---Data-Foundation--San-Francisco-_JR366000) — Salesforce
+- 📍 **Location:** California - San Francisco
+- 🕒 **Posted:** Posted Today
+
+### [Digital Account Manager](https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/US/Digital-Account-Manager_R505103) — Scientific Games
+- 📍 **Location:** Alpharetta, GA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Administrative Coordinator, CCN](https://simonsfoundation.wd1.myworkdayjobs.com/simonsfoundationcareers/job/160-Fifth-Avenue-New-York-NY/Administrative-Coordinator--CCN_R0002150) — Simons Foundation
+- 📍 **Location:** 160 Fifth Avenue, New York, NY
+- 🕒 **Posted:** Posted 30+ Days Ago
