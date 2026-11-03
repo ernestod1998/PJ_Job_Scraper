@@ -1,6 +1,8 @@
 # 🎬 Entertainment — Studios / Agencies / Labels (direct ATS + LinkedIn allowlist)
-*Last updated: 2026-11-02 11:09 UTC*
+*Last updated: 2026-11-03 11:00 UTC*
 
-**0 new role(s)** since last run · 35 total in last 24h
+**1 new role(s)** since last run · 35 total in last 24h
 
-No new entertainment roles since the last run.
+### [Project Coordinator, Media Group Decision Sciences](https://www.linkedin.com/jobs/view/4486185707/) — NBCUniversal
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-02
