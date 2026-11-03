@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-02 23:37 UTC",
+  "scraped_at": "2026-11-03 21:51 UTC",
   "total": 4,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "State of South Carolina",
@@ -52,20 +52,7 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Los Angeles City Attorney's Office (CA)",
-      "title": "Administrative Coordinator I",
-      "location": "Los Angeles City Hall - East",
-      "url": "https://www.governmentjobs.com/jobs/5537177-0/administrative-coordinator-i",
-      "date_posted": "",
-      "salary": "$77,903.00 - $113,900.00 Annually",
-      "ats": "NEOGOV",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
