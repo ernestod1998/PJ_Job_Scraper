@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-06 10:59 UTC",
-  "total": 35,
-  "new_count": 3,
+  "scraped_at": "2026-11-07 10:15 UTC",
+  "total": 40,
+  "new_count": 9,
   "jobs": [
     {
       "company": "A24",
@@ -19,7 +19,7 @@
       "title": "Production Coordinator - Kids TV, Animation - NY",
       "location": "New York, New York",
       "url": "https://spe.wd1.myworkdayjobs.com/SonyPicturesEntertainment/job/New-York-New-York/Production-Coordinator_JR114875",
-      "date_posted": "Posted 15 Days Ago",
+      "date_posted": "Posted 16 Days Ago",
       "ats": "Workday",
       "feeds": [
         "hollywood"
@@ -30,7 +30,7 @@
       "title": "Business Operations Analyst, AI & Innovation - Brand Consulting",
       "location": "New York, NY",
       "url": "https://caa.wd1.myworkdayjobs.com/Careers/job/New-York-NY/Business-Operations-Analyst--Data-Science---Innovation---Brand-Consulting_JR9301",
-      "date_posted": "Posted 15 Days Ago",
+      "date_posted": "Posted 16 Days Ago",
       "ats": "Workday",
       "feeds": [
         "hollywood"
@@ -41,7 +41,7 @@
       "title": "Account Manager, Hospitality - Brand Consulting",
       "location": "New York, NY",
       "url": "https://caa.wd1.myworkdayjobs.com/Careers/job/New-York-NY/Account-Manager--Hospitality---Brand-Consulting_JR9302",
-      "date_posted": "Posted 25 Days Ago",
+      "date_posted": "Posted 26 Days Ago",
       "ats": "Workday",
       "feeds": [
         "hollywood"
@@ -52,7 +52,7 @@
       "title": "Account Manager -Brand Consulting",
       "location": "Los Angeles, CA",
       "url": "https://caa.wd1.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Account-Manager---Sports--Brand-Consulting_JR9432",
-      "date_posted": "Posted 5 Days Ago",
+      "date_posted": "Posted 6 Days Ago",
       "ats": "Workday",
       "feeds": [
         "hollywood"
@@ -63,7 +63,18 @@
       "title": "Account Manager - Sports - Brand Consulting",
       "location": "New York, NY",
       "url": "https://caa.wd1.myworkdayjobs.com/Careers/job/New-York-NY/Account-Manager---Sports---Brand-Consulting_JR9435",
-      "date_posted": "Posted 8 Days Ago",
+      "date_posted": "Posted 9 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "hollywood"
+      ]
+    },
+    {
+      "company": "Universal Music Group",
+      "title": "Executive Assistant",
+      "location": "Santa Monica, California",
+      "url": "https://umusic.wd5.myworkdayjobs.com/UMGUS/job/Santa-Monica-California/Executive-Assistant_UMG-27953",
+      "date_posted": "Posted Yesterday",
       "ats": "Workday",
       "feeds": [
         "hollywood"
@@ -151,7 +162,7 @@
       "title": "LN Venues, National Special Events Sales Coordinator",
       "location": "Beverly Hills, CA, USA",
       "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/LN-Venues--National-Special-Events-Sales-Coordinator_JR-93634",
-      "date_posted": "Posted 28 Days Ago",
+      "date_posted": "Posted 29 Days Ago",
       "ats": "Workday",
       "feeds": [
         "hollywood"
@@ -173,7 +184,7 @@
       "title": "Insomniac - Paid Spring Public Relations Intern",
       "location": "Calabasas, CA, USA",
       "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Paid-Spring-Public-Relations-Intern_JR-93565-1",
-      "date_posted": "Posted 25 Days Ago",
+      "date_posted": "Posted 26 Days Ago",
       "ats": "Workday",
       "feeds": [
         "hollywood"
@@ -258,17 +269,6 @@
     },
     {
       "company": "iHeartMedia",
-      "title": "Social Media Manager",
-      "location": "Los Angeles, CA (Burbank - Olive)",
-      "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Los-Angeles-CA-Burbank---Olive/Social-Media-Manager_Req39406-1",
-      "date_posted": "Posted 30+ Days Ago",
-      "ats": "Workday",
-      "feeds": [
-        "hollywood"
-      ]
-    },
-    {
-      "company": "iHeartMedia",
       "title": "Digital Account Coordinator",
       "location": "Los Angeles, CA: 6100 Center Drive West, Suite 800, 90045",
       "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Los-Angeles-CA-6100-Center-Drive-West-Suite-800-90045/Digital-Account-Coordinator_Req35756-1",
@@ -283,6 +283,28 @@
       "title": "National Event Coordinator",
       "location": "New York, NY (55th St)",
       "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/New-York-NY-55th-St/National-Event-Coordinator_Req39598-4",
+      "date_posted": "Posted 2 Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "hollywood"
+      ]
+    },
+    {
+      "company": "iHeartMedia",
+      "title": "Social Media Manager",
+      "location": "Los Angeles, CA (Burbank - Olive)",
+      "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Los-Angeles-CA-Burbank---Olive/Social-Media-Manager_Req39406-1",
+      "date_posted": "Posted 30+ Days Ago",
+      "ats": "Workday",
+      "feeds": [
+        "hollywood"
+      ]
+    },
+    {
+      "company": "iHeartMedia",
+      "title": "National Event Sponsorship Coordinator",
+      "location": "New York, NY (55th St)",
+      "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/New-York-NY-55th-St/National-Event-Sponsorship-Coordinator_Req39637-4",
       "date_posted": "Posted Yesterday",
       "ats": "Workday",
       "feeds": [
@@ -346,9 +368,42 @@
     },
     {
       "company": "NBCUniversal",
-      "title": "Coordinator, Digital Marketing",
+      "title": "Associate, Account Management",
       "location": "Universal City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471699796/",
+      "url": "https://www.linkedin.com/jobs/view/4480393800/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "hollywood"
+      ]
+    },
+    {
+      "company": "AEG",
+      "title": "Marketing Coordinator - Goldenvoice",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480167872/",
+      "date_posted": "2026-11-06",
+      "ats": "LinkedIn",
+      "feeds": [
+        "hollywood"
+      ]
+    },
+    {
+      "company": "TikTok",
+      "title": "Community Operations Specialist (Lead Generation) - TikTok LIVE",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487330645/",
+      "date_posted": "2026-11-06",
+      "ats": "LinkedIn",
+      "feeds": [
+        "hollywood"
+      ]
+    },
+    {
+      "company": "Fox Entertainment",
+      "title": "Executive Assistant",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488431644/",
       "date_posted": "2026-11-06",
       "ats": "LinkedIn",
       "feeds": [
@@ -357,10 +412,10 @@
     },
     {
       "company": "NBCUniversal",
-      "title": "Assistant Project Manager",
+      "title": "Manager, Publicity - Focus Features",
       "location": "Universal City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488056505/",
-      "date_posted": "2026-11-05",
+      "url": "https://www.linkedin.com/jobs/view/4480178702/",
+      "date_posted": "2026-11-06",
       "ats": "LinkedIn",
       "feeds": [
         "hollywood"
@@ -368,21 +423,21 @@
     },
     {
       "company": "NBCUniversal",
-      "title": "NBC Sports Bay Area & California - Production Assistant Intern - Summer 2027",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488023664/",
-      "date_posted": "2026-11-05",
+      "title": "Executive Assistant, Ad Products & Solutions",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4488403345/",
+      "date_posted": "2026-11-06",
       "ats": "LinkedIn",
       "feeds": [
         "hollywood"
       ]
     },
     {
-      "company": "Warner Music Group",
-      "title": "Executive Assistant, 300 Entertainment",
+      "company": "NBCUniversal",
+      "title": "Production Assistant, TODAY (Contract)",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4444767461/",
-      "date_posted": "2026-11-05",
+      "url": "https://www.linkedin.com/jobs/view/4488194318/",
+      "date_posted": "2026-11-06",
       "ats": "LinkedIn",
       "feeds": [
         "hollywood"
@@ -391,10 +446,65 @@
   ],
   "new_jobs": [
     {
+      "company": "Universal Music Group",
+      "title": "Executive Assistant",
+      "location": "Santa Monica, California",
+      "url": "https://umusic.wd5.myworkdayjobs.com/UMGUS/job/Santa-Monica-California/Executive-Assistant_UMG-27953",
+      "date_posted": "Posted Yesterday",
+      "ats": "Workday",
+      "feeds": [
+        "hollywood"
+      ]
+    },
+    {
+      "company": "iHeartMedia",
+      "title": "National Event Sponsorship Coordinator",
+      "location": "New York, NY (55th St)",
+      "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/New-York-NY-55th-St/National-Event-Sponsorship-Coordinator_Req39637-4",
+      "date_posted": "Posted Yesterday",
+      "ats": "Workday",
+      "feeds": [
+        "hollywood"
+      ]
+    },
+    {
       "company": "NBCUniversal",
-      "title": "Coordinator, Digital Marketing",
+      "title": "Associate, Account Management",
       "location": "Universal City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471699796/",
+      "url": "https://www.linkedin.com/jobs/view/4480393800/",
+      "date_posted": "2026-11-07",
+      "ats": "LinkedIn",
+      "feeds": [
+        "hollywood"
+      ]
+    },
+    {
+      "company": "AEG",
+      "title": "Marketing Coordinator - Goldenvoice",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4480167872/",
+      "date_posted": "2026-11-06",
+      "ats": "LinkedIn",
+      "feeds": [
+        "hollywood"
+      ]
+    },
+    {
+      "company": "TikTok",
+      "title": "Community Operations Specialist (Lead Generation) - TikTok LIVE",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487330645/",
+      "date_posted": "2026-11-06",
+      "ats": "LinkedIn",
+      "feeds": [
+        "hollywood"
+      ]
+    },
+    {
+      "company": "Fox Entertainment",
+      "title": "Executive Assistant",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488431644/",
       "date_posted": "2026-11-06",
       "ats": "LinkedIn",
       "feeds": [
@@ -403,10 +513,10 @@
     },
     {
       "company": "NBCUniversal",
-      "title": "Assistant Project Manager",
+      "title": "Manager, Publicity - Focus Features",
       "location": "Universal City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488056505/",
-      "date_posted": "2026-11-05",
+      "url": "https://www.linkedin.com/jobs/view/4480178702/",
+      "date_posted": "2026-11-06",
       "ats": "LinkedIn",
       "feeds": [
         "hollywood"
@@ -414,10 +524,21 @@
     },
     {
       "company": "NBCUniversal",
-      "title": "NBC Sports Bay Area & California - Production Assistant Intern - Summer 2027",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488023664/",
-      "date_posted": "2026-11-05",
+      "title": "Executive Assistant, Ad Products & Solutions",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4488403345/",
+      "date_posted": "2026-11-06",
+      "ats": "LinkedIn",
+      "feeds": [
+        "hollywood"
+      ]
+    },
+    {
+      "company": "NBCUniversal",
+      "title": "Production Assistant, TODAY (Contract)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4488194318/",
+      "date_posted": "2026-11-06",
       "ats": "LinkedIn",
       "feeds": [
         "hollywood"
@@ -428,7 +549,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 0,
+    "location": 2,
     "stale": 0
   }
 }
