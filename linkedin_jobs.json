@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-08 23:39 UTC",
-  "total": 18,
-  "new_count": 18,
+  "scraped_at": "2026-11-09 00:06 UTC",
+  "total": 20,
+  "new_count": 3,
   "jobs": [
     {
       "company": "Pulley",
@@ -82,13 +82,12 @@
       ]
     },
     {
-      "company": "Alliance Resource Group",
-      "title": "Executive Recruiter - Executive Assistants and Leadership Support",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487659288/",
+      "company": "A.P. Moller - Maersk",
+      "title": "CHB Operations Associate",
+      "location": "Gardena, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472042741/",
       "date_posted": "2026-11-08",
       "ats": "LinkedIn",
-      "salary": "$80,000.00/yr - $300,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -131,6 +130,17 @@
       "title": "Sales Development Representative",
       "location": "New York, NY",
       "url": "https://www.linkedin.com/jobs/view/4488795717/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Pinnacle Collective Inc",
+      "title": "Entry-Level Marketing Associate",
+      "location": "North Bergen, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4487115668/",
       "date_posted": "2026-11-08",
       "ats": "LinkedIn",
       "feeds": [
@@ -193,13 +203,23 @@
       ]
     },
     {
+      "company": "Future Tech Leaders",
+      "title": "Social Media & Digital Marketing Spring 2027",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4488805553/",
+      "date_posted": "2026-11-08",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Mauser Packaging Solutions",
       "title": "Inside Sales Representative",
       "location": "Oak Brook, IL",
       "url": "https://www.linkedin.com/jobs/view/4487659318/",
       "date_posted": "2026-11-08",
       "ats": "LinkedIn",
-      "salary": "$63,000.00/yr - $76,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -207,10 +227,10 @@
   ],
   "new_jobs": [
     {
-      "company": "Pulley",
-      "title": "Associate Project Manager, Permitting [California]",
-      "location": "Los Angeles Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4485863873/",
+      "company": "A.P. Moller - Maersk",
+      "title": "CHB Operations Associate",
+      "location": "Gardena, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472042741/",
       "date_posted": "2026-11-08",
       "ats": "LinkedIn",
       "feeds": [
@@ -218,44 +238,10 @@
       ]
     },
     {
-      "company": "Hays",
-      "title": "Assistant Project Manager - Multifamily Construction",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480858647/",
-      "date_posted": "2026-11-08",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Nominal",
-      "title": "Recruiting Coordinator",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487121150/",
-      "date_posted": "2026-11-08",
-      "ats": "LinkedIn",
-      "salary": "$70,000.00/yr - $100,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "AUTER",
-      "title": "Social Media & Content Specialist",
-      "location": "Los Angeles Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4487655485/",
-      "date_posted": "2026-11-08",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Next Target Inc.",
+      "company": "Pinnacle Collective Inc",
       "title": "Entry-Level Marketing Associate",
-      "location": "Long Beach, CA",
-      "url": "https://www.linkedin.com/jobs/view/4484698739/",
+      "location": "North Bergen, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4487115668/",
       "date_posted": "2026-11-08",
       "ats": "LinkedIn",
       "feeds": [
@@ -263,146 +249,12 @@
       ]
     },
     {
-      "company": "Next Target Inc.",
-      "title": "Entry Level Brand Marketing Associate",
-      "location": "Long Beach, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485010387/",
-      "date_posted": "2026-11-08",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Next Target Inc.",
-      "title": "Entry Level Sales Representative",
-      "location": "Santa Ana, CA",
-      "url": "https://www.linkedin.com/jobs/view/4486269592/",
-      "date_posted": "2026-11-08",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Alliance Resource Group",
-      "title": "Executive Recruiter - Executive Assistants and Leadership Support",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487659288/",
-      "date_posted": "2026-11-08",
-      "ats": "LinkedIn",
-      "salary": "$80,000.00/yr - $300,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Arrow Electronics",
-      "title": "Inside Sales Representative",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487673028/",
-      "date_posted": "2026-11-08",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Nourish",
-      "title": "Recruiting Coordinator",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4487116414/",
-      "date_posted": "2026-11-08",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Kamino",
-      "title": "Executive Assistant to the CEO",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4488799790/",
-      "date_posted": "2026-11-08",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Right Choice Resources",
-      "title": "Sales Development Representative",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4488795717/",
-      "date_posted": "2026-11-08",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "UPS",
-      "title": "UPS Global Revenue Operations 2027 Internship",
+      "company": "Future Tech Leaders",
+      "title": "Social Media & Digital Marketing Spring 2027",
       "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4460967072/",
+      "url": "https://www.linkedin.com/jobs/view/4488805553/",
       "date_posted": "2026-11-08",
       "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "UPS",
-      "title": "UPS Global Revenue Operations 2027 Internship",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4460634757/",
-      "date_posted": "2026-11-08",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Collective Minds Inc.",
-      "title": "BDR/SDR Intern",
-      "location": "Atlanta Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4488811266/",
-      "date_posted": "2026-11-08",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "State Farm - Vinasco Insurance Agency Inc",
-      "title": "Account Manager - State Farm Agent Team Member",
-      "location": "Norcross, GA",
-      "url": "https://www.linkedin.com/jobs/view/4487111708/",
-      "date_posted": "2026-11-08",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Mark Hutchens State Farm Agency",
-      "title": "Account Manager - State Farm Agent Team Member",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4488800589/",
-      "date_posted": "2026-11-08",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Mauser Packaging Solutions",
-      "title": "Inside Sales Representative",
-      "location": "Oak Brook, IL",
-      "url": "https://www.linkedin.com/jobs/view/4487659318/",
-      "date_posted": "2026-11-08",
-      "ats": "LinkedIn",
-      "salary": "$63,000.00/yr - $76,000.00/yr",
       "feeds": [
         "general"
       ]
