@@ -1,14 +1,47 @@
 {
-  "scraped_at": "2026-11-09 07:52 UTC",
-  "total": 9,
-  "new_count": 9,
+  "scraped_at": "2026-11-09 08:42 UTC",
+  "total": 20,
+  "new_count": 11,
   "jobs": [
     {
       "company": "Vaccine Vets",
       "title": "Public Relations Intern",
       "location": "Los Angeles, CA",
       "url": "https://www.linkedin.com/jobs/view/4487680279/",
-      "date_posted": "2026-11-08",
+      "date_posted": "2026-11-09",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Radar HR",
+      "title": "Human Resources (HR) Operations Specialist",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488830347/",
+      "date_posted": "2026-11-09",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "GENTLE MONSTER",
+      "title": "Digital Marketing Analyst \u2014 Paid Media Operations",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487679148/",
+      "date_posted": "2026-11-09",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Notion",
+      "title": "Mid-Market Outcomes Architect (Customer Success)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4488820538/",
+      "date_posted": "2026-11-09",
       "ats": "LinkedIn",
       "feeds": [
         "general"
@@ -19,18 +52,7 @@
       "title": "Account Manager, San Francisco",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4487134012/",
-      "date_posted": "2026-11-08",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Capgemini Engineering",
-      "title": "Associate Project Manager",
-      "location": "Queens, NY",
-      "url": "https://www.linkedin.com/jobs/view/4487671960/",
-      "date_posted": "2026-11-08",
+      "date_posted": "2026-11-09",
       "ats": "LinkedIn",
       "feeds": [
         "general"
@@ -41,8 +63,87 @@
       "title": "Business Development Assistant - Fragrance",
       "location": "Queens, NY",
       "url": "https://www.linkedin.com/jobs/view/4488836219/",
-      "date_posted": "2026-11-08",
+      "date_posted": "2026-11-09",
       "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Capgemini Engineering",
+      "title": "Associate Project Manager",
+      "location": "Queens, NY",
+      "url": "https://www.linkedin.com/jobs/view/4487671960/",
+      "date_posted": "2026-11-09",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "NEH Marketing Inc",
+      "title": "Marketing Coordinator",
+      "location": "Hoboken, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4488829565/",
+      "date_posted": "2026-11-09",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Foundry",
+      "title": "Marketing & Communications Assistant",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4488841219/",
+      "date_posted": "2026-11-09",
+      "ats": "LinkedIn",
+      "salary": "$47,000.00/yr - $54,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "TripleLift",
+      "title": "Account Manager",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4488829583/",
+      "date_posted": "2026-11-09",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "TripleLift",
+      "title": "Account Manager",
+      "location": "Queens, NY",
+      "url": "https://www.linkedin.com/jobs/view/4488821826/",
+      "date_posted": "2026-11-09",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "TripleLift",
+      "title": "Account Manager",
+      "location": "Manhattan, NY",
+      "url": "https://www.linkedin.com/jobs/view/4488829584/",
+      "date_posted": "2026-11-09",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Katapult",
+      "title": "Customer Success Manager",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4487678202/",
+      "date_posted": "2026-11-09",
+      "ats": "LinkedIn",
+      "salary": "$85,000.00/yr - $105,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -52,7 +153,7 @@
       "title": "Frontier Data Lead \u2013 Client Success & AI Partnerships",
       "location": "Atlanta, GA",
       "url": "https://www.linkedin.com/jobs/view/4486813082/",
-      "date_posted": "2026-11-08",
+      "date_posted": "2026-11-09",
       "ats": "LinkedIn",
       "salary": "$14,705.00/mo - $20,760.00/mo",
       "feeds": [
@@ -64,7 +165,7 @@
       "title": "Nonprofit Community Outreach",
       "location": "Atlanta, GA",
       "url": "https://www.linkedin.com/jobs/view/4487673943/",
-      "date_posted": "2026-11-08",
+      "date_posted": "2026-11-09",
       "ats": "LinkedIn",
       "feeds": [
         "general"
@@ -75,7 +176,7 @@
       "title": "Global Account Manager",
       "location": "Atlanta Metropolitan Area",
       "url": "https://www.linkedin.com/jobs/view/4488823699/",
-      "date_posted": "2026-11-08",
+      "date_posted": "2026-11-09",
       "ats": "LinkedIn",
       "feeds": [
         "general"
@@ -86,7 +187,18 @@
       "title": "Ad Sales Representative Associate - Ad Agency Partner Manager",
       "location": "Atlanta, GA",
       "url": "https://www.linkedin.com/jobs/view/4487677329/",
-      "date_posted": "2026-11-08",
+      "date_posted": "2026-11-09",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Protecht",
+      "title": "Customer Success Manager",
+      "location": "Atlanta Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4487696071/",
+      "date_posted": "2026-11-09",
       "ats": "LinkedIn",
       "feeds": [
         "general"
@@ -97,7 +209,18 @@
       "title": "Community & Partnerships Associate Intern",
       "location": "Chicago, IL",
       "url": "https://www.linkedin.com/jobs/view/4487674607/",
-      "date_posted": "2026-11-08",
+      "date_posted": "2026-11-09",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "MARKT-PILOT",
+      "title": "Business Development Representative - US",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4488837388/",
+      "date_posted": "2026-11-09",
       "ats": "LinkedIn",
       "feeds": [
         "general"
@@ -106,100 +229,123 @@
   ],
   "new_jobs": [
     {
-      "company": "Vaccine Vets",
-      "title": "Public Relations Intern",
+      "company": "Radar HR",
+      "title": "Human Resources (HR) Operations Specialist",
       "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487680279/",
-      "date_posted": "2026-11-08",
+      "url": "https://www.linkedin.com/jobs/view/4488830347/",
+      "date_posted": "2026-11-09",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "GetYourGuide",
-      "title": "Account Manager, San Francisco",
+      "company": "GENTLE MONSTER",
+      "title": "Digital Marketing Analyst \u2014 Paid Media Operations",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4487679148/",
+      "date_posted": "2026-11-09",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Notion",
+      "title": "Mid-Market Outcomes Architect (Customer Success)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4487134012/",
-      "date_posted": "2026-11-08",
+      "url": "https://www.linkedin.com/jobs/view/4488820538/",
+      "date_posted": "2026-11-09",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Capgemini Engineering",
-      "title": "Associate Project Manager",
+      "company": "NEH Marketing Inc",
+      "title": "Marketing Coordinator",
+      "location": "Hoboken, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4488829565/",
+      "date_posted": "2026-11-09",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The Foundry",
+      "title": "Marketing & Communications Assistant",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4488841219/",
+      "date_posted": "2026-11-09",
+      "ats": "LinkedIn",
+      "salary": "$47,000.00/yr - $54,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "TripleLift",
+      "title": "Account Manager",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4488829583/",
+      "date_posted": "2026-11-09",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "TripleLift",
+      "title": "Account Manager",
       "location": "Queens, NY",
-      "url": "https://www.linkedin.com/jobs/view/4487671960/",
-      "date_posted": "2026-11-08",
+      "url": "https://www.linkedin.com/jobs/view/4488821826/",
+      "date_posted": "2026-11-09",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Slate Brands",
-      "title": "Business Development Assistant - Fragrance",
-      "location": "Queens, NY",
-      "url": "https://www.linkedin.com/jobs/view/4488836219/",
-      "date_posted": "2026-11-08",
+      "company": "TripleLift",
+      "title": "Account Manager",
+      "location": "Manhattan, NY",
+      "url": "https://www.linkedin.com/jobs/view/4488829584/",
+      "date_posted": "2026-11-09",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Alignerr",
-      "title": "Frontier Data Lead \u2013 Client Success & AI Partnerships",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4486813082/",
-      "date_posted": "2026-11-08",
+      "company": "Katapult",
+      "title": "Customer Success Manager",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4487678202/",
+      "date_posted": "2026-11-09",
       "ats": "LinkedIn",
-      "salary": "$14,705.00/mo - $20,760.00/mo",
+      "salary": "$85,000.00/yr - $105,000.00/yr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Enlightened ATL",
-      "title": "Nonprofit Community Outreach",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4487673943/",
-      "date_posted": "2026-11-08",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cogent Communications",
-      "title": "Global Account Manager",
+      "company": "Protecht",
+      "title": "Customer Success Manager",
       "location": "Atlanta Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4488823699/",
-      "date_posted": "2026-11-08",
+      "url": "https://www.linkedin.com/jobs/view/4487696071/",
+      "date_posted": "2026-11-09",
       "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Accenture",
-      "title": "Ad Sales Representative Associate - Ad Agency Partner Manager",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4487677329/",
-      "date_posted": "2026-11-08",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Bey Group International",
-      "title": "Community & Partnerships Associate Intern",
+      "company": "MARKT-PILOT",
+      "title": "Business Development Representative - US",
       "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4487674607/",
-      "date_posted": "2026-11-08",
+      "url": "https://www.linkedin.com/jobs/view/4488837388/",
+      "date_posted": "2026-11-09",
       "ats": "LinkedIn",
       "feeds": [
         "general"
