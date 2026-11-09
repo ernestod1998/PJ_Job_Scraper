@@ -1,12 +1,6 @@
 # 🎬 Entertainment — Studios / Agencies / Labels (direct ATS + LinkedIn allowlist)
-*Last updated: 2026-11-08 10:24 UTC*
+*Last updated: 2026-11-09 11:35 UTC*
 
-**2 new role(s)** since last run · 35 total in last 24h
+**0 new role(s)** since last run · 33 total in last 24h
 
-### [Retail & Licensing Coordinator - Ceremony Of Roses](https://www.linkedin.com/jobs/view/4467162440/) — Sony Music Entertainment
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-11-07
-
-### [Digital Marketing Associate - American Girl CRM](https://www.linkedin.com/jobs/view/4463320807/) — Mattel, Inc.
-- 📍 **Location:** El Segundo, CA
-- 🕒 **Posted:** 2026-11-07
+No new entertainment roles since the last run.
