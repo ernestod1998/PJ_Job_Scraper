@@ -1,76 +1,64 @@
 # 🗃 Direct ATS Registry — Marketing / Account Mgmt / Coordinator Roles
-*Last updated: 2026-11-12 21:26 UTC*
+*Last updated: 2026-11-13 20:59 UTC*
 
-**18 new role(s)** since last run · 69 total in current registry shard
+**15 new role(s)** since last run · 52 total in current registry shard
 
-### [Event Coordinator Marketing and Sales](https://mymvw.wd5.myworkdayjobs.com/hvocareers/job/Tustin-AMS/Event-Coordinator-Marketing-and-Sales_JR93934) — Hyatt Vacation Club
-- 📍 **Location:** Tustin AMS
+### [Operations Coordinator](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Operations-Coordinator_R68772) — Motorola
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Executive Assistant, Risk](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/Executive-Assistant--Risk_R0027319-1) — Nasdaq
-- 📍 **Location:** USA - New York City - New York
-- 🕒 **Posted:** Posted 2 Days Ago
-
-### [Retention Customer Success Manager](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Denver-18-Street/Customer-Retention-Manager_R0027281) — Nasdaq
-- 📍 **Location:** USA - Chicago - Illinois
+### [Junior Operations Coordinator](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Culver-City-CA/Junior-Operations-Coordinator_R70690) — Motorola
+- 📍 **Location:** Culver City, CA
 - 🕒 **Posted:** Posted Yesterday
 
-### [Program Associate – Private Investment Portfolios and Co-Investment (“PIPCO”) Infrastructure](https://nb.wd1.myworkdayjobs.com/NBCareers/job/New-York-NY/Program-Associate---Private-Investment-Portfolios-and-Co-Investment---PIPCO---Infrastructure_R0012757) — Neuberger Berman
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** Posted 10 Days Ago
+### [Junior Operations Coordinator](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Junior-Operations-Coordinator_R70688) — Motorola
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** Posted Yesterday
 
-### [Production Assistant](https://nexstar.wd5.myworkdayjobs.com/nexstar/job/CA-Los-Angeles5800-Sunset-Blvd-Tribune-KTLA/Production-Assistant_REQ-43046) — Nexstar
-- 📍 **Location:** CA-Los Angeles;5800 Sunset Blvd (Tribune-KTLA)
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Account Manager - US Sales Southeast](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAGeorgiaSuwanee-GA/Account-Manager---US-Sales-Southeast_R0017663) — Nidec
-- 📍 **Location:** North America/USA/Georgia/Suwanee, GA
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Associate Digital Marketing Manager, Influencer (Hybrid - NYC)](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/New-York-NY/Associate-Digital-Marketing-Manager--Influencer--Hybrid---NYC-_R-897905) — Nordstrom
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** Posted Today
-
-### [Seasonal Customer Experience Specialist - Nordstrom Local Danville](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Danville-CA/Seasonal-Customer-Experience-Specialist---Nordstrom-Local-Danville_R-893070) — Nordstrom
-- 📍 **Location:** Danville, CA
-- 🕒 **Posted:** Posted 2 Days Ago
-
-### [Seasonal Customer Experience Specialist - Nordstrom Local Santa Monica](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Santa-Monica-CA/Seasonal-Customer-Experience-Specialist---Nordstrom-Local-Santa-Monica_R-889024) — Nordstrom
-- 📍 **Location:** Santa Monica, CA
-- 🕒 **Posted:** Posted 24 Days Ago
-
-### [Territory Sales Representative](https://pattersoncompanies.wd501.myworkdayjobs.com/PDCO/job/Atlanta-GA/Territory-Sales-Representative_R109242) — Patterson
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** Posted Today
-
-### [Large Law Customer Success Manager (JD required)](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Atlanta-GA/Large-Law-Customer-Success-Manager--Atlanta--GA-_R116952) — LexisNexis Risk Solutions
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Product Operations Coordinator](https://relx.wd3.myworkdayjobs.com/relx/job/Duluth-GA/Product-Operations-Coordinator_R120299-1) — RELX
-- 📍 **Location:** Duluth, GA
-- 🕒 **Posted:** Posted 20 Days Ago
-
-### [Product Operations Coordinator](https://relx.wd3.myworkdayjobs.com/relx/job/Duluth-GA/Product-Operations-Coordinator_R119494-1) — RELX
-- 📍 **Location:** Duluth, GA
+### [Inside Sales Manager](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Inside-Sales-Manager_R69009) — Motorola
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** Posted 14 Days Ago
 
-### [Executive Assistant](https://relx.wd3.myworkdayjobs.com/relx/job/Alpharetta-GA/Executive-Assistant_R119927-1) — RELX
-- 📍 **Location:** Alpharetta, GA
-- 🕒 **Posted:** Posted 17 Days Ago
+### [Sales Development Representative](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Sales-Development-Representative_R70520) — Motorola
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** Posted Yesterday
 
-### [Customer Success Specialist](https://relx.wd3.myworkdayjobs.com/relx/job/New-York-NY/Customer-Success-Specialist_R119758) — RELX
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** Posted 21 Days Ago
+### [Client Onboarding & Implementation Specialist, AVP](https://ms.wd5.myworkdayjobs.com/External/job/Alpharetta-Georgia-United-States-of-America/Onboarding-Data-Architect--AVP_PT-JR045774-1) — Morgan Stanley
+- 📍 **Location:** Alpharetta, Georgia, United States of America
+- 🕒 **Posted:** Posted 15 Days Ago
 
-### [Large Law Customer Success Manager (JD required)](https://relx.wd3.myworkdayjobs.com/relx/job/Atlanta-GA/Large-Law-Customer-Success-Manager--Atlanta--GA-_R116952-1) — RELX
-- 📍 **Location:** Atlanta, GA
+### [Advance Solutions Project Specialist, AVP](https://ms.wd5.myworkdayjobs.com/External/job/545-LONG-WHARF-DRIVE/Advance-Solutions-Project-Specialist--AVP_PT-JR042333-1) — Morgan Stanley
+- 📍 **Location:** Alpharetta, Georgia, United States of America
 - 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Human Resources Operations Specialist](https://ringcentral.wd1.myworkdayjobs.com/RingCentral_Careers/job/Belmont-California/Hiring-and-People-Operations-Specialist_R078777) — RingCentral
-- 📍 **Location:** Belmont, California
+### [LEAF Inside Sales Account Executive](https://mtb.wd5.myworkdayjobs.com/MTB/job/Orange-CA/LEAF-Inside-Sales-Exploratory-Interviews_R89605) — M&T Bank
+- 📍 **Location:** Orange, CA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Client Services Analyst - Japanese Corporate Banking](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/New-York-NY/Client-Services-Analyst---Japanese-Corporate-Banking_10079392-WD) — MUFG
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Project Coordinator](https://mydpr.wd5.myworkdayjobs.com/11212017/job/San-Francisco-CA/Project-Coordinator_JR-16676) — DPR Family of Companies
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** Posted 30+ Days Ago
+
+### [Analyst, Digital Marketing & Measurement - January 2027 Start](https://ovative.wd12.myworkdayjobs.com/ovative/job/Minneapolis/Analyst--Digital-Marketing---Measurement---January-2027-Start_JR100343) — Ovative
+- 📍 **Location:** Chicago
 - 🕒 **Posted:** Posted Today
 
-### [EDGE, Technical Sales & Consulting: Account Manager (US)](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Milwaukee-Wisconsin-United-States/EDGE--Technical-Sales---Consulting--Account-Manager--US-_R26-5253-2) — Rockwell Automation
-- 📍 **Location:** San Francisco, California, United States
+### [Pfizer CentreOne Commercial Development & Marketing Associate](https://pfizer.wd1.myworkdayjobs.com/internaljobs/job/United-States---New-York---New-York-City/Pfizer-CentreOne-Commercial-Development---Marketing-Associate_4966454) — Pfizer
+- 📍 **Location:** United States - New York - New York City
 - 🕒 **Posted:** Posted Yesterday
+
+### [Pfizer CentreOne Commercial Development & Marketing Associate](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Pfizer-CentreOne-Commercial-Development---Marketing-Associate_4966454-1) — Pfizer
+- 📍 **Location:** United States - New York - New York City
+- 🕒 **Posted:** Posted Yesterday
+
+### [Regional Account Manager, Medical Stop Loss (MSL) Distribution](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Regional-Account-Manager--Medical-Stop-Loss--MSL--Distribution_R-125123-1) — Prudential Financial
+- 📍 **Location:** Newark, NJ, USA
+- 🕒 **Posted:** Posted 4 Days Ago
+
+### [PGIM Quantitative Solutions, Executive Assistant (Hybrid)](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM-Quantitative-Solutions--Executive-Assistant--Hybrid-_R-124933-1) — Prudential Financial
+- 📍 **Location:** Newark, NJ, USA
+- 🕒 **Posted:** Posted 23 Days Ago
