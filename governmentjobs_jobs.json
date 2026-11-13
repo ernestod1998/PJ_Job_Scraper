@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-12 22:19 UTC",
-  "total": 2,
-  "new_count": 0,
+  "scraped_at": "2026-11-13 22:02 UTC",
+  "total": 4,
+  "new_count": 2,
   "jobs": [
     {
       "company": "City of Redondo Beach",
@@ -10,6 +10,18 @@
       "url": "https://www.governmentjobs.com/jobs/5538878-0/program-coordinator-part-time-city-clerk",
       "date_posted": "",
       "salary": "$19.50 - $50.00 Hourly",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "State of South Carolina",
+      "title": "Program Coordinator II / Branch Manager III - 195177",
+      "location": "Berkeley County, SC",
+      "url": "https://www.governmentjobs.com/jobs/5544814-0/program-coordinator-ii-branch-manager-iii-195177",
+      "date_posted": "",
+      "salary": "$67,442.00 - $70,172.00 Annually",
       "ats": "NEOGOV",
       "feeds": [
         "general"
@@ -26,9 +38,46 @@
       "feeds": [
         "general"
       ]
+    },
+    {
+      "company": "Forest Preserve District of Will County",
+      "title": "Digital Marketing Coordinator",
+      "location": "Joliet, IL",
+      "url": "https://www.governmentjobs.com/jobs/153267-1/digital-marketing-coordinator",
+      "date_posted": "",
+      "salary": "$54,473.00 - $75,207.00 Annually",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "State of South Carolina",
+      "title": "Program Coordinator II / Branch Manager III - 195177",
+      "location": "Berkeley County, SC",
+      "url": "https://www.governmentjobs.com/jobs/5544814-0/program-coordinator-ii-branch-manager-iii-195177",
+      "date_posted": "",
+      "salary": "$67,442.00 - $70,172.00 Annually",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Forest Preserve District of Will County",
+      "title": "Digital Marketing Coordinator",
+      "location": "Joliet, IL",
+      "url": "https://www.governmentjobs.com/jobs/153267-1/digital-marketing-coordinator",
+      "date_posted": "",
+      "salary": "$54,473.00 - $75,207.00 Annually",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
