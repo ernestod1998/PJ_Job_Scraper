@@ -11346,6 +11346,21 @@
       ],
       "status": "active"
     },
+    "ashby:shortstory": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "Short Story",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "ShortStory",
+      "sources": [
+        "yc-hiring-careers"
+      ],
+      "status": "active"
+    },
     "ashby:sierra": {
       "ats": "ashby",
       "baseline_complete": true,
@@ -13581,9 +13596,9 @@
     "ashby:xalts": {
       "ats": "ashby",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-11-13",
+      "last_verified": "2026-11-14",
       "name": "xalts",
       "promoted_until": null,
       "retry_after": null,
@@ -13612,9 +13627,9 @@
     "ashby:xare": {
       "ats": "ashby",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-11-13",
+      "last_verified": "2026-11-14",
       "name": "xare",
       "promoted_until": null,
       "retry_after": null,
@@ -13657,9 +13672,9 @@
     "ashby:xcams1ckkjgsgq8aetp1wnfxszlxtlyupaxnjeamp_d7qp9vwg7dq-bny67rw0gnrcyvmicvhcmw3pfbmvsakg==": {
       "ats": "ashby",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-11-13",
+      "last_verified": "2026-11-14",
       "name": "XcaMS1cKkJGSGq8AetP1wNfXSZlXtLYUpaxnJEaMP_D7qp9VWG7dQ-bNy67rW0GnRCyVmicvhCmW3PfBMVsakg==",
       "promoted_until": null,
       "retry_after": null,
@@ -13702,9 +13717,9 @@
     "ashby:xelix": {
       "ats": "ashby",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-11-13",
+      "last_verified": "2026-11-14",
       "name": "xelix",
       "promoted_until": null,
       "retry_after": null,
@@ -13732,9 +13747,9 @@
     "ashby:xenplatforms": {
       "ats": "ashby",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-11-13",
+      "last_verified": "2026-11-14",
       "name": "xenplatforms",
       "promoted_until": null,
       "retry_after": null,
@@ -13779,9 +13794,9 @@
     "ashby:xlabs": {
       "ats": "ashby",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-11-13",
+      "last_verified": "2026-11-14",
       "name": "Xlabs",
       "promoted_until": null,
       "retry_after": null,
@@ -13809,9 +13824,9 @@
     "ashby:xmtplabs": {
       "ats": "ashby",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-11-13",
+      "last_verified": "2026-11-14",
       "name": "xmtplabs",
       "promoted_until": null,
       "retry_after": null,
@@ -13824,9 +13839,9 @@
     "ashby:xna2xm0g8o9md-_sqd5ao3y8mqcwcbs87bzkjcxobvnspb7_aagn4oam6v3grmdmxal1bbgatnoym6urhq23rm9yyypdppvw9d2wagc6phukj7-9djislwblpbnt3zvwanlfxmlctllb5kd2wv6txzrx9exo63lywxovuaq8jclwdcyl2da3vwppyrpmexbxcpcszgqtoz1lykcw5mgkribijscmlnp8zrycgni7oabfmhwz8uqsdtzulacntihgd2316lvcu54zlqrrjscrv6s6ogojcecwo9jviksswcogqsit-gvjblyjofl9d3mtsojosvh6hviglg6bcwwofi3d03w0hcnn_1oa7takr3mllpjtzbzldfrbkjodvqsjuibrbgfoa2hari8aig": {
       "ats": "ashby",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-11-13",
+      "last_verified": "2026-11-14",
       "name": "Xna2xM0G8O9Md-_sqD5ao3y8MQCWCBS87BzkJCxobvNsPb7_aAgN4OaM6v3grmDmxal1bbGATNOYm6uRhq23rm9YyYPDPpVw9D2wAgc6pHUkj7-9djIsLWBLPbNT3zVWANLFxmLcTlLb5KD2WV6TxzrX9ExO63LYwxOvUAQ8JclwDCYl2da3vwPPyrpMexbxcpcsZGqTOZ1LyKcW5mgkrIbIJSCMLNP8zRYCgNI7oabfMHwZ8UQSdTzuLACNtIhGd2316LVCu54ZLqrrJSCrV6s6oGOJCecWO9jVikSsWcOGqsIT-gVJbLyjoFl9d3MTsOJoSVh6hvIgLG6BcwWofI3D03w0hCnN_1oA7tAkr3MllPJTZbZlDFrBKJoDVQSJUiBrbGfoa2hAri8aig",
       "promoted_until": null,
       "retry_after": null,
@@ -13895,6 +13910,426 @@
         "simplify"
       ],
       "status": "active"
+    },
+    "ashby:yadda": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "yadda",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "yadda",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "ashby:yazio": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "yazio",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "yazio",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "ashby:ybznf-wremhh1ucogcekqnho0qmypy5sno-rrxqol4npyhorda6a3bjrn3irsbr4z1aahgrrnxjqsxkqri6ghg==": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "ybzNF-WremHH1UcOGceKqnhO0QMyPY5sNO-rRXqol4nPyhoRDA6A3BjRn3iRSbr4z1AAHGRrNXjQsxkQri6Ghg==",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "ybzNF-WremHH1UcOGceKqnhO0QMyPY5sNO-rRXqol4nPyhoRDA6A3BjRn3iRSbr4z1AAHGRrNXjQsxkQri6Ghg==",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "ashby:ycombinator": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "ycombinator",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "ycombinator",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "ashby:yeet": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "yeet",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "yeet",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "ashby:yeifinance": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "yeifinance",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "yeifinance",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "ashby:yellow3d": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "Yellow3d",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "Yellow3d",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "ashby:yendo": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "yendo",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "yendo",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "ashby:yepoda": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "yepoda",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "yepoda",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "ashby:yield-xyz": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "yield-xyz",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "yield-xyz",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "ashby:yiqurzzlfoeq9pblrmcszefrpzwl7mefgopwvj1eh1tvcwzc5oa1okmi_vvoipcvepjmigcrefithlgdngrzfkfagkquu7pqcql934ibp9_hdili1rs82csg_hl-q08mkor8faflarndyijcup4g6udx0jbs9op-lzexrxqalb0lqcq9ymohl4ax8bh-gwwba_btelwbekyrmrfxaiqdads2z1zc56m81tk9qea8ldgxee-rowd9qhcog8bhaddlbiyjaedmzeg_z7rlgvb8ncuuojntua5gyc8stzep51fyyf6u2p6qqkpjbtv4mot7tqrnpp8k5u5bsukzlq4mov8vxu1lvxgffbof44jzt67amroaoghvmxcm-qko2cjkwc35rn2odomk2dim6g": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "yiQuRZZLFOEq9PBlrmcszefrPzwl7MeFgoPWVJ1Eh1tVcWzC5oA1OKMI_vvOIpCVEPJMIGCreFItHLgDnGrzfKFaGkqUU7PqCQL934IBP9_HdiLi1rs82cSG_hL-Q08mKOR8FaFlarNdYiJCUP4g6UDx0jbs9Op-lzExrxQALb0lQCQ9ymOHl4AX8bh-GwWBa_BTELWBeKYrMRFxaIqDaDs2Z1ZC56M81tk9qea8LdGXEE-rOwD9QhcOG8bHaddLbIYJAedmzeg_z7rlGVB8NCuUOjnTuA5gyC8sTzeP51FYyF6U2P6qqKPjBtV4MoT7TQrNPP8k5U5bSuKzlQ4MoV8VxU1LVXgFFbOF44jzt67aMRoaOGHvMXCM-qKO2cjkwC35Rn2odomk2DIm6g",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "yiQuRZZLFOEq9PBlrmcszefrPzwl7MeFgoPWVJ1Eh1tVcWzC5oA1OKMI_vvOIpCVEPJMIGCreFItHLgDnGrzfKFaGkqUU7PqCQL934IBP9_HdiLi1rs82cSG_hL-Q08mKOR8FaFlarNdYiJCUP4g6UDx0jbs9Op-lzExrxQALb0lQCQ9ymOHl4AX8bh-GwWBa_BTELWBeKYrMRFxaIqDaDs2Z1ZC56M81tk9qea8LdGXEE-rOwD9QhcOG8bHaddLbIYJAedmzeg_z7rlGVB8NCuUOjnTuA5gyC8sTzeP51FYyF6U2P6qqKPjBtV4MoT7TQrNPP8k5U5bSuKzlQ4MoV8VxU1LVXgFFbOF44jzt67aMRoaOGHvMXCM-qKO2cjkwC35Rn2odomk2DIm6g",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "ashby:yobi": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "yobi",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "yobi",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "ashby:yolabs": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "yolabs",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "yolabs",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "ashby:yonder": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "Yonder",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "Yonder",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "ashby:yondercard": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "yondercard",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "yondercard",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "ashby:yondr": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "yondr",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "yondr",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "ashby:yotta": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "yotta",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "yotta",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "ashby:you-health": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "you-health",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "you-health",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "ashby:youdotcom": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "youdotcom",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "youdotcom",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "ashby:youdotcom&esheet=53861688&newsitemid=20231121077682&lan=en-us&anchor=it+is+actively+hiring+for+various+roles&index=13&md5=28475320a13e610244bef10987142935": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "youdotcom&esheet=53861688&newsitemid=20231121077682&lan=en-US&anchor=it+is+actively+hiring+for+various+roles&index=13&md5=28475320a13e610244bef10987142935",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "youdotcom&esheet=53861688&newsitemid=20231121077682&lan=en-US&anchor=it+is+actively+hiring+for+various+roles&index=13&md5=28475320a13e610244bef10987142935",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "ashby:youdotcom&index=14&md5=566c1a1bca31596962cef70ab3334357": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "youdotcom&index=14&md5=566c1a1bca31596962cef70ab3334357",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "youdotcom&index=14&md5=566c1a1bca31596962cef70ab3334357",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "ashby:youpi": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "youpi",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "youpi",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "ashby:yourco": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "yourco",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "yourco",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "ashby:yovo": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "yovo",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "yovo",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "ashby:yubo": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "yubo",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "yubo",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "ashby:yuma": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "yuma",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "yuma",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "ashby:yumaai": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "yumaai",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "yumaai",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "active"
+    },
+    "ashby:yupp-ai": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "yupp-ai",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "yupp-ai",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
     },
     "ashby:z-_ugtwucbjgbi_izealn9glysvnk8sgdwhm7cpmsux5tz8rt3xa2ig9mklhjdkjb7s09ekpbuuehsjfskhsyc4-5vcensmq4x_rihjlnrp1nmtvokfsi75hghdsue6e-udpgl0jt9bmludjtxdffxdbds5gyeifosiytpdnnrdecbhrnn0wkyxvoq2rxbqj-abrmomrdea-znrubui2w9sbftcdxwlsjktzsisfpki0a_abszz0r4v1nyqh1epoamziszm5csvj1l9bkmgp1hbfucj4clltcucwt8_upbiaocfxl9r1-swmwc35duhky7_ucjac7dq9tdhkpuzbpvgkmaaghdiq98qynixkswexneuh9c8xbnuvymomzw4ubbhkzk31ecgiybpboq": {
       "ats": "ashby",
@@ -22172,12 +22607,12 @@
     "gem:nue-io": {
       "ats": "gem",
       "baseline_complete": false,
-      "failure_count": 4,
+      "failure_count": 5,
       "feed": "general",
-      "last_verified": "2026-10-15",
+      "last_verified": "2026-11-14",
       "name": "nue-io",
       "promoted_until": null,
-      "retry_after": "2026-11-14",
+      "retry_after": "2026-12-14",
       "slug": "nue-io",
       "sources": [
         "wayback-cdx"
@@ -30826,6 +31261,21 @@
       ],
       "status": "active"
     },
+    "greenhouse:cmt": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "Cambridge Mobile Telematics",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "cmt",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
     "greenhouse:colabsoftware": {
       "ats": "greenhouse",
       "baseline_complete": true,
@@ -32145,6 +32595,21 @@
       "promoted_until": "2027-01-30",
       "retry_after": null,
       "slug": "edgewoodpartnersinsurancecenter",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:edmentum": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "edmentum",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "edmentum",
       "sources": [
         "simplify"
       ],
@@ -34744,6 +35209,21 @@
       ],
       "status": "active"
     },
+    "greenhouse:integratedbiosciencesinc": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "Integrated Biosciences",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "integratedbiosciencesinc",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
     "greenhouse:intercom": {
       "ats": "greenhouse",
       "baseline_complete": false,
@@ -36430,6 +36910,21 @@
       ],
       "status": "active"
     },
+    "greenhouse:mcmaster-carr-systems": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "McMaster-Carr",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "mcmaster-carr-systems",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
     "greenhouse:mcmastercarr": {
       "ats": "greenhouse",
       "baseline_complete": true,
@@ -36922,12 +37417,12 @@
     "greenhouse:n": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 4,
+      "failure_count": 5,
       "feed": "general",
-      "last_verified": "2026-10-15",
+      "last_verified": "2026-11-14",
       "name": "n",
       "promoted_until": null,
-      "retry_after": "2026-11-14",
+      "retry_after": "2026-12-14",
       "slug": "n",
       "sources": [
         "wayback-cdx"
@@ -36983,12 +37478,12 @@
     "greenhouse:n2coglassdoor": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 4,
+      "failure_count": 5,
       "feed": "general",
-      "last_verified": "2026-10-15",
+      "last_verified": "2026-11-14",
       "name": "n2coglassdoor",
       "promoted_until": null,
-      "retry_after": "2026-11-14",
+      "retry_after": "2026-12-14",
       "slug": "n2coglassdoor",
       "sources": [
         "wayback-cdx"
@@ -37074,12 +37569,12 @@
     "greenhouse:n2y": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 4,
+      "failure_count": 5,
       "feed": "general",
-      "last_verified": "2026-10-15",
+      "last_verified": "2026-11-14",
       "name": "n2y",
       "promoted_until": null,
-      "retry_after": "2026-11-14",
+      "retry_after": "2026-12-14",
       "slug": "n2y",
       "sources": [
         "wayback-cdx"
@@ -37089,12 +37584,12 @@
     "greenhouse:naadam": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 4,
+      "failure_count": 5,
       "feed": "general",
-      "last_verified": "2026-10-15",
+      "last_verified": "2026-11-14",
       "name": "naadam",
       "promoted_until": null,
-      "retry_after": "2026-11-14",
+      "retry_after": "2026-12-14",
       "slug": "naadam",
       "sources": [
         "wayback-cdx"
@@ -37121,12 +37616,12 @@
     "greenhouse:nabr": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 4,
+      "failure_count": 5,
       "feed": "general",
-      "last_verified": "2026-10-15",
+      "last_verified": "2026-11-14",
       "name": "nabr",
       "promoted_until": null,
-      "retry_after": "2026-11-14",
+      "retry_after": "2026-12-14",
       "slug": "nabr",
       "sources": [
         "wayback-cdx"
@@ -37136,12 +37631,12 @@
     "greenhouse:nacelle": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 4,
+      "failure_count": 5,
       "feed": "general",
-      "last_verified": "2026-10-15",
+      "last_verified": "2026-11-14",
       "name": "nacelle",
       "promoted_until": null,
-      "retry_after": "2026-11-14",
+      "retry_after": "2026-12-14",
       "slug": "nacelle",
       "sources": [
         "wayback-cdx"
@@ -37166,12 +37661,12 @@
     "greenhouse:nacmedical": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 4,
+      "failure_count": 5,
       "feed": "general",
-      "last_verified": "2026-10-15",
+      "last_verified": "2026-11-14",
       "name": "nacmedical",
       "promoted_until": null,
-      "retry_after": "2026-11-14",
+      "retry_after": "2026-12-14",
       "slug": "nacmedical",
       "sources": [
         "wayback-cdx"
@@ -37181,12 +37676,12 @@
     "greenhouse:nameless": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 4,
+      "failure_count": 5,
       "feed": "general",
-      "last_verified": "2026-10-15",
+      "last_verified": "2026-11-14",
       "name": "nameless",
       "promoted_until": null,
-      "retry_after": "2026-11-14",
+      "retry_after": "2026-12-14",
       "slug": "nameless",
       "sources": [
         "wayback-cdx"
@@ -37196,12 +37691,12 @@
     "greenhouse:namelyexternalreferral": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 4,
+      "failure_count": 5,
       "feed": "general",
-      "last_verified": "2026-10-15",
+      "last_verified": "2026-11-14",
       "name": "namelyexternalreferral",
       "promoted_until": null,
-      "retry_after": "2026-11-14",
+      "retry_after": "2026-12-14",
       "slug": "namelyexternalreferral",
       "sources": [
         "wayback-cdx"
@@ -37226,12 +37721,12 @@
     "greenhouse:nanopathdx": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 4,
+      "failure_count": 5,
       "feed": "general",
-      "last_verified": "2026-10-15",
+      "last_verified": "2026-11-14",
       "name": "nanopathdx",
       "promoted_until": null,
-      "retry_after": "2026-11-14",
+      "retry_after": "2026-12-14",
       "slug": "nanopathdx",
       "sources": [
         "wayback-cdx"
@@ -37257,12 +37752,12 @@
     "greenhouse:nanostring": {
       "ats": "greenhouse",
       "baseline_complete": false,
-      "failure_count": 4,
+      "failure_count": 5,
       "feed": "general",
-      "last_verified": "2026-10-15",
+      "last_verified": "2026-11-14",
       "name": "nanostring",
       "promoted_until": null,
-      "retry_after": "2026-11-14",
+      "retry_after": "2026-12-14",
       "slug": "nanostring",
       "sources": [
         "wayback-cdx"
@@ -38594,6 +39089,36 @@
         "simplify"
       ],
       "status": "active"
+    },
+    "greenhouse:pairteam": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "Pair Team",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "pairteam",
+      "sources": [
+        "yc-hiring-careers"
+      ],
+      "status": "active"
+    },
+    "greenhouse:pairteam\\": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "Pair Team",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "pairteam\\",
+      "sources": [
+        "yc-hiring-careers"
+      ],
+      "status": "candidate"
     },
     "greenhouse:pallet": {
       "ats": "greenhouse",
@@ -44017,6 +44542,21 @@
       ],
       "status": "active"
     },
+    "greenhouse:yager": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "yager",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "yager",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
     "greenhouse:yaleinvestmentsoffice": {
       "ats": "greenhouse",
       "baseline_complete": false,
@@ -44046,6 +44586,51 @@
         "wayback-cdx"
       ],
       "status": "active"
+    },
+    "greenhouse:yardline": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "yardline",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "yardline",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:yaypay": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "yaypay",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "yaypay",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:yellowheart": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "yellowheart",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "yellowheart",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
     },
     "greenhouse:yembo": {
       "ats": "greenhouse",
@@ -44123,6 +44708,36 @@
         "wayback-cdx"
       ],
       "status": "active"
+    },
+    "greenhouse:yesshecodes": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "yesshecodes",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "yesshecodes",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:yeti": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "yeti",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "yeti",
+      "sources": [
+        "wayback-cdx"
+      ],
+      "status": "candidate"
     },
     "greenhouse:yext": {
       "ats": "greenhouse",
@@ -46710,6 +47325,21 @@
       "promoted_until": null,
       "retry_after": null,
       "slug": "erg",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "lever:esrtreit": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "Empire State Realty Trust",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "esrtreit",
       "sources": [
         "simplify"
       ],
@@ -54500,7 +55130,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-07",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-18",
       "name": "Baird",
       "promoted_until": "2026-12-19",
@@ -54580,7 +55210,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-07",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-27",
       "name": "First Financial Bank",
       "promoted_until": null,
@@ -54660,10 +55290,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-07",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-18",
       "name": "Barry-Wehmiller",
-      "promoted_until": "2027-02-05",
+      "promoted_until": "2027-02-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -54803,10 +55433,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-07",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-18",
       "name": "Brown & Brown Insurance",
-      "promoted_until": "2027-02-05",
+      "promoted_until": "2027-02-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -54851,7 +55481,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-07",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-27",
       "name": "Blue Cross and Blue Shield of Louisiana",
       "promoted_until": null,
@@ -54947,10 +55577,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-07",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-18",
       "name": "Becton Dickinson",
-      "promoted_until": "2027-02-05",
+      "promoted_until": "2027-02-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -55043,7 +55673,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-07",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-18",
       "name": "Best Buy",
       "promoted_until": null,
@@ -55107,7 +55737,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-07",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-14",
       "name": "Beth Israel Lahey Health",
       "promoted_until": null,
@@ -55186,7 +55816,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-07",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-27",
       "name": "BlackRock",
       "promoted_until": null,
@@ -55233,7 +55863,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-07",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-27",
       "name": "Blackstone",
       "promoted_until": null,
@@ -55265,10 +55895,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-07",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-27",
       "name": "Bloom Energy",
-      "promoted_until": "2027-02-05",
+      "promoted_until": "2027-02-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -55297,7 +55927,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-07",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-27",
       "name": "BlueScope",
       "promoted_until": null,
@@ -55313,7 +55943,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-07",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-14",
       "name": "BMO",
       "promoted_until": "2026-12-22",
@@ -55329,10 +55959,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-07",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-14",
       "name": "Bank of Montreal",
-      "promoted_until": "2027-02-05",
+      "promoted_until": "2027-02-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -55345,7 +55975,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-07",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-14",
       "name": "BMO",
       "promoted_until": null,
@@ -55392,10 +56022,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-07",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-13",
       "name": "The Boeing Company",
-      "promoted_until": "2027-02-05",
+      "promoted_until": "2027-02-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -55440,7 +56070,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-07",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-27",
       "name": "Bonterra",
       "promoted_until": null,
@@ -55473,7 +56103,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-07",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-27",
       "name": "Bose",
       "promoted_until": "2026-12-23",
@@ -55489,7 +56119,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-07",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-18",
       "name": "Boyd",
       "promoted_until": "2026-12-23",
@@ -55585,10 +56215,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-07",
+      "last_success": "2026-11-14",
       "last_verified": "2026-09-11",
       "name": "CHEP",
-      "promoted_until": "2027-02-05",
+      "promoted_until": "2027-02-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -55617,7 +56247,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-11-07",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-18",
       "name": "Braun Intertec",
       "promoted_until": null,
@@ -55631,13 +56261,13 @@
     "workday:https://brenntag.wd3.myworkdayjobs.com/wday/cxs/brenntag/brenntag_jobs/jobs": {
       "ats": "workday",
       "baseline_complete": true,
-      "failure_count": 1,
+      "failure_count": 0,
       "feed": "general",
       "last_failure": "2026-11-07",
-      "last_success": "2026-09-25",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-18",
       "name": "Brenntag",
-      "promoted_until": "2026-12-24",
+      "promoted_until": "2027-02-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -55650,7 +56280,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-12",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-13",
       "name": "Brink",
       "promoted_until": null,
@@ -55682,7 +56312,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-25",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-27",
       "name": "Broadcom Limited",
       "promoted_until": "2026-12-13",
@@ -55698,7 +56328,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-25",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-18",
       "name": "Broadridge",
       "promoted_until": "2026-12-24",
@@ -55730,7 +56360,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-19",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-18",
       "name": "Brock University",
       "promoted_until": null,
@@ -55746,10 +56376,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-25",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-14",
       "name": "Argo Group",
-      "promoted_until": "2026-12-24",
+      "promoted_until": "2027-02-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -55762,10 +56392,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-25",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-27",
       "name": "Brookfield",
-      "promoted_until": "2026-12-24",
+      "promoted_until": "2027-02-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -55794,7 +56424,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-19",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-18",
       "name": "Brown University Health",
       "promoted_until": null,
@@ -55826,7 +56456,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-25",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-18",
       "name": "BTI Solutions",
       "promoted_until": "2026-12-24",
@@ -55890,7 +56520,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-25",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-27",
       "name": "Deluxe Media",
       "promoted_until": "2026-12-24",
@@ -55986,7 +56616,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-19",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-14",
       "name": "Cadence Design Systems",
       "promoted_until": null,
@@ -56034,7 +56664,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-19",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-18",
       "name": "Cadence Design Systems",
       "promoted_until": null,
@@ -56116,7 +56746,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-19",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-14",
       "name": "Calix",
       "promoted_until": null,
@@ -56227,7 +56857,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-25",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-13",
       "name": "Camping World",
       "promoted_until": "2026-12-24",
@@ -56243,7 +56873,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-25",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-18",
       "name": "Canadian Solar",
       "promoted_until": "2026-12-24",
@@ -56275,7 +56905,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-19",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-18",
       "name": "Candescent",
       "promoted_until": null,
@@ -56304,12 +56934,13 @@
     },
     "workday:https://capgroup.wd1.myworkdayjobs.com/wday/cxs/capgroup/capitalgroupcareers/jobs": {
       "ats": "workday",
-      "baseline_complete": false,
+      "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
+      "last_success": "2026-11-14",
       "last_verified": "2026-10-01",
       "name": "Capital Group",
-      "promoted_until": null,
+      "promoted_until": "2027-02-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -56353,7 +56984,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-25",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-13",
       "name": "Capital One",
       "promoted_until": "2026-12-23",
@@ -56402,10 +57033,10 @@
       "failure_count": 0,
       "feed": "general",
       "last_failure": "2026-09-17",
-      "last_success": "2026-09-25",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-14",
       "name": "Cardinal Health",
-      "promoted_until": "2026-12-14",
+      "promoted_until": "2027-02-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -56466,7 +57097,7 @@
       "failure_count": 0,
       "feed": "general",
       "last_failure": "2026-09-06",
-      "last_success": "2026-09-25",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-27",
       "name": "Carrier Global",
       "promoted_until": "2026-12-24",
@@ -56482,10 +57113,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-25",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-18",
       "name": "Carter's",
-      "promoted_until": "2026-12-24",
+      "promoted_until": "2027-02-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -56498,10 +57129,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-25",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-13",
       "name": "Caterpillar Inc.",
-      "promoted_until": "2026-12-21",
+      "promoted_until": "2027-02-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -56515,7 +57146,7 @@
       "failure_count": 0,
       "feed": "general",
       "last_failure": "2026-09-07",
-      "last_success": "2026-09-25",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-14",
       "name": "Solar Turbines",
       "promoted_until": "2026-12-13",
@@ -56578,7 +57209,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-25",
+      "last_success": "2026-11-14",
       "last_verified": "2026-09-10",
       "name": "CCC Intelligent Solutions",
       "promoted_until": "2026-12-20",
@@ -56610,10 +57241,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-25",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-27",
       "name": "CDK Global",
-      "promoted_until": "2026-12-24",
+      "promoted_until": "2027-02-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -56626,7 +57257,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-19",
+      "last_success": "2026-11-14",
       "last_verified": "2026-09-11",
       "name": "CDPQ",
       "promoted_until": null,
@@ -56642,7 +57273,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-19",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-27",
       "name": "CDW Corporation",
       "promoted_until": null,
@@ -56658,10 +57289,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-25",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-27",
       "name": "Chuck E. Cheese",
-      "promoted_until": "2026-12-24",
+      "promoted_until": "2027-02-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -56706,10 +57337,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-25",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-13",
       "name": "Centene",
-      "promoted_until": "2026-12-24",
+      "promoted_until": "2027-02-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -56738,7 +57369,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-19",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-13",
       "name": "Centrica",
       "promoted_until": null,
@@ -56769,10 +57400,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-25",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-14",
       "name": "Cerity Partners",
-      "promoted_until": "2026-12-24",
+      "promoted_until": "2027-02-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -56801,10 +57432,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-25",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-13",
       "name": "Chamberlain Group",
-      "promoted_until": "2026-12-24",
+      "promoted_until": "2027-02-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -56849,7 +57480,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-19",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-27",
       "name": "Charter Manufacturing",
       "promoted_until": null,
@@ -56880,7 +57511,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-19",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-18",
       "name": "Chaucer Group",
       "promoted_until": null,
@@ -56896,7 +57527,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-25",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-27",
       "name": "ChenMed",
       "promoted_until": "2026-12-24",
@@ -56957,9 +57588,10 @@
     },
     "workday:https://choicehotels.wd5.myworkdayjobs.com/wday/cxs/choicehotels/external/jobs": {
       "ats": "workday",
-      "baseline_complete": false,
+      "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
+      "last_success": "2026-11-14",
       "last_verified": "2026-10-17",
       "name": "Choice Hotels",
       "promoted_until": null,
@@ -57037,10 +57669,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-30",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-14",
       "name": "CIBC",
-      "promoted_until": "2026-12-29",
+      "promoted_until": "2027-02-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -57070,10 +57702,10 @@
       "failure_count": 0,
       "feed": "general",
       "last_failure": "2026-09-13",
-      "last_success": "2026-09-30",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-27",
       "name": "Cigna Group",
-      "promoted_until": "2026-12-13",
+      "promoted_until": "2027-02-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -57102,7 +57734,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-19",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-18",
       "name": "Cineplex",
       "promoted_until": null,
@@ -57134,10 +57766,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-30",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-27",
       "name": "Circle",
-      "promoted_until": "2026-12-24",
+      "promoted_until": "2027-02-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -57166,10 +57798,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-30",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-27",
       "name": "Cisco",
-      "promoted_until": "2026-12-29",
+      "promoted_until": "2027-02-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -57182,7 +57814,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-19",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-13",
       "name": "Cisive",
       "promoted_until": null,
@@ -57198,7 +57830,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-30",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-13",
       "name": "Citi",
       "promoted_until": "2026-12-29",
@@ -57244,9 +57876,10 @@
     },
     "workday:https://clarioclinical.wd1.myworkdayjobs.com/wday/cxs/clarioclinical/clarioclinical_careers/jobs": {
       "ats": "workday",
-      "baseline_complete": false,
+      "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
+      "last_success": "2026-11-14",
       "last_verified": "2026-10-14",
       "name": "Clairo",
       "promoted_until": null,
@@ -57294,7 +57927,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-30",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-18",
       "name": "Clearwater Analytics",
       "promoted_until": "2026-12-24",
@@ -57422,7 +58055,7 @@
       "failure_count": 0,
       "feed": "general",
       "last_failure": "2026-09-14",
-      "last_success": "2026-09-30",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-27",
       "name": "CNA Insurance",
       "promoted_until": "2026-12-29",
@@ -57454,7 +58087,7 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-19",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-27",
       "name": "CNO Financial Group",
       "promoted_until": null,
@@ -57470,10 +58103,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-09-30",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-13",
       "name": "Cohesity",
-      "promoted_until": "2026-12-29",
+      "promoted_until": "2027-02-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -57503,10 +58136,10 @@
       "failure_count": 0,
       "feed": "general",
       "last_failure": "2026-09-15",
-      "last_success": "2026-09-30",
+      "last_success": "2026-11-14",
       "last_verified": "2026-08-18",
       "name": "Collectors",
-      "promoted_until": "2026-12-29",
+      "promoted_until": "2027-02-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -57565,8 +58198,9 @@
     "workday:https://columbiasportswearcompany.wd5.myworkdayjobs.com/wday/cxs/columbiasportswearcompany/csc_careers/jobs": {
       "ats": "workday",
       "baseline_complete": true,
-      "failure_count": 0,
+      "failure_count": 1,
       "feed": "general",
+      "last_failure": "2026-11-14",
       "last_success": "2026-09-19",
       "last_verified": "2026-08-18",
       "name": "Columbia Sportswear Company",
@@ -60553,6 +61187,21 @@
       ],
       "status": "active",
       "url": "https://formulaone.wd3.myworkdayjobs.com/wday/cxs/formulaone/F1/jobs"
+    },
+    "workday:https://fortbendcountytx.wd5.myworkdayjobs.com/wday/cxs/fortbendcountytx/externalcareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "Fort Bend County",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://fortbendcountytx.wd5.myworkdayjobs.com/wday/cxs/fortbendcountytx/externalcareers/jobs"
     },
     "workday:https://fourseasons.wd3.myworkdayjobs.com/wday/cxs/fourseasons/search/jobs": {
       "ats": "workday",
@@ -64082,6 +64731,21 @@
       "status": "active",
       "url": "https://kone.wd3.myworkdayjobs.com/wday/cxs/kone/careers/jobs"
     },
+    "workday:https://ksb.wd3.myworkdayjobs.com/wday/cxs/ksb/ksb_externalcareersite/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "KSB",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://ksb.wd3.myworkdayjobs.com/wday/cxs/ksb/KSB_ExternalCareerSite/jobs"
+    },
     "workday:https://kslaw.wd1.myworkdayjobs.com/wday/cxs/kslaw/careers/jobs": {
       "ats": "workday",
       "baseline_complete": true,
@@ -64717,6 +65381,21 @@
       ],
       "status": "active",
       "url": "https://lsu.wd1.myworkdayjobs.com/wday/cxs/lsu/lsuwaiver/jobs"
+    },
+    "workday:https://lthc.wd1.myworkdayjobs.com/wday/cxs/lthc/cdphpcareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-11-14",
+      "name": "CDPHP",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://lthc.wd1.myworkdayjobs.com/wday/cxs/lthc/CDPHPCareers/jobs"
     },
     "workday:https://lthc.wd1.myworkdayjobs.com/wday/cxs/lthc/excellusbcbscareers/jobs": {
       "ats": "workday",
@@ -74715,9 +75394,9 @@
       "3": 872,
       "4": 951,
       "5": 948,
-      "6": 620
+      "6": 691
     },
-    "yc_companies": 237
+    "yc_companies": 240
   },
   "schema_version": 1
 }
