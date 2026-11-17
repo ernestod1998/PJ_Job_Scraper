@@ -1,14 +1,40 @@
 {
-  "scraped_at": "2026-11-15 21:21 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": [],
+  "scraped_at": "2026-11-17 00:31 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "Department of State Hospitals",
+      "title": "Project Coordinator - Hybrid Telework",
+      "location": "Los Angeles County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536168",
+      "date_posted": "2026-11-16",
+      "salary": "$6031.00 - $7547.00",
+      "ats": "CalCareers",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Department of State Hospitals",
+      "title": "Project Coordinator - Hybrid Telework",
+      "location": "Los Angeles County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536168",
+      "date_posted": "2026-11-16",
+      "salary": "$6031.00 - $7547.00",
+      "ats": "CalCareers",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 6,
+    "location": 8,
     "stale": 0
   }
 }
