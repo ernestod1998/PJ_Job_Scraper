@@ -1,8 +1,8 @@
 # 🏛 NEOGOV — State & Local Government Roles
-*Last updated: 2026-11-17 23:34 UTC*
+*Last updated: 2026-11-18 22:58 UTC*
 
-**1 new role(s)** since last run · 3 total in recent GovernmentJobs postings
+**1 new role(s)** since last run · 4 total in recent GovernmentJobs postings
 
-### [Program Coordinator](https://www.governmentjobs.com/jobs/5552261-0/program-coordinator) — CSU Fullerton Auxiliary Services Corporation ("ASC")
-- 📍 **Location:** Fullerton, CA
-- 💰 **Salary:** $29.00 - $33.00 Hourly
+### [Program Coordinator II / Branch Manager III - 195177](https://www.governmentjobs.com/jobs/5544814-0/program-coordinator-ii-branch-manager-iii-195177) — State of South Carolina
+- 📍 **Location:** Berkeley County, SC
+- 💰 **Salary:** $67,442.00 - $70,172.00 Annually
