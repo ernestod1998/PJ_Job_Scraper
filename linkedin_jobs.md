@@ -1,543 +1,734 @@
 # 🔥 LinkedIn — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-11-19 03:15 UTC*
+*Last updated: 2026-11-19 22:12 UTC*
 
-**131 new role(s)** since last run · 132 total in last 4h
+**178 new role(s)** since last run · 178 total in last 4h
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4491882463/) — Remilia Corporation
-- 📍 **Location:** Los Angeles Metropolitan Area
-- 🕒 **Posted:** 2026-11-18
-
-### [Clinical Research Coordinator](https://www.linkedin.com/jobs/view/4492258096/) — UC Irvine
-- 📍 **Location:** Orange County, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [Marketing Coordinator](https://www.linkedin.com/jobs/view/4491365380/) — Oved Group
+### [Clinical Research Coordinator](https://www.linkedin.com/jobs/view/4492498529/) — UC Irvine
 - 📍 **Location:** Irvine, CA
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Assistant Project Manager - Multifamily Construction](https://www.linkedin.com/jobs/view/4491272733/) — Hays
+### [Operations Coordinator IV](https://www.linkedin.com/jobs/view/4492713579/) — EPITEC
+- 📍 **Location:** Culver City, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Assistant Project Manager II  Water](https://www.linkedin.com/jobs/view/4492491787/) — The Walsh Group - Walsh Construction & Archer Western
+- 📍 **Location:** Calabasas, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Business Operations Manager, Prime Video](https://www.linkedin.com/jobs/view/4492485861/) — Prime Video & Amazon MGM Studios
+- 📍 **Location:** Culver City, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Graduate Medical Education (GME) Program Coordinator](https://www.linkedin.com/jobs/view/4491631803/) — Jobot Consulting
 - 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-11-18
+- 💰 **Salary:** $21.00/hr - $40.00/hr
+- 🕒 **Posted:** 2026-11-19
 
-### [Social Media Coordinator](https://www.linkedin.com/jobs/view/4491886320/) — Beyond Miracles
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4491634893/) — Choice Water Solutions (Lic#1107955)
 - 📍 **Location:** Los Angeles Metropolitan Area
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Vans: Manager, Retail Marketing](https://www.linkedin.com/jobs/view/4492113373/) — Vans
-- 📍 **Location:** Costa Mesa, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [Marketing Specialist (Performance & Growth)](https://www.linkedin.com/jobs/view/4491899975/) — YLT7
+### [Client Account Coordinator](https://www.linkedin.com/jobs/view/4484548041/) — CampusPoint
 - 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-11-18
+- 💰 **Salary:** $55,000.00/yr - $60,000.00/yr
+- 🕒 **Posted:** 2026-11-19
 
-### [VIDEO AND DIGITAL CONTENT SPECIALIST (HOURLY)](https://www.linkedin.com/jobs/view/4492257252/) — County of Los Angeles
-- 📍 **Location:** Los Angeles County, CA
-- 🕒 **Posted:** 2026-11-18
+### [Client Success Mgr - Music](https://www.linkedin.com/jobs/view/4489146116/) — City National Bank
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-11-19
 
-### [Account Manager, Renewals](https://www.linkedin.com/jobs/view/4492261391/) — Centercode
-- 📍 **Location:** Mission Viejo, CA
-- 🕒 **Posted:** 2026-11-18
+### [Communications Specialist – Public Relations](https://www.linkedin.com/jobs/view/4477414729/) — DLA Piper
+- 📍 **Location:** Los Angeles Metropolitan Area
+- 🕒 **Posted:** 2026-11-19
 
-### [Key Account Manager - Pet Specialty](https://www.linkedin.com/jobs/view/4482563643/) — INABA FOODS (USA), INC.
-- 📍 **Location:** Torrance, CA
-- 💰 **Salary:** $90,000.00/yr - $105,000.00/yr
-- 🕒 **Posted:** 2026-11-18
+### [Public Relations Internship - Winter](https://www.linkedin.com/jobs/view/4492198691/) — Anderson Group Public Relations
+- 📍 **Location:** Los Angeles Metropolitan Area
+- 🕒 **Posted:** 2026-11-19
 
-### [Global Account Manager](https://www.linkedin.com/jobs/view/4492125032/) — Cogent Communications
+### [Manager, Field Marketing](https://www.linkedin.com/jobs/view/4492717400/) — Filevine
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Workplace and Studio Operations Lead](https://www.linkedin.com/jobs/view/4492184458/) — Product.ai
+- 📍 **Location:** Los Angeles Metropolitan Area
+- 💰 **Salary:** $95,000.00/yr - $115,000.00/yr
+- 🕒 **Posted:** 2026-11-19
+
+### [Community Manager, Private Equity Network & Growth](https://www.linkedin.com/jobs/view/4492497681/) — GlassRatner
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Executive Assistant](https://www.linkedin.com/jobs/view/4492514097/) — LHH
+- 📍 **Location:** Culver City, CA
+- 💰 **Salary:** $100,000.00/yr - $110,000.00/yr
+- 🕒 **Posted:** 2026-11-19
+
+### [Entry-Level Marketing Associate](https://www.linkedin.com/jobs/view/4490498897/) — Next Target Inc.
+- 📍 **Location:** Long Beach, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Operations Coordinator III](https://www.linkedin.com/jobs/view/4492728117/) — EPITEC
+- 📍 **Location:** Culver City, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Sales Operations Specialist](https://www.linkedin.com/jobs/view/4492188867/) — LOTTE Chemical California, Inc.
+- 📍 **Location:** Orange County, CA
+- 💰 **Salary:** $55,000.00/yr - $70,000.00/yr
+- 🕒 **Posted:** 2026-11-19
+
+### [Social Media Manager](https://www.linkedin.com/jobs/view/4492508109/) — Casa Forma Builders
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Logistics Operations Coordinator- Domestic Inbound Customer Service](https://www.linkedin.com/jobs/view/4491637902/) — Expeditors
+- 📍 **Location:** Hawthorne, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Account Manager- Service/Repair (Los Angeles)](https://www.linkedin.com/jobs/view/4475987617/) — TK Elevator
+- 📍 **Location:** Cerritos, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Regional Account Manager- Commercial Print Sales](https://www.linkedin.com/jobs/view/4492714004/) — Federal Express Corporation
+- 📍 **Location:** Irvine, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Regional Account Manager- Commercial Print Sales](https://www.linkedin.com/jobs/view/4492707195/) — Federal Express Corporation
+- 📍 **Location:** Fullerton, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Strategic Account Manager](https://www.linkedin.com/jobs/view/4492713304/) — Brenton Way
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Account Manager SMB- Business Sales](https://www.linkedin.com/jobs/view/4492723526/) — Verizon
+- 📍 **Location:** Santa Monica, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [EPC Account Manager](https://www.linkedin.com/jobs/view/4492715125/) — Metric Geo
+- 📍 **Location:** Tustin, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Global Account Manager](https://www.linkedin.com/jobs/view/4492496863/) — Cogent Communications
 - 📍 **Location:** Pasadena, CA
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Client Services Account Manager (Marketing QC Lead)](https://www.linkedin.com/jobs/view/4491362277/) — Resillion
-- 📍 **Location:** Burbank, CA
-- 🕒 **Posted:** 2026-11-18
+### [Account Manager](https://www.linkedin.com/jobs/view/4492194491/) — Roofing Talent America (RTA)
+- 📍 **Location:** Los Angeles Metropolitan Area
+- 🕒 **Posted:** 2026-11-19
 
-### [Sports Medicine Associate Sales Representative (Los Angeles, CA)](https://www.linkedin.com/jobs/view/4492117077/) — Smith+Nephew
+### [Social Media Manager & Content Creator](https://www.linkedin.com/jobs/view/4492491943/) — Juni Sparkling Adaptogen Drink
 - 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Inside Sales Agent](https://www.linkedin.com/jobs/view/4491364240/) — AAA Auto Club Enterprises
+### [Entry Level Sales Representative](https://www.linkedin.com/jobs/view/4492715488/) — Premium Merchant Funding
 - 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-11-18
+- 💰 **Salary:** $60,000.00/yr - $120,000.00/yr
+- 🕒 **Posted:** 2026-11-19
 
-### [Key Account Manager - Pet Specialty](https://www.linkedin.com/jobs/view/4482563644/) — INABA FOODS (USA), INC.
-- 📍 **Location:** Torrance, CA
-- 💰 **Salary:** $90,000.00/yr - $105,000.00/yr
-- 🕒 **Posted:** 2026-11-18
-
-### [Production Assistant](https://www.linkedin.com/jobs/view/4492250219/) — Firework
+### [Entry Level Sales Representative](https://www.linkedin.com/jobs/view/4492717468/) — Premium Merchant Funding
 - 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-11-18
+- 💰 **Salary:** $60,000.00/yr - $120,000.00/yr
+- 🕒 **Posted:** 2026-11-19
 
-### [Project Coordinator, Optimus](https://www.linkedin.com/jobs/view/4492252116/) — Tesla
+### [Production Assistant](https://www.linkedin.com/jobs/view/4492520029/) — Topper Guild
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Project Coordinator - Construction](https://www.linkedin.com/jobs/view/4491635701/) — Jobot
+- 📍 **Location:** Los Altos, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Assistant Project Manager](https://www.linkedin.com/jobs/view/4492715691/) — Rosendin
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Assistant Project Manager - Night Shift](https://www.linkedin.com/jobs/view/4492710786/) — Rosendin
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Assistant Project Manager - K-14 (DSA)](https://www.linkedin.com/jobs/view/4475138553/) — Swinerton
+- 📍 **Location:** Concord, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Stroke Program Coordinator](https://www.linkedin.com/jobs/view/4484759457/) — Good Samaritan Hospital - San Jose, CA
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Client Relations Coordinator](https://www.linkedin.com/jobs/view/4492484846/) — Morrison Foerster
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Recruiting Coordinator](https://www.linkedin.com/jobs/view/4484766248/) — LTA Research
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Recruiting Operations Coordinator](https://www.linkedin.com/jobs/view/4492153587/) — Core Automation
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Audiology Assistant & Community Physician Outreach Coordinator](https://www.linkedin.com/jobs/view/4492506331/) — Los Gatos Audiology and Hearing Aid Center
+- 📍 **Location:** Los Gatos, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Logistics Coordinator II](https://www.linkedin.com/jobs/view/4492503195/) — SEIU Local 521
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [People Operations Coordinator](https://www.linkedin.com/jobs/view/4492700796/) — Premier Talent Partners
 - 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Music School Program Coordinator](https://www.linkedin.com/jobs/view/4492115451/) — Community School of Music and Arts
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-11-18
+### [Communications Specialist – Public Relations](https://www.linkedin.com/jobs/view/4477427202/) — DLA Piper
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-11-19
 
-### [Faculty Operations Coordinator](https://www.linkedin.com/jobs/view/4492242380/) — Northeastern University
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [Development & Communications Coordinator](https://www.linkedin.com/jobs/view/4487856858/) — Hamilton Families
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [EMAIL MARKETING SPECIALIST](https://www.linkedin.com/jobs/view/4490943969/) — Title Nine
-- 📍 **Location:** Emeryville, CA
-- 💰 **Salary:** $72,000.00/yr - $76,000.00/yr
-- 🕒 **Posted:** 2026-11-18
-
-### [Executive Experience Operations Specialist](https://www.linkedin.com/jobs/view/4492251167/) — JLL
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [Sales Operations Intern](https://www.linkedin.com/jobs/view/4492231691/) — Bloom Energy
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [Property Operations Specialist - San Francisco](https://www.linkedin.com/jobs/view/4492105758/) — The John Stewart Company
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [Recruiting Coordinator](https://www.linkedin.com/jobs/view/4489603960/) — Fellow
+### [Communications Specialist – Public Relations](https://www.linkedin.com/jobs/view/4477416723/) — DLA Piper
 - 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Production Assistant (Part-Time)](https://www.linkedin.com/jobs/view/4492251220/) — Golden State Warriors
+### [Bilingual Community Outreach Specialist (English/Spanish) - San Francisco, CA (Harrison St.)](https://www.linkedin.com/jobs/view/4492728259/) — Maximus
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Partner 6, Executive Assistant, Frontier](https://www.linkedin.com/jobs/view/4492243515/) — Andreessen Horowitz
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [EXECUTIVE ASSISTANT TO CEO](https://www.linkedin.com/jobs/view/4492239688/) — Second Harvest of Silicon Valley
+### [Public Relations Account Manager](https://www.linkedin.com/jobs/view/4492199428/) — The Hoffman Agency
 - 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-18
+- 💰 **Salary:** $80,000.00/yr - $105,000.00/yr
+- 🕒 **Posted:** 2026-11-19
 
-### [Executive Assistant (Venture Capital)](https://www.linkedin.com/jobs/view/4481225146/) — 3 Bridge Networks
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $85,000.00/yr - $145,000.00/yr
-- 🕒 **Posted:** 2026-11-18
+### [Executive Assistant](https://www.linkedin.com/jobs/view/4491629561/) — Equinix
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-11-19
 
-### [Field Marketing Manager](https://www.linkedin.com/jobs/view/4492233874/) — Descript
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-18
+### [Executive Assistant](https://www.linkedin.com/jobs/view/4492195724/) — Career Group
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-11-19
 
-### [Admissions Representative - Inside Sales](https://www.linkedin.com/jobs/view/4492231602/) — Unitek Learning
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [Inside Territory Account Manager](https://www.linkedin.com/jobs/view/4492234859/) — Fortinet
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [Outside Sales Representative (Territory Manager)](https://www.linkedin.com/jobs/view/4448319507/) — Linde Gas & Equipment
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [Inside Territory Account Manager](https://www.linkedin.com/jobs/view/4492229950/) — Fortinet
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [Inside Territory Account Manager](https://www.linkedin.com/jobs/view/4492250060/) — Fortinet
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [Sales Representative - Chains - San Jose Area](https://www.linkedin.com/jobs/view/4492243493/) — Breakthru Beverage Group
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [Customer Success Manager, Accounts](https://www.linkedin.com/jobs/view/4492237741/) — Robust.AI
-- 📍 **Location:** San Carlos, CA
+### [Executive Assistant/Event Manager - Private Equity](https://www.linkedin.com/jobs/view/4492500616/) — BURKE + CO.
+- 📍 **Location:** San Mateo, CA
 - 💰 **Salary:** $130,000.00/yr - $150,000.00/yr
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Client Relationship Manager](https://www.linkedin.com/jobs/view/4492117271/) — Syon Capital
+### [Manager, Field Marketing](https://www.linkedin.com/jobs/view/4492714445/) — Filevine
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Screening Sales Representative- Gardena, CA](https://www.linkedin.com/jobs/view/4492234503/) — Abbott
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-11-18
+### [Digital Marketing Specialist](https://www.linkedin.com/jobs/view/4492189744/) — Evlo AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-19
 
-### [Project Coordinator - TV Film](https://www.linkedin.com/jobs/view/4492107652/) — Production Resource Group
-- 📍 **Location:** Secaucus, NJ
-- 🕒 **Posted:** 2026-11-18
+### [Content Creator / Social Media Manager](https://www.linkedin.com/jobs/view/4492508386/) — CandidPop
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-11-19
 
-### [Temporary Email Marketing Specialist](https://www.linkedin.com/jobs/view/4491355642/) — Movado Group, Inc
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-18
+### [Client Success Manager](https://www.linkedin.com/jobs/view/4485152793/) — Skai
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-19
 
-### [Jansport/Kipling/Eastpak: Sales Coordinator](https://www.linkedin.com/jobs/view/4492110476/) — Kipling
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-11-18
-
-### [Executive Assistant I-Obstetrics And Gynecology Administration-Mount Sinai West-Full-time Day](https://www.linkedin.com/jobs/view/4492253428/) — Mount Sinai Morningside
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-18
-
-### [Executive Assistant](https://www.linkedin.com/jobs/view/4491360469/) — TrendUp Group
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-18
-
-### [Executive Assistant](https://www.linkedin.com/jobs/view/4492236716/) — Stonefield Real Estate
-- 📍 **Location:** Queens, NY
-- 🕒 **Posted:** 2026-11-18
-
-### [Field Marketing Intern](https://www.linkedin.com/jobs/view/4492244303/) — Allied Global Marketing
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-18
-
-### [Digital Marketing Intern](https://www.linkedin.com/jobs/view/4492106587/) — JobEasyApply
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-11-18
-
-### [Web Content Specialist (W2 contract)](https://www.linkedin.com/jobs/view/4492234889/) — SPECTRAFORCE
-- 📍 **Location:** Newark, NJ
-- 🕒 **Posted:** 2026-11-18
-
-### [Sales Representative](https://www.linkedin.com/jobs/view/4491875737/) — Hey Man Diamond LLC
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-18
-
-### [Client Relationship Manager](https://www.linkedin.com/jobs/view/4492230760/) — Invesco
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-18
-
-### [Community Account Manager](https://www.linkedin.com/jobs/view/4492229930/) — Optimum
-- 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $58,738.00/yr - $96,499.00/yr
-- 🕒 **Posted:** 2026-11-18
-
-### [NetSuite Sales Account Manager - NYC](https://www.linkedin.com/jobs/view/4491346907/) — NetSuite
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-18
-
-### [Networking Partner Account Manager - Northeast](https://www.linkedin.com/jobs/view/4492227596/) — Hewlett Packard Enterprise
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-18
-
-### [Inside Territory Account Manager](https://www.linkedin.com/jobs/view/4492243249/) — Fortinet
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-18
-
-### [Customer Success Manager, Tech Partnerships](https://www.linkedin.com/jobs/view/4492110674/) — LiveRamp
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-18
-
-### [Sheitel industry sales representative](https://www.linkedin.com/jobs/view/4492080192/) — Chany grundman wigs
-- 📍 **Location:** Brooklyn, NY
-- 🕒 **Posted:** 2026-11-18
-
-### [Sales Development Representative](https://www.linkedin.com/jobs/view/4491352950/) — NextPlayU
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-11-18
-
-### [Sales Representative – Entry Level](https://www.linkedin.com/jobs/view/4492119333/) — Mpower Direct LLC
-- 📍 **Location:** Newark, NJ
-- 🕒 **Posted:** 2026-11-18
-
-### [Inside Territory Account Manager](https://www.linkedin.com/jobs/view/4492229952/) — Fortinet
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-18
-
-### [Outside Route Sales Representative](https://www.linkedin.com/jobs/view/4492244228/) — Snap-on
-- 📍 **Location:** Staten Island, NY
-- 🕒 **Posted:** 2026-11-18
-
-### [Inside Territory Account Manager](https://www.linkedin.com/jobs/view/4492257012/) — Fortinet
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-18
-
-### [Fund Operations Associate](https://www.linkedin.com/jobs/view/4491353831/) — Ares Management
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-18
-
-### [Traffic Coordinator](https://www.linkedin.com/jobs/view/4483928861/) — Authority Brands
-- 📍 **Location:** Atlanta Metropolitan Area
-- 🕒 **Posted:** 2026-11-18
-
-### [Accounting and Operations Specialist - Diablo Tools](https://www.linkedin.com/jobs/view/4490964586/) — Diablo Tools
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-11-18
-
-### [Business Development Representative](https://www.linkedin.com/jobs/view/4491359344/) — Floor & Decor
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-11-18
-
-### [Business Development Associate - Hiring Immediately (Lawrenceville) | $85,000-$130,000](https://www.linkedin.com/jobs/view/4492119266/) — The Dorne Region
-- 📍 **Location:** Lawrenceville, GA
-- 💰 **Salary:** $85,000.00/yr - $130,000.00/yr
-- 🕒 **Posted:** 2026-11-18
-
-### [Outside Sales Representative](https://www.linkedin.com/jobs/view/4492240331/) — Talently
-- 📍 **Location:** Duluth, GA
-- 💰 **Salary:** $65,000.00/yr - $75,000.00/yr
-- 🕒 **Posted:** 2026-11-18
-
-### [Client Relationship Manager](https://www.linkedin.com/jobs/view/4492229804/) — Invesco
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-11-18
-
-### [Global Account Manager](https://www.linkedin.com/jobs/view/4492258128/) — Cogent Communications
-- 📍 **Location:** Atlanta Metropolitan Area
-- 🕒 **Posted:** 2026-11-18
-
-### [Key Account Manager - Pet Specialty](https://www.linkedin.com/jobs/view/4482574077/) — INABA FOODS (USA), INC.
-- 📍 **Location:** Atlanta Metropolitan Area
-- 💰 **Salary:** $90,000.00/yr - $105,000.00/yr
-- 🕒 **Posted:** 2026-11-18
-
-### [Key Account Manager - Pet](https://www.linkedin.com/jobs/view/4482566549/) — INABA FOODS (USA), INC.
-- 📍 **Location:** Atlanta Metropolitan Area
-- 💰 **Salary:** $90,000.00/yr - $105,000.00/yr
-- 🕒 **Posted:** 2026-11-18
-
-### [Corporate Sales Account Manager (Atlanta)](https://www.linkedin.com/jobs/view/4492118140/) — Hertz
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-11-18
-
-### [Application Support Specialist - Business Operations Assistant](https://www.linkedin.com/jobs/view/4491370121/) — CyberCoders
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $65,000.00/yr - $85,000.00/yr
-- 🕒 **Posted:** 2026-11-18
-
-### [Event Coordinator Intern](https://www.linkedin.com/jobs/view/4492108641/) — Global Information Network
-- 📍 **Location:** Schaumburg, IL
-- 🕒 **Posted:** 2026-11-18
-
-### [Operations Coordinator](https://www.linkedin.com/jobs/view/4492042915/) — Daniels Health
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-11-18
-
-### [Account Coordinator](https://www.linkedin.com/jobs/view/4492116359/) — Polite Society by Toy Box Brands
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-11-18
-
-### [Executive Assistant, REMS Technology](https://www.linkedin.com/jobs/view/4492249229/) — JLL
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-11-18
-
-### [Marketing Communications Manager](https://www.linkedin.com/jobs/view/4482753099/) — Robert Half
-- 📍 **Location:** Naperville, IL
-- 💰 **Salary:** $75.00/hr - $85.00/hr
-- 🕒 **Posted:** 2026-11-18
-
-### [Inside Sales Representative](https://www.linkedin.com/jobs/view/4492220819/) — RecruitPod Global
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $50,000.00/yr - $50,000.00/yr
-- 🕒 **Posted:** 2026-11-18
-
-### [Inside Sales Representative](https://www.linkedin.com/jobs/view/4461945060/) — Schneider
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-11-18
-
-### [Account Manager](https://www.linkedin.com/jobs/view/4492109358/) — BrightView Landscapes
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-11-18
-
-### [SLAAI Program Coordinator](https://www.linkedin.com/jobs/view/4492112166/) — Coalition for Responsible Community Development
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [Client Relationship Manager](https://www.linkedin.com/jobs/view/4491342722/) — Retired
-- 📍 **Location:** Los Angeles County, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [Digital Marketing Intern](https://www.linkedin.com/jobs/view/4491896757/) — Centric Brands
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [Sales Representative - Los Angeles North - Patient Care/Handling](https://www.linkedin.com/jobs/view/4491810052/) — Stryker
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [Product Lifecycle Supply Chain Project Specialist II (Full-Time) - United States](https://www.linkedin.com/jobs/view/4492224734/) — Cisco
+### [Strategic Account Manager](https://www.linkedin.com/jobs/view/4492712531/) — Overhaul
 - 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Clinical Research Coordinator](https://www.linkedin.com/jobs/view/4492223590/) — University of California, San Francisco
+### [Front-End Account Manager (Cloud Service Provider)](https://www.linkedin.com/jobs/view/4471808670/) — Cooler Master USA
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Index Sales Account Manager - Financial Solutions](https://www.linkedin.com/jobs/view/4454657146/) — Bloomberg
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Recruiting Coordinator](https://www.linkedin.com/jobs/view/4492218782/) — ManpowerGroup
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [Sales Operations Manager-Generalist](https://www.linkedin.com/jobs/view/4492231261/) — Tekion Corp
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [Legal Executive Assistant, San Francisco, $110K - $130K](https://www.linkedin.com/jobs/view/4483823260/) — Alan J. Blair Personnel Services, Inc.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [Sales Development Representative](https://www.linkedin.com/jobs/view/4492227526/) — SkillBridgePartners Recruitment
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [Territory Sales Representative / Restaurant Specialist - Hayward, CA](https://www.linkedin.com/jobs/view/4492223659/) — SpotOn
-- 📍 **Location:** Hayward, CA
-- 💰 **Salary:** $120,000.00/yr - $275,000.00/yr
-- 🕒 **Posted:** 2026-11-18
-
-### [Inside Sales Representative](https://www.linkedin.com/jobs/view/4492106160/) — Golden State Communications, Inc.
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [Global Account Manager](https://www.linkedin.com/jobs/view/4487073395/) — Amphenol Communications Solutions
+### [Strategic Account Manager, CSP](https://www.linkedin.com/jobs/view/4484158440/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $148,870.00/yr - $214,500.00/yr
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Technical Account Manager (REQ #R411)](https://www.linkedin.com/jobs/view/4492108145/) — Treasure AI
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-11-18
+### [Account Manager](https://www.linkedin.com/jobs/view/4427005382/) — Infineon Technologies
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-19
 
-### [Associate, Client Success](https://www.linkedin.com/jobs/view/4491892822/) — Epsilon
+### [Account Manager - LearnGxP](https://www.linkedin.com/jobs/view/4379641046/) — Veeva Systems
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4492487833/) — Global Relay
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Lead Channel Sales Representative](https://www.linkedin.com/jobs/view/4492713621/) — Honeywell Technologies
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Ticket Operations Specialist](https://www.linkedin.com/jobs/view/4492506323/) — San Jose Sharks
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Manufacturing Operations Associate](https://www.linkedin.com/jobs/view/4492500598/) — Scanit Technologies, Inc.
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Executive Assistant & Office Manager](https://www.linkedin.com/jobs/view/4491462399/) — Cypress HCM
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Legal Technology Project Coordinator](https://www.linkedin.com/jobs/view/4491652352/) — Skadden, Arps, Slate, Meagher & Flom LLP and Affiliates
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Operations Coordinator](https://www.linkedin.com/jobs/view/4491881167/) — Frontier Technology Institute
+### [Production Coordinator](https://www.linkedin.com/jobs/view/4492501535/) — TrendUp Group
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Production Assistant-Men's Bottoms](https://www.linkedin.com/jobs/view/4491346762/) — Solomon Page
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-18
-
-### [Professional, Client Success](https://www.linkedin.com/jobs/view/4491894720/) — Epsilon
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-18
-
-### [Tennis 360 Public Relations Intern](https://www.linkedin.com/jobs/view/4491895841/) — Wilson Sporting Goods Co.
+### [Licensing Coordinator](https://www.linkedin.com/jobs/view/4492517066/) — Core Home
 - 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-11-18
+- 💰 **Salary:** $55,000.00/yr - $70,000.00/yr
+- 🕒 **Posted:** 2026-11-19
 
-### [Associate, Client Success](https://www.linkedin.com/jobs/view/4491894721/) — Epsilon
+### [Junior Project Manager | Ground-up Multifamily](https://www.linkedin.com/jobs/view/4492197919/) — Henderson Scott US
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $115,000.00/yr - $150,000.00/yr
+- 🕒 **Posted:** 2026-11-19
+
+### [starpower - Account Coordinator, Influencer and Entertainment Marketing](https://www.linkedin.com/jobs/view/4492713510/) — Real Chemistry
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Production Assistant](https://www.linkedin.com/jobs/view/4492220695/) — SimplyTech Electronics, Inc.
+### [Program Coordinator - 2004336](https://www.linkedin.com/jobs/view/4492717493/) — Catholic Charities of the Archdiocese of New York
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Professional, Client Success](https://www.linkedin.com/jobs/view/4492104170/) — Epsilon
+### [Client Relations Coordinator](https://www.linkedin.com/jobs/view/4492491648/) — Morrison Foerster
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Arterial Account Manager - NYC Metro - Peripheral Vascular](https://www.linkedin.com/jobs/view/4491891922/) — Stryker
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-11-18
-
-### [Enterprise Outcomes Architect (Customer Success)](https://www.linkedin.com/jobs/view/4450645313/) — Notion
+### [Associate Project Manager – CPG/Innovation & Commercialization - 413051](https://www.linkedin.com/jobs/view/4492700074/) — Atrium
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Trading Operations Associate](https://www.linkedin.com/jobs/view/4492230477/) — Established Global Hedge Fund
+### [Research Coordinator](https://www.linkedin.com/jobs/view/4257734167/) — Arrow Search Partners
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Membership & Administrative Coordinator](https://www.linkedin.com/jobs/view/4492512083/) — Order of Malta, American Association
 - 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Research Coordinator- Oncology Survivorship & Comprehensive Care](https://www.linkedin.com/jobs/view/4491593837/) — Children's Healthcare of Atlanta
-- 📍 **Location:** Brookhaven, GA
-- 🕒 **Posted:** 2026-11-18
+### [Content & Marketing Coordinator/Manager](https://www.linkedin.com/jobs/view/4492198604/) — Danielle Frankel
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
 
-### [Emergency Medicine Research Coordinator](https://www.linkedin.com/jobs/view/4492215744/) — Children's Healthcare of Atlanta
-- 📍 **Location:** Brookhaven, GA
-- 🕒 **Posted:** 2026-11-18
+### [Corporate Events Coordinator (Part-time)](https://www.linkedin.com/jobs/view/4492191953/) — Tandym Group
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $30.00/hr - $35.00/hr
+- 🕒 **Posted:** 2026-11-19
 
-### [Administrative Coordinator](https://www.linkedin.com/jobs/view/4491539604/) — Children's Healthcare of Atlanta
-- 📍 **Location:** Brookhaven, GA
-- 🕒 **Posted:** 2026-11-18
+### [Fabric Production Assistant](https://www.linkedin.com/jobs/view/4491641699/) — BCI Brands
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-11-19
 
-### [Higher Education Sales Representative](https://www.linkedin.com/jobs/view/4492219320/) — Corporate Environments of Georgia
+### [Account Coordinator / Account Executive](https://www.linkedin.com/jobs/view/4492503022/) — Hunt & Gather
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-11-19
+
+### [Bilingual French/English Sales Administration & Operations Coordinator - 413086](https://www.linkedin.com/jobs/view/4492721368/) — Atrium
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Social Media & Public Relations Coordinator](https://www.linkedin.com/jobs/view/4492707527/) — Core BTS
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $32.00/hr - $36.00/hr
+- 🕒 **Posted:** 2026-11-19
+
+### [Digital Marketing Analyst](https://www.linkedin.com/jobs/view/4492497900/) — Simon Quick Advisors, LLC
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Business Development Coordinator](https://www.linkedin.com/jobs/view/4491630941/) — McGuireWoods LLP
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $68,300.00/yr - $95,600.00/yr
+- 🕒 **Posted:** 2026-11-19
+
+### [Communications Specialist – Public Relations](https://www.linkedin.com/jobs/view/4477414728/) — DLA Piper
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-11-19
+
+### [Account Executive, B2B Tech Public Relations](https://www.linkedin.com/jobs/view/4492496340/) — Method Communications
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Business Development Coordinator](https://www.linkedin.com/jobs/view/4492194847/) — Carter Murray
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-11-19
+
+### [Growth Marketing Specialist](https://www.linkedin.com/jobs/view/4487484859/) — AppCard, Inc.
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Sales Coordinator](https://www.linkedin.com/jobs/view/4492700687/) — JLL
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Legal Business Development Associate](https://www.linkedin.com/jobs/view/4491660019/) — Atlas Search
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $100,000.00/yr - $115,000.00/yr
+- 🕒 **Posted:** 2026-11-19
+
+### [Executive Assistant / IR Coordinator](https://www.linkedin.com/jobs/view/4492502430/) — Career Group
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $150,000.00/yr - $185,000.00/yr
+- 🕒 **Posted:** 2026-11-19
+
+### [Marketing Specialist](https://www.linkedin.com/jobs/view/4491651495/) — Atlas Search
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-11-19
+
+### [Financial Products Communications Specialist: Enterprise Data Communications](https://www.linkedin.com/jobs/view/4465248954/) — Bloomberg
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $110,000.00/yr - $135,000.00/yr
+- 🕒 **Posted:** 2026-11-19
+
+### [People & Workplace Operations Coordinator](https://www.linkedin.com/jobs/view/4492724241/) — Vise
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Sales Administrative Coordinator – Government & B2B](https://www.linkedin.com/jobs/view/4492186953/) — Focus Camera
+- 📍 **Location:** Brooklyn, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Executive Assistant](https://www.linkedin.com/jobs/view/4492185882/) — Evlo AI
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Executive Assistant](https://www.linkedin.com/jobs/view/4492508145/) — Career Group
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Executive Assistant to Investor Relations](https://www.linkedin.com/jobs/view/4491645620/) — Atlas Search
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Executive Assistant](https://www.linkedin.com/jobs/view/4491654039/) — Peregrine Search Solutions
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Executive Assistant](https://www.linkedin.com/jobs/view/4476382867/) — Greenberg Traurig, LLP
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Executive Assistant - Private Capital Advisory - New York](https://www.linkedin.com/jobs/view/4480683113/) — Evercore
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-11-19
+
+### [Executive Assistant](https://www.linkedin.com/jobs/view/4492714377/) — Gainor Staffing
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Merchandise Operations Coordinator](https://www.linkedin.com/jobs/view/4492190860/) — Morilee New York
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Catering Sales Coordinator](https://www.linkedin.com/jobs/view/4492508178/) — Ziegfeld Ballroom
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Executive Assistant to Co-Founders - AI Company](https://www.linkedin.com/jobs/view/4492508086/) — BURKE + CO.
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $140,000.00/yr - $185,000.00/yr
+- 🕒 **Posted:** 2026-11-19
+
+### [Executive Assistant](https://www.linkedin.com/jobs/view/4471742978/) — ASSET STAFFING, INC.
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-11-19
+
+### [Event Marketing Manager | $110-140k | Enterprise AI | $50mio Series A](https://www.linkedin.com/jobs/view/4490586636/) — Bluebird
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Business Development Representative - LATAM](https://www.linkedin.com/jobs/view/4446243840/) — AvePoint
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-11-19
+
+### [Sales Development Representative](https://www.linkedin.com/jobs/view/4492710527/) — Pave
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Sales Development Representative](https://www.linkedin.com/jobs/view/4492514052/) — Megaport
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-11-19
+
+### [Business Development Representative](https://www.linkedin.com/jobs/view/4492717348/) — Zafran Security
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-11-19
+
+### [Business Development Representative](https://www.linkedin.com/jobs/view/4492715512/) — Premium Merchant Funding
+- 📍 **Location:** Queens, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Business Development Representative](https://www.linkedin.com/jobs/view/4492714202/) — Guesty
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Sales Development Representative](https://www.linkedin.com/jobs/view/4492514159/) — AlwaysHired
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-11-19
+
+### [Business Development Representative - Winter 2026 Cohort](https://www.linkedin.com/jobs/view/4464267268/) — Topline Pro
+- 📍 **Location:** Brooklyn, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Sales Development Representative (Former Athletes & Veterans)](https://www.linkedin.com/jobs/view/4492713259/) — Shift Group
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-11-19
+
+### [Business Development Representative - 2026](https://www.linkedin.com/jobs/view/4307286990/) — Topline Pro
+- 📍 **Location:** Brooklyn, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Client Account Manager, Freight Forwarding](https://www.linkedin.com/jobs/view/4492498991/) — Delmar International Inc.
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Strategic Account Manager](https://www.linkedin.com/jobs/view/4491659047/) — 3Search
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Account Manager, Financial Services Team](https://www.linkedin.com/jobs/view/4492184861/) — NielsenIQ
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Account Manager, Healthcare Comms](https://www.linkedin.com/jobs/view/4492718315/) — We. Communications
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Account Manager, SMB](https://www.linkedin.com/jobs/view/4492712579/) — Braze
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Account Manager](https://www.linkedin.com/jobs/view/4491650213/) — PitchBook
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4492182905/) — Evlo AI
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Sales Development Representative (Midtown Manhattan)](https://www.linkedin.com/jobs/view/4492723384/) — Premium Merchant Funding
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [OUTSIDE SALES REPRESENTATIVE NEWARK](https://www.linkedin.com/jobs/view/4489891792/) — The Home Depot
+- 📍 **Location:** Newark, NJ
+- 🕒 **Posted:** 2026-11-19
+
+### [Outside Sales Representative](https://www.linkedin.com/jobs/view/4492192891/) — Bunce Studio
+- 📍 **Location:** Brooklyn, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Business Operations & Development Associate](https://www.linkedin.com/jobs/view/4492502385/) — LuvMyJewelry (LMJ)
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Client Onboarding Specialist (Entry Level)](https://www.linkedin.com/jobs/view/4492196955/) — Visionaire Partners
+- 📍 **Location:** Atlanta Metropolitan Area
+- 🕒 **Posted:** 2026-11-19
+
+### [Client Services Representative](https://www.linkedin.com/jobs/view/4492192997/) — Visionaire Partners
 - 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Sales Representative](https://www.linkedin.com/jobs/view/4491899610/) — Lippert
+### [Clinical Research Coordinator I- Family Medicine](https://www.linkedin.com/jobs/view/4491655263/) — Emory University
 - 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Carrier VAR Partner Account Manager](https://www.linkedin.com/jobs/view/4492110228/) — Ericsson
+### [Project Coordinator](https://www.linkedin.com/jobs/view/4491652201/) — Career Soft Solutions Inc
 - 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Junior Project Manager](https://www.linkedin.com/jobs/view/4491404726/) — nTech Workforce
-- 📍 **Location:** Oakbrook Terrace, IL
-- 🕒 **Posted:** 2026-11-18
+### [Technical Operations Specialist](https://www.linkedin.com/jobs/view/4488626749/) — Blue Stream Fiber
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-11-19
 
-### [Program Specialist II](https://www.linkedin.com/jobs/view/4491342797/) — Cascade Energy
+### [Litigation & Regulatory BD & Marketing Specialist](https://www.linkedin.com/jobs/view/4459061789/) — DLA Piper
+- 📍 **Location:** Atlanta Metropolitan Area
+- 🕒 **Posted:** 2026-11-19
+
+### [Business Development Coordinator](https://www.linkedin.com/jobs/view/4491649150/) — McGuireWoods LLP
+- 📍 **Location:** Atlanta Metropolitan Area
+- 🕒 **Posted:** 2026-11-19
+
+### [Sales Coordinator](https://www.linkedin.com/jobs/view/4492504349/) — Messe Frankfurt North America
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-11-19
+
+### [Healthcare Growth Operations & Campaign Specialist](https://www.linkedin.com/jobs/view/4492702871/) — RevSpring
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-11-19
+
+### [Manager, Field Marketing](https://www.linkedin.com/jobs/view/4492716384/) — Filevine
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-11-19
+
+### [Brand Marketing Manager](https://www.linkedin.com/jobs/view/4492481081/) — National Peanut Board
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-11-19
+
+### [Business Development Representative](https://www.linkedin.com/jobs/view/4492720150/) — Advanced Recovery Systems, LLC
+- 📍 **Location:** Roswell, GA
+- 🕒 **Posted:** 2026-11-19
+
+### [Business Development Representative I - Real Estate Manager/ Visual Lease - Atlanta, GA](https://www.linkedin.com/jobs/view/4403481519/) — CoStar Real Estate Manager
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-11-19
+
+### [Account Manager - Branded Promotional Merchandise Industry](https://www.linkedin.com/jobs/view/4491638953/) — BDA, LLC
+- 📍 **Location:** Atlanta Metropolitan Area
+- 🕒 **Posted:** 2026-11-19
+
+### [Account Manager - Neurosurgery (Atlanta)](https://www.linkedin.com/jobs/view/4491656101/) — Symmetrio
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-11-19
+
+### [Account Manager](https://www.linkedin.com/jobs/view/4492512084/) — Expedite Healthcare Solutions
+- 📍 **Location:** Alpharetta, GA
+- 🕒 **Posted:** 2026-11-19
+
+### [Customer Success Manager, Nonprofit](https://www.linkedin.com/jobs/view/4492728286/) — Salesforce
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-11-19
+
+### [National Account Manager](https://www.linkedin.com/jobs/view/4492498726/) — Cogent Communications
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-11-19
+
+### [Sales Coordinator Supervisor](https://www.linkedin.com/jobs/view/4439364862/) — Crown Equipment Corporation
+- 📍 **Location:** Duluth, GA
+- 🕒 **Posted:** 2026-11-19
+
+### [Sales Development Representative](https://www.linkedin.com/jobs/view/4492491283/) — Origami Risk
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-11-19
+
+### [Business Development Representative](https://www.linkedin.com/jobs/view/4492479959/) — Sage
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-11-19
+
+### [HR Operations Specialist](https://www.linkedin.com/jobs/view/4491641470/) — Cato Networks
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-11-19
+
+### [starpower - Account Coordinator, Influencer and Entertainment Marketing](https://www.linkedin.com/jobs/view/4492713509/) — Real Chemistry
 - 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Associate, Client Success](https://www.linkedin.com/jobs/view/4492108085/) — Epsilon
+### [Junior Ad Operations Specialist](https://www.linkedin.com/jobs/view/4492196943/) — Shaker Recruitment Marketing
+- 📍 **Location:** Oak Park, IL
+- 🕒 **Posted:** 2026-11-19
+
+### [Implementation Specialist](https://www.linkedin.com/jobs/view/4491654347/) — Keeper Security, Inc.
 - 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Bilingual Project Coordinator](https://www.linkedin.com/jobs/view/4492220764/) — Kforce Inc
+### [Client Success Manager](https://www.linkedin.com/jobs/view/4485157770/) — Skai
 - 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Project Coordinator](https://www.linkedin.com/jobs/view/4492232413/) — Kforce Inc
+### [Litigation & Regulatory BD & Marketing Specialist](https://www.linkedin.com/jobs/view/4459049931/) — DLA Piper
+- 📍 **Location:** Greater Chicago Area
+- 🕒 **Posted:** 2026-11-19
+
+### [Client Success Enablement Manager](https://www.linkedin.com/jobs/view/4486308941/) — Skai
 - 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Marketing Specialist Job](https://www.linkedin.com/jobs/view/4491360135/) — Armstrong World Industries
+### [Community Manager](https://www.linkedin.com/jobs/view/4492494494/) — JLL
 - 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Professional, Client Success](https://www.linkedin.com/jobs/view/4491892823/) — Epsilon
+### [Business Development Coordinator](https://www.linkedin.com/jobs/view/4491633741/) — McGuireWoods LLP
 - 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Account Coordinator](https://www.linkedin.com/jobs/view/4491343933/) — CFS
-- 📍 **Location:** Northbrook, IL
-- 🕒 **Posted:** 2026-11-18
+### [Marketing Specialist](https://www.linkedin.com/jobs/view/4492075285/) — Dexter Magnetic Technologies
+- 📍 **Location:** Elk Grove Village, IL
+- 🕒 **Posted:** 2026-11-19
 
-### [Construction Project Specialist, Central US](https://www.linkedin.com/jobs/view/4491899519/) — Waymo
+### [Sales Development Representative](https://www.linkedin.com/jobs/view/4492492276/) — Origami Risk
 - 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Associate, Client Success](https://www.linkedin.com/jobs/view/4492109090/) — Epsilon
+### [Entry Level Business Development Representative](https://www.linkedin.com/jobs/view/4492726224/) — Bisnow
 - 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Professional, Client Success](https://www.linkedin.com/jobs/view/4492111061/) — Epsilon
+### [Expert Community Manager](https://www.linkedin.com/jobs/view/4491655016/) — The Desire Company
 - 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Account Coordinator](https://www.linkedin.com/jobs/view/4491351651/) — CFS
-- 📍 **Location:** Northbrook, IL
-- 🕒 **Posted:** 2026-11-18
-
-### [Account Coordinator](https://www.linkedin.com/jobs/view/4491343934/) — CFS
-- 📍 **Location:** Northbrook, IL
-- 🕒 **Posted:** 2026-11-18
-
-### [Communications Coordinator](https://www.linkedin.com/jobs/view/4492219625/) — Joint Commission
-- 📍 **Location:** Oakbrook Terrace, IL
-- 🕒 **Posted:** 2026-11-18
-
-### [Sales Representative](https://www.linkedin.com/jobs/view/4492107199/) — Macmillan
+### [Account Manager - LearnGxP](https://www.linkedin.com/jobs/view/4379641047/) — Veeva Systems
 - 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Sales Representative](https://www.linkedin.com/jobs/view/4491351734/) — Kimball Midwest
+### [Sales Representative (Hardscaping and Landscaping)](https://www.linkedin.com/jobs/view/4331480628/) — MSI
+- 📍 **Location:** Elk Grove Village, IL
+- 🕒 **Posted:** 2026-11-19
+
+### [Inside Sales Representative](https://www.linkedin.com/jobs/view/4492504012/) — Schneider
 - 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Field Sales Representative](https://www.linkedin.com/jobs/view/4492109135/) — TruGreen
-- 📍 **Location:** Naperville, IL
-- 🕒 **Posted:** 2026-11-18
+### [Territory Sales Representative](https://www.linkedin.com/jobs/view/4479621900/) — Molson Coors Beverage Company
+- 📍 **Location:** Joliet, IL
+- 🕒 **Posted:** 2026-11-19
 
-### [Commercial Lines Transportation Account Manager](https://www.linkedin.com/jobs/view/4492213944/) — Acrisure
-- 📍 **Location:** Schaumburg, IL
-- 🕒 **Posted:** 2026-11-18
-
-### [Engineering Technical Account Manager (Cloud)](https://www.linkedin.com/jobs/view/4492215652/) — BMO U.S.
+### [Entry-Level Sales Representative](https://www.linkedin.com/jobs/view/4492510183/) — Mpower Direct LLC
 - 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
+
+### [Social Content Specialist - UGC : [Jobdiva #]](https://www.linkedin.com/jobs/view/4492717449/) — Akraya, Inc.
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-11-19
+
+### [Client Account Manager, Freight Forwarding](https://www.linkedin.com/jobs/view/4492715087/) — Delmar International Inc.
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-11-19
+
+### [Account Manager, Healthcare Comms](https://www.linkedin.com/jobs/view/4492707591/) — We. Communications
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-11-19
+
+### [Account Manager, SMB](https://www.linkedin.com/jobs/view/4492715519/) — Braze
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-11-19
+
+### [Service Account Manager](https://www.linkedin.com/jobs/view/4491641755/) — Carrier
+- 📍 **Location:** Lisle, IL
+- 🕒 **Posted:** 2026-11-19
+
+### [Account Manager](https://www.linkedin.com/jobs/view/4488567865/) — Artech
+- 📍 **Location:** Greater Chicago Area
+- 🕒 **Posted:** 2026-11-19
+
+### [NATIONAL ACCOUNT MANAGER – RETAIL (Bakery / Deli)](https://www.linkedin.com/jobs/view/4468925710/) — Bridor North America
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-11-19
+
+### [Lead, Client Success](https://www.linkedin.com/jobs/view/4466816338/) — Epsilon
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-11-19
+
+### [Customer Success Manager](https://www.linkedin.com/jobs/view/4492720644/) — Syndigo
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-11-19
+
+### [Customer Success Manager, Nonprofit](https://www.linkedin.com/jobs/view/4492710741/) — Salesforce
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-11-19
+
+### [Carrier Sales Representative - Expedite](https://www.linkedin.com/jobs/view/4492708604/) — Circle Logistics, Inc
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-11-19
+
+### [Inside Sales Representative](https://www.linkedin.com/jobs/view/4492184910/) — Schneider
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-11-19
+
+### [Outside Sales Representative](https://www.linkedin.com/jobs/view/4492703903/) — ECA Recruiters
+- 📍 **Location:** Greater Chicago Area
+- 🕒 **Posted:** 2026-11-19
