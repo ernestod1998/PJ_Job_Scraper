@@ -1,40 +1,14 @@
 {
-  "scraped_at": "2026-11-19 22:44 UTC",
-  "total": 1,
-  "new_count": 1,
-  "jobs": [
-    {
-      "company": "Veterans Health Administration",
-      "title": "Supervisory Social Worker (Program Coordinator)",
-      "location": "Palo Alto, California",
-      "url": "https://www.usajobs.gov/job/893662700",
-      "date_posted": "2026-11-19",
-      "salary": "Starting at $153,663 Per year (GS 13)",
-      "ats": "USAJOBS",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Veterans Health Administration",
-      "title": "Supervisory Social Worker (Program Coordinator)",
-      "location": "Palo Alto, California",
-      "url": "https://www.usajobs.gov/job/893662700",
-      "date_posted": "2026-11-19",
-      "salary": "Starting at $153,663 Per year (GS 13)",
-      "ats": "USAJOBS",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "scraped_at": "2026-11-20 22:18 UTC",
+  "total": 0,
+  "new_count": 0,
+  "jobs": [],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 14,
+    "location": 15,
     "stale": 0
   }
 }
