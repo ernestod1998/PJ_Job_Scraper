@@ -1,12 +1,8 @@
 # 🎬 Entertainment — Studios / Agencies / Labels (direct ATS + LinkedIn allowlist)
-*Last updated: 2026-11-19 11:43 UTC*
+*Last updated: 2026-11-20 11:41 UTC*
 
-**2 new role(s)** since last run · 35 total in last 24h
+**1 new role(s)** since last run · 32 total in last 24h
 
-### [Coordinator, Global Publicity](https://www.linkedin.com/jobs/view/4476341439/) — NBCUniversal
-- 📍 **Location:** Universal City, CA
-- 🕒 **Posted:** 2026-11-19
-
-### [Account Manager - Ceremony of Roses](https://www.linkedin.com/jobs/view/4475485808/) — Sony Music Entertainment
+### [Sales Operations Associate](https://www.linkedin.com/jobs/view/4492746918/) — Snap Inc.
 - 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-11-19
+- 🕒 **Posted:** 2026-11-20
