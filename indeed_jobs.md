@@ -1,19 +1,24 @@
 # 🟦 Indeed — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-11-22 02:36 UTC*
+*Last updated: 2026-11-22 08:55 UTC*
 
-**3 new role(s)** since last run · 55 total in last 24h
+**4 new role(s)** since last run · 32 total in last 24h
 
-### [Business Development Representative](https://www.indeed.com/viewjob?jk=c9e36bac3493c3d4) — Saarman Construction Ltd
-- 📍 **Location:** Irvine, CA, USA
-- 💰 **Salary:** $95k–$105k/yr
-- 🕒 **Posted:** 2026-11-21
+### [Customer Account Manager – Sales & Growth](https://www.indeed.com/viewjob?jk=f500730f06bb4776) — ManageCasa Inc.
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $70k–$85k/yr
+- 🕒 **Posted:** 2026-11-22
 
-### [Residency/Fellowship Program Coordinator](https://www.indeed.com/viewjob?jk=ad1967a3d780b25b) — NYU Langone Health
-- 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $66k–$101k/yr
-- 🕒 **Posted:** 2026-11-21
+### [Customer Success Specialist, Renewals & Growth](https://www.indeed.com/viewjob?jk=aaffefbbc55e6133) — LevelTen Energy
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $110k–$165k/yr
+- 🕒 **Posted:** 2026-11-22
 
-### [Customer Service/Sales Representative](https://www.indeed.com/viewjob?jk=842828f5109be98f) — Justin LILC
-- 📍 **Location:** Jersey City, NJ, USA
-- 💰 **Salary:** $52k–$62k/yr
-- 🕒 **Posted:** 2026-11-21
+### [Technical Customer Success Manager](https://www.indeed.com/viewjob?jk=2185d8ab0f63b15c) — LiveX AI
+- 📍 **Location:** Palo Alto, CA, USA
+- 💰 **Salary:** $100k–$130k/yr
+- 🕒 **Posted:** 2026-11-22
+
+### [Customer Success Specialist, Renewals & Growth](https://www.indeed.com/viewjob?jk=f313b622e7c42ef5) — LevelTen Energy
+- 📍 **Location:** Atlanta, GA, USA
+- 💰 **Salary:** $110k–$165k/yr
+- 🕒 **Posted:** 2026-11-22
