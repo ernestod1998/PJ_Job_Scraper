@@ -1,24 +1,24 @@
 # 🟦 Indeed — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-11-22 20:49 UTC*
+*Last updated: 2026-11-23 03:02 UTC*
 
-**4 new role(s)** since last run · 15 total in last 24h
+**4 new role(s)** since last run · 12 total in last 24h
 
-### [Executive Assistant to the CEO](https://www.indeed.com/viewjob?jk=d01921777a0b1a9b) — Jacob Green and Associates
-- 📍 **Location:** Tustin, CA, USA
-- 💰 **Salary:** $32–$40/hr
+### [B2B Sales Representative](https://www.indeed.com/viewjob?jk=c76da88043be30bd) — Fully Promoted Long Beach, CA
+- 📍 **Location:** Long Beach, CA, USA
+- 💰 **Salary:** $40k–$45k/mo
 - 🕒 **Posted:** 2026-11-22
 
-### [Architectural Sales Representative](https://www.indeed.com/viewjob?jk=c2a5db01db36cb49) — Roof and Realm
-- 📍 **Location:** Walnut Creek, CA, USA
-- 💰 **Salary:** $80k/yr
+### [Marketing and Content Coordinator](https://www.indeed.com/viewjob?jk=0253c1d5d3aef59b) — Depth & Drive
+- 📍 **Location:** Atlanta, GA, USA
+- 💰 **Salary:** $25–$35/hr
 - 🕒 **Posted:** 2026-11-22
 
-### [Security Account Manager](https://www.indeed.com/viewjob?jk=cbbe9ee1d05e0414) — Security USA Inc.
-- 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $70k/yr
+### [Customer Success Manager](https://www.indeed.com/viewjob?jk=710620e7df8181dd) — American Software
+- 📍 **Location:** Atlanta, GA, USA
+- 💰 **Salary:** $58k–$70k/yr
 - 🕒 **Posted:** 2026-11-22
 
-### [Office Administrator & Operations Coordinator](https://www.indeed.com/viewjob?jk=11d6089af8d19312) — E scapes electric lawn care
-- 📍 **Location:** Woodstock, GA, USA
-- 💰 **Salary:** $51k–$62k/yr
+### [Healthcare Marketer / Business Development Representative-Bilingual](https://www.indeed.com/viewjob?jk=96771b60f7c1321f) — SERENDIPITY HOME HEALTHCARE INC.
+- 📍 **Location:** Skokie, IL, USA
+- 💰 **Salary:** $24–$25/hr
 - 🕒 **Posted:** 2026-11-22
