@@ -1,8 +1,19 @@
 {
-  "scraped_at": "2026-11-23 02:31 UTC",
-  "total": 20,
-  "new_count": 20,
+  "scraped_at": "2026-11-23 03:11 UTC",
+  "total": 23,
+  "new_count": 3,
   "jobs": [
+    {
+      "company": "EFC Wealth Management Firm, LLC (RIA)",
+      "title": "Lead Conversion & Inside Sales Supervisor (Player-Coach) \u2014 Part-Time to Potential Full-Time",
+      "location": "Los Angeles Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4493190917/",
+      "date_posted": "2026-11-22",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
     {
       "company": "Oceania International",
       "title": "Sales Representative\u2011Advanced Materials & Technical Solutions (Santa Ana, CA)",
@@ -38,6 +49,17 @@
       ]
     },
     {
+      "company": "Wintec Industries",
+      "title": "ODM Account Coordinator",
+      "location": "Newark, CA",
+      "url": "https://www.linkedin.com/jobs/view/4492874145/",
+      "date_posted": "2026-11-22",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Skai",
       "title": "Client Success Manager",
       "location": "San Francisco, CA",
@@ -53,6 +75,17 @@
       "title": "National Account Manager",
       "location": "New York, NY",
       "url": "https://www.linkedin.com/jobs/view/4493392548/",
+      "date_posted": "2026-11-22",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Repro Products",
+      "title": "Inside Sales Representative",
+      "location": "Smyrna, GA",
+      "url": "https://www.linkedin.com/jobs/view/4493600466/",
       "date_posted": "2026-11-22",
       "ats": "LinkedIn",
       "feeds": [
@@ -178,6 +211,7 @@
       "url": "https://www.linkedin.com/jobs/view/4492356868/",
       "date_posted": "2026-11-22",
       "ats": "LinkedIn",
+      "salary": "$100,000.00/yr - $110,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -231,22 +265,10 @@
   ],
   "new_jobs": [
     {
-      "company": "Oceania International",
-      "title": "Sales Representative\u2011Advanced Materials & Technical Solutions (Santa Ana, CA)",
-      "location": "Santa Ana, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493603320/",
-      "date_posted": "2026-11-22",
-      "ats": "LinkedIn",
-      "salary": "$65,000.00/yr - $850,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jeff Lowe Insurance Agency Inc.",
-      "title": "ACCOUNT MANAGER - STATE FARM AGENT TEAM MEMBER",
-      "location": "Torrance, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493388960/",
+      "company": "EFC Wealth Management Firm, LLC (RIA)",
+      "title": "Lead Conversion & Inside Sales Supervisor (Player-Coach) \u2014 Part-Time to Potential Full-Time",
+      "location": "Los Angeles Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4493190917/",
       "date_posted": "2026-11-22",
       "ats": "LinkedIn",
       "feeds": [
@@ -254,10 +276,10 @@
       ]
     },
     {
-      "company": "Cogent Communications",
-      "title": "Global Account Manager",
-      "location": "Pasadena, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493395436/",
+      "company": "Wintec Industries",
+      "title": "ODM Account Coordinator",
+      "location": "Newark, CA",
+      "url": "https://www.linkedin.com/jobs/view/4492874145/",
       "date_posted": "2026-11-22",
       "ats": "LinkedIn",
       "feeds": [
@@ -265,192 +287,12 @@
       ]
     },
     {
-      "company": "Skai",
-      "title": "Client Success Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4485152793/",
+      "company": "Repro Products",
+      "title": "Inside Sales Representative",
+      "location": "Smyrna, GA",
+      "url": "https://www.linkedin.com/jobs/view/4493600466/",
       "date_posted": "2026-11-22",
       "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cogent Communications",
-      "title": "National Account Manager",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4493392548/",
-      "date_posted": "2026-11-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Skai",
-      "title": "Client Success Enablement Manager",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4486308941/",
-      "date_posted": "2026-11-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Skai",
-      "title": "Client Success Manager",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4485157770/",
-      "date_posted": "2026-11-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "H.C. Foods Co., Ltd.",
-      "title": "Market Research Analyst",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493389530/",
-      "date_posted": "2026-11-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Apex Systems",
-      "title": "Project Management - Project Coordinator III",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4481788736/",
-      "date_posted": "2026-11-22",
-      "ats": "LinkedIn",
-      "salary": "$41.00/hr - $51.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Sable",
-      "title": "Executive Assistant / Office Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4493392329/",
-      "date_posted": "2026-11-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Apex Systems",
-      "title": "Project Management - Project Coordinator IV",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479892158/",
-      "date_posted": "2026-11-22",
-      "ats": "LinkedIn",
-      "salary": "$46.00/hr - $56.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Antioch",
-      "title": "Operations Associate, Office & Executive Support",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4493605032/",
-      "date_posted": "2026-11-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Salon Septi\u00e8me Paris",
-      "title": "Executive Assistant & Salon Operations Operator",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4493551458/",
-      "date_posted": "2026-11-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Boost Company",
-      "title": "Marketing Associate",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4493540704/",
-      "date_posted": "2026-11-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Boost Company",
-      "title": "Communications Assistant",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4493538814/",
-      "date_posted": "2026-11-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "incident.io",
-      "title": "Enterprise Business Development Representative",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4492356868/",
-      "date_posted": "2026-11-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "WebRD",
-      "title": "Healthcare Outreach Coordinator",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4493395262/",
-      "date_posted": "2026-11-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Angel Financial Group",
-      "title": "Sales Representative",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4493543594/",
-      "date_posted": "2026-11-22",
-      "ats": "LinkedIn",
-      "salary": "$85,000.00/yr - $120,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Angel Financial Group",
-      "title": "Financial Sales Representative",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4493555250/",
-      "date_posted": "2026-11-22",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Claire's",
-      "title": "Retail Marketing Manager",
-      "location": "Rosemont, IL",
-      "url": "https://www.linkedin.com/jobs/view/4493393316/",
-      "date_posted": "2026-11-22",
-      "ats": "LinkedIn",
-      "salary": "$90,000.00/yr - $90,000.00/yr",
       "feeds": [
         "general"
       ]
