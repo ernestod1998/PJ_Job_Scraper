@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-24 02:57 UTC",
-  "total": 2,
-  "new_count": 0,
+  "scraped_at": "2026-11-25 00:54 UTC",
+  "total": 3,
+  "new_count": 1,
   "jobs": [
     {
       "company": "CSU Fullerton Auxiliary Services Corporation (\"ASC\")",
@@ -10,6 +10,18 @@
       "url": "https://www.governmentjobs.com/jobs/5552261-0/program-coordinator",
       "date_posted": "",
       "salary": "$29.00 - $33.00 Hourly",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "City of Redondo Beach",
+      "title": "Program Coordinator (Part-Time) - Housing",
+      "location": "Community Services Department Redondo Beach, CA",
+      "url": "https://www.governmentjobs.com/jobs/5560592-0/program-coordinator-part-time-housing",
+      "date_posted": "",
+      "salary": "$19.50 - $50.00 Hourly",
       "ats": "NEOGOV",
       "feeds": [
         "general"
@@ -28,7 +40,20 @@
       ]
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "City of Redondo Beach",
+      "title": "Program Coordinator (Part-Time) - Housing",
+      "location": "Community Services Department Redondo Beach, CA",
+      "url": "https://www.governmentjobs.com/jobs/5560592-0/program-coordinator-part-time-housing",
+      "date_posted": "",
+      "salary": "$19.50 - $50.00 Hourly",
+      "ats": "NEOGOV",
+      "feeds": [
+        "general"
+      ]
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
