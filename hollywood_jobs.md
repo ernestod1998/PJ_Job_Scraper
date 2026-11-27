@@ -1,16 +1,12 @@
 # 🎬 Entertainment — Studios / Agencies / Labels (direct ATS + LinkedIn allowlist)
-*Last updated: 2026-11-26 12:36 UTC*
+*Last updated: 2026-11-27 12:22 UTC*
 
-**3 new role(s)** since last run · 37 total in last 24h
+**2 new role(s)** since last run · 37 total in last 24h
 
-### [Aragon Ballroom - Production Assistant](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Chicago-IL-USA/Aragon-Ballroom---Production-Assistant_JR-94554) — Live Nation Entertainment
-- 📍 **Location:** Chicago, IL, USA
-- 🕒 **Posted:** Posted Yesterday
+### [Digital Marketing Project Intern (TikTok Shop - Seller & Partner Marketing) - 2026 Start](https://www.linkedin.com/jobs/view/4486946776/) — TikTok
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-27
 
-### [LA Galaxy, Program Operations Coordinator](https://www.linkedin.com/jobs/view/4486530783/) — AEG
-- 📍 **Location:** Carson, CA
+### [Experiential Marketing Project Manager](https://www.linkedin.com/jobs/view/4487527958/) — AEG
+- 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-11-26
-
-### [Associate Project Manager, Alternative Content](https://www.linkedin.com/jobs/view/4486518307/) — IMAX
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-11-25
