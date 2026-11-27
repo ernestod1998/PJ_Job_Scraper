@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-27 09:37 UTC",
-  "total": 33,
-  "new_count": 33,
+  "scraped_at": "2026-11-27 10:11 UTC",
+  "total": 42,
+  "new_count": 11,
   "jobs": [
     {
       "company": "Alpha School",
@@ -10,7 +10,6 @@
       "url": "https://www.linkedin.com/jobs/view/4494728996/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
-      "salary": "$100,000.00/yr - $100,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -22,7 +21,6 @@
       "url": "https://www.linkedin.com/jobs/view/4494739578/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
-      "salary": "$100,000.00/yr - $100,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -79,7 +77,6 @@
       "url": "https://www.linkedin.com/jobs/view/4479715474/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
-      "salary": "$33,200.00/yr - $66,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -89,6 +86,51 @@
       "title": "Vertical Account Manager, Healthcare, Spectrum Business",
       "location": "Cerritos, CA",
       "url": "https://www.linkedin.com/jobs/view/4488072554/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "salary": "$57,400.00/yr - $94,800.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "3 Day Blinds",
+      "title": "Outside Sales Representative",
+      "location": "Orange, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451917828/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "3 Day Blinds",
+      "title": "Outside Sales Representative",
+      "location": "Garden Grove, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451931294/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "3 Day Blinds",
+      "title": "Outside Sales Representative",
+      "location": "Mission Viejo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451424424/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "3 Day Blinds",
+      "title": "Outside Sales Representative",
+      "location": "Costa Mesa, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451914820/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -107,6 +149,17 @@
       ]
     },
     {
+      "company": "Atlassian",
+      "title": "Marketing Business Operations Intern, 2027 Summer U.S.",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470625546/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Hewlett Packard Enterprise",
       "title": "Associate Brand Marketing Manager",
       "location": "Sunnyvale, CA",
@@ -118,10 +171,10 @@
       ]
     },
     {
-      "company": "Atlassian",
-      "title": "Marketing Business Operations Intern, 2027 Summer U.S.",
+      "company": "LinkedIn",
+      "title": "Sales Development Representative 1",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470625546/",
+      "url": "https://www.linkedin.com/jobs/view/4480157427/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -174,32 +227,21 @@
       ]
     },
     {
-      "company": "Archer",
-      "title": "Customer Onboarding Manager",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4495069822/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Flexport",
-      "title": "3PL Customer Success Manager",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4488103514/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
       "company": "Weltons",
       "title": "Brand Communications & Marketing Specialist",
       "location": "New York, NY",
       "url": "https://www.linkedin.com/jobs/view/4495800120/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Crowell & Moring",
+      "title": "Executive Assistant",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4479576358/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -230,22 +272,65 @@
       ]
     },
     {
+      "company": "Dyson",
+      "title": "National Account Manager, Home (Direct eCommerce)",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4461752900/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Flexport",
+      "title": "3PL Customer Success Manager",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4488103514/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Hikma Pharmaceuticals",
+      "title": "Corporate Account Manager",
+      "location": "Berkeley Heights, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4479146079/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
       "company": "Aditi Consulting",
       "title": "Medicare Sales Representative",
       "location": "New York, NY",
       "url": "https://www.linkedin.com/jobs/view/4492793935/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
-      "salary": "$28.00/hr - $28.00/hr",
       "feeds": [
         "general"
       ]
     },
     {
-      "company": "Dyson",
-      "title": "National Account Manager, Home (Direct eCommerce)",
+      "company": "TikTok",
+      "title": "Digital Marketing Project Intern (TikTok Shop - Seller & Partner Marketing) - 2026 Start",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4461752900/",
+      "url": "https://www.linkedin.com/jobs/view/4486946776/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Flexport",
+      "title": "3PL Customer Success Manager",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4488101642/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -259,18 +344,6 @@
       "url": "https://www.linkedin.com/jobs/view/4491781137/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Alpha School",
-      "title": "Youth Program Coordinator, Alpha - $100,000/year USD",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4494751005/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "salary": "$100,000.00/yr - $100,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -372,6 +445,29 @@
       "url": "https://www.linkedin.com/jobs/view/4488034649/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "LinkedIn",
+      "title": "Sales Development Representative 1",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4480159373/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "RLDatix North America",
+      "title": "Business Development Representative",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4490475887/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "salary": "$55,000.00/yr - $68,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -379,34 +475,10 @@
   ],
   "new_jobs": [
     {
-      "company": "Alpha School",
-      "title": "Literacy Program Coordinator, Alpha - $100,000/year USD",
-      "location": "Lake Forest, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494728996/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "salary": "$100,000.00/yr - $100,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Alpha School",
-      "title": "Literacy Program Coordinator, Alpha - $100,000/year USD",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494739578/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "salary": "$100,000.00/yr - $100,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Andersen",
-      "title": "Operations Coordinator",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488087133/",
+      "company": "3 Day Blinds",
+      "title": "Outside Sales Representative",
+      "location": "Orange, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451917828/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -414,33 +486,10 @@
       ]
     },
     {
-      "company": "AHEAD",
-      "title": "Field Marketing Manager, West",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4452711428/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Spectrum",
+      "company": "3 Day Blinds",
       "title": "Outside Sales Representative",
       "location": "Garden Grove, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479562353/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "salary": "$33,200.00/yr - $66,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Activ8 Recruitment & Solutions",
-      "title": "Inside Sales Representative (Automotive industry)(CA/YM)",
-      "location": "Garden Grove, CA",
-      "url": "https://www.linkedin.com/jobs/view/4495581527/",
+      "url": "https://www.linkedin.com/jobs/view/4451931294/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -448,22 +497,10 @@
       ]
     },
     {
-      "company": "Spectrum",
+      "company": "3 Day Blinds",
       "title": "Outside Sales Representative",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479715474/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "salary": "$33,200.00/yr - $66,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Spectrum Business",
-      "title": "Vertical Account Manager, Healthcare, Spectrum Business",
-      "location": "Cerritos, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488072554/",
+      "location": "Mission Viejo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451424424/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -471,10 +508,10 @@
       ]
     },
     {
-      "company": "Cupertino Electric, Inc.",
-      "title": "Assistant Project Manager - Energy (Estimating to Traveling)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469016891/",
+      "company": "3 Day Blinds",
+      "title": "Outside Sales Representative",
+      "location": "Costa Mesa, CA",
+      "url": "https://www.linkedin.com/jobs/view/4451914820/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -482,21 +519,10 @@
       ]
     },
     {
-      "company": "Hewlett Packard Enterprise",
-      "title": "Associate Brand Marketing Manager",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494478931/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Atlassian",
-      "title": "Marketing Business Operations Intern, 2027 Summer U.S.",
+      "company": "LinkedIn",
+      "title": "Sales Development Representative 1",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470625546/",
+      "url": "https://www.linkedin.com/jobs/view/4480157427/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -504,88 +530,10 @@
       ]
     },
     {
-      "company": "DoorDash",
-      "title": "Strategic Account Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469373469/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobgether",
-      "title": "Key Account Manager - Remote (San Francisco Bay Area)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4495074612/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobot",
-      "title": "Implementation Specialist, Healthcare",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4486222415/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "salary": "$90,000.00/yr - $120,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "SBH Fashion",
-      "title": "Brand Marketing Associate",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4479725436/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Archer",
-      "title": "Customer Onboarding Manager",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4495069822/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Flexport",
-      "title": "3PL Customer Success Manager",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4488103514/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Weltons",
-      "title": "Brand Communications & Marketing Specialist",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4495800120/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "AHEAD",
+      "company": "Crowell & Moring",
       "title": "Executive Assistant",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4478495973/",
+      "url": "https://www.linkedin.com/jobs/view/4479576358/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -593,138 +541,23 @@
       ]
     },
     {
-      "company": "Archer",
-      "title": "Associate, Client Services - Summer 2027",
+      "company": "Hikma Pharmaceuticals",
+      "title": "Corporate Account Manager",
+      "location": "Berkeley Heights, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4479146079/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "TikTok",
+      "title": "Digital Marketing Project Intern (TikTok Shop - Seller & Partner Marketing) - 2026 Start",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4495071725/",
+      "url": "https://www.linkedin.com/jobs/view/4486946776/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
-      "salary": "$96,000.00/yr - $127,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Aditi Consulting",
-      "title": "Medicare Sales Representative",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4492793935/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "salary": "$28.00/hr - $28.00/hr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Dyson",
-      "title": "National Account Manager, Home (Direct eCommerce)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4461752900/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Georgia Institute of Technology",
-      "title": "Challenge and Climbing Program Coordinator",
-      "location": "Atlanta Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4491781137/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Alpha School",
-      "title": "Youth Program Coordinator, Alpha - $100,000/year USD",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4494751005/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "salary": "$100,000.00/yr - $100,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Bottomless Promotion",
-      "title": "Sales & Brand Marketing Assistant",
-      "location": "Dunwoody, GA",
-      "url": "https://www.linkedin.com/jobs/view/4495593471/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "EVERSANA",
-      "title": "Virtual Sales Representative - Neurology - Remote",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4486924132/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "salary": "$65,000.00/yr - $85,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Veeam Software",
-      "title": "Associate Account Executive, Velocity Inside Sales",
-      "location": "Alpharetta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4460963367/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "RS Americas",
-      "title": "Key Account Manager Business Development - Atlanta, GA",
-      "location": "Suwanee, GA",
-      "url": "https://www.linkedin.com/jobs/view/4379662690/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "RS",
-      "title": "Key Account Manager Business Development - Atlanta, GA",
-      "location": "Suwanee, GA",
-      "url": "https://www.linkedin.com/jobs/view/4407300995/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Salesforce",
-      "title": "Customer Success Manager (Informatica)",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4452624127/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Advantage Solutions",
-      "title": "Product Marketing Coordinator",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4478807927/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "salary": "$68,000.00/yr - $75,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -732,8 +565,8 @@
     {
       "company": "Flexport",
       "title": "3PL Customer Success Manager",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4488105429/",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4488101642/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -741,12 +574,24 @@
       ]
     },
     {
-      "company": "NFI",
-      "title": "Manager, Brokerage Operations",
-      "location": "Schaumburg, IL",
-      "url": "https://www.linkedin.com/jobs/view/4488034649/",
+      "company": "LinkedIn",
+      "title": "Sales Development Representative 1",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4480159373/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "RLDatix North America",
+      "title": "Business Development Representative",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4490475887/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "salary": "$55,000.00/yr - $68,000.00/yr",
       "feeds": [
         "general"
       ]
@@ -756,7 +601,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 8,
+    "location": 13,
     "stale": 0
   }
 }
