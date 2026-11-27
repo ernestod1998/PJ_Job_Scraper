@@ -1,24 +1,13 @@
 {
-  "scraped_at": "2026-11-27 10:11 UTC",
-  "total": 42,
-  "new_count": 11,
+  "scraped_at": "2026-11-27 22:42 UTC",
+  "total": 47,
+  "new_count": 47,
   "jobs": [
     {
-      "company": "Alpha School",
-      "title": "Literacy Program Coordinator, Alpha - $100,000/year USD",
-      "location": "Lake Forest, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494728996/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Alpha School",
-      "title": "Literacy Program Coordinator, Alpha - $100,000/year USD",
+      "company": "PTR Global",
+      "title": "Project Coordinator III",
       "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494739578/",
+      "url": "https://www.linkedin.com/jobs/view/4495846743/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -26,10 +15,10 @@
       ]
     },
     {
-      "company": "Andersen",
-      "title": "Operations Coordinator",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488087133/",
+      "company": "Dimond Connect",
+      "title": "Social Media Manager",
+      "location": "Santa Monica, CA",
+      "url": "https://www.linkedin.com/jobs/view/4495335599/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -37,10 +26,10 @@
       ]
     },
     {
-      "company": "AHEAD",
-      "title": "Field Marketing Manager, West",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4452711428/",
+      "company": "Tiffany & Co.",
+      "title": "Operations Coordinator - Beverly Hills, CA",
+      "location": "Beverly Hills, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494206987/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -48,22 +37,246 @@
       ]
     },
     {
-      "company": "Spectrum",
-      "title": "Outside Sales Representative",
-      "location": "Garden Grove, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479562353/",
+      "company": "Varonis",
+      "title": "Account Manager",
+      "location": "Los Angeles Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4344807339/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
-      "salary": "$33,200.00/yr - $66,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Abode",
+      "title": "Associate Project Manager, Real Estate Development",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4495862189/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Premier Global Links LLC",
+      "title": "Implementation Specialist \u2013 Healthcare Software",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4495338591/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "salary": "$130,000.00/yr - $170,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Gold & Aron",
+      "title": "Revenue Operations, Implementation",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486084499/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mirador Law",
+      "title": "Bilingual Client Services Coordinator - Pleasanton, CA",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4495335552/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "IntelliPro",
+      "title": "Customer Operations Specialist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4495885384/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "salary": "$33.00/hr - $35.00/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "O2 AI",
+      "title": "PCBA Sales / Account Manager",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4495337344/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "LandCare LLC",
+      "title": "Account Manager (Commercial Landscaping)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4495347238/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "LandCare LLC",
+      "title": "Account Manager (Commercial Landscaping)",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4495344374/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Michael Page",
+      "title": "Assistant Project Manager - Construction - Brooklyn",
+      "location": "Brooklyn, NY",
+      "url": "https://www.linkedin.com/jobs/view/4495880773/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "salary": "$108,000.00/yr - $132,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mount Sinai Health System",
+      "title": "Clinical Research Coordinator - Department of Ophthalmology",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4495343373/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mount Sinai Health System",
+      "title": "Clinical Research Coordinator I - Medicine Clinical Trials Office",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4495343372/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Progyny, Inc.",
+      "title": "Growth Marketing Campaigns Associate",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4488055917/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Episcopal Health Services, Inc.",
+      "title": "Executive Assistant",
+      "location": "Queens, NY",
+      "url": "https://www.linkedin.com/jobs/view/4495842951/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Michael Page",
+      "title": "Assistant Project Manager - Construction - Brooklyn",
+      "location": "Brooklyn, NY",
+      "url": "https://www.linkedin.com/jobs/view/4495878756/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "salary": "$70,000.00/yr - $120,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Russell Tobin",
+      "title": "Client Services Associate",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494217597/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "UniFirst Corporation",
+      "title": "Key Account Manager",
+      "location": "Bronx, NY",
+      "url": "https://www.linkedin.com/jobs/view/4451975949/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cogent Communications",
+      "title": "Global Account Manager",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4495856342/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Epsilon",
+      "title": "Lead, Client Success",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4469672216/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Verra Mobility",
+      "title": "Client Success Manager",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4480175301/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
     },
     {
       "company": "Activ8 Recruitment & Solutions",
-      "title": "Inside Sales Representative (Automotive industry)(CA/YM)",
-      "location": "Garden Grove, CA",
-      "url": "https://www.linkedin.com/jobs/view/4495581527/",
+      "title": "Junior Sales Representative  - Global Trading Company (36106)",
+      "location": "Fort Lee, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4495892080/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "salary": "$70,000.00/yr - $75,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AdaCore",
+      "title": "Sales and Account Manager",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494221222/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -71,155 +284,10 @@
       ]
     },
     {
-      "company": "Spectrum",
-      "title": "Outside Sales Representative",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4479715474/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Spectrum Business",
-      "title": "Vertical Account Manager, Healthcare, Spectrum Business",
-      "location": "Cerritos, CA",
-      "url": "https://www.linkedin.com/jobs/view/4488072554/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "salary": "$57,400.00/yr - $94,800.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "3 Day Blinds",
-      "title": "Outside Sales Representative",
-      "location": "Orange, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451917828/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "3 Day Blinds",
-      "title": "Outside Sales Representative",
-      "location": "Garden Grove, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451931294/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "3 Day Blinds",
-      "title": "Outside Sales Representative",
-      "location": "Mission Viejo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451424424/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "3 Day Blinds",
-      "title": "Outside Sales Representative",
-      "location": "Costa Mesa, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451914820/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Cupertino Electric, Inc.",
-      "title": "Assistant Project Manager - Energy (Estimating to Traveling)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469016891/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Atlassian",
-      "title": "Marketing Business Operations Intern, 2027 Summer U.S.",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4470625546/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hewlett Packard Enterprise",
-      "title": "Associate Brand Marketing Manager",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4494478931/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "LinkedIn",
-      "title": "Sales Development Representative 1",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480157427/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "DoorDash",
-      "title": "Strategic Account Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4469373469/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobgether",
-      "title": "Key Account Manager - Remote (San Francisco Bay Area)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4495074612/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Jobot",
-      "title": "Implementation Specialist, Healthcare",
+      "company": "CTC",
+      "title": "Junior Marketing Researcher",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4486222415/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "salary": "$90,000.00/yr - $120,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "SBH Fashion",
-      "title": "Brand Marketing Associate",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4479725436/",
+      "url": "https://www.linkedin.com/jobs/view/4494221227/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -227,10 +295,10 @@
       ]
     },
     {
-      "company": "Weltons",
-      "title": "Brand Communications & Marketing Specialist",
+      "company": "Morton's The Steakhouse",
+      "title": "Sales and Events Coordinator",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4495800120/",
+      "url": "https://www.linkedin.com/jobs/view/4461379356/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -238,236 +306,228 @@
       ]
     },
     {
-      "company": "Crowell & Moring",
-      "title": "Executive Assistant",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4479576358/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "AHEAD",
-      "title": "Executive Assistant",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4478495973/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Archer",
-      "title": "Associate, Client Services - Summer 2027",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4495071725/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "salary": "$96,000.00/yr - $127,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Dyson",
-      "title": "National Account Manager, Home (Direct eCommerce)",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4461752900/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Flexport",
-      "title": "3PL Customer Success Manager",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4488103514/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Hikma Pharmaceuticals",
-      "title": "Corporate Account Manager",
-      "location": "Berkeley Heights, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4479146079/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Aditi Consulting",
-      "title": "Medicare Sales Representative",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4492793935/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TikTok",
-      "title": "Digital Marketing Project Intern (TikTok Shop - Seller & Partner Marketing) - 2026 Start",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4486946776/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Flexport",
-      "title": "3PL Customer Success Manager",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4488101642/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Georgia Institute of Technology",
-      "title": "Challenge and Climbing Program Coordinator",
-      "location": "Atlanta Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4491781137/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Bottomless Promotion",
-      "title": "Sales & Brand Marketing Assistant",
-      "location": "Dunwoody, GA",
-      "url": "https://www.linkedin.com/jobs/view/4495593471/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "EVERSANA",
-      "title": "Virtual Sales Representative - Neurology - Remote",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4486924132/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "salary": "$65,000.00/yr - $85,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Veeam Software",
-      "title": "Associate Account Executive, Velocity Inside Sales",
-      "location": "Alpharetta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4460963367/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "RS Americas",
-      "title": "Key Account Manager Business Development - Atlanta, GA",
-      "location": "Suwanee, GA",
-      "url": "https://www.linkedin.com/jobs/view/4379662690/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "RS",
-      "title": "Key Account Manager Business Development - Atlanta, GA",
-      "location": "Suwanee, GA",
-      "url": "https://www.linkedin.com/jobs/view/4407300995/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Salesforce",
-      "title": "Customer Success Manager (Informatica)",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4452624127/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Advantage Solutions",
-      "title": "Product Marketing Coordinator",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4478807927/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "salary": "$68,000.00/yr - $75,000.00/yr",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "Flexport",
-      "title": "3PL Customer Success Manager",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4488105429/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "NFI",
-      "title": "Manager, Brokerage Operations",
-      "location": "Schaumburg, IL",
-      "url": "https://www.linkedin.com/jobs/view/4488034649/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "LinkedIn",
-      "title": "Sales Development Representative 1",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480159373/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "RLDatix North America",
+      "company": "Search BizAthletes",
       "title": "Business Development Representative",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4490475887/",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4492654131/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
-      "salary": "$55,000.00/yr - $68,000.00/yr",
+      "salary": "$70,000.00/yr - $75,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Orbital",
+      "title": "Sales Development Representative",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494204987/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Michael Page",
+      "title": "Assistant Project Manager - Construction - Brooklyn",
+      "location": "Brooklyn, NY",
+      "url": "https://www.linkedin.com/jobs/view/4495880770/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "salary": "$80,000.00/yr - $100,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Michael Page",
+      "title": "Assistant Project Manager - Construction - Brooklyn",
+      "location": "Brooklyn, NY",
+      "url": "https://www.linkedin.com/jobs/view/4495895019/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "salary": "$99,000.00/yr - $121,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Michael Page",
+      "title": "Assistant Project Manager - Construction - Brooklyn",
+      "location": "Brooklyn, NY",
+      "url": "https://www.linkedin.com/jobs/view/4495874867/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Michael Page",
+      "title": "Assistant Project Manager - Construction - Brooklyn",
+      "location": "Brooklyn, NY",
+      "url": "https://www.linkedin.com/jobs/view/4495875893/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "salary": "$108,000.00/yr - $132,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Michael Page",
+      "title": "Assistant Project Manager - Construction - Brooklyn",
+      "location": "Brooklyn, NY",
+      "url": "https://www.linkedin.com/jobs/view/4495886531/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Michael Page",
+      "title": "Assistant Project Manager - Construction - Brooklyn",
+      "location": "Brooklyn, NY",
+      "url": "https://www.linkedin.com/jobs/view/4495892189/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "salary": "$108,000.00/yr - $132,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Michael Page",
+      "title": "Assistant Project Manager - Construction - Brooklyn",
+      "location": "Brooklyn, NY",
+      "url": "https://www.linkedin.com/jobs/view/4495882731/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Michael Page",
+      "title": "Assistant Project Manager - Construction - Brooklyn",
+      "location": "Brooklyn, NY",
+      "url": "https://www.linkedin.com/jobs/view/4495875896/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "salary": "$108,000.00/yr - $132,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Floor & Decor",
+      "title": "Visual Merchandise Coordinator",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4459580228/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Retaaza",
+      "title": "Marketing Coordinator",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4495869936/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "salary": "$50,000.00/yr - $65,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jerry",
+      "title": "Legal Operations Associate, Compliance & Automation (Remote)",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4494208964/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "MissionHires",
+      "title": "Entry Level Sales Representative",
+      "location": "Atlanta Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4495336542/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Tidewater Consulting",
+      "title": "Entry Level Account Manager",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4495842960/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cogent Communications",
+      "title": "Global Account Manager",
+      "location": "Atlanta Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4495855336/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "iSphere Global",
+      "title": "Technology Operations Specialist",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4495326842/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The HistoryMakers",
+      "title": "Producing, Travel and Logistics Coordinator",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4495883682/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Lalamove",
+      "title": "Driver Operations Associate",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4495893152/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Northern Trust",
+      "title": "Account Manager, Banking",
+      "location": "Oakbrook Terrace, IL",
+      "url": "https://www.linkedin.com/jobs/view/4486243900/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
@@ -475,10 +535,10 @@
   ],
   "new_jobs": [
     {
-      "company": "3 Day Blinds",
-      "title": "Outside Sales Representative",
-      "location": "Orange, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451917828/",
+      "company": "PTR Global",
+      "title": "Project Coordinator III",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4495846743/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -486,10 +546,10 @@
       ]
     },
     {
-      "company": "3 Day Blinds",
-      "title": "Outside Sales Representative",
-      "location": "Garden Grove, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451931294/",
+      "company": "Dimond Connect",
+      "title": "Social Media Manager",
+      "location": "Santa Monica, CA",
+      "url": "https://www.linkedin.com/jobs/view/4495335599/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -497,10 +557,10 @@
       ]
     },
     {
-      "company": "3 Day Blinds",
-      "title": "Outside Sales Representative",
-      "location": "Mission Viejo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451424424/",
+      "company": "Tiffany & Co.",
+      "title": "Operations Coordinator - Beverly Hills, CA",
+      "location": "Beverly Hills, CA",
+      "url": "https://www.linkedin.com/jobs/view/4494206987/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -508,10 +568,10 @@
       ]
     },
     {
-      "company": "3 Day Blinds",
-      "title": "Outside Sales Representative",
-      "location": "Costa Mesa, CA",
-      "url": "https://www.linkedin.com/jobs/view/4451914820/",
+      "company": "Varonis",
+      "title": "Account Manager",
+      "location": "Los Angeles Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4344807339/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -519,10 +579,10 @@
       ]
     },
     {
-      "company": "LinkedIn",
-      "title": "Sales Development Representative 1",
+      "company": "Abode",
+      "title": "Associate Project Manager, Real Estate Development",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4480157427/",
+      "url": "https://www.linkedin.com/jobs/view/4495862189/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -530,10 +590,179 @@
       ]
     },
     {
-      "company": "Crowell & Moring",
+      "company": "Premier Global Links LLC",
+      "title": "Implementation Specialist \u2013 Healthcare Software",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4495338591/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "salary": "$130,000.00/yr - $170,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Gold & Aron",
+      "title": "Revenue Operations, Implementation",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4486084499/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mirador Law",
+      "title": "Bilingual Client Services Coordinator - Pleasanton, CA",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4495335552/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "IntelliPro",
+      "title": "Customer Operations Specialist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4495885384/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "salary": "$33.00/hr - $35.00/hr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "O2 AI",
+      "title": "PCBA Sales / Account Manager",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4495337344/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "LandCare LLC",
+      "title": "Account Manager (Commercial Landscaping)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4495347238/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "LandCare LLC",
+      "title": "Account Manager (Commercial Landscaping)",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4495344374/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Michael Page",
+      "title": "Assistant Project Manager - Construction - Brooklyn",
+      "location": "Brooklyn, NY",
+      "url": "https://www.linkedin.com/jobs/view/4495880773/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "salary": "$108,000.00/yr - $132,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mount Sinai Health System",
+      "title": "Clinical Research Coordinator - Department of Ophthalmology",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4495343373/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Mount Sinai Health System",
+      "title": "Clinical Research Coordinator I - Medicine Clinical Trials Office",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4495343372/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Progyny, Inc.",
+      "title": "Growth Marketing Campaigns Associate",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4488055917/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Episcopal Health Services, Inc.",
       "title": "Executive Assistant",
+      "location": "Queens, NY",
+      "url": "https://www.linkedin.com/jobs/view/4495842951/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Michael Page",
+      "title": "Assistant Project Manager - Construction - Brooklyn",
+      "location": "Brooklyn, NY",
+      "url": "https://www.linkedin.com/jobs/view/4495878756/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "salary": "$70,000.00/yr - $120,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Russell Tobin",
+      "title": "Client Services Associate",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494217597/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "UniFirst Corporation",
+      "title": "Key Account Manager",
+      "location": "Bronx, NY",
+      "url": "https://www.linkedin.com/jobs/view/4451975949/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cogent Communications",
+      "title": "Global Account Manager",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4479576358/",
+      "url": "https://www.linkedin.com/jobs/view/4495856342/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -541,21 +770,10 @@
       ]
     },
     {
-      "company": "Hikma Pharmaceuticals",
-      "title": "Corporate Account Manager",
-      "location": "Berkeley Heights, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4479146079/",
-      "date_posted": "2026-11-27",
-      "ats": "LinkedIn",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "TikTok",
-      "title": "Digital Marketing Project Intern (TikTok Shop - Seller & Partner Marketing) - 2026 Start",
+      "company": "Epsilon",
+      "title": "Lead, Client Success",
       "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4486946776/",
+      "url": "https://www.linkedin.com/jobs/view/4469672216/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -563,10 +781,10 @@
       ]
     },
     {
-      "company": "Flexport",
-      "title": "3PL Customer Success Manager",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4488101642/",
+      "company": "Verra Mobility",
+      "title": "Client Success Manager",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4480175301/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -574,10 +792,22 @@
       ]
     },
     {
-      "company": "LinkedIn",
-      "title": "Sales Development Representative 1",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4480159373/",
+      "company": "Activ8 Recruitment & Solutions",
+      "title": "Junior Sales Representative  - Global Trading Company (36106)",
+      "location": "Fort Lee, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4495892080/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "salary": "$70,000.00/yr - $75,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "AdaCore",
+      "title": "Sales and Account Manager",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4494221222/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
       "feeds": [
@@ -585,13 +815,250 @@
       ]
     },
     {
-      "company": "RLDatix North America",
+      "company": "CTC",
+      "title": "Junior Marketing Researcher",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494221227/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Morton's The Steakhouse",
+      "title": "Sales and Events Coordinator",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4461379356/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Search BizAthletes",
       "title": "Business Development Representative",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4490475887/",
+      "location": "New York City Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4492654131/",
       "date_posted": "2026-11-27",
       "ats": "LinkedIn",
-      "salary": "$55,000.00/yr - $68,000.00/yr",
+      "salary": "$70,000.00/yr - $75,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Orbital",
+      "title": "Sales Development Representative",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4494204987/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Michael Page",
+      "title": "Assistant Project Manager - Construction - Brooklyn",
+      "location": "Brooklyn, NY",
+      "url": "https://www.linkedin.com/jobs/view/4495880770/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "salary": "$80,000.00/yr - $100,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Michael Page",
+      "title": "Assistant Project Manager - Construction - Brooklyn",
+      "location": "Brooklyn, NY",
+      "url": "https://www.linkedin.com/jobs/view/4495895019/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "salary": "$99,000.00/yr - $121,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Michael Page",
+      "title": "Assistant Project Manager - Construction - Brooklyn",
+      "location": "Brooklyn, NY",
+      "url": "https://www.linkedin.com/jobs/view/4495874867/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Michael Page",
+      "title": "Assistant Project Manager - Construction - Brooklyn",
+      "location": "Brooklyn, NY",
+      "url": "https://www.linkedin.com/jobs/view/4495875893/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "salary": "$108,000.00/yr - $132,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Michael Page",
+      "title": "Assistant Project Manager - Construction - Brooklyn",
+      "location": "Brooklyn, NY",
+      "url": "https://www.linkedin.com/jobs/view/4495886531/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Michael Page",
+      "title": "Assistant Project Manager - Construction - Brooklyn",
+      "location": "Brooklyn, NY",
+      "url": "https://www.linkedin.com/jobs/view/4495892189/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "salary": "$108,000.00/yr - $132,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Michael Page",
+      "title": "Assistant Project Manager - Construction - Brooklyn",
+      "location": "Brooklyn, NY",
+      "url": "https://www.linkedin.com/jobs/view/4495882731/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Michael Page",
+      "title": "Assistant Project Manager - Construction - Brooklyn",
+      "location": "Brooklyn, NY",
+      "url": "https://www.linkedin.com/jobs/view/4495875896/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "salary": "$108,000.00/yr - $132,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Floor & Decor",
+      "title": "Visual Merchandise Coordinator",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4459580228/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Retaaza",
+      "title": "Marketing Coordinator",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4495869936/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "salary": "$50,000.00/yr - $65,000.00/yr",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Jerry",
+      "title": "Legal Operations Associate, Compliance & Automation (Remote)",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4494208964/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "MissionHires",
+      "title": "Entry Level Sales Representative",
+      "location": "Atlanta Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4495336542/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Tidewater Consulting",
+      "title": "Entry Level Account Manager",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4495842960/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Cogent Communications",
+      "title": "Global Account Manager",
+      "location": "Atlanta Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4495855336/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "iSphere Global",
+      "title": "Technology Operations Specialist",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4495326842/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "The HistoryMakers",
+      "title": "Producing, Travel and Logistics Coordinator",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4495883682/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Lalamove",
+      "title": "Driver Operations Associate",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4495893152/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
+      "feeds": [
+        "general"
+      ]
+    },
+    {
+      "company": "Northern Trust",
+      "title": "Account Manager, Banking",
+      "location": "Oakbrook Terrace, IL",
+      "url": "https://www.linkedin.com/jobs/view/4486243900/",
+      "date_posted": "2026-11-27",
+      "ats": "LinkedIn",
       "feeds": [
         "general"
       ]
@@ -601,7 +1068,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 13,
+    "location": 8,
     "stale": 0
   }
 }
