@@ -1,64 +1,92 @@
 # 🔥 LinkedIn — Marketing / Account Mgmt / Coordinator Roles (LA · SF Bay Area · NYC · Atlanta · Chicago)
-*Last updated: 2026-11-28 08:51 UTC*
+*Last updated: 2026-11-28 09:30 UTC*
 
-**15 new role(s)** since last run · 15 total in last 4h
+**21 new role(s)** since last run · 33 total in last 4h
 
-### [Patient Sales & Marketing Coordinator](https://www.linkedin.com/jobs/view/4495364314/) — LifeTime Smiles of OC
-- 📍 **Location:** Tustin, CA
+### [Executive Assistant](https://www.linkedin.com/jobs/view/4488467959/) — Universal Music Group
+- 📍 **Location:** Santa Monica, CA
 - 🕒 **Posted:** 2026-11-28
 
-### [Key Account Management Sales Intern](https://www.linkedin.com/jobs/view/4494201340/) — Tenvault
+### [Outside Sales Representative](https://www.linkedin.com/jobs/view/4488451578/) — Spectrum
 - 📍 **Location:** El Segundo, CA
+- 💰 **Salary:** $33,200.00/yr - $66,000.00/yr
 - 🕒 **Posted:** 2026-11-28
 
-### [Influencer Marketing Specialist](https://www.linkedin.com/jobs/view/4490307760/) — Angara Ecommerce Pvt. Ltd.
-- 📍 **Location:** Los Angeles County, CA
+### [Virtual Sales Representative - Sleep - Remote](https://www.linkedin.com/jobs/view/4470046486/) — EVERSANA
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $95,000.00/yr - $115,000.00/yr
 - 🕒 **Posted:** 2026-11-28
 
-### [Marketing Operations Specialist(Part time)](https://www.linkedin.com/jobs/view/4496009881/) — xTool Official
-- 📍 **Location:** Mountain View, CA
+### [Seasonal Part-Time RedZone Production Assistant](https://www.linkedin.com/jobs/view/4477725809/) — National Football League (NFL)
+- 📍 **Location:** Inglewood, CA
 - 🕒 **Posted:** 2026-11-28
 
-### [Executive Assistant & Administrative Coordinator](https://www.linkedin.com/jobs/view/4495356558/) — Downtown SF Partnership
+### [Executive Search Program Coordinator (Contract)](https://www.linkedin.com/jobs/view/4469663839/) — Micron Technology
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-28
+
+### [Administrative Coordinator](https://www.linkedin.com/jobs/view/4487365458/) — Gilead Sciences
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-11-28
+
+### [Public Relations and Marketing Manager](https://www.linkedin.com/jobs/view/4453065266/) — Four Seasons
+- 📍 **Location:** East Palo Alto, CA
+- 🕒 **Posted:** 2026-11-28
+
+### [Revenue Enablement Readiness Manager - SDR](https://www.linkedin.com/jobs/view/4488486617/) — Atlassian
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-28
 
-### [Sales Development Representative](https://www.linkedin.com/jobs/view/4494237631/) — JustBacked
+### [Specialty Sales Representative](https://www.linkedin.com/jobs/view/4480179710/) — Inizio Engage
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-28
 
-### [Strategic Account Manager](https://www.linkedin.com/jobs/view/4494244226/) — JustBacked
-- 📍 **Location:** Palo Alto, CA
+### [Specialty Sales Representative](https://www.linkedin.com/jobs/view/4480187491/) — Inizio Engage
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-11-28
 
-### [Territory Account Manager - San Francisco, CA](https://www.linkedin.com/jobs/view/4481808694/) — GSK
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-28
-
-### [Administrative Coordinator **Rehab Medicine/Manhattan**](https://www.linkedin.com/jobs/view/4495357542/) — NYU Langone Health
+### [Analyst, US Client Services](https://www.linkedin.com/jobs/view/4477099920/) — Ares Management
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-28
 
-### [Enterprise Account Manager](https://www.linkedin.com/jobs/view/4495350743/) — Deliverect
+### [Advanced Advertising Account Manager](https://www.linkedin.com/jobs/view/4488135986/) — Spectrum Reach
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $73,200.00/yr - $140,600.00/yr
+- 🕒 **Posted:** 2026-11-28
+
+### [Specialty Sales Representative](https://www.linkedin.com/jobs/view/4480187490/) — Inizio Engage
+- 📍 **Location:** Newark, NJ
+- 🕒 **Posted:** 2026-11-28
+
+### [Specialty Sales Representative](https://www.linkedin.com/jobs/view/4480178735/) — Inizio Engage
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-28
 
-### [National Account Manager](https://www.linkedin.com/jobs/view/4496031031/) — Cogent Communications
-- 📍 **Location:** Atlanta Metropolitan Area
+### [Pharma Key Account Management & B2B Strategy Consultant](https://www.linkedin.com/jobs/view/4444169532/) — ZS
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-28
 
-### [Test Development Assistant](https://www.linkedin.com/jobs/view/4494231875/) — National Board of Osteopathic Medical Examiners
+### [HR Operations Associate](https://www.linkedin.com/jobs/view/4487368415/) — Sompo
+- 📍 **Location:** Alpharetta, GA
+- 🕒 **Posted:** 2026-11-28
+
+### [Account Manager](https://www.linkedin.com/jobs/view/4494226040/) — Brilyon Ventures
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-11-28
+
+### [Specialty Sales Representative](https://www.linkedin.com/jobs/view/4480192348/) — Inizio Engage
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-11-28
+
+### [Virtual Sales Representative - Sleep - Remote](https://www.linkedin.com/jobs/view/4470062070/) — EVERSANA
+- 📍 **Location:** Atlanta, GA
+- 💰 **Salary:** $95,000.00/yr - $115,000.00/yr
+- 🕒 **Posted:** 2026-11-28
+
+### [Clinical Sales Representative](https://www.linkedin.com/jobs/view/4488480025/) — Intuitive
 - 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-11-28
 
-### [Consumer Insights & Behavioral Research Analyst (Spring 2027)](https://www.linkedin.com/jobs/view/4496004543/) — Buddy
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-11-28
-
-### [Account Manager - MSS](https://www.linkedin.com/jobs/view/4496029029/) — Applied Maintenance Supplies & Solutions
-- 📍 **Location:** Joliet, IL
-- 🕒 **Posted:** 2026-11-28
-
-### [North America OEM Account Manager](https://www.linkedin.com/jobs/view/4496019417/) — 美国TSI集团中国公司
+### [Legal Operations Specialist (Remote)](https://www.linkedin.com/jobs/view/4486288177/) — Axiom
 - 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-11-28
